@@ -1,74 +1,124 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="uz">
 <head>
-	<meta charset="UTF-8">
-	<title>Instagram Login Page</title>
-	<link rel="stylesheet" href="styles.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trading jurnali</title>
+<style>
+  :root { --g:#16a34a; --r:#dc2626; --gbg:#dcfce7; --rbg:#fee2e2; --bg:#f3f4f6; --card:#fff; --tx:#111827; --mut:#6b7280; --bd:#e5e7eb; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif; background:var(--bg); color:var(--tx); }
+  .wrap { max-width:640px; margin:0 auto; padding:12px; }
+  h1 { font-size:20px; margin:4px 0 12px; }
+  .summary { background:var(--card); border-radius:12px; padding:12px; box-shadow:0 1px 4px rgba(0,0,0,.1); position:sticky; top:0; z-index:5; }
+  .grid { display:grid; grid-template-columns:repeat(2,1fr); gap:8px; }
+  .box { background:var(--bg); border-radius:8px; padding:8px 10px; }
+  .box .l { font-size:12px; color:var(--mut); }
+  .box .v { font-size:22px; font-weight:700; }
+  .green { color:var(--g); } .red { color:var(--r); }
+  .net { grid-column:1/-1; text-align:center; padding:10px; }
+  .net .v { font-size:32px; }
+  .row-actions { display:flex; justify-content:flex-end; margin:10px 0; }
+  button { background:var(--r); color:#fff; border:0; border-radius:8px; padding:10px 16px; font-size:15px; cursor:pointer; }
+  table { width:100%; border-collapse:collapse; background:var(--card); border-radius:12px; overflow:hidden; box-shadow:0 1px 4px rgba(0,0,0,.1); }
+  th { background:#1f2937; color:#fff; padding:10px 6px; font-size:14px; position:sticky; top:0; }
+  td { padding:6px; text-align:center; border-bottom:1px solid var(--bd); }
+  td:first-child { color:var(--mut); width:15%; }
+  input[type=checkbox] { width:26px; height:26px; cursor:pointer; }
+  input.pips { width:100%; max-width:140px; padding:8px; font-size:16px; border:1px solid #d1d5db; border-radius:8px; text-align:center; }
+  tr.tp { background:var(--gbg); } tr.sl { background:var(--rbg); }
+</style>
 </head>
 <body>
-
-<div class="wrapper">
-	<div class="header">
-		<div class="top">
-			<div class="logo">
-				<img src="instagram.png" alt="instagram">
-			</div>
-			<div class="form">
-				<div class="input_field">
-					<input type="text" placeholder="Phone number, username, or email" class="input">
-				</div>
-				<div class="input_field">
-					<input type="password" placeholder="Password" class="input">
-				</div>
-				<div class="btn"><a href="#">Log In</a></div>
-			</div>
-			<div class="or">
-				<div class="line"></div>
-				<p>OR</p>
-				<div class="line"></div>
-			</div>
-			<div class="dif">
-				<div class="fb">
-					<img src="facebook.png" alt="facebook">
-					<p>Log in with Facebook</p>
-				</div>
-				<div class="forgot">
-					<a href="#">Forgot password?</a>
-				</div>
-			</div>
-		</div>
-		<div class="signup">
-			<p>Don't have an account? <a href="#">Sign up</a></p>
-		</div>
-		<div class="apps">
-			<p>Get the app.</p>
-			<div class="icons">
-				<a href="#"><img src="appstore.png" alt="appstore"></a>
-				<a href="#"><img src="googleplay.png" alt="googleplay"></a>
-			</div>
-		</div>
-	</div>
-	<div class="footer">
-		<div class="links">
-			<ul>
-				<li><a href="#">ABOUT US</a></li>
-				<li><a href="#">SUPPORT</a></li>
-				<li><a href="#">PRESS</a></li>
-				<li><a href="#">API</a></li>
-				<li><a href="#">JOBS</a></li>
-				<li><a href="#">PRIVACY</a></li>
-				<li><a href="#">TERMS</a></li>
-				<li><a href="#">DIRECTORY</a></li>
-				<li><a href="#">PROFILES</a></li>
-				<li><a href="#">HASHTAGS</a></li>
-				<li><a href="#">LANGUAGE</a></li>
-			</ul>
-		</div>
-		<div class="copyright">
-			© 2019 INSTAGRAM
-		</div>
-	</div>
+<div class="wrap">
+  <h1>📈 Trading natijalari</h1>
+  <div class="summary">
+    <div class="grid">
+      <div class="box"><div class="l">TP soni</div><div class="v green" id="tpCount">0</div></div>
+      <div class="box"><div class="l">SL soni</div><div class="v red" id="slCount">0</div></div>
+      <div class="box"><div class="l">Jami TP pips</div><div class="v green" id="tpPips">0</div></div>
+      <div class="box"><div class="l">Jami SL pips</div><div class="v red" id="slPips">0</div></div>
+      <div class="box net"><div class="l">Sof natija</div><div class="v" id="net">0 pips</div></div>
+      <div class="box net"><div class="l">Win rate</div><div class="v" id="wr">0%</div></div>
+    </div>
+  </div>
+  <div class="row-actions"><button id="clear">Tozalash</button></div>
+  <table>
+    <thead><tr><th>№</th><th>TP</th><th>SL</th><th>Pips</th></tr></thead>
+    <tbody id="body"></tbody>
+  </table>
 </div>
+<script>
+(function () {
+  var N = 200, KEY = 'tradingJurnal.v1';
+  var data = [];
+  function empty() { var a = []; for (var i = 0; i < N; i++) a.push({ tp: false, sl: false, pips: '' }); return a; }
+  function load() {
+    try {
+      var s = JSON.parse(localStorage.getItem(KEY));
+      if (Array.isArray(s) && s.length === N) return s;
+    } catch (e) {}
+    return empty();
+  }
+  function save() { try { localStorage.setItem(KEY, JSON.stringify(data)); } catch (e) {} }
+  function num(v) { var n = parseFloat(String(v).replace(',', '.')); return isFinite(n) && n > 0 ? n : 0; }
+  function fmt(n) { return String(Math.round(n * 100) / 100); }
 
+  var body = document.getElementById('body'), rows = [];
+  data = load();
+
+  function paintRow(i) {
+    var r = rows[i], d = data[i];
+    r.tr.className = d.tp ? 'tp' : d.sl ? 'sl' : '';
+    r.tp.checked = d.tp; r.sl.checked = d.sl;
+  }
+  function recalc() {
+    var tc = 0, sc = 0, tp = 0, sp = 0;
+    data.forEach(function (d) {
+      if (d.tp) { tc++; tp += num(d.pips); }
+      if (d.sl) { sc++; sp += num(d.pips); }
+    });
+    var net = Math.round((tp - sp) * 100) / 100;
+    document.getElementById('tpCount').textContent = tc;
+    document.getElementById('slCount').textContent = sc;
+    document.getElementById('tpPips').textContent = fmt(tp);
+    document.getElementById('slPips').textContent = fmt(sp);
+    var n = document.getElementById('net');
+    n.textContent = (net > 0 ? '+' : '') + fmt(net) + ' pips';
+    n.className = 'v ' + (net > 0 ? 'green' : net < 0 ? 'red' : '');
+    var tot = tc + sc;
+    document.getElementById('wr').textContent = (tot ? fmt(tc / tot * 100) : 0) + '%';
+  }
+
+  for (var i = 0; i < N; i++) (function (i) {
+    var tr = document.createElement('tr');
+    tr.innerHTML = '<td>' + (i + 1) + '</td><td><input type="checkbox" aria-label="TP"></td>' +
+      '<td><input type="checkbox" aria-label="SL"></td>' +
+      '<td><input class="pips" type="text" inputmode="decimal" placeholder="0" aria-label="Pips"></td>';
+    var c = tr.querySelectorAll('input');
+    rows[i] = { tr: tr, tp: c[0], sl: c[1], pips: c[2] };
+    c[2].value = data[i].pips;
+    c[0].addEventListener('change', function () { data[i].tp = c[0].checked; if (data[i].tp) data[i].sl = false; paintRow(i); save(); recalc(); });
+    c[1].addEventListener('change', function () { data[i].sl = c[1].checked; if (data[i].sl) data[i].tp = false; paintRow(i); save(); recalc(); });
+    c[2].addEventListener('input', function () {
+      var v = c[2].value.replace(',', '.').replace(/[^0-9.]/g, '');
+      var p = v.indexOf('.');
+      if (p >= 0) v = v.slice(0, p + 1) + v.slice(p + 1).replace(/\./g, '');
+      if (v !== c[2].value) c[2].value = v;
+      data[i].pips = v; save(); recalc();
+    });
+    body.appendChild(tr);
+    paintRow(i);
+  })(i);
+
+  document.getElementById('clear').addEventListener('click', function () {
+    if (!confirm("Rostdan o'chirasizmi?")) return;
+    data = empty();
+    rows.forEach(function (r, i) { r.pips.value = ''; paintRow(i); });
+    save(); recalc();
+  });
+  recalc();
+})();
+</script>
 </body>
 </html>
