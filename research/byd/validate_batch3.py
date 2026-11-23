@@ -55,8 +55,11 @@ def run(stage, here, stats):
         n_pg += 1
         if m.group(2) != r["autohome_spec_id"] or m.group(5) != r["autohome_photo_id"] or int(m.group(1)) != series_of_spec.get(r["autohome_spec_id"]): bu.append((r["image_id"], "ids in URL differ", r["source_page_url"]))
         if m.group(3) != CATCODE[r["image_category"]] and not (r["color_facet_id"] and m.group(3) == "1"): bu.append((r["image_id"], "category code in URL", r["source_page_url"]))
-        if r["color_facet_id"] and m.group(4) != r["color_facet_id"]: bu.append((r["image_id"], "colour facet not in URL", r["source_page_url"]))
-        if (not r["color_facet_id"]) and m.group(4) not in (None, "x"): bu.append((r["image_id"], "URL carries a colour but row has none", r["source_page_url"]))
+        if m.group(4) not in (None, "x") and m.group(4) != r["color_facet_id"]: bu.append((r["image_id"], "URL carries a colour that the row does not", r["source_page_url"]))
+        if r["color_facet_id"]:
+            m2 = pat_pg.match(r["color_gallery_photo_page_url"] or "")
+            if not m2 or (m2.group(2), m2.group(4), m2.group(5)) != (r["autohome_spec_id"], r["color_facet_id"], r["autohome_photo_id"]): bu.append((r["image_id"], "colour gallery photo URL disagrees", r["color_gallery_photo_page_url"]))
+            if f"spec-{r['autohome_spec_id']}-{r['color_facet_id']}-1-" not in (r["color_gallery_list_url"] or ""): bu.append((r["image_id"], "colour gallery list URL disagrees", r["color_gallery_list_url"]))
     chk("image URLs well-formed; spec/series/photo/category/colour ids in the source URL agree with the row", not bu, f"{len(bu)} problems, e.g. {bu[:3]}; {n_pg} photo-page URLs parsed")
     chk("required per-image fields present", all(r["image_url"] and r["source_page_url"] and r["image_category"] and r["attribution"] and r["license_status"] and r["collected_at"] and r["autohome_photo_id"] for r in img), "image_url, source_page_url, category, attribution, licence, collected_at")
     # gallery files
@@ -102,13 +105,15 @@ def run(stage, here, stats):
     chk("status counts equal image rows (non-exterior categories)", not mism, f"{len(mism)} mismatches {mism[:3]}")
     failed = [r["autohome_spec_id"] for r in st if r["status"] == "FAILED_RETRY_REQUIRED"]
     chk("no trim left in FAILED_RETRY_REQUIRED (publish gate)", not failed, f"{len(failed)} trims: {failed[:10]}")
-    retried = {m.group(1) for m in (re.search(r"spec-(\d+)-|series-s(\d+)/", u) for u in []) if m}
+    retry_urls = [json.loads(l)["url"] for fn in sorted(os.listdir(os.path.join(here, "raw"))) if re.fullmatch(r"retry_log_\d+\.jsonl", fn) for l in open(os.path.join(here, "raw", fn), encoding="utf-8") if l.strip()]
+    unretried = [r["autohome_spec_id"] for r in st if r["status"] == "PARTIAL" and not any(re.search(r"(?:series-s|spec-)%s\b" % r["autohome_spec_id"], u) for u in retry_urls)]
+    chk("every PARTIAL trim was re-fetched at least once (retry log has its URLs)", not unretried, f"{sum(1 for r in st if r['status']=='PARTIAL')} PARTIAL trims; not retried: {unretried}")
     # previous datasets untouched
-    existing = {f for f in os.listdir(here) if os.path.isfile(os.path.join(here, f))}
+    tracked = set(subprocess.run(["git", "-C", here, "ls-files", "--", "."], capture_output=True, text=True).stdout.split())
+    existing = {f for f in os.listdir(here) if os.path.isfile(os.path.join(here, f)) and f in tracked}
     staged = set(os.listdir(stage)) - {"validation_report_batch3.md", "image_verification_report.md"}
-    chk("no staged file overwrites an existing dataset file", not (staged & existing - {"image_stats.json"}) or True, f"collisions: {sorted(staged & existing)}")
     coll = sorted(staged & existing)
-    R[-1] = ("no staged file overwrites an existing dataset file", not coll, f"collisions: {coll}", True)
+    chk("no staged file overwrites an existing dataset file", not coll, f"collisions: {coll}")
     gs = subprocess.run(["git", "-C", here, "status", "--porcelain", "--", "."], capture_output=True, text=True).stdout.splitlines()
     changed = [l for l in gs if l[:2].strip() and not l.startswith("??") and "build_batch3" not in l and "validate_batch3" not in l and "/raw/" not in l.replace(here, "") and not l.endswith("raw/")]
     changed = [l for l in changed if not re.search(r"raw/", l)]

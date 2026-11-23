@@ -1,0 +1,9 @@
+{
+ "collection_window_utc": {
+  "start": "2026-11-23T16:07:53Z",
+  "end": "2026-11-23T16:33:34Z"
+ },
+ "note": "Run-level window of the main harvest (started 16:07:53Z; stopped once and resumed with interior-colour galleries disabled). Retry rounds carry exact per-request UTC times in retry_log_N.jsonl.",
+ "logo_collection_utc": "2026-11-23 (time of day not recorded)",
+ "pipeline_finished_utc": "2026-11-23T16:34:23Z"
+}

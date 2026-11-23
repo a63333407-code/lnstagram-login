@@ -52,6 +52,7 @@ infoboxes = json.load(open(os.path.join(RAWD, "wikipedia_infoboxes.json"), encod
 logos = json.load(open(os.path.join(RAWD, "brand_logos_wikipedia.json"), encoding="utf-8"))
 review = json.load(open(os.path.join(RAWD, "view_review_sample.json"), encoding="utf-8"))
 RUN = json.load(open(os.path.join(RAWD, "harvest_run.json"), encoding="utf-8"))
+EMPTY = {(r["spec_id"], r["kind"]): r for r in jl(os.path.join(RAWD, "empty_category_checks.jsonl"))}
 
 # ------------------------------------------------------------------ load harvest records (+ retry supersession)
 main_path = os.path.join(RAWD, "autohome_images.jsonl.gz")
@@ -106,7 +107,7 @@ for (spec, cid), lst in members.items():
         if (spec, pid) not in by_key: by_key[(spec, pid)] = dict(r, kind="exterior", also=set(), position=pos)
 gal_of = {}
 for (spec, cid), lst in members.items():
-    for pos, pid, _ in lst: gal_of[(spec, pid)] = (cid, pos, len(lst))
+    for pos, pid, rr in lst: gal_of[(spec, pid)] = (cid, pos, len(lst), rr["list_url"], rr["photo_page_url"])
 colour_name = {}
 for spec, (series, sp, sid) in spec_info.items():
     for c in sp["colors"]: colour_name[(spec, c["color_id"])] = c["name_zh"]
@@ -132,7 +133,7 @@ for r in ordered:
     label = status = None
     if cat == "exterior":
         if g:
-            cid, pos, n = g; res = rev.get((r["spec_id"], cid))
+            cid, pos, n = g[0], g[1], g[2]; res = rev.get((r["spec_id"], cid))
             if (r["spec_id"], cid, pos) in INSPECTED:
                 label, status = INSPECTED[(r["spec_id"], cid, pos)], "MODEL_REVIEWED_NOT_EDITOR_VERIFIED"
             elif res == "irregular": status = "REVIEWED_GALLERY_IRREGULAR_NO_LABEL"
@@ -153,12 +154,14 @@ for r in ordered:
         also_listed_as=";".join(sorted(CAT[x] for x in r["also"] if x in CAT)) or None, gallery_position=r["position"], caption_zh=r.get("alt"),
         view_label=label, view_verification_status=status,
         color_id=cid_f, color_name_zh=colour_name.get((r["spec_id"], g[0])) if g else None, color_facet_id=g[0] if g else None,
-        color_association_basis="photo is in the colour-filtered exterior gallery of this exact trim (Autohome's own colour label)" if g else None,
+        color_association_basis="COLOUR_FILTERED_GALLERY_OF_EXACT_TRIM" if g else None,
+        color_gallery_list_url=g[3] if g else None, color_gallery_photo_page_url=g[4] if g else None,
         image_source_id="IS02" if cat == "official_press" else "IS01", attribution=SRC_ATTR["IS02" if cat == "official_press" else "IS01"]["attribution"],
         license_status="NOT CLEARED", link_status="LINKED_EXACT_TRIM" if t else "UNLINKED_MODEL_UNRESOLVED",
-        year_match_basis=f"listed in the gallery of Autohome spec {r['spec_id']} ({sp['year']} {sp['label']}); gallery is specific to that exact 款型",
-        collected_at=r.get("collected_utc") or f"{COLLECT['start']}/{COLLECT['end']} (run-level window; per-image time not recorded)"))
-VCOLS = ["image_id","image_url","image_url_kind","source_page_url","gallery_list_url","autohome_photo_id","autohome_spec_id","vehicle_id","generation_id","model_year","model_year_id","trim_id","image_category","also_listed_as","gallery_position","caption_zh","view_label","view_verification_status","color_id","color_name_zh","color_facet_id","color_association_basis","image_source_id","attribution","license_status","link_status","year_match_basis","collected_at"]
+        year_match_basis="EXACT_TRIM_GALLERY",
+        collected_at=r.get("collected_utc") or f"{COLLECT['start']}/{COLLECT['end']}",
+        collected_at_precision="per-request UTC" if r.get("collected_utc") else "run-level window (per-image time not recorded)"))
+VCOLS = ["image_id","image_url","image_url_kind","source_page_url","gallery_list_url","autohome_photo_id","autohome_spec_id","vehicle_id","generation_id","model_year","model_year_id","trim_id","image_category","also_listed_as","gallery_position","caption_zh","view_label","view_verification_status","color_id","color_name_zh","color_facet_id","color_association_basis","color_gallery_list_url","color_gallery_photo_page_url","image_source_id","attribution","license_status","link_status","year_match_basis","collected_at","collected_at_precision"]
 w("vehicle_images.csv", vimg, VCOLS)
 w("exterior_images.csv", ext, ["image_id","view_label","view_verification_status","view_basis","colour_gallery_facet_id","colour_gallery_position","colour_gallery_size"])
 AREA = {"interior_cockpit": "dashboard / steering wheel / centre console area (Autohome category 中控方向盘; not subdivided by the source)",
@@ -185,7 +188,7 @@ for spec, (series, sp, sid) in spec_info.items():
 for v in vimg:
     if v["color_facet_id"] and v["trim_id"]:
         vci.append(dict(image_id=v["image_id"], color_id=v["color_id"], trim_id=v["trim_id"], model_year_id=v["model_year_id"], autohome_facet_id=v["color_facet_id"],
-                        color_name_zh=v["color_name_zh"], gallery_position=v["gallery_position"], link_basis=v["color_association_basis"],
+                        color_name_zh=v["color_name_zh"], gallery_position=v["gallery_position"], link_basis="photo is in the colour-filtered exterior gallery of this exact trim (Autohome's own colour label)", evidence_url=v["color_gallery_list_url"],
                         colour_status="GALLERY_CLASSIFIED (Autohome's own colour label; swatch-vs-photo agreement not machine-checked)"))
 seen_sw = set()
 for spec, d in inner_colors.items():
@@ -200,7 +203,7 @@ for spec, d in inner_colors.items():
                                  name_zh=f["name_zh"], name_en=None, autohome_facet_id=f["facet_id"], hex=f["hex"], hex_basis="swatch colour supplied by Autohome's interior-colour facet; not a material specification",
                                  gallery_photos=f["photos"], evidence_url=f"https://car.autohome.com.cn/pic/series-s{spec}/{sid}-{10 if area == 'cockpit' else 3}.html", source_id=ssrc[series], verification_status="SOURCE_SUPPLIED_NOT_VERIFIED"))
 w("color_swatches.csv", swatches, ["swatch_id","swatch_kind","color_id","trim_id","model_year_id","model_id","generation_id","name_zh","name_en","autohome_facet_id","hex","hex_basis","gallery_photos","evidence_url","source_id","verification_status"])
-w("vehicle_color_images.csv", vci, ["image_id","color_id","trim_id","model_year_id","autohome_facet_id","color_name_zh","gallery_position","link_basis","colour_status"])
+w("vehicle_color_images.csv", vci, ["image_id","color_id","trim_id","model_year_id","autohome_facet_id","color_name_zh","gallery_position","link_basis","evidence_url","colour_status"])
 
 # ------------------------------------------------------------------ logos / dimensions / identification
 LOGO_FOR = {"BYD Company, Ltd. - Logo.svg": ("B1", "BYD Group (parent)"), "BYD Auto 2022 logo.svg": ("B2", "BYD"), "Denza Logo.svg": ("B3", "Denza"),
@@ -261,8 +264,15 @@ for spec, (series, sp, sid) in sorted(spec_info.items(), key=lambda kv: int(kv[0
     if "error" in e or not e: issues.append("landing page (expected counts) not retrieved")
     for kind, key in CATKEY.items():
         exp = e.get(kind); got = len(have.get((spec, kind, key), ()))
+        chk = EMPTY.get((spec, kind)); confirmed_empty = False
+        if exp is None and chk and chk["outcome"] == "confirmed_empty_redirect" and got == 0:
+            exp = 0; confirmed_empty = True
         per[kind] = (exp, got); got_tot += got
-        if exp is None: issues.append(f"{kind}: expected count not parsed")
+        if exp is None: issues.append(f"{kind}: tab absent on landing page and not confirmed empty")
+        elif confirmed_empty:
+            exp_tot += 0
+            missing.append(dict(scope="trim_category", subject=f"spec {spec} {sp['year']} {sp['label']}", category=kind, expected=0, harvested=0,
+                                reason=f"confirmed empty: tab absent on landing page and list URL returned HTTP {chk['http']} redirect to the trim landing page ({chk['utc']}); a redirect is NOT counted as a harvest", trim_id=t["trim_id"] if t else None))
         else:
             exp_tot += exp
             if exp != got:
@@ -302,16 +312,28 @@ for lbl, why in [("exterior view labels", "front/rear/left/right/3-4 labels are 
     missing.append(dict(scope="global", subject="all images", category=lbl, expected=None, harvested=None, reason=why, trim_id=None))
 w("missing_images_report.csv", missing, ["scope","subject","category","expected","harvested","reason","trim_id"])
 
-# failed requests report
-fails = []
+# failed requests report: every non-OK request, classified (a redirect to a photo-less page is NOT a failure and NOT a success)
+fails = []; unexplained = 0
 for e in main_errors:
-    fin = superseded.get((e["spec_id"], e["kind"], e["key"]))
-    fails.append(dict(source="main harvest", utc=None, spec_id=e["spec_id"], list_kind=e["kind"], url=e["url"], http=None, outcome="fetch_failed (page <3000 bytes or curl error; HTTP code not recorded in main run)",
-                      final_disposition=(f"re-fetched in retry pass: {fin}" if fin else "list not re-fetched (counts matched the source's own totals, so nothing was missing)")))
+    chk = EMPTY.get((e["spec_id"], e["kind"])); fin = superseded.get((e["spec_id"], e["kind"], e["key"]))
+    if chk and chk["outcome"] == "confirmed_empty_redirect":
+        fails.append(dict(source="main harvest", utc=chk["utc"], spec_id=e["spec_id"], list_kind=e["kind"], url=e["url"], http=chk["http"],
+                          outcome="redirect_no_photos", classification="NOT_A_FAILURE_CATEGORY_EMPTY",
+                          final_disposition="Autohome redirects (HTTP 302) to the trim landing page when a category has no photos; confirmed by empty_category_checks.jsonl; NOT counted as a harvest"))
+    else:
+        unexplained += 1
+        fails.append(dict(source="main harvest", utc=None, spec_id=e["spec_id"], list_kind=e["kind"], url=e["url"], http=None, outcome="fetch_failed",
+                          classification="UNEXPLAINED_FAILURE", final_disposition=(f"re-fetched in retry pass: {fin}" if fin else "NOT RE-FETCHED")))
+ok_urls = {r["url"] for r in retry_log if r["outcome"] == "ok"}
 for r in retry_log:
     if r["outcome"] != "ok":
-        fails.append(dict(source="retry pass", utc=r["utc"], spec_id=None, list_kind=None, url=r["url"], http=r["http"], outcome=r["outcome"], final_disposition=f"attempt {r['attempt']} of 3"))
-w("failed_requests_report.csv", fails, ["source","utc","spec_id","list_kind","url","http","outcome","final_disposition"])
+        rec = r["url"] in ok_urls
+        fails.append(dict(source="retry pass", utc=r["utc"], spec_id=None, list_kind=None, url=r["url"], http=r["http"], outcome=r["outcome"],
+                          classification="GENUINE_NETWORK_FAILURE_RECOVERED" if rec else "GENUINE_FAILURE_UNRESOLVED",
+                          final_disposition=(f"curl rc={r['curl_rc']}, no HTTP response (attempt {r['attempt']}); a later attempt on the same URL succeeded" if rec else "no later attempt succeeded")))
+for k, st_ in superseded.items():
+    pass
+w("failed_requests_report.csv", fails, ["source","utc","spec_id","list_kind","url","http","outcome","classification","final_disposition"])
 
 # ------------------------------------------------------------------ coverage
 by_model = collections.defaultdict(collections.Counter)
@@ -327,7 +349,7 @@ tot = collections.Counter(v["image_category"] for v in vimg)
 stats = dict(trim_status=dict(STAT), specs=len(spec_info), images=len(vimg), by_category=dict(tot), linked_exact_trim=sum(1 for v in vimg if v["link_status"] == "LINKED_EXACT_TRIM"),
              unlinked=sum(1 for v in vimg if v["link_status"] != "LINKED_EXACT_TRIM"), colour_associated_images=len(vci), exterior_swatches=sum(1 for s in swatches if s["swatch_kind"] == "exterior"),
              interior_swatches=sum(1 for s in swatches if s["swatch_kind"] == "interior"), view_status=dict(n_view), logos=len(logo_rows), dimension_rows=len(dims),
-             main_run_errors=len(main_errors), retry_requests=len(retry_log), retry_failed_requests=sum(1 for r in retry_log if r["outcome"] == "failed"), missing_rows=len(missing),
+             main_run_errors=len(main_errors), main_run_errors_unexplained=unexplained, main_run_errors_confirmed_empty=len(main_errors)-unexplained, retry_requests=len(retry_log), retry_failed_requests=sum(1 for r in retry_log if r["outcome"] == "failed"), missing_rows=len(missing),
              models_harvested=sum(1 for c in cov if c["status"] == "HARVESTED"), models_total=len(cov), collection_window_utc=COLLECT)
 json.dump(stats, open(os.path.join(STAGE, "image_stats.json"), "w"), indent=1)
 

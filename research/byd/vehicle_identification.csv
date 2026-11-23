@@ -1,0 +1,313 @@
+trim_id,brand_name,brand_logo_id,model_key,model_name_zh,generation,year,trim_name_zh,autohome_spec_id,spec_kind,body_type,body_style_text,doors,doors_source_id,dimension_id,production_start_text,production_end_text
+T0001,BYD,LG02,Seal,海豹,Seal,2025,510标准版,69392,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0002,BYD,LG02,Seal,海豹,Seal,2025,650长续航版,69345,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0003,BYD,LG02,Seal,海豹,Seal,2025,650智驾版,69393,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0004,BYD,LG02,Seal,海豹,Seal,2025,600四驱智驾版,69394,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0005,BYD,LG02,Seal,海豹,Seal,2025,510智航版,71663,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0006,BYD,LG02,Seal,海豹,Seal,2025,650智航版,71664,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0007,BYD,LG02,Seal,海豹,Seal,2025,改款 650智驾版,71665,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0008,BYD,LG02,Seal,海豹,Seal,2025,改款 600四驱智驾版,71666,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0009,BYD,LG02,Seal,海豹,Seal,2025,中国香港车展版,73399,hk_auto_show,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0010,BYD,LG02,Seal 07 DM-i,海豹07 DM-i,Seal 07 DM-i,2024,荣耀版 DM-i 1.5L 121km 精英型,66925,standard,Sedan,,,,,,
+T0011,BYD,LG02,Seal 07 DM-i,海豹07 DM-i,Seal 07 DM-i,2024,荣耀版 DM-i 1.5L 121km 豪华型,66926,standard,Sedan,,,,,,
+T0012,BYD,LG02,Seal 07 DM-i,海豹07 DM-i,Seal 07 DM-i,2024,荣耀版 DM-i 1.5L 121km 尊贵型,66927,standard,Sedan,,,,,,
+T0013,BYD,LG02,Seal 07 DM-i,海豹07 DM-i,Seal 07 DM-i,2024,荣耀版 DM-i 1.5T 121km 尊荣型,66928,standard,Sedan,,,,,,
+T0014,BYD,LG02,Seal 07 DM-i,海豹07 DM-i,Seal 07 DM-i,2024,荣耀版 DM-i 1.5T 121km 旗舰型,66929,standard,Sedan,,,,,,
+T0015,BYD,LG02,Seal 07 DM-i,海豹07 DM-i,Seal 07 DM-i,2024,荣耀版 DM-i 1.5T 200km 旗舰型,66930,standard,Sedan,,,,,,
+T0016,BYD,LG02,Seal,海豹,Seal,2024,荣耀版 550km 精英型,67380,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0017,BYD,LG02,Seal,海豹,Seal,2024,荣耀版 550km 尊贵型,67381,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0018,BYD,LG02,Seal,海豹,Seal,2024,荣耀版 700km 尊贵型,67382,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0019,BYD,LG02,Seal,海豹,Seal,2024,荣耀版 700km 性能版,67383,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0020,BYD,LG02,Seal 07 DM-i,海豹07 DM-i,Seal 07 DM-i,2023,DM-i 试装车,63858,pre_production_trial_fit,Sedan,,,,,,
+T0021,BYD,LG02,Seal 07 DM-i,海豹07 DM-i,Seal 07 DM-i,2023,DM-i 1.5L 121km 精英型,60594,standard,Sedan,,,,,,
+T0022,BYD,LG02,Seal 07 DM-i,海豹07 DM-i,Seal 07 DM-i,2023,DM-i 1.5L 121km 豪华型,64468,standard,Sedan,,,,,,
+T0023,BYD,LG02,Seal 07 DM-i,海豹07 DM-i,Seal 07 DM-i,2023,DM-i 1.5L 121km 尊贵型,64469,standard,Sedan,,,,,,
+T0024,BYD,LG02,Seal 07 DM-i,海豹07 DM-i,Seal 07 DM-i,2023,DM-i 1.5T 121km 尊荣型,64470,standard,Sedan,,,,,,
+T0025,BYD,LG02,Seal 07 DM-i,海豹07 DM-i,Seal 07 DM-i,2023,DM-i 1.5T 121km 旗舰型,62757,standard,Sedan,,,,,,
+T0026,BYD,LG02,Seal 07 DM-i,海豹07 DM-i,Seal 07 DM-i,2023,DM-i 1.5T 200km 旗舰型,62660,standard,Sedan,,,,,,
+T0027,BYD,LG02,Seal,海豹,Seal,2023,欧洲版,64622,europe_export_spec,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0028,BYD,LG02,Seal,海豹,Seal,2023,冠军版 550km 精英型,63032,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0029,BYD,LG02,Seal,海豹,Seal,2023,冠军版 550km 尊贵型,63033,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0030,BYD,LG02,Seal,海豹,Seal,2023,冠军版 700km 尊贵型,63034,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0031,BYD,LG02,Seal,海豹,Seal,2023,冠军版 700km 性能版,63035,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0032,BYD,LG02,Seal,海豹,Seal,2023,冠军版 650km 四驱性能版,63036,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0033,BYD,LG02,Seal,海豹,Seal,2022,550km 标准续航后驱版精英型,56592,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0034,BYD,LG02,Seal,海豹,Seal,2022,550km 标准续航后驱版尊贵型,57090,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0035,BYD,LG02,Seal,海豹,Seal,2022,700km 长续航后驱版,55916,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0036,BYD,LG02,Seal,海豹,Seal,2022,650km 四驱性能版,56593,standard,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0037,BYD,LG02,Seal,海豹,Seal,2022,EV 试装车,57740,pre_production_trial_fit,Sedan,mid-size fastback sedan (4-door),4,S36,DM001,August 2022 (China),2026 (China); export 2023-present
+T0038,BYD,LG02,Dolphin,海豚,Dolphin,2024,荣耀版 302km 活力版,66812,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0039,BYD,LG02,Dolphin,海豚,Dolphin,2024,荣耀版 420km 自由版,66576,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0040,BYD,LG02,Dolphin,海豚,Dolphin,2024,荣耀版 420km 时尚版,66577,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0041,BYD,LG02,Dolphin,海豚,Dolphin,2024,荣耀版 401km 骑士版,66578,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0042,BYD,LG02,Dolphin,海豚,Dolphin,2023,420km 自由版,61094,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0043,BYD,LG02,Dolphin,海豚,Dolphin,2023,420km 时尚版,61095,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0044,BYD,LG02,Dolphin,海豚,Dolphin,2023,50万纪念版Pro,64908,special_edition,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0045,BYD,LG02,Dolphin,海豚,Dolphin,2023,401km 骑士版,61096,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0046,BYD,LG02,Dolphin,海豚,Dolphin,2023,50万纪念版Plus,64976,special_edition,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0047,BYD,LG02,Dolphin,海豚,Dolphin,2021,405km 自由版,52655,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0048,BYD,LG02,Dolphin,海豚,Dolphin,2021,405km 时尚版,51852,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0049,BYD,LG02,Dolphin,海豚,Dolphin,2021,401km 骑士版,52656,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0050,BYD,LG02,Dolphin,海豚,Dolphin,2021,eStarPro共创联名版,54583,special_edition,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0051,BYD,LG02,Dolphin,海豚,Dolphin,2026,基本型,76225,placeholder_few_photos,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0052,BYD,LG02,Dolphin,海豚,Dolphin,2025,420km 活力版,69004,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0053,BYD,LG02,Dolphin,海豚,Dolphin,2025,420km 自由版,69005,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0054,BYD,LG02,Dolphin,海豚,Dolphin,2025,420km 时尚版,69006,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0055,BYD,LG02,Dolphin,海豚,Dolphin,2025,520km 骑士版,66316,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0056,BYD,LG02,Dolphin,海豚,Dolphin,2025,智驾版 420km 自由版,71048,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0057,BYD,LG02,Dolphin,海豚,Dolphin,2025,智驾版 410km 时尚版,71049,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0058,BYD,LG02,Dolphin,海豚,Dolphin,2025,智驾版 520km 骑士版,71050,standard,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0059,BYD,LG02,Dolphin,海豚,Dolphin,2025,中国香港车展版,73405,hk_auto_show,Hatchback,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",5,S37,DM002,August 2021,
+T0060,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2025,智驾版 305km 活力版,71690,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0061,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2025,智驾版 305km 自由版,71691,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0062,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2025,智驾版 405km 自在版,73635,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0063,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2025,305km 活力版,69068,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0064,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2025,305km 自由版,69069,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0065,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2025,405km 飞翔版,69070,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0066,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2025,智驾版 405km 飞翔版,71065,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0067,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2025,欧洲版,74736,europe_export_spec,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0068,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2024,荣耀版 305km 活力版,67024,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0069,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2024,荣耀版 305km 自由版,67025,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0070,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2024,荣耀版 405km 飞翔版,67026,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0071,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2023,活力版,62495,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0072,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2023,自由版,62496,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0073,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2023,飞翔版,57341,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0074,BYD,LG02,Seagull,海鸥,Seagull (2nd gen),2027,320KM 活力版,79549,standard,City car / kei,"hatchback, 5-seat (door count not separately stated)",,,DM004,October 2026,
+T0075,BYD,LG02,Seagull,海鸥,Seagull (2nd gen),2027,320KM 自由版,79550,standard,City car / kei,"hatchback, 5-seat (door count not separately stated)",,,DM004,October 2026,
+T0076,BYD,LG02,Seagull,海鸥,Seagull (2nd gen),2027,420KM 自在版,78508,standard,City car / kei,"hatchback, 5-seat (door count not separately stated)",,,DM004,October 2026,
+T0077,BYD,LG02,Seagull,海鸥,Seagull (2nd gen),2027,420KM 飞翔版,79267,standard,City car / kei,"hatchback, 5-seat (door count not separately stated)",,,DM004,October 2026,
+T0078,BYD,LG02,Seagull,海鸥,Seagull (2nd gen),2027,420KM 智趣版,79268,standard,City car / kei,"hatchback, 5-seat (door count not separately stated)",,,DM004,October 2026,
+T0079,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2026,305km 活力版,77748,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0080,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2026,305km 自由版,77717,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0081,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2026,405km 自在版,77718,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0082,BYD,LG02,Seagull,海鸥,Seagull (1st gen),2026,405km 飞翔版,77749,standard,City car / kei,"5-door hatchback (4-seat), city car",5,S38,DM003,April 2023,2026 (China)
+T0083,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2024,荣耀版 430KM 领先型,66988,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0084,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2024,荣耀版 430KM 超越型,66989,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0085,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2024,荣耀版 510KM 领先型,66990,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0086,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2024,荣耀版 510KM 超越型,66991,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0087,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2024,荣耀版 510KM 卓越型,66992,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0088,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2023,ATTO 3 欧洲版,60131,europe_export_spec,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0089,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2023,冠军版 430KM 领先型,64814,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0090,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2023,冠军版 430KM 超越型,64721,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0091,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2023,冠军版 510KM 领先型,64802,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0092,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2023,冠军版 510KM 超越型,64719,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0093,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2023,冠军版 510KM 卓越型,64720,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0094,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2022,430KM 豪华型,55069,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0095,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2022,430KM 尊贵型,54409,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0096,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2022,510KM 尊荣型,55071,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0097,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2022,510KM 旗舰型,52183,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0098,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2022,510KM 旗舰型PLUS,55070,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0099,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2022,试装车,54427,pre_production_trial_fit,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0100,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (2nd gen),2026,540KM 领先型,75165,standard,SUV / crossover,compact crossover SUV,,,,2026,
+T0101,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (2nd gen),2026,540KM 超越型,77914,standard,SUV / crossover,compact crossover SUV,,,,2026,
+T0102,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (2nd gen),2026,630KM 超越型,77869,standard,SUV / crossover,compact crossover SUV,,,,2026,
+T0103,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (2nd gen),2026,630KM 卓越型,76816,standard,SUV / crossover,compact crossover SUV,,,,2026,
+T0104,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2025,智驾版 430KM 领先型,72031,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0105,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2025,智驾版 430KM 超越型,71427,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0106,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2025,智驾版 510KM 领先型,71817,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0107,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2025,智驾版 510KM 超越型,71852,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0108,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2025,智驾版 510KM 卓越型,71918,standard,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0109,BYD,LG02,Yuan Plus,元PLUS,Yuan Plus (1st gen),2025,中国香港车展版,73409,hk_auto_show,SUV / crossover,5-door compact crossover SUV (C-segment),5,S40,DM006,January 2022,
+T0110,BYD,LG02,Han EV,汉EV,Han EV,2025,EV 智驾版 701KM尊荣型,71623,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0111,BYD,LG02,Han EV,汉EV,Han EV,2025,EV 智驾版 701KM激光雷达尊享型,71703,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0112,BYD,LG02,Han EV,汉EV,Han EV,2025,EV 智驾版 701KM激光雷达旗舰型,71704,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0113,BYD,LG02,Han EV,汉EV,Han EV,2025,EV 506KM尊贵型,69142,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0114,BYD,LG02,Han EV,汉EV,Han EV,2025,EV 605KM尊贵型,69813,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0115,BYD,LG02,Han EV,汉EV,Han EV,2025,EV 701KM尊享型,69814,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0116,BYD,LG02,Han EV,汉EV,Han EV,2025,EV 701KM激光雷达智驾型,69802,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0117,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 125KM舒适型,69815,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0118,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 125KM精英型,69143,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0119,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 125KM尊贵型,69816,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0120,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 125KM尊荣型,69817,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0121,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 125KM激光雷达智驾型,69144,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0122,BYD,LG02,Han EV,汉EV,Han EV,2024,EV 荣耀版 506KM前驱尊贵型,66902,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0123,BYD,LG02,Han EV,汉EV,Han EV,2024,EV 荣耀版 605KM前驱尊贵型,66903,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0124,BYD,LG02,Han EV,汉EV,Han EV,2024,EV 荣耀版 715KM前驱旗舰型,66774,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0125,BYD,LG02,Han EV,汉EV,Han EV,2024,EV 荣耀版 610KM四驱天神之眼智驾型,66905,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0126,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2024,DM-i 荣耀版 121KM 精英型,66906,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0127,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2024,DM-i 荣耀版 121KM 尊贵型,66753,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0128,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2024,DM-i 荣耀版 121KM 尊荣型,66907,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0129,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2024,DM-i 荣耀版 121KM 尊享型,66773,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0130,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2024,DM-i 荣耀版 200KM 旗舰型,66908,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0131,BYD,LG02,Han DM-p,,Han DM-p,2024,DM-p 战神版,66909,special_edition,Sedan,4-door full-size sedan,4,S42,DM012,April 2022,
+T0132,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2024,DM-i 121KM领航荣耀版,67270,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0133,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2023,DM-i 冠军版 121KM 精英型,63138,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0134,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2023,DM-i 冠军版 121KM 尊贵型,63137,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0135,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2023,DM-i 冠军版 121KM 尊荣型,63136,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0136,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2023,DM-i 冠军版 121KM 尊享型,63070,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0137,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2023,DM-i 冠军版 200KM 尊享型,63139,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0138,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2023,DM-i 冠军版 200KM 旗舰型,63071,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0139,BYD,LG02,Han DM-p,,Han DM-p,2023,DM-p 战神版,63087,special_edition,Sedan,4-door full-size sedan,4,S42,DM012,April 2022,
+T0140,BYD,LG02,Han EV,汉EV,Han EV,2023,EV 冠军版 506KM前驱尊贵型,61824,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0141,BYD,LG02,Han EV,汉EV,Han EV,2023,EV 冠军版 605KM前驱尊贵型,61410,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0142,BYD,LG02,Han EV,汉EV,Han EV,2023,EV 冠军版 715KM前驱尊荣型,61763,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0143,BYD,LG02,Han EV,汉EV,Han EV,2023,EV 欧洲版,60128,europe_export_spec,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0144,BYD,LG02,Han EV,汉EV,Han EV,2023,EV 冠军版 715KM前驱旗舰型,61823,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0145,BYD,LG02,Han EV,汉EV,Han EV,2023,EV 冠军版 610KM四驱旗舰型,61825,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0146,BYD,LG02,Han EV,汉EV,Han EV,2022,EV 创世版 715KM前驱尊荣型,56566,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0147,BYD,LG02,Han EV,汉EV,Han EV,2022,EV 创世版 715KM前驱旗舰型,56542,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0148,BYD,LG02,Han EV,汉EV,Han EV,2022,EV 创世版 610KM四驱尊享型,56451,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0149,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2022,DM-i 121KM 尊贵型,56153,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0150,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2022,DM-i 121KM 尊荣型,56152,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0151,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2022,DM-i 121KM 尊享型,55313,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0152,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2022,DM-i 242KM 旗舰型,56151,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0153,BYD,LG02,Han DM-p,,Han DM-p,2022,DM-p 202KM 四驱旗舰型,55886,standard,Sedan,4-door full-size sedan,4,S42,DM012,April 2022,
+T0154,BYD,LG02,Han EV,汉EV,Han EV,2022,EV 610KM四驱千山翠限量版,56567,special_edition,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0155,BYD,LG02,Han DM,,Han DM,2021,DM 国漫版,53010,special_edition,Sedan,4-door full-size sedan,4,S42,DM011,July 2020,2021
+T0156,BYD,LG02,Han EV,汉EV,Han EV,2021,EV 苏州园林定制版,50310,special_edition,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0157,BYD,LG02,Han EV,汉EV,Han EV,2021,EV 标准续航版豪华型,52453,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0158,BYD,LG02,Han EV,汉EV,Han EV,2020,EV 超长续航版尊贵型,45620,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0159,BYD,LG02,Han EV,汉EV,Han EV,2020,EV 四驱高性能版旗舰型,42643,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0160,BYD,LG02,Han DM,,Han DM,2020,DM 四驱性能版豪华型,43481,standard,Sedan,4-door full-size sedan,4,S42,DM011,July 2020,2021
+T0161,BYD,LG02,Han DM,,Han DM,2020,DM 四驱性能版尊贵型,46953,standard,Sedan,4-door full-size sedan,4,S42,DM011,July 2020,2021
+T0162,BYD,LG02,Han EV,汉EV,Han EV,2020,EV 超长续航版豪华型,45619,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0163,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2027,DM-i 基本型,79516,placeholder_few_photos,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0164,BYD,LG02,Han EV,汉EV,Han EV,2026,EV 智驾版 705KM闪充尊贵型,77297,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0165,BYD,LG02,Han EV,汉EV,Han EV,2026,EV 智驾版 705KM闪充尊荣型,77668,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0166,BYD,LG02,Han EV,汉EV,Han EV,2025,EV 智驾版 506KM尊贵型,71535,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0167,BYD,LG02,Han EV,汉EV,Han EV,2025,EV 智驾版 605KM尊荣型,71591,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0168,BYD,LG02,Han EV,汉EV,Han EV,2025,EV 智驾版 635KM旗舰版,75061,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0169,BYD,LG02,Han EV,汉EV,Han EV,2025,EV 智驾版 635KM激光雷达旗舰型,75188,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0170,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 智驾版 125KM舒适型,71705,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0171,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 智驾版 125KM精英型,71533,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0172,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 智驾版 125KM尊贵型,71534,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0173,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 智驾版 125KM尊荣型,71706,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0174,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 智驾版 125KM激光雷达旗舰型,71707,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0175,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 智驾版 245KM尊贵型,75104,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0176,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 智驾版 245KM尊荣型,75106,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0177,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 智驾版 245KM激光雷达旗舰型,75192,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0178,BYD,LG02,Han EV,汉EV,Han EV,2025,EV 智驾版 605KM领航版,72514,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM009,July 2020 (China sale),
+T0179,BYD,LG02,Han DM-i,汉DM-i,Han DM-i,2025,DM-i 智驾版 125KM领航版,72515,standard,Sedan,4-door full-size (E-segment) sedan,4,S42,DM010,April 2022 (DM-i with 2022 facelift),
+T0180,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2025,DM-i 智驾版 55KM领先型,71504,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0181,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2025,DM-i 智驾版 128KM进取型,74790,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0182,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2025,DM-i 智驾版 55KM超越型,71685,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0183,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2025,DM-i 智驾版 120KM超越型,71686,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0184,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2024,荣耀版 DM-i 55KM领先型,66743,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0185,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2024,荣耀版 DM-i 55KM超越型,66744,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0186,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2024,荣耀版 DM-i 120KM领先型,66745,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0187,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2024,荣耀版 DM-i 120KM超越型,66746,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0188,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2024,荣耀版 DM-i 120KM卓越型,66733,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0189,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2024,荣耀版 EV 420KM领先型,66747,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0190,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2024,荣耀版 EV 420KM超越型,66748,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0191,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2024,荣耀版 EV 510KM领先型,66749,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0192,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2024,荣耀版 EV 510KM超越型,66750,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0193,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2024,荣耀版 EV 510KM卓越型,66751,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0194,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2024,DM-i 120KM领航荣耀版,67266,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0195,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2024,DM-i 55KM领航荣耀版,67265,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0196,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2023,冠军版 DM-i 55KM领先型,61527,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0197,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2023,冠军版 DM-i 55KM超越型,61528,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0198,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2023,冠军版 DM-i 120KM领先型,61235,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0199,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2023,冠军版 DM-i 120KM超越型,61240,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0200,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2023,冠军版 DM-i 120KM卓越型,61318,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0201,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2023,冠军版 EV 420KM领先型,62385,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0202,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2023,冠军版 EV 420KM超越型,62386,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0203,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2023,冠军版 EV 510KM领先型,62387,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0204,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2023,冠军版 EV 510KM超越型,62389,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0205,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2023,冠军版 EV 510KM卓越型,62390,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0206,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2023,冠军版 EV 610KM卓越型,62080,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0207,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2023,EV 500KM 出行版,64994,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0208,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2021,DM-i 55KM 尊贵型,49498,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0209,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2021,DM-i 55KM 旗舰型,49499,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0210,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2021,DM-i 120KM 尊贵型,49500,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0211,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i,2021,DM-i 120KM 旗舰型,49501,standard,Sedan,4-door sedan (series infobox; Qin Plus not separately described),4,S41,DM007,March 2021 (renamed from Qin Pro),
+T0212,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2021,EV 400KM 豪华型,50587,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0213,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2021,EV 500KM 豪华型,50588,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0214,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2021,EV 500KM 尊贵型,50589,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0215,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2021,EV 600KM 旗舰型,49774,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0216,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2021,EV 400KM 领畅版,51965,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0217,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i (2nd gen),2027,DM-i 140KM领先型,79575,standard,Sedan,mid-size sedan (batch-1 list page),,,,2026,
+T0218,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i (2nd gen),2027,DM-i 220KM超越型,79573,standard,Sedan,mid-size sedan (batch-1 list page),,,,2026,
+T0219,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i (2nd gen),2027,DM-i 220KM卓越型,78511,standard,Sedan,mid-size sedan (batch-1 list page),,,,2026,
+T0220,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i (2nd gen),2026,DM-i 128KM进取型,76199,standard,Sedan,mid-size sedan (batch-1 list page),,,,2026,
+T0221,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i (2nd gen),2026,DM-i 210KM进取型,76109,standard,Sedan,mid-size sedan (batch-1 list page),,,,2026,
+T0222,BYD,LG02,Qin Plus DM-i,秦PLUS DM-i,Qin Plus DM-i (2nd gen),2026,DM-i 210KM超越型,76177,standard,Sedan,mid-size sedan (batch-1 list page),,,,2026,
+T0223,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2025,EV 智驾版 420KM领先型,71687,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0224,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2025,EV 智驾版 510KM进取型,74866,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0225,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2025,EV 智驾版 510KM领先型,71688,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0226,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2025,EV 智驾版 510KM超越型,71689,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0227,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2025,EV 510KM 标准版,72103,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0228,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2025,EV 510KM 畅行版,72442,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0229,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2025,EV 智驾版 510KM领航版,72524,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0230,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2023,EV 510KM 出行版,65656,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0231,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2021,EV 510KM 出行版,63012,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0232,BYD,LG02,Qin Plus EV,秦PLUS EV,Qin Plus EV,2021,EV 420KM 出行版,51966,standard,Sedan,4-door sedan (series infobox),4,S41,DM008,March 2021,
+T0233,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2025,DM-i 75KM 豪华型,69209,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0234,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2025,DM-i 112KM 尊贵型,69252,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0235,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2025,DM-i 112KM 尊荣型,69253,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0236,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2025,DM-i 160KM 旗舰型,69254,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0237,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2025,DM-i 160KM 旗舰PLUS,69210,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0238,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2025,EV 520km 豪华型,69512,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0239,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2025,EV 520km 尊贵型,69513,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0240,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2025,EV 605km 旗舰型,69514,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0241,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2025,DM-i 智驾版 112KM 尊贵型,71470,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0242,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2025,DM-i 智驾版 112KM 尊荣型,71525,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0243,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2025,DM-i 智驾版 160KM 旗舰型,71480,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0244,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2025,EV 智驾版 520km 豪华型,71520,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0245,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2025,EV 智驾版 520km 尊贵型,71524,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0246,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2025,EV 智驾版 605km 旗舰型,71481,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0247,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2025,EV 智驾版 520km 领航版,72520,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0248,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2024,荣耀版 DM-i 71km 豪华型,66931,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0249,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2024,荣耀版 DM-i 110km 旗舰型,66932,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0250,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2024,荣耀版 DM-i 110km 旗舰PLUS,66933,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0251,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2024,荣耀版 DM-i 150km 旗舰PLUS,66934,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0252,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2024,荣耀版 DM-i 150km 旗舰PLUS 5G,66935,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0253,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2024,荣耀版 EV 520km 豪华型,66936,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0254,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2024,荣耀版 EV 520km 尊贵型,66937,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0255,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2024,荣耀版 EV 605km 旗舰PLUS,66939,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0256,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2024,荣耀版 EV 520km 旗舰型,66938,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0257,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2023,冠军版 EV 520KM 豪华型,62470,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0258,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2023,冠军版 EV 520KM 尊贵型,62471,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0259,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2023,冠军版 EV 520KM 旗舰型,63394,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0260,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2023,冠军版 EV 605KM 旗舰PLUS,63395,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0261,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2023,冠军版 DM-i 110KM 旗舰型,63396,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0262,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2023,冠军版 DM-i 110KM 旗舰PLUS,63397,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0263,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2023,冠军版 DM-i 150KM 旗舰PLUS,63398,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0264,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2023,冠军版 DM-i 150KM 旗舰PLUS 5G,63399,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0265,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2021,DM-i 51KM 尊荣型,49506,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0266,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2021,DM-i 110KM 旗舰型,49507,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0267,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2021,DM-i 110KM 旗舰PLUS,49508,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0268,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2021,DM-i 110KM 旗舰PLUS 5G版,57112,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0269,BYD,LG02,Song Plus DM-i,宋PLUS DM-i,Song Plus DM-i,2021,DM-i 100KM 四驱旗舰PLUS,53500,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM014,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026)
+T0270,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2021,EV 尊贵型,50586,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0271,BYD,LG02,Song Plus EV,宋PLUS EV,Song Plus EV,2021,EV 旗舰型,45550,standard,SUV / crossover,5-door compact crossover SUV,5,S44,DM015,April 2021,2026 (China)
+T0272,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2024,荣耀版 DM-i 55KM 尊贵型,66738,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0273,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2024,荣耀版 DM-i 120KM 豪华型,66739,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0274,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2024,荣耀版 DM-i 120KM 尊贵型,66740,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0275,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2024,荣耀版 DM-i 120KM 尊荣型,66741,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0276,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2024,荣耀版 DM-i 120KM 旗舰型,66742,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0277,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2024,荣耀版 DM-i 55KM 豪华型,66734,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0278,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2023,冠军版 DM-i 55KM 豪华型,62917,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0279,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2023,冠军版 DM-i 55KM 尊贵型,62918,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0280,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2023,冠军版 DM-i 120KM 豪华型,64150,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0281,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2023,冠军版 DM-i 120KM 尊贵型,62919,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0282,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2023,冠军版 DM-i 120KM 尊荣型,62920,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0283,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2023,冠军版 DM-i 120KM 旗舰型,62921,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0284,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2022,DM-i 55KM 舒适型,55772,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0285,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2022,DM-i 55KM 豪华型,55773,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0286,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2022,DM-i 55KM 尊贵型,55774,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0287,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2022,DM-i 120KM 尊贵型,55771,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0288,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2022,DM-i 120KM 旗舰型,52587,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0289,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2025,DM-i 55KM 畅行版,73236,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0290,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2025,DM-i 120KM 畅行版,73237,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0291,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2024,DM-i 55KM 领航荣耀版,69283,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0292,BYD,LG02,Destroyer 05,驱逐舰05,Destroyer 05,2024,DM-i 120KM 领航荣耀版,69284,standard,Sedan,4-door compact (C-segment) sedan,4,S45,DM016,March 2022 (unveiled Nov 2021),2025 (China); export 2023-
+T0293,BYD,LG02,e2,e2,e2,2023,舒适型,62327,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0294,BYD,LG02,e2,e2,e2,2023,豪华型,61270,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0295,BYD,LG02,e2,e2,e2,2021,出行版,51405,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0296,BYD,LG02,e2,e2,e2,2021,标准型,53581,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0297,BYD,LG02,e2,e2,e2,2021,舒适型,50581,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0298,BYD,LG02,e2,e2,e2,2021,豪华型,50512,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0299,BYD,LG02,e2,e2,e2,2021,尊贵型,50582,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0300,BYD,LG02,e2,e2,e2,2020,升级版 标准续航版 标准型,47235,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0301,BYD,LG02,e2,e2,e2,2020,升级版 标准续航版 舒适型,47236,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0302,BYD,LG02,e2,e2,e2,2020,升级版 高续航版 豪华型,47237,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0303,BYD,LG02,e2,e2,e2,2020,升级版 高续航版 尊贵型,47238,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0304,BYD,LG02,e2,e2,e2,2019,试装车,38727,pre_production_trial_fit,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0305,BYD,LG02,e2,e2,e2,2019,标准续航版 悦·标准型,41398,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0306,BYD,LG02,e2,e2,e2,2019,标准续航版 智·舒适型,41095,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0307,BYD,LG02,e2,e2,e2,2019,高续航版 耀·豪华型,41399,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0308,BYD,LG02,e2,e2,e2,2019,高续航版 创·尊贵型,41158,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0309,BYD,LG02,e2,e2,e2,2019,400出行版,41428,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0310,BYD,LG02,e2,e2,e2,2024,荣耀版 舒适型,67156,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0311,BYD,LG02,e2,e2,e2,2024,荣耀版 豪华型,67157,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
+T0312,BYD,LG02,e2,e2,e2,2023,出行版,63011,standard,Hatchback,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",5,S39,DM005,2019 (unveiled Shanghai Apr 2019),
