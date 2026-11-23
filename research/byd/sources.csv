@@ -1,0 +1,15 @@
+source_id,title,url,source_type,retrieval,notes
+S01,Wikipedia - List of BYD Auto vehicles,https://en.wikipedia.org/wiki/List_of_BYD_Auto_vehicles,secondary-encyclopedia,FULL,"Model list, body types, intro/facelift/discontinued years. Not an OEM source."
+S02,BYD Australia - BYD SEAL 2025 brochure (PDF),https://www.bydautomotive.com.au/brochures/BYD-SEAL-2025.pdf,OEM-importer brochure,FULL,Text extracted locally with pdftotext; exterior colour list read. Contains NO paint codes.
+S03,NonPaints / CROP - BYD colour code page,https://www.nonpaints.com/en/color-code/byd,third-party paint retailer,FULL,Reviewed and REJECTED as code source: lists no per-model BYD codes (only generic examples R1A/B23/LZ5 not tied to any model).
+S04,Autohome - Qin PLUS picture gallery,https://car.autohome.com.cn/pic/series-5964-12359-1.html,secondary-catalog,SNIPPET,"Chinese colour names only; no codes; gallery covers more than one variant/year, unresolved."
+S05,Autocar India - BYD Atto 3 colours,https://www.autocarindia.com/cars/byd/atto-3/colours,secondary-media,SNIPPET,Colour names; no codes.
+S06,The Driven - Forest Green option for BYD Atto 3 goes live (Jan 2023),https://thedriven.io/2023/01/11/forest-green-colour-option-for-byd-atto-3-goes-live/amp,secondary-media,SNIPPET,"Australia, Forest Green added Jan 2023."
+S07,Carwow UK - BYD Dolphin colours,https://carwow.co.uk/byd/dolphin/colours,secondary-media,SNIPPET,UK colour/roof combinations; no codes; availability varies by trim.
+S08,Carmudi Philippines - BYD Seagull colours,https://carmudi.com.ph/new-cars/byd/seagull/images,secondary-catalog,SNIPPET,2025 and 2026 PH model-year colours.
+S09,BYD India - Seal page,https://www.byd.com/in/car/seal.html,OEM website,SNIPPET,"India Seal colours. Another India source lists only 4 (conflict, see issues)."
+S10,BYD Europe-market Seal brochure (hosted by Autohrvatska),https://autohrvatska.hr/EasyEdit/UserFiles/seal-0325-bps-en-v7-web.pdf,OEM-importer brochure,SNIPPET,"Colour names translated, may not match local brochure. Standard vs optional depends on trim."
+S11,BYD Nepal - Atto 3 page,https://www.byd.com/np/car/atto3,OEM website,SNIPPET,Nepal Atto 3 colours.
+S12,Cars24 - BYD Atto 3 gets a new colour,https://www.cars24.com/news/auto/byd-atto-3-gets-a-new-colour-what-is-new-what-stays-the-same/,secondary-media,SNIPPET,Atlantis Gray added; market not stated in snippet.
+S13,Chipex - BYD paint repair,https://eu.chipex.com/brands/byd,third-party paint retailer,SNIPPET,Only says code is on door-jamb sticker (driver or passenger door); location varies by model. No codes.
+S14,Dailymotion - Seagull Honor Edition 2024 listing,https://www.dailymotion.com/video/x8u7edi,weak-secondary,SNIPPET,Claims Honor Edition added Arctic Blue. Weak source.

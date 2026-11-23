@@ -1,0 +1,12 @@
+body_type_id,name
+BT01,Sedan
+BT02,SUV / crossover
+BT03,MPV
+BT04,Wagon / shooting brake
+BT05,Hatchback
+BT06,City car / kei
+BT07,Pickup
+BT08,Coupe
+BT09,Convertible
+BT10,Supercar
+BT11,Sports car

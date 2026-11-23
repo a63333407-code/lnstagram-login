@@ -1,0 +1,60 @@
+{
+  "models": 127,
+  "generation_rows": 136,
+  "models_byd_brand_only": 88,
+  "gens_byd_brand_only": 97,
+  "model_year_records": 315,
+  "my_documented": 131,
+  "my_derived": 180,
+  "my_color_source": 4,
+  "color_records": 45,
+  "distinct_color_names": 34,
+  "generations_with_any_color": 4,
+  "paint_codes": 0,
+  "verification_not_found": 46,
+  "gens_without_intro_year": 18,
+  "series_unassigned_models": 22,
+  "body_types": 11,
+  "doors_documented": 6,
+  "alias_conflicts": {
+    "seal 6 dm-i": [
+      "Qin L DM-i",
+      "Seal 06 DM-i"
+    ],
+    "king": [
+      "Destroyer 05",
+      "Seal 05 DM-i"
+    ],
+    "seal 5 dm-i": [
+      "Destroyer 05",
+      "Seal 05 DM-i"
+    ],
+    "e2": [
+      "Dolphin",
+      "e2"
+    ]
+  },
+  "by_brand": {
+    "BYD": [
+      88,
+      97
+    ],
+    "Linghui": [
+      4,
+      4
+    ],
+    "Denza": [
+      19,
+      19
+    ],
+    "Yangwang": [
+      6,
+      6
+    ],
+    "Fangchengbao": [
+      10,
+      10
+    ]
+  },
+  "sources": 14
+}

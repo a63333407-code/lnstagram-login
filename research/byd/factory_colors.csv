@@ -1,0 +1,46 @@
+color_id,generation_id,model_year_id,model_ref_text,market,color_name_en,color_name_zh,color_role,source_id,retrieval,note
+C001,G022,Y0312,,Australia,Atlantis Grey,,body,S02,FULL,Brochure 'Exterior colour' list. Per-variant availability not extracted. No paint codes in brochure.
+C002,G022,Y0312,,Australia,Aurora White,,body,S02,FULL,Brochure 'Exterior colour' list. Per-variant availability not extracted. No paint codes in brochure.
+C003,G022,Y0312,,Australia,Cosmos Black,,body,S02,FULL,Brochure 'Exterior colour' list. Per-variant availability not extracted. No paint codes in brochure.
+C004,G022,Y0312,,Australia,Shark Grey,,body,S02,FULL,Brochure 'Exterior colour' list. Per-variant availability not extracted. No paint codes in brochure.
+C005,G022,,,India,Arctic Blue,,body,S09,SNIPPET,Another India source lists only 4 colours (no Shark Grey): conflict unresolved.
+C006,G022,,,India,Aurora White,,body,S09,SNIPPET,Another India source lists only 4 colours (no Shark Grey): conflict unresolved.
+C007,G022,,,India,Atlantis Grey,,body,S09,SNIPPET,Another India source lists only 4 colours (no Shark Grey): conflict unresolved.
+C008,G022,,,India,Cosmos Black,,body,S09,SNIPPET,Another India source lists only 4 colours (no Shark Grey): conflict unresolved.
+C009,G022,,,India,Shark Grey,,body,S09,SNIPPET,Another India source lists only 4 colours (no Shark Grey): conflict unresolved.
+C010,G022,,,"Europe (importer brochure, translated names)",Atlantis Grey,,body,S10,SNIPPET,Names may differ from local brochure; standard/optional depends on trim.
+C011,G022,,,"Europe (importer brochure, translated names)",Space Black,,body,S10,SNIPPET,Names may differ from local brochure; standard/optional depends on trim.
+C012,G022,,,"Europe (importer brochure, translated names)",Polar White,,body,S10,SNIPPET,Names may differ from local brochure; standard/optional depends on trim.
+C013,G022,,,"Europe (importer brochure, translated names)",Ice Blue,,body,S10,SNIPPET,Names may differ from local brochure; standard/optional depends on trim.
+C014,G022,,,"Europe (importer brochure, translated names)",Indigo Grey,,body,S10,SNIPPET,Names may differ from local brochure; standard/optional depends on trim.
+C015,G017,,,Nepal,Surf Blue,,body,S11,SNIPPET,Marketed as Atto 3.
+C016,G017,,,Nepal,Ski White,,body,S11,SNIPPET,Marketed as Atto 3.
+C017,G017,,,Nepal,Harbour Grey,,body,S11,SNIPPET,Marketed as Atto 3.
+C018,G017,,,Nepal,Cosmos Black,,body,S11,SNIPPET,Marketed as Atto 3.
+C019,G017,,,India (publisher-inferred),Atlantis Gray,,body,S12,SNIPPET,Reported as added (replacing Surf Blue); market and date need confirmation.
+C020,G017,Y0313,,Australia,Forest Green,,body,S06,SNIPPET,Reported live Jan 2023. 2022 launch colour names not retrieved.
+C021,G030,,,United Kingdom,Amethyst Purple,,body,S07,SNIPPET,Body colours as listed; availability varies by trim.
+C022,G030,,,United Kingdom,Coral Pink,,body,S07,SNIPPET,Body colours as listed; availability varies by trim.
+C023,G030,,,United Kingdom,Jet Black,,body,S07,SNIPPET,Body colours as listed; availability varies by trim.
+C024,G030,,,United Kingdom,Skiing White,,body,S07,SNIPPET,Body colours as listed; availability varies by trim.
+C025,G030,,,United Kingdom,Surfing Blue,,body,S07,SNIPPET,Body colours as listed; availability varies by trim.
+C026,G030,,,United Kingdom,Urban Grey,,secondary/roof (unconfirmed),S07,SNIPPET,"Listed as second tone in two-tone combos (e.g. 'Coral pink / Urban grey'); role inferred, unconfirmed."
+C027,G030,,,United Kingdom,Atlantis Grey,,secondary/roof (unconfirmed),S07,SNIPPET,"Listed as second tone in two-tone combos (e.g. 'Coral pink / Urban grey'); role inferred, unconfirmed."
+C028,G032,Y0041,,Philippines,Apricity White,,body,S08,SNIPPET,Model-year label as shown by catalog; 2026 may be a later generation in other markets.
+C029,G032,Y0041,,Philippines,Delan Black,,body,S08,SNIPPET,Model-year label as shown by catalog; 2026 may be a later generation in other markets.
+C030,G032,Y0041,,Philippines,Sprout Green,,body,S08,SNIPPET,Model-year label as shown by catalog; 2026 may be a later generation in other markets.
+C031,G032,Y0314,,Philippines,Apricity White,,body,S08,SNIPPET,Model-year label as shown by catalog; 2026 may be a later generation in other markets.
+C032,G032,Y0314,,Philippines,Delan Black,,body,S08,SNIPPET,Model-year label as shown by catalog; 2026 may be a later generation in other markets.
+C033,G032,Y0314,,Philippines,Sprout Green,,body,S08,SNIPPET,Model-year label as shown by catalog; 2026 may be a later generation in other markets.
+C034,G032,Y0315,,,Arctic Blue,,body,S14,SNIPPET,Honor Edition addition; weak source; market not stated.
+C035,,,Qin PLUS (variant/year unresolved),China,Snowy White,雪域白,body,S04,SNIPPET,"Chinese names from Autohome gallery for Qin PLUS (series 5964). English names are my literal translations, NOT official. Variant (DM-i/EV) and year per colour unresolved."
+C036,,,Qin PLUS (variant/year unresolved),China,Time Grey,时光灰,body,S04,SNIPPET,"Chinese names from Autohome gallery for Qin PLUS (series 5964). English names are my literal translations, NOT official. Variant (DM-i/EV) and year per colour unresolved."
+C037,,,Qin PLUS (variant/year unresolved),China,Ice Amber Cyan,冰珀青,body,S04,SNIPPET,"Chinese names from Autohome gallery for Qin PLUS (series 5964). English names are my literal translations, NOT official. Variant (DM-i/EV) and year per colour unresolved."
+C038,,,Qin PLUS (variant/year unresolved),China,White Glaze Cyan,白釉青,body,S04,SNIPPET,"Chinese names from Autohome gallery for Qin PLUS (series 5964). English names are my literal translations, NOT official. Variant (DM-i/EV) and year per colour unresolved."
+C039,,,Qin PLUS (variant/year unresolved),China,Galaxy Beige,星河米,body,S04,SNIPPET,"Chinese names from Autohome gallery for Qin PLUS (series 5964). English names are my literal translations, NOT official. Variant (DM-i/EV) and year per colour unresolved."
+C040,,,Qin PLUS (variant/year unresolved),China,Weiyang Grey,未央灰,body,S04,SNIPPET,"Chinese names from Autohome gallery for Qin PLUS (series 5964). English names are my literal translations, NOT official. Variant (DM-i/EV) and year per colour unresolved."
+C041,,,Qin PLUS (variant/year unresolved),China,Pine Smoke Green,松烟绿,body,S04,SNIPPET,"Chinese names from Autohome gallery for Qin PLUS (series 5964). English names are my literal translations, NOT official. Variant (DM-i/EV) and year per colour unresolved."
+C042,,,Qin PLUS (variant/year unresolved),China,Chidi Red,赤帝红,body,S04,SNIPPET,"Chinese names from Autohome gallery for Qin PLUS (series 5964). English names are my literal translations, NOT official. Variant (DM-i/EV) and year per colour unresolved."
+C043,,,Qin PLUS (variant/year unresolved),China,Xuankong Black,玄空黑,body,S04,SNIPPET,"Chinese names from Autohome gallery for Qin PLUS (series 5964). English names are my literal translations, NOT official. Variant (DM-i/EV) and year per colour unresolved."
+C044,,,Qin PLUS (variant/year unresolved),China,Ink Jade Blue,墨玉蓝,body,S04,SNIPPET,"Chinese names from Autohome gallery for Qin PLUS (series 5964). English names are my literal translations, NOT official. Variant (DM-i/EV) and year per colour unresolved."
+C045,,,Qin PLUS (variant/year unresolved),China,Ink Bamboo Cyan,墨竹青,body,S04,SNIPPET,"Chinese names from Autohome gallery for Qin PLUS (series 5964). English names are my literal translations, NOT official. Variant (DM-i/EV) and year per colour unresolved."
