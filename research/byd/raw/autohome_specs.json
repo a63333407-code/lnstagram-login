@@ -1,0 +1,9191 @@
+{
+ "Seal": {
+  "series_id": 6394,
+  "series_urls": {
+   "series-t": "https://car.autohome.com.cn/pic/series-t/6394.html",
+   "series": "https://car.autohome.com.cn/pic/series/6394.html"
+  },
+  "specs": [
+   {
+    "year": "2025款",
+    "spec_id": "69392",
+    "label": "510标准版",
+    "photos": 285,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2025款 510标准版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69392/6394-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10516",
+      "hex": "#75747E",
+      "name_zh": "迷迭灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12310",
+      "hex": "#8585AC",
+      "name_zh": "天空紫",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69345",
+    "label": "650长续航版",
+    "photos": 643,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2025款 650长续航版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69345/6394-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     },
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10516",
+      "hex": "#75747E",
+      "name_zh": "迷迭灰",
+      "photos": 7
+     },
+     {
+      "color_id": "12310",
+      "hex": "#8585AC",
+      "name_zh": "天空紫",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69393",
+    "label": "650智驾版",
+    "photos": 421,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2025款 650智驾版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69393/6394-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10516",
+      "hex": "#75747E",
+      "name_zh": "迷迭灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12310",
+      "hex": "#8585AC",
+      "name_zh": "天空紫",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69394",
+    "label": "600四驱智驾版",
+    "photos": 196,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2025款 600四驱智驾版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69394/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10516",
+      "hex": "#75747E",
+      "name_zh": "迷迭灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71663",
+    "label": "510智航版",
+    "photos": 444,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2025款 510智航版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71663/6394-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10516",
+      "hex": "#75747E",
+      "name_zh": "迷迭灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12310",
+      "hex": "#8585AC",
+      "name_zh": "天空紫",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71664",
+    "label": "650智航版",
+    "photos": 450,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2025款 650智航版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71664/6394-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10516",
+      "hex": "#75747E",
+      "name_zh": "迷迭灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12310",
+      "hex": "#8585AC",
+      "name_zh": "天空紫",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71665",
+    "label": "改款 650智驾版",
+    "photos": 290,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2025款 改款 650智驾版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71665/6394-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "10516",
+      "hex": "#75747E",
+      "name_zh": "迷迭灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12310",
+      "hex": "#8585AC",
+      "name_zh": "天空紫",
+      "photos": 8
+     },
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71666",
+    "label": "改款 600四驱智驾版",
+    "photos": 186,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2025款 改款 600四驱智驾版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71666/6394-1.html",
+    "colors": [
+     {
+      "color_id": "12310",
+      "hex": "#8585AC",
+      "name_zh": "天空紫",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "73399",
+    "label": "中国香港车展版",
+    "photos": 230,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2025款 中国香港车展版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s73399/6394-1.html",
+    "colors": []
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66925",
+    "label": "荣耀版 DM-i 1.5L 121km 精英型",
+    "photos": 193,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2024款 荣耀版 DM-i 1.5L 121km 精英型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66925/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10514",
+      "hex": "#FFFFFF",
+      "name_zh": "极光白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66926",
+    "label": "荣耀版 DM-i 1.5L 121km 豪华型",
+    "photos": 256,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2024款 荣耀版 DM-i 1.5L 121km 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66926/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10514",
+      "hex": "#FFFFFF",
+      "name_zh": "极光白",
+      "photos": 7
+     },
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66927",
+    "label": "荣耀版 DM-i 1.5L 121km 尊贵型",
+    "photos": 240,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2024款 荣耀版 DM-i 1.5L 121km 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66927/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     },
+     {
+      "color_id": "11644",
+      "hex": "#F0F0F0",
+      "name_zh": "暖色烟茶",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66928",
+    "label": "荣耀版 DM-i 1.5T 121km 尊荣型",
+    "photos": 317,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2024款 荣耀版 DM-i 1.5T 121km 尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66928/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     },
+     {
+      "color_id": "11594",
+      "hex": "#674D5E",
+      "name_zh": "魅影红",
+      "photos": 7
+     },
+     {
+      "color_id": "11644",
+      "hex": "#F0F0F0",
+      "name_zh": "暖色烟茶",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66929",
+    "label": "荣耀版 DM-i 1.5T 121km 旗舰型",
+    "photos": 180,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2024款 荣耀版 DM-i 1.5T 121km 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66929/6394-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66930",
+    "label": "荣耀版 DM-i 1.5T 200km 旗舰型",
+    "photos": 204,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2024款 荣耀版 DM-i 1.5T 200km 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66930/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "67380",
+    "label": "荣耀版 550km 精英型",
+    "photos": 176,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2024款 荣耀版 550km 精英型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s67380/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "67381",
+    "label": "荣耀版 550km 尊贵型",
+    "photos": 238,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2024款 荣耀版 550km 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s67381/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10514",
+      "hex": "#FFFFFF",
+      "name_zh": "极光白",
+      "photos": 7
+     },
+     {
+      "color_id": "10516",
+      "hex": "#75747E",
+      "name_zh": "迷迭灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "67382",
+    "label": "荣耀版 700km 尊贵型",
+    "photos": 210,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2024款 荣耀版 700km 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s67382/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "67383",
+    "label": "荣耀版 700km 性能版",
+    "photos": 176,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2024款 荣耀版 700km 性能版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s67383/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63858",
+    "label": "DM-i 试装车",
+    "photos": 90,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2023款 DM-i 试装车车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63858/6394-1.html",
+    "colors": []
+   },
+   {
+    "year": "2023款",
+    "spec_id": "60594",
+    "label": "DM-i 1.5L 121km 精英型",
+    "photos": 158,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2023款 DM-i 1.5L 121km 精英型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s60594/6394-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64468",
+    "label": "DM-i 1.5L 121km 豪华型",
+    "photos": 201,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2023款 DM-i 1.5L 121km 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64468/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64469",
+    "label": "DM-i 1.5L 121km 尊贵型",
+    "photos": 332,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2023款 DM-i 1.5L 121km 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64469/6394-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64470",
+    "label": "DM-i 1.5T 121km 尊荣型",
+    "photos": 213,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2023款 DM-i 1.5T 121km 尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64470/6394-1.html",
+    "colors": [
+     {
+      "color_id": "11594",
+      "hex": "#674D5E",
+      "name_zh": "魅影红",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62757",
+    "label": "DM-i 1.5T 121km 旗舰型",
+    "photos": 763,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2023款 DM-i 1.5T 121km 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62757/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 22
+     },
+     {
+      "color_id": "11594",
+      "hex": "#674D5E",
+      "name_zh": "魅影红",
+      "photos": 7
+     },
+     {
+      "color_id": "11644",
+      "hex": "#F0F0F0",
+      "name_zh": "暖色烟茶",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62660",
+    "label": "DM-i 1.5T 200km 旗舰型",
+    "photos": 253,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2023款 DM-i 1.5T 200km 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62660/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64622",
+    "label": "欧洲版",
+    "photos": 332,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2023款 欧洲版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64622/6394-1.html",
+    "colors": []
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63032",
+    "label": "冠军版 550km 精英型",
+    "photos": 192,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2023款 冠军版 550km 精英型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63032/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10514",
+      "hex": "#FFFFFF",
+      "name_zh": "极光白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63033",
+    "label": "冠军版 550km 尊贵型",
+    "photos": 326,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2023款 冠军版 550km 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63033/6394-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     },
+     {
+      "color_id": "10516",
+      "hex": "#75747E",
+      "name_zh": "迷迭灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63034",
+    "label": "冠军版 700km 尊贵型",
+    "photos": 450,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2023款 冠军版 700km 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63034/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "10519",
+      "hex": "#7E9286",
+      "name_zh": "风卷草绿",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63035",
+    "label": "冠军版 700km 性能版",
+    "photos": 285,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2023款 冠军版 700km 性能版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63035/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63036",
+    "label": "冠军版 650km 四驱性能版",
+    "photos": 171,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2023款 冠军版 650km 四驱性能版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63036/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "56592",
+    "label": "550km 标准续航后驱版精英型",
+    "photos": 175,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2022款 550km 标准续航后驱版精英型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s56592/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "57090",
+    "label": "550km 标准续航后驱版尊贵型",
+    "photos": 366,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2022款 550km 标准续航后驱版尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s57090/6394-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     },
+     {
+      "color_id": "10516",
+      "hex": "#75747E",
+      "name_zh": "迷迭灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "55916",
+    "label": "700km 长续航后驱版",
+    "photos": 822,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2022款 700km 长续航后驱版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s55916/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 14
+     },
+     {
+      "color_id": "10518",
+      "hex": "#8FA0A8",
+      "name_zh": "海透镜蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "10519",
+      "hex": "#7E9286",
+      "name_zh": "风卷草绿",
+      "photos": 7
+     },
+     {
+      "color_id": "10514",
+      "hex": "#FFFFFF",
+      "name_zh": "极光白",
+      "photos": 7
+     },
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "56593",
+    "label": "650km 四驱性能版",
+    "photos": 589,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2022款 650km 四驱性能版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s56593/6394-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 14
+     },
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 14
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "57740",
+    "label": "EV 试装车",
+    "photos": 86,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2022款 EV 试装车车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s57740/6394-1.html",
+    "colors": []
+   },
+   {
+    "year": "2021款",
+    "spec_id": "53211",
+    "label": "ocean-X 概念型",
+    "photos": 16,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豹 2021款 ocean-X 概念型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s53211/6394-1.html",
+    "colors": []
+   }
+  ]
+ },
+ "Dolphin": {
+  "series_id": 6139,
+  "series_urls": {
+   "series-t": "https://car.autohome.com.cn/pic/series-t/6139.html",
+   "series": "https://car.autohome.com.cn/pic/series/6139.html"
+  },
+  "specs": [
+   {
+    "year": "2024款",
+    "spec_id": "66812",
+    "label": "荣耀版 302km 活力版",
+    "photos": 3,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2024款 荣耀版 302km 活力版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66812/6139-1.html",
+    "colors": []
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66576",
+    "label": "荣耀版 420km 自由版",
+    "photos": 472,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2024款 荣耀版 420km 自由版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66576/6139-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10778",
+      "hex": "#D6D4CC",
+      "name_zh": "芝士黄",
+      "photos": 7
+     },
+     {
+      "color_id": "10994",
+      "hex": "#9A97C0",
+      "name_zh": "芋泥紫",
+      "photos": 7
+     },
+     {
+      "color_id": "12063",
+      "hex": "#D20A16",
+      "name_zh": "热浪绯红",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66577",
+    "label": "荣耀版 420km 时尚版",
+    "photos": 431,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2024款 荣耀版 420km 时尚版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66577/6139-1.html",
+    "colors": [
+     {
+      "color_id": "9262",
+      "hex": "#50596A",
+      "name_zh": "贝贝灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10387",
+      "hex": "#D4B3AF",
+      "name_zh": "噗噗粉",
+      "photos": 7
+     },
+     {
+      "color_id": "10778",
+      "hex": "#D6D4CC",
+      "name_zh": "芝士黄",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66578",
+    "label": "荣耀版 401km 骑士版",
+    "photos": 473,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2024款 荣耀版 401km 骑士版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66578/6139-1.html",
+    "colors": []
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61094",
+    "label": "420km 自由版",
+    "photos": 326,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2023款 420km 自由版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61094/6139-1.html",
+    "colors": [
+     {
+      "color_id": "9262",
+      "hex": "#50596A",
+      "name_zh": "贝贝灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10778",
+      "hex": "#D6D4CC",
+      "name_zh": "芝士黄",
+      "photos": 7
+     },
+     {
+      "color_id": "10994",
+      "hex": "#9A97C0",
+      "name_zh": "芋泥紫",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61095",
+    "label": "420km 时尚版",
+    "photos": 402,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2023款 420km 时尚版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61095/6139-1.html",
+    "colors": [
+     {
+      "color_id": "10387",
+      "hex": "#D4B3AF",
+      "name_zh": "噗噗粉",
+      "photos": 7
+     },
+     {
+      "color_id": "10994",
+      "hex": "#9A97C0",
+      "name_zh": "芋泥紫",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64908",
+    "label": "50万纪念版Pro",
+    "photos": 197,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2023款 50万纪念版Pro车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64908/6139-1.html",
+    "colors": []
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61096",
+    "label": "401km 骑士版",
+    "photos": 654,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2023款 401km 骑士版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61096/6139-1.html",
+    "colors": []
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64976",
+    "label": "50万纪念版Plus",
+    "photos": 241,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2023款 50万纪念版Plus车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64976/6139-1.html",
+    "colors": []
+   },
+   {
+    "year": "2021款",
+    "spec_id": "52655",
+    "label": "405km 自由版",
+    "photos": 182,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2021款 405km 自由版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s52655/6139-1.html",
+    "colors": []
+   },
+   {
+    "year": "2021款",
+    "spec_id": "51852",
+    "label": "405km 时尚版",
+    "photos": 1062,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2021款 405km 时尚版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s51852/6139-1.html",
+    "colors": [
+     {
+      "color_id": "10387",
+      "hex": "#D4B3AF",
+      "name_zh": "噗噗粉",
+      "photos": 14
+     },
+     {
+      "color_id": "10778",
+      "hex": "#D6D4CC",
+      "name_zh": "芝士黄",
+      "photos": 7
+     },
+     {
+      "color_id": "9262",
+      "hex": "#50596A",
+      "name_zh": "贝贝灰",
+      "photos": 7
+     },
+     {
+      "color_id": "9346",
+      "hex": "#287494",
+      "name_zh": "冲浪蓝",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "52656",
+    "label": "401km 骑士版",
+    "photos": 478,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2021款 401km 骑士版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s52656/6139-1.html",
+    "colors": []
+   },
+   {
+    "year": "2021款",
+    "spec_id": "50795",
+    "label": "Concept",
+    "photos": 50,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2021款 Concept车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s50795/6139-1.html",
+    "colors": []
+   },
+   {
+    "year": "2021款",
+    "spec_id": "54583",
+    "label": "eStarPro共创联名版",
+    "photos": 204,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海豚 2021款 eStarPro共创联名版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s54583/6139-1.html",
+    "colors": []
+   },
+   {
+    "year": "2026款",
+    "spec_id": "76225",
+    "label": "基本型",
+    "photos": 3,
+    "stopsale": false,
+    "color_view": false,
+    "listed_on": [
+     "series"
+    ],
+    "title": null,
+    "url": "https://car.autohome.com.cn/pic/series-s76225/6139-1.html",
+    "colors": []
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69004",
+    "label": "420km 活力版",
+    "photos": 367,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海豚 2025款 420km 活力版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69004/6139-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10778",
+      "hex": "#D6D4CC",
+      "name_zh": "芝士黄",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69005",
+    "label": "420km 自由版",
+    "photos": 778,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海豚 2025款 420km 自由版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69005/6139-1.html",
+    "colors": [
+     {
+      "color_id": "10387",
+      "hex": "#D4B3AF",
+      "name_zh": "噗噗粉",
+      "photos": 7
+     },
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10778",
+      "hex": "#D6D4CC",
+      "name_zh": "芝士黄",
+      "photos": 7
+     },
+     {
+      "color_id": "10994",
+      "hex": "#9A97C0",
+      "name_zh": "芋泥紫",
+      "photos": 7
+     },
+     {
+      "color_id": "12063",
+      "hex": "#D20A16",
+      "name_zh": "热浪绯红",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69006",
+    "label": "420km 时尚版",
+    "photos": 680,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海豚 2025款 420km 时尚版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69006/6139-1.html",
+    "colors": [
+     {
+      "color_id": "10387",
+      "hex": "#D4B3AF",
+      "name_zh": "噗噗粉",
+      "photos": 7
+     },
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10778",
+      "hex": "#D6D4CC",
+      "name_zh": "芝士黄",
+      "photos": 7
+     },
+     {
+      "color_id": "10994",
+      "hex": "#9A97C0",
+      "name_zh": "芋泥紫",
+      "photos": 7
+     },
+     {
+      "color_id": "12063",
+      "hex": "#D20A16",
+      "name_zh": "热浪绯红",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "66316",
+    "label": "520km 骑士版",
+    "photos": 263,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海豚 2025款 520km 骑士版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66316/6139-1.html",
+    "colors": []
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71048",
+    "label": "智驾版 420km 自由版",
+    "photos": 780,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海豚 2025款 智驾版 420km 自由版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71048/6139-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10778",
+      "hex": "#D6D4CC",
+      "name_zh": "芝士黄",
+      "photos": 8
+     },
+     {
+      "color_id": "10994",
+      "hex": "#9A97C0",
+      "name_zh": "芋泥紫",
+      "photos": 8
+     },
+     {
+      "color_id": "13290",
+      "hex": "#D4B4B4",
+      "name_zh": "海贝粉",
+      "photos": 8
+     },
+     {
+      "color_id": "13291",
+      "hex": "#000000",
+      "name_zh": "巧克力黑",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71049",
+    "label": "智驾版 410km 时尚版",
+    "photos": 752,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海豚 2025款 智驾版 410km 时尚版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71049/6139-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10778",
+      "hex": "#D6D4CC",
+      "name_zh": "芝士黄",
+      "photos": 8
+     },
+     {
+      "color_id": "10994",
+      "hex": "#9A97C0",
+      "name_zh": "芋泥紫",
+      "photos": 8
+     },
+     {
+      "color_id": "13290",
+      "hex": "#D4B4B4",
+      "name_zh": "海贝粉",
+      "photos": 8
+     },
+     {
+      "color_id": "13291",
+      "hex": "#000000",
+      "name_zh": "巧克力黑",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71050",
+    "label": "智驾版 520km 骑士版",
+    "photos": 464,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海豚 2025款 智驾版 520km 骑士版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71050/6139-1.html",
+    "colors": [
+     {
+      "color_id": "10515",
+      "hex": "#55728C",
+      "name_zh": "亚特兰蒂斯灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10778",
+      "hex": "#D6D4CC",
+      "name_zh": "芝士黄",
+      "photos": 8
+     },
+     {
+      "color_id": "13290",
+      "hex": "#D4B4B4",
+      "name_zh": "海贝粉",
+      "photos": 8
+     },
+     {
+      "color_id": "13291",
+      "hex": "#000000",
+      "name_zh": "巧克力黑",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "73405",
+    "label": "中国香港车展版",
+    "photos": 234,
+    "stopsale": false,
+    "color_view": false,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海豚 2025款 中国香港车展版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s73405/6139-1.html",
+    "colors": []
+   }
+  ]
+ },
+ "Seagull": {
+  "series_id": 6762,
+  "series_urls": {
+   "series-t": "https://car.autohome.com.cn/pic/series-t/6762.html",
+   "series": "https://car.autohome.com.cn/pic/series/6762.html"
+  },
+  "specs": [
+   {
+    "year": "2025款",
+    "spec_id": "71690",
+    "label": "智驾版 305km 活力版",
+    "photos": 559,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2025款 智驾版 305km 活力版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71690/6762-1.html",
+    "colors": [
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 8
+     },
+     {
+      "color_id": "11261",
+      "hex": "#000000",
+      "name_zh": "极夜黑",
+      "photos": 8
+     },
+     {
+      "color_id": "11262",
+      "hex": "#C4D16A",
+      "name_zh": "萌芽绿",
+      "photos": 8
+     },
+     {
+      "color_id": "11263",
+      "hex": "#D4B4B4",
+      "name_zh": "蜜桃粉",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71691",
+    "label": "智驾版 305km 自由版",
+    "photos": 558,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2025款 智驾版 305km 自由版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71691/6762-1.html",
+    "colors": [
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 8
+     },
+     {
+      "color_id": "11261",
+      "hex": "#000000",
+      "name_zh": "极夜黑",
+      "photos": 8
+     },
+     {
+      "color_id": "11262",
+      "hex": "#C4D16A",
+      "name_zh": "萌芽绿",
+      "photos": 8
+     },
+     {
+      "color_id": "11263",
+      "hex": "#D4B4B4",
+      "name_zh": "蜜桃粉",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "73635",
+    "label": "智驾版 405km 自在版",
+    "photos": 481,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2025款 智驾版 405km 自在版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s73635/6762-1.html",
+    "colors": [
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 8
+     },
+     {
+      "color_id": "11261",
+      "hex": "#000000",
+      "name_zh": "极夜黑",
+      "photos": 8
+     },
+     {
+      "color_id": "11263",
+      "hex": "#D4B4B4",
+      "name_zh": "蜜桃粉",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69068",
+    "label": "305km 活力版",
+    "photos": 474,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2025款 305km 活力版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69068/6762-1.html",
+    "colors": [
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 7
+     },
+     {
+      "color_id": "11261",
+      "hex": "#000000",
+      "name_zh": "极夜黑",
+      "photos": 7
+     },
+     {
+      "color_id": "11263",
+      "hex": "#D4B4B4",
+      "name_zh": "蜜桃粉",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69069",
+    "label": "305km 自由版",
+    "photos": 439,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2025款 305km 自由版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69069/6762-1.html",
+    "colors": [
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 7
+     },
+     {
+      "color_id": "11261",
+      "hex": "#000000",
+      "name_zh": "极夜黑",
+      "photos": 7
+     },
+     {
+      "color_id": "11263",
+      "hex": "#D4B4B4",
+      "name_zh": "蜜桃粉",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69070",
+    "label": "405km 飞翔版",
+    "photos": 556,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2025款 405km 飞翔版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69070/6762-1.html",
+    "colors": [
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 7
+     },
+     {
+      "color_id": "11261",
+      "hex": "#000000",
+      "name_zh": "极夜黑",
+      "photos": 7
+     },
+     {
+      "color_id": "11263",
+      "hex": "#D4B4B4",
+      "name_zh": "蜜桃粉",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71065",
+    "label": "智驾版 405km 飞翔版",
+    "photos": 442,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2025款 智驾版 405km 飞翔版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71065/6762-1.html",
+    "colors": [
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 8
+     },
+     {
+      "color_id": "11261",
+      "hex": "#000000",
+      "name_zh": "极夜黑",
+      "photos": 8
+     },
+     {
+      "color_id": "11263",
+      "hex": "#D4B4B4",
+      "name_zh": "蜜桃粉",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "74736",
+    "label": "欧洲版",
+    "photos": 96,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2025款  欧洲版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s74736/6762-1.html",
+    "colors": []
+   },
+   {
+    "year": "2024款",
+    "spec_id": "67024",
+    "label": "荣耀版 305km 活力版",
+    "photos": 150,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2024款 荣耀版 305km 活力版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s67024/6762-1.html",
+    "colors": [
+     {
+      "color_id": "11263",
+      "hex": "#D4B4B4",
+      "name_zh": "蜜桃粉",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "67025",
+    "label": "荣耀版 305km 自由版",
+    "photos": 361,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2024款 荣耀版 305km 自由版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s67025/6762-1.html",
+    "colors": [
+     {
+      "color_id": "10517",
+      "hex": "#879DB2",
+      "name_zh": "北冰蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 7
+     },
+     {
+      "color_id": "11262",
+      "hex": "#C4D16A",
+      "name_zh": "萌芽绿",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "67026",
+    "label": "荣耀版 405km 飞翔版",
+    "photos": 246,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2024款 荣耀版 405km 飞翔版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s67026/6762-1.html",
+    "colors": [
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 7
+     },
+     {
+      "color_id": "11261",
+      "hex": "#000000",
+      "name_zh": "极夜黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62495",
+    "label": "活力版",
+    "photos": 142,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2023款 活力版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62495/6762-1.html",
+    "colors": [
+     {
+      "color_id": "11262",
+      "hex": "#C4D16A",
+      "name_zh": "萌芽绿",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62496",
+    "label": "自由版",
+    "photos": 255,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2023款 自由版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62496/6762-1.html",
+    "colors": [
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "57341",
+    "label": "飞翔版",
+    "photos": 597,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_海鸥 2023款 飞翔版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s57341/6762-1.html",
+    "colors": [
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 7
+     },
+     {
+      "color_id": "11261",
+      "hex": "#000000",
+      "name_zh": "极夜黑",
+      "photos": 7
+     },
+     {
+      "color_id": "11262",
+      "hex": "#C4D16A",
+      "name_zh": "萌芽绿",
+      "photos": 7
+     },
+     {
+      "color_id": "11263",
+      "hex": "#D4B4B4",
+      "name_zh": "蜜桃粉",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2027款",
+    "spec_id": "79549",
+    "label": "320KM 活力版",
+    "photos": 329,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海鸥 2027款 320KM 活力版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s79549/6762-1.html",
+    "colors": [
+     {
+      "color_id": "15795",
+      "hex": "#505457",
+      "name_zh": "芝麻灰",
+      "photos": 8
+     },
+     {
+      "color_id": "15866",
+      "hex": "#475577",
+      "name_zh": "冰椰蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "15867",
+      "hex": "#BFBDBA",
+      "name_zh": "奶油白",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2027款",
+    "spec_id": "79550",
+    "label": "320KM 自由版",
+    "photos": 286,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海鸥 2027款 320KM 自由版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s79550/6762-1.html",
+    "colors": [
+     {
+      "color_id": "15795",
+      "hex": "#505457",
+      "name_zh": "芝麻灰",
+      "photos": 8
+     },
+     {
+      "color_id": "15867",
+      "hex": "#BFBDBA",
+      "name_zh": "奶油白",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2027款",
+    "spec_id": "78508",
+    "label": "420KM 自在版",
+    "photos": 291,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海鸥 2027款 420KM 自在版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s78508/6762-1.html",
+    "colors": [
+     {
+      "color_id": "15795",
+      "hex": "#505457",
+      "name_zh": "芝麻灰",
+      "photos": 8
+     },
+     {
+      "color_id": "15867",
+      "hex": "#BFBDBA",
+      "name_zh": "奶油白",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2027款",
+    "spec_id": "79267",
+    "label": "420KM 飞翔版",
+    "photos": 359,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海鸥 2027款 420KM 飞翔版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s79267/6762-1.html",
+    "colors": [
+     {
+      "color_id": "15267",
+      "hex": "#CD5F36",
+      "name_zh": "芒芒橙",
+      "photos": 8
+     },
+     {
+      "color_id": "15795",
+      "hex": "#505457",
+      "name_zh": "芝麻灰",
+      "photos": 8
+     },
+     {
+      "color_id": "15866",
+      "hex": "#475577",
+      "name_zh": "冰椰蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "15867",
+      "hex": "#BFBDBA",
+      "name_zh": "奶油白",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2027款",
+    "spec_id": "79268",
+    "label": "420KM 智趣版",
+    "photos": 160,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海鸥 2027款 420KM 智趣版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s79268/6762-1.html",
+    "colors": [
+     {
+      "color_id": "15794",
+      "hex": "#D6C3C9",
+      "name_zh": "莓莓粉",
+      "photos": 8
+     },
+     {
+      "color_id": "15866",
+      "hex": "#475577",
+      "name_zh": "冰椰蓝",
+      "photos": 3
+     }
+    ]
+   },
+   {
+    "year": "2026款",
+    "spec_id": "77748",
+    "label": "305km 活力版",
+    "photos": 462,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海鸥 2026款 305km 活力版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s77748/6762-1.html",
+    "colors": [
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 8
+     },
+     {
+      "color_id": "11262",
+      "hex": "#C4D16A",
+      "name_zh": "萌芽绿",
+      "photos": 8
+     },
+     {
+      "color_id": "11263",
+      "hex": "#D4B4B4",
+      "name_zh": "蜜桃粉",
+      "photos": 8
+     },
+     {
+      "color_id": "15267",
+      "hex": "#CD5F36",
+      "name_zh": "芒芒橙",
+      "photos": 8
+     },
+     {
+      "color_id": "15268",
+      "hex": "#B3C9D1",
+      "name_zh": "薄荷青",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2026款",
+    "spec_id": "77717",
+    "label": "305km 自由版",
+    "photos": 423,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海鸥 2026款 305km 自由版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s77717/6762-1.html",
+    "colors": [
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 8
+     },
+     {
+      "color_id": "11262",
+      "hex": "#C4D16A",
+      "name_zh": "萌芽绿",
+      "photos": 8
+     },
+     {
+      "color_id": "11263",
+      "hex": "#D4B4B4",
+      "name_zh": "蜜桃粉",
+      "photos": 8
+     },
+     {
+      "color_id": "15267",
+      "hex": "#CD5F36",
+      "name_zh": "芒芒橙",
+      "photos": 8
+     },
+     {
+      "color_id": "15268",
+      "hex": "#B3C9D1",
+      "name_zh": "薄荷青",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2026款",
+    "spec_id": "77718",
+    "label": "405km 自在版",
+    "photos": 372,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海鸥 2026款 405km 自在版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s77718/6762-1.html",
+    "colors": [
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 8
+     },
+     {
+      "color_id": "11262",
+      "hex": "#C4D16A",
+      "name_zh": "萌芽绿",
+      "photos": 8
+     },
+     {
+      "color_id": "11263",
+      "hex": "#D4B4B4",
+      "name_zh": "蜜桃粉",
+      "photos": 8
+     },
+     {
+      "color_id": "15268",
+      "hex": "#B3C9D1",
+      "name_zh": "薄荷青",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2026款",
+    "spec_id": "77749",
+    "label": "405km 飞翔版",
+    "photos": 590,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_海鸥 2026款 405km 飞翔版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s77749/6762-1.html",
+    "colors": [
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 8
+     },
+     {
+      "color_id": "11262",
+      "hex": "#C4D16A",
+      "name_zh": "萌芽绿",
+      "photos": 8
+     },
+     {
+      "color_id": "11263",
+      "hex": "#D4B4B4",
+      "name_zh": "蜜桃粉",
+      "photos": 8
+     },
+     {
+      "color_id": "15267",
+      "hex": "#CD5F36",
+      "name_zh": "芒芒橙",
+      "photos": 8
+     },
+     {
+      "color_id": "15268",
+      "hex": "#B3C9D1",
+      "name_zh": "薄荷青",
+      "photos": 8
+     }
+    ]
+   }
+  ]
+ },
+ "Yuan Plus": {
+  "series_id": 6298,
+  "series_urls": {
+   "series-t": "https://car.autohome.com.cn/pic/series-t/6298.html",
+   "series": "https://car.autohome.com.cn/pic/series/6298.html"
+  },
+  "specs": [
+   {
+    "year": "2024款",
+    "spec_id": "66988",
+    "label": "荣耀版 430KM 领先型",
+    "photos": 466,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2024款 荣耀版 430KM 领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66988/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11667",
+      "hex": "#7C9EBA",
+      "name_zh": "氧气蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "12102",
+      "hex": "#000000",
+      "name_zh": "黑骑士",
+      "photos": 8
+     },
+     {
+      "color_id": "11668",
+      "hex": "#7A7DA4",
+      "name_zh": "律动紫",
+      "photos": 7
+     },
+     {
+      "color_id": "9346",
+      "hex": "#287494",
+      "name_zh": "冲浪蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66989",
+    "label": "荣耀版 430KM 超越型",
+    "photos": 343,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2024款 荣耀版 430KM 超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66989/6298-1.html",
+    "colors": [
+     {
+      "color_id": "11667",
+      "hex": "#7C9EBA",
+      "name_zh": "氧气蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "12102",
+      "hex": "#000000",
+      "name_zh": "黑骑士",
+      "photos": 7
+     },
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 7
+     },
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66990",
+    "label": "荣耀版 510KM 领先型",
+    "photos": 337,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2024款 荣耀版 510KM 领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66990/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 8
+     },
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12102",
+      "hex": "#000000",
+      "name_zh": "黑骑士",
+      "photos": 8
+     },
+     {
+      "color_id": "11667",
+      "hex": "#7C9EBA",
+      "name_zh": "氧气蓝",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66991",
+    "label": "荣耀版 510KM 超越型",
+    "photos": 485,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2024款 荣耀版 510KM 超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66991/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11667",
+      "hex": "#7C9EBA",
+      "name_zh": "氧气蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "11668",
+      "hex": "#7A7DA4",
+      "name_zh": "律动紫",
+      "photos": 7
+     },
+     {
+      "color_id": "12102",
+      "hex": "#000000",
+      "name_zh": "黑骑士",
+      "photos": 7
+     },
+     {
+      "color_id": "9687",
+      "hex": "#4A6C51",
+      "name_zh": "探险绿",
+      "photos": 7
+     },
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66992",
+    "label": "荣耀版 510KM 卓越型",
+    "photos": 447,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2024款 荣耀版 510KM 卓越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66992/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 7
+     },
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 7
+     },
+     {
+      "color_id": "12102",
+      "hex": "#000000",
+      "name_zh": "黑骑士",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "60131",
+    "label": "ATTO 3 欧洲版",
+    "photos": 132,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2023款 ATTO 3 欧洲版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s60131/6298-1.html",
+    "colors": []
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64814",
+    "label": "冠军版 430KM 领先型",
+    "photos": 186,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2023款 冠军版 430KM 领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64814/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64721",
+    "label": "冠军版 430KM 超越型",
+    "photos": 283,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2023款 冠军版 430KM 超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64721/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9346",
+      "hex": "#287494",
+      "name_zh": "冲浪蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64802",
+    "label": "冠军版 510KM 领先型",
+    "photos": 239,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2023款 冠军版 510KM 领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64802/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 7
+     },
+     {
+      "color_id": "9687",
+      "hex": "#4A6C51",
+      "name_zh": "探险绿",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64719",
+    "label": "冠军版 510KM 超越型",
+    "photos": 198,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2023款 冠军版 510KM 超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64719/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64720",
+    "label": "冠军版 510KM 卓越型",
+    "photos": 210,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2023款 冠军版 510KM 卓越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64720/6298-1.html",
+    "colors": [
+     {
+      "color_id": "11667",
+      "hex": "#7C9EBA",
+      "name_zh": "氧气蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "11668",
+      "hex": "#7A7DA4",
+      "name_zh": "律动紫",
+      "photos": 6
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "55069",
+    "label": "430KM 豪华型",
+    "photos": 161,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2022款 430KM 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s55069/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "54409",
+    "label": "430KM 尊贵型",
+    "photos": 150,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2022款 430KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s54409/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "55071",
+    "label": "510KM 尊荣型",
+    "photos": 317,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2022款 510KM 尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s55071/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 7
+     },
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 7
+     },
+     {
+      "color_id": "9687",
+      "hex": "#4A6C51",
+      "name_zh": "探险绿",
+      "photos": 7
+     },
+     {
+      "color_id": "9346",
+      "hex": "#287494",
+      "name_zh": "冲浪蓝",
+      "photos": 6
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "52183",
+    "label": "510KM 旗舰型",
+    "photos": 641,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2022款 510KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s52183/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9346",
+      "hex": "#287494",
+      "name_zh": "冲浪蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 7
+     },
+     {
+      "color_id": "9686",
+      "hex": "#C92829",
+      "name_zh": "跑酷红",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "55070",
+    "label": "510KM 旗舰型PLUS",
+    "photos": 336,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2022款 510KM 旗舰型PLUS车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s55070/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 14
+     },
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "54427",
+    "label": "试装车",
+    "photos": 444,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_元PLUS 2022款 试装车车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s54427/6298-1.html",
+    "colors": []
+   },
+   {
+    "year": "2026款",
+    "spec_id": "75165",
+    "label": "540KM 领先型",
+    "photos": 420,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_元PLUS 2026款 540KM 领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s75165/6298-1.html",
+    "colors": [
+     {
+      "color_id": "15189",
+      "hex": "#FFFFFF",
+      "name_zh": "空境白",
+      "photos": 8
+     },
+     {
+      "color_id": "15191",
+      "hex": "#9E9E9E",
+      "name_zh": "线条灰",
+      "photos": 8
+     },
+     {
+      "color_id": "15804",
+      "hex": "#EDB5A4",
+      "name_zh": "幻梦粉",
+      "photos": 8
+     },
+     {
+      "color_id": "15188",
+      "hex": "#B3C9D1",
+      "name_zh": "境遇青",
+      "photos": 6
+     },
+     {
+      "color_id": "15782",
+      "hex": "#66CBE9",
+      "name_zh": "潮玩蓝",
+      "photos": 6
+     }
+    ]
+   },
+   {
+    "year": "2026款",
+    "spec_id": "77914",
+    "label": "540KM 超越型",
+    "photos": 568,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_元PLUS 2026款 540KM 超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s77914/6298-1.html",
+    "colors": [
+     {
+      "color_id": "15188",
+      "hex": "#B3C9D1",
+      "name_zh": "境遇青",
+      "photos": 8
+     },
+     {
+      "color_id": "15189",
+      "hex": "#FFFFFF",
+      "name_zh": "空境白",
+      "photos": 8
+     },
+     {
+      "color_id": "15191",
+      "hex": "#9E9E9E",
+      "name_zh": "线条灰",
+      "photos": 8
+     },
+     {
+      "color_id": "15782",
+      "hex": "#66CBE9",
+      "name_zh": "潮玩蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "15804",
+      "hex": "#EDB5A4",
+      "name_zh": "幻梦粉",
+      "photos": 8
+     },
+     {
+      "color_id": "15838",
+      "hex": "#47574D",
+      "name_zh": "气场绿",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2026款",
+    "spec_id": "77869",
+    "label": "630KM 超越型",
+    "photos": 618,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_元PLUS 2026款 630KM 超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s77869/6298-1.html",
+    "colors": [
+     {
+      "color_id": "15188",
+      "hex": "#B3C9D1",
+      "name_zh": "境遇青",
+      "photos": 8
+     },
+     {
+      "color_id": "15189",
+      "hex": "#FFFFFF",
+      "name_zh": "空境白",
+      "photos": 8
+     },
+     {
+      "color_id": "15191",
+      "hex": "#9E9E9E",
+      "name_zh": "线条灰",
+      "photos": 8
+     },
+     {
+      "color_id": "15804",
+      "hex": "#EDB5A4",
+      "name_zh": "幻梦粉",
+      "photos": 8
+     },
+     {
+      "color_id": "15838",
+      "hex": "#47574D",
+      "name_zh": "气场绿",
+      "photos": 8
+     },
+     {
+      "color_id": "15782",
+      "hex": "#66CBE9",
+      "name_zh": "潮玩蓝",
+      "photos": 6
+     }
+    ]
+   },
+   {
+    "year": "2026款",
+    "spec_id": "76816",
+    "label": "630KM 卓越型",
+    "photos": 1347,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_元PLUS 2026款 630KM 卓越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s76816/6298-1.html",
+    "colors": [
+     {
+      "color_id": "15188",
+      "hex": "#B3C9D1",
+      "name_zh": "境遇青",
+      "photos": 8
+     },
+     {
+      "color_id": "15189",
+      "hex": "#FFFFFF",
+      "name_zh": "空境白",
+      "photos": 8
+     },
+     {
+      "color_id": "15191",
+      "hex": "#9E9E9E",
+      "name_zh": "线条灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "72031",
+    "label": "智驾版 430KM 领先型",
+    "photos": 646,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_元PLUS 2025款 智驾版 430KM 领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s72031/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 8
+     },
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12903",
+      "hex": "#000000",
+      "name_zh": "玄武黑",
+      "photos": 8
+     },
+     {
+      "color_id": "13356",
+      "hex": "#E5DCC8",
+      "name_zh": "乐动米",
+      "photos": 8
+     },
+     {
+      "color_id": "14255",
+      "hex": "#5C6D90",
+      "name_zh": "扬帆蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "14414",
+      "hex": "#BCD3BB",
+      "name_zh": "越野绿",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71427",
+    "label": "智驾版 430KM 超越型",
+    "photos": 610,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_元PLUS 2025款 智驾版 430KM 超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71427/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 8
+     },
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12903",
+      "hex": "#000000",
+      "name_zh": "玄武黑",
+      "photos": 8
+     },
+     {
+      "color_id": "13356",
+      "hex": "#E5DCC8",
+      "name_zh": "乐动米",
+      "photos": 8
+     },
+     {
+      "color_id": "14255",
+      "hex": "#5C6D90",
+      "name_zh": "扬帆蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "14414",
+      "hex": "#BCD3BB",
+      "name_zh": "越野绿",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71817",
+    "label": "智驾版 510KM 领先型",
+    "photos": 629,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_元PLUS 2025款 智驾版 510KM 领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71817/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 8
+     },
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12903",
+      "hex": "#000000",
+      "name_zh": "玄武黑",
+      "photos": 8
+     },
+     {
+      "color_id": "13356",
+      "hex": "#E5DCC8",
+      "name_zh": "乐动米",
+      "photos": 8
+     },
+     {
+      "color_id": "14255",
+      "hex": "#5C6D90",
+      "name_zh": "扬帆蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "14414",
+      "hex": "#BCD3BB",
+      "name_zh": "越野绿",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71852",
+    "label": "智驾版 510KM 超越型",
+    "photos": 613,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_元PLUS 2025款 智驾版 510KM 超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71852/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 8
+     },
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12903",
+      "hex": "#000000",
+      "name_zh": "玄武黑",
+      "photos": 8
+     },
+     {
+      "color_id": "13356",
+      "hex": "#E5DCC8",
+      "name_zh": "乐动米",
+      "photos": 8
+     },
+     {
+      "color_id": "14255",
+      "hex": "#5C6D90",
+      "name_zh": "扬帆蓝",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71918",
+    "label": "智驾版 510KM 卓越型",
+    "photos": 352,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_元PLUS 2025款 智驾版 510KM 卓越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71918/6298-1.html",
+    "colors": [
+     {
+      "color_id": "9685",
+      "hex": "#A8A8A8",
+      "name_zh": "攀岩灰",
+      "photos": 8
+     },
+     {
+      "color_id": "13356",
+      "hex": "#E5DCC8",
+      "name_zh": "乐动米",
+      "photos": 8
+     },
+     {
+      "color_id": "9684",
+      "hex": "#FFFFFF",
+      "name_zh": "滑雪白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "73409",
+    "label": "中国香港车展版",
+    "photos": 260,
+    "stopsale": false,
+    "color_view": false,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_元PLUS 2025款 中国香港车展版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s73409/6298-1.html",
+    "colors": []
+   }
+  ]
+ },
+ "Han": {
+  "series_id": 5499,
+  "series_urls": {
+   "series-t": "https://car.autohome.com.cn/pic/series-t/5499.html",
+   "series": "https://car.autohome.com.cn/pic/series/5499.html"
+  },
+  "specs": [
+   {
+    "year": "2025款",
+    "spec_id": "71623",
+    "label": "EV 智驾版 701KM尊荣型",
+    "photos": 402,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2025款 EV 智驾版 701KM尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71623/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71703",
+    "label": "EV 智驾版 701KM激光雷达尊享型",
+    "photos": 211,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2025款 EV 智驾版 701KM激光雷达尊享型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71703/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71704",
+    "label": "EV 智驾版 701KM激光雷达旗舰型",
+    "photos": 178,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2025款 EV 智驾版 701KM激光雷达旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71704/5499-1.html",
+    "colors": [
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69142",
+    "label": "EV 506KM尊贵型",
+    "photos": 633,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2025款 EV 506KM尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69142/5499-1.html",
+    "colors": [
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 16
+     },
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69813",
+    "label": "EV 605KM尊贵型",
+    "photos": 494,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2025款 EV 605KM尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69813/5499-1.html",
+    "colors": [
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 14
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 7
+     },
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69814",
+    "label": "EV 701KM尊享型",
+    "photos": 302,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2025款 EV 701KM尊享型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69814/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69802",
+    "label": "EV 701KM激光雷达智驾型",
+    "photos": 285,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2025款 EV 701KM激光雷达智驾型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69802/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69815",
+    "label": "DM-i 125KM舒适型",
+    "photos": 292,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 125KM舒适型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69815/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69143",
+    "label": "DM-i 125KM精英型",
+    "photos": 451,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 125KM精英型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69143/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69816",
+    "label": "DM-i 125KM尊贵型",
+    "photos": 393,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 125KM尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69816/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69817",
+    "label": "DM-i 125KM尊荣型",
+    "photos": 318,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 125KM尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69817/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69144",
+    "label": "DM-i 125KM激光雷达智驾型",
+    "photos": 211,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 125KM激光雷达智驾型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69144/5499-1.html",
+    "colors": [
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66902",
+    "label": "EV 荣耀版 506KM前驱尊贵型",
+    "photos": 195,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2024款 EV 荣耀版 506KM前驱尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66902/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66903",
+    "label": "EV 荣耀版 605KM前驱尊贵型",
+    "photos": 166,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2024款 EV 荣耀版 605KM前驱尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66903/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66774",
+    "label": "EV 荣耀版 715KM前驱旗舰型",
+    "photos": 228,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2024款 EV 荣耀版 715KM前驱旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66774/5499-1.html",
+    "colors": [
+     {
+      "color_id": "12093",
+      "hex": "#8F98C3",
+      "name_zh": "暮山紫",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66905",
+    "label": "EV 荣耀版 610KM四驱天神之眼智驾型",
+    "photos": 222,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2024款 EV 荣耀版 610KM四驱天神之眼智驾型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66905/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66906",
+    "label": "DM-i 荣耀版 121KM 精英型",
+    "photos": 198,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2024款 DM-i 荣耀版 121KM 精英型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66906/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66753",
+    "label": "DM-i 荣耀版 121KM 尊贵型",
+    "photos": 307,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2024款 DM-i 荣耀版 121KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66753/5499-1.html",
+    "colors": [
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 8
+     },
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66907",
+    "label": "DM-i 荣耀版 121KM 尊荣型",
+    "photos": 344,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2024款 DM-i 荣耀版 121KM 尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66907/5499-1.html",
+    "colors": [
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 8
+     },
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     },
+     {
+      "color_id": "11167",
+      "hex": "#9EB9D9",
+      "name_zh": "冰川蓝",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66773",
+    "label": "DM-i 荣耀版 121KM 尊享型",
+    "photos": 220,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2024款 DM-i 荣耀版 121KM 尊享型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66773/5499-1.html",
+    "colors": [
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66908",
+    "label": "DM-i 荣耀版 200KM 旗舰型",
+    "photos": 272,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2024款 DM-i 荣耀版 200KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66908/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66909",
+    "label": "DM-p 战神版",
+    "photos": 214,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2024款 DM-p 战神版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66909/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "67270",
+    "label": "DM-i 121KM领航荣耀版",
+    "photos": 196,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2024款 DM-i 121KM领航荣耀版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s67270/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63138",
+    "label": "DM-i 冠军版 121KM 精英型",
+    "photos": 240,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2023款 DM-i 冠军版 121KM 精英型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63138/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63137",
+    "label": "DM-i 冠军版 121KM 尊贵型",
+    "photos": 200,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2023款 DM-i 冠军版 121KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63137/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63136",
+    "label": "DM-i 冠军版 121KM 尊荣型",
+    "photos": 213,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2023款 DM-i 冠军版 121KM 尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63136/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63070",
+    "label": "DM-i 冠军版 121KM 尊享型",
+    "photos": 267,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2023款 DM-i 冠军版 121KM 尊享型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63070/5499-1.html",
+    "colors": [
+     {
+      "color_id": "9462",
+      "hex": "#2871EB",
+      "name_zh": "极光蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "11167",
+      "hex": "#9EB9D9",
+      "name_zh": "冰川蓝",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63139",
+    "label": "DM-i 冠军版 200KM 尊享型",
+    "photos": 215,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2023款 DM-i 冠军版 200KM 尊享型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63139/5499-1.html",
+    "colors": [
+     {
+      "color_id": "11167",
+      "hex": "#9EB9D9",
+      "name_zh": "冰川蓝",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63071",
+    "label": "DM-i 冠军版 200KM 旗舰型",
+    "photos": 189,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2023款 DM-i 冠军版 200KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63071/5499-1.html",
+    "colors": [
+     {
+      "color_id": "11167",
+      "hex": "#9EB9D9",
+      "name_zh": "冰川蓝",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63087",
+    "label": "DM-p 战神版",
+    "photos": 173,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2023款 DM-p 战神版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63087/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61824",
+    "label": "EV 冠军版 506KM前驱尊贵型",
+    "photos": 234,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2023款 EV 冠军版 506KM前驱尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61824/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61410",
+    "label": "EV 冠军版 605KM前驱尊贵型",
+    "photos": 384,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2023款 EV 冠军版 605KM前驱尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61410/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     },
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 6
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61763",
+    "label": "EV 冠军版 715KM前驱尊荣型",
+    "photos": 175,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2023款 EV 冠军版 715KM前驱尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61763/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "60128",
+    "label": "EV 欧洲版",
+    "photos": 142,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2023款 EV 欧洲版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s60128/5499-1.html",
+    "colors": []
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61823",
+    "label": "EV 冠军版 715KM前驱旗舰型",
+    "photos": 241,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2023款 EV 冠军版 715KM前驱旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61823/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61825",
+    "label": "EV 冠军版 610KM四驱旗舰型",
+    "photos": 320,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2023款 EV 冠军版 610KM四驱旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61825/5499-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "11167",
+      "hex": "#9EB9D9",
+      "name_zh": "冰川蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 1
+     },
+     {
+      "color_id": "9462",
+      "hex": "#2871EB",
+      "name_zh": "极光蓝",
+      "photos": 1
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "56566",
+    "label": "EV 创世版 715KM前驱尊荣型",
+    "photos": 144,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2022款 EV 创世版 715KM前驱尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s56566/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "56542",
+    "label": "EV 创世版 715KM前驱旗舰型",
+    "photos": 205,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2022款 EV 创世版 715KM前驱旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s56542/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "56451",
+    "label": "EV 创世版 610KM四驱尊享型",
+    "photos": 294,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2022款 EV 创世版 610KM四驱尊享型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s56451/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "9462",
+      "hex": "#2871EB",
+      "name_zh": "极光蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "56153",
+    "label": "DM-i 121KM 尊贵型",
+    "photos": 193,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2022款 DM-i 121KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s56153/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "56152",
+    "label": "DM-i 121KM 尊荣型",
+    "photos": 148,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2022款 DM-i 121KM 尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s56152/5499-1.html",
+    "colors": [
+     {
+      "color_id": "9462",
+      "hex": "#2871EB",
+      "name_zh": "极光蓝",
+      "photos": 6
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "55313",
+    "label": "DM-i 121KM 尊享型",
+    "photos": 496,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2022款 DM-i 121KM 尊享型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s55313/5499-1.html",
+    "colors": [
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 12
+     },
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "56151",
+    "label": "DM-i 242KM 旗舰型",
+    "photos": 169,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2022款 DM-i 242KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s56151/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "55886",
+    "label": "DM-p 202KM 四驱旗舰型",
+    "photos": 170,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2022款 DM-p 202KM 四驱旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s55886/5499-1.html",
+    "colors": [
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "56567",
+    "label": "EV 610KM四驱千山翠限量版",
+    "photos": 207,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2022款 EV 610KM四驱千山翠限量版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s56567/5499-1.html",
+    "colors": [
+     {
+      "color_id": "10021",
+      "hex": "#3D655D",
+      "name_zh": "千山翠",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "53010",
+    "label": "DM 国漫版",
+    "photos": 140,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2021款 DM 国漫版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s53010/5499-1.html",
+    "colors": []
+   },
+   {
+    "year": "2021款",
+    "spec_id": "50310",
+    "label": "EV 苏州园林定制版",
+    "photos": 67,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2021款 EV 苏州园林定制版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s50310/5499-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 4
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "52453",
+    "label": "EV 标准续航版豪华型",
+    "photos": 175,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2021款 EV 标准续航版豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s52453/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2020款",
+    "spec_id": "45620",
+    "label": "EV 超长续航版尊贵型",
+    "photos": 849,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2020款 EV 超长续航版尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s45620/5499-1.html",
+    "colors": [
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 14
+     },
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 12
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2020款",
+    "spec_id": "42643",
+    "label": "EV 四驱高性能版旗舰型",
+    "photos": 751,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2020款 EV 四驱高性能版旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s42643/5499-1.html",
+    "colors": [
+     {
+      "color_id": "9462",
+      "hex": "#2871EB",
+      "name_zh": "极光蓝",
+      "photos": 14
+     },
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2020款",
+    "spec_id": "43481",
+    "label": "DM 四驱性能版豪华型",
+    "photos": 237,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2020款 DM 四驱性能版豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s43481/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 5
+     }
+    ]
+   },
+   {
+    "year": "2020款",
+    "spec_id": "46953",
+    "label": "DM 四驱性能版尊贵型",
+    "photos": 567,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2020款 DM 四驱性能版尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s46953/5499-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2020款",
+    "spec_id": "45619",
+    "label": "EV 超长续航版豪华型",
+    "photos": 196,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_汉 2020款 EV 超长续航版豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s45619/5499-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2027款",
+    "spec_id": "79516",
+    "label": "DM-i 基本型",
+    "photos": 3,
+    "stopsale": false,
+    "color_view": false,
+    "listed_on": [
+     "series"
+    ],
+    "title": null,
+    "url": "https://car.autohome.com.cn/pic/series-s79516/5499-1.html",
+    "colors": []
+   },
+   {
+    "year": "2026款",
+    "spec_id": "77297",
+    "label": "EV 智驾版 705KM闪充尊贵型",
+    "photos": 643,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2026款 EV 智驾版 705KM闪充尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s77297/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     },
+     {
+      "color_id": "14399",
+      "hex": "#68757B",
+      "name_zh": "松影绿",
+      "photos": 8
+     },
+     {
+      "color_id": "14425",
+      "hex": "#D6CDC4",
+      "name_zh": "雾凇金",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2026款",
+    "spec_id": "77668",
+    "label": "EV 智驾版 705KM闪充尊荣型",
+    "photos": 195,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2026款 EV 智驾版 705KM闪充尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s77668/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "14425",
+      "hex": "#D6CDC4",
+      "name_zh": "雾凇金",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2026款",
+    "spec_id": "77548",
+    "label": "特别版",
+    "photos": 112,
+    "stopsale": false,
+    "color_view": false,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2026款 特别版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s77548/5499-1.html",
+    "colors": []
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71535",
+    "label": "EV 智驾版 506KM尊贵型",
+    "photos": 403,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 EV 智驾版 506KM尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71535/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71591",
+    "label": "EV 智驾版 605KM尊荣型",
+    "photos": 414,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 EV 智驾版 605KM尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71591/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "75061",
+    "label": "EV 智驾版 635KM旗舰版",
+    "photos": 615,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 EV 智驾版 635KM旗舰版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s75061/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     },
+     {
+      "color_id": "14399",
+      "hex": "#68757B",
+      "name_zh": "松影绿",
+      "photos": 8
+     },
+     {
+      "color_id": "14426",
+      "hex": "#7C8FA0",
+      "name_zh": "远峰蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "14425",
+      "hex": "#D6CDC4",
+      "name_zh": "雾凇金",
+      "photos": 5
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "75188",
+    "label": "EV 智驾版 635KM激光雷达旗舰型",
+    "photos": 528,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 EV 智驾版 635KM激光雷达旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s75188/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     },
+     {
+      "color_id": "14399",
+      "hex": "#68757B",
+      "name_zh": "松影绿",
+      "photos": 8
+     },
+     {
+      "color_id": "14425",
+      "hex": "#D6CDC4",
+      "name_zh": "雾凇金",
+      "photos": 8
+     },
+     {
+      "color_id": "14426",
+      "hex": "#7C8FA0",
+      "name_zh": "远峰蓝",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71705",
+    "label": "DM-i 智驾版 125KM舒适型",
+    "photos": 345,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 智驾版 125KM舒适型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71705/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71533",
+    "label": "DM-i 智驾版 125KM精英型",
+    "photos": 462,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 智驾版 125KM精英型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71533/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71534",
+    "label": "DM-i 智驾版 125KM尊贵型",
+    "photos": 362,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 智驾版 125KM尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71534/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71706",
+    "label": "DM-i 智驾版 125KM尊荣型",
+    "photos": 323,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 智驾版 125KM尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71706/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "11602",
+      "hex": "#C3CBD6",
+      "name_zh": "银釉白",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71707",
+    "label": "DM-i 智驾版 125KM激光雷达旗舰型",
+    "photos": 258,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 智驾版 125KM激光雷达旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71707/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "75104",
+    "label": "DM-i 智驾版 245KM尊贵型",
+    "photos": 541,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 智驾版 245KM尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s75104/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     },
+     {
+      "color_id": "14399",
+      "hex": "#68757B",
+      "name_zh": "松影绿",
+      "photos": 8
+     },
+     {
+      "color_id": "14425",
+      "hex": "#D6CDC4",
+      "name_zh": "雾凇金",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "75106",
+    "label": "DM-i 智驾版 245KM尊荣型",
+    "photos": 601,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 智驾版 245KM尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s75106/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "14399",
+      "hex": "#68757B",
+      "name_zh": "松影绿",
+      "photos": 8
+     },
+     {
+      "color_id": "14425",
+      "hex": "#D6CDC4",
+      "name_zh": "雾凇金",
+      "photos": 8
+     },
+     {
+      "color_id": "14426",
+      "hex": "#7C8FA0",
+      "name_zh": "远峰蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "75192",
+    "label": "DM-i 智驾版 245KM激光雷达旗舰型",
+    "photos": 363,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 智驾版 245KM激光雷达旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s75192/5499-1.html",
+    "colors": [
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     },
+     {
+      "color_id": "14399",
+      "hex": "#68757B",
+      "name_zh": "松影绿",
+      "photos": 8
+     },
+     {
+      "color_id": "14426",
+      "hex": "#7C8FA0",
+      "name_zh": "远峰蓝",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "72514",
+    "label": "EV 智驾版 605KM领航版",
+    "photos": 342,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 EV 智驾版 605KM领航版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s72514/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "72515",
+    "label": "DM-i 智驾版 125KM领航版",
+    "photos": 251,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 DM-i 智驾版 125KM领航版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s72515/5499-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "70816",
+    "label": "特别版",
+    "photos": 82,
+    "stopsale": false,
+    "color_view": false,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_汉 2025款 特别版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s70816/5499-1.html",
+    "colors": []
+   }
+  ]
+ },
+ "Qin Plus": {
+  "series_id": 5964,
+  "series_urls": {
+   "series-t": "https://car.autohome.com.cn/pic/series-t/5964.html",
+   "series": "https://car.autohome.com.cn/pic/series/5964.html"
+  },
+  "specs": [
+   {
+    "year": "2025款",
+    "spec_id": "71504",
+    "label": "DM-i 智驾版 55KM领先型",
+    "photos": 395,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2025款 DM-i 智驾版 55KM领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71504/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12059",
+      "hex": "#364258",
+      "name_zh": "白釉青",
+      "photos": 8
+     },
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "74790",
+    "label": "DM-i 智驾版 128KM进取型",
+    "photos": 606,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2025款 DM-i 智驾版 128KM进取型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s74790/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12059",
+      "hex": "#364258",
+      "name_zh": "白釉青",
+      "photos": 8
+     },
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 8
+     },
+     {
+      "color_id": "14323",
+      "hex": "#C9C9C9",
+      "name_zh": "星河米",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71685",
+    "label": "DM-i 智驾版 55KM超越型",
+    "photos": 414,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2025款 DM-i 智驾版 55KM超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71685/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 8
+     },
+     {
+      "color_id": "12059",
+      "hex": "#364258",
+      "name_zh": "白釉青",
+      "photos": 6
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71686",
+    "label": "DM-i 智驾版 120KM超越型",
+    "photos": 444,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2025款 DM-i 智驾版 120KM超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71686/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12059",
+      "hex": "#364258",
+      "name_zh": "白釉青",
+      "photos": 8
+     },
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66743",
+    "label": "荣耀版 DM-i 55KM领先型",
+    "photos": 469,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2024款 荣耀版 DM-i 55KM领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66743/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     },
+     {
+      "color_id": "11075",
+      "hex": "#033570",
+      "name_zh": "墨玉蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "12059",
+      "hex": "#364258",
+      "name_zh": "白釉青",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66744",
+    "label": "荣耀版 DM-i 55KM超越型",
+    "photos": 261,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2024款 荣耀版 DM-i 55KM超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66744/5964-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66745",
+    "label": "荣耀版 DM-i 120KM领先型",
+    "photos": 212,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2024款 荣耀版 DM-i 120KM领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66745/5964-1.html",
+    "colors": [
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66746",
+    "label": "荣耀版 DM-i 120KM超越型",
+    "photos": 297,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2024款  荣耀版 DM-i 120KM超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66746/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     },
+     {
+      "color_id": "12059",
+      "hex": "#364258",
+      "name_zh": "白釉青",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66733",
+    "label": "荣耀版 DM-i 120KM卓越型",
+    "photos": 224,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2024款 荣耀版 DM-i 120KM卓越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66733/5964-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66747",
+    "label": "荣耀版 EV 420KM领先型",
+    "photos": 295,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2024款 荣耀版 EV 420KM领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66747/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "12059",
+      "hex": "#364258",
+      "name_zh": "白釉青",
+      "photos": 8
+     },
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66748",
+    "label": "荣耀版 EV 420KM超越型",
+    "photos": 226,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2024款 荣耀版 EV 420KM超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66748/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66749",
+    "label": "荣耀版 EV 510KM领先型",
+    "photos": 328,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2024款 荣耀版 EV 510KM领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66749/5964-1.html",
+    "colors": [
+     {
+      "color_id": "11075",
+      "hex": "#033570",
+      "name_zh": "墨玉蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "12059",
+      "hex": "#364258",
+      "name_zh": "白釉青",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66750",
+    "label": "荣耀版 EV 510KM超越型",
+    "photos": 271,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2024款 荣耀版 EV 510KM超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66750/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "12059",
+      "hex": "#364258",
+      "name_zh": "白釉青",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66751",
+    "label": "荣耀版 EV 510KM卓越型",
+    "photos": 188,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2024款 荣耀版 EV 510KM卓越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66751/5964-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "67266",
+    "label": "DM-i 120KM领航荣耀版",
+    "photos": 172,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2024款 DM-i 120KM领航荣耀版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s67266/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "67265",
+    "label": "DM-i 55KM领航荣耀版",
+    "photos": 175,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2024款 DM-i 55KM领航荣耀版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s67265/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61527",
+    "label": "冠军版 DM-i 55KM领先型",
+    "photos": 158,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2023款 冠军版 DM-i 55KM领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61527/5964-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61528",
+    "label": "冠军版 DM-i 55KM超越型",
+    "photos": 160,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2023款 冠军版 DM-i 55KM超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61528/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61235",
+    "label": "冠军版 DM-i 120KM领先型",
+    "photos": 215,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2023款 冠军版 DM-i 120KM领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61235/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61240",
+    "label": "冠军版 DM-i 120KM超越型",
+    "photos": 225,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2023款  冠军版 DM-i 120KM超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61240/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61318",
+    "label": "冠军版 DM-i 120KM卓越型",
+    "photos": 490,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2023款 冠军版 DM-i 120KM卓越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61318/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "7685",
+      "hex": "#000000",
+      "name_zh": "玄空黑",
+      "photos": 7
+     },
+     {
+      "color_id": "11075",
+      "hex": "#033570",
+      "name_zh": "墨玉蓝",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62385",
+    "label": "冠军版 EV 420KM领先型",
+    "photos": 193,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2023款 冠军版 EV 420KM领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62385/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62386",
+    "label": "冠军版 EV 420KM超越型",
+    "photos": 197,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2023款 冠军版 EV 420KM超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62386/5964-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62387",
+    "label": "冠军版 EV 510KM领先型",
+    "photos": 192,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2023款 冠军版 EV 510KM领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62387/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62389",
+    "label": "冠军版 EV 510KM超越型",
+    "photos": 158,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2023款 冠军版 EV 510KM超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62389/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62390",
+    "label": "冠军版 EV 510KM卓越型",
+    "photos": 198,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2023款 冠军版 EV 510KM卓越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62390/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62080",
+    "label": "冠军版 EV 610KM卓越型",
+    "photos": 193,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2023款 冠军版 EV 610KM卓越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62080/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64994",
+    "label": "EV 500KM 出行版",
+    "photos": 168,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2023款 EV 500KM 出行版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64994/5964-1.html",
+    "colors": []
+   },
+   {
+    "year": "2021款",
+    "spec_id": "49498",
+    "label": "DM-i 55KM 尊贵型",
+    "photos": 160,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2021款 DM-i 55KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s49498/5964-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "49499",
+    "label": "DM-i 55KM 旗舰型",
+    "photos": 415,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2021款 DM-i 55KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s49499/5964-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 13
+     },
+     {
+      "color_id": "8637",
+      "hex": "#000555",
+      "name_zh": "天青蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "49500",
+    "label": "DM-i 120KM 尊贵型",
+    "photos": 160,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2021款 DM-i 120KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s49500/5964-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "49501",
+    "label": "DM-i 120KM 旗舰型",
+    "photos": 448,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2021款 DM-i 120KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s49501/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     },
+     {
+      "color_id": "8638",
+      "hex": "#000000",
+      "name_zh": "玄羽黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "50587",
+    "label": "EV 400KM 豪华型",
+    "photos": 155,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2021款 EV 400KM 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s50587/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "48753",
+    "label": "试装车",
+    "photos": 528,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2021款 试装车车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s48753/5964-1.html",
+    "colors": []
+   },
+   {
+    "year": "2021款",
+    "spec_id": "50588",
+    "label": "EV 500KM 豪华型",
+    "photos": 170,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2021款 EV 500KM 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s50588/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "50589",
+    "label": "EV 500KM 尊贵型",
+    "photos": 292,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2021款 EV 500KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s50589/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "49774",
+    "label": "EV 600KM 旗舰型",
+    "photos": 194,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2021款 EV 600KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s49774/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 5
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "51965",
+    "label": "EV 400KM 领畅版",
+    "photos": 183,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_秦PLUS 2021款 EV 400KM 领畅版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s51965/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2027款",
+    "spec_id": "79575",
+    "label": "DM-i 140KM领先型",
+    "photos": 424,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2027款 DM-i 140KM领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s79575/5964-1.html",
+    "colors": [
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 8
+     },
+     {
+      "color_id": "14323",
+      "hex": "#C9C9C9",
+      "name_zh": "星河米",
+      "photos": 8
+     },
+     {
+      "color_id": "14514",
+      "hex": "#5595AA",
+      "name_zh": "墨竹青",
+      "photos": 8
+     },
+     {
+      "color_id": "15920",
+      "hex": "#FFFFFF",
+      "name_zh": "初雪白",
+      "photos": 8
+     },
+     {
+      "color_id": "15921",
+      "hex": "#7A7779",
+      "name_zh": "钛晶灰",
+      "photos": 8
+     },
+     {
+      "color_id": "15922",
+      "hex": "#8C9BD2",
+      "name_zh": "海岛蓝",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2027款",
+    "spec_id": "79573",
+    "label": "DM-i 220KM超越型",
+    "photos": 444,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2027款 DM-i 220KM超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s79573/5964-1.html",
+    "colors": [
+     {
+      "color_id": "14323",
+      "hex": "#C9C9C9",
+      "name_zh": "星河米",
+      "photos": 8
+     },
+     {
+      "color_id": "14514",
+      "hex": "#5595AA",
+      "name_zh": "墨竹青",
+      "photos": 8
+     },
+     {
+      "color_id": "15920",
+      "hex": "#FFFFFF",
+      "name_zh": "初雪白",
+      "photos": 8
+     },
+     {
+      "color_id": "15921",
+      "hex": "#7A7779",
+      "name_zh": "钛晶灰",
+      "photos": 8
+     },
+     {
+      "color_id": "15922",
+      "hex": "#8C9BD2",
+      "name_zh": "海岛蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 6
+     }
+    ]
+   },
+   {
+    "year": "2027款",
+    "spec_id": "78511",
+    "label": "DM-i 220KM卓越型",
+    "photos": 430,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2027款 DM-i 220KM卓越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s78511/5964-1.html",
+    "colors": [
+     {
+      "color_id": "14323",
+      "hex": "#C9C9C9",
+      "name_zh": "星河米",
+      "photos": 8
+     },
+     {
+      "color_id": "14514",
+      "hex": "#5595AA",
+      "name_zh": "墨竹青",
+      "photos": 8
+     },
+     {
+      "color_id": "15920",
+      "hex": "#FFFFFF",
+      "name_zh": "初雪白",
+      "photos": 8
+     },
+     {
+      "color_id": "15921",
+      "hex": "#7A7779",
+      "name_zh": "钛晶灰",
+      "photos": 8
+     },
+     {
+      "color_id": "15922",
+      "hex": "#8C9BD2",
+      "name_zh": "海岛蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 6
+     }
+    ]
+   },
+   {
+    "year": "2026款",
+    "spec_id": "76199",
+    "label": "DM-i 128KM进取型",
+    "photos": 402,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2026款 DM-i 128KM进取型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s76199/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 8
+     },
+     {
+      "color_id": "14323",
+      "hex": "#C9C9C9",
+      "name_zh": "星河米",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2026款",
+    "spec_id": "76109",
+    "label": "DM-i 210KM进取型",
+    "photos": 440,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2026款 DM-i 210KM进取型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s76109/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     },
+     {
+      "color_id": "14323",
+      "hex": "#C9C9C9",
+      "name_zh": "星河米",
+      "photos": 8
+     },
+     {
+      "color_id": "14717",
+      "hex": "#68757B",
+      "name_zh": "松烟绿",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2026款",
+    "spec_id": "76177",
+    "label": "DM-i 210KM超越型",
+    "photos": 214,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2026款 DM-i 210KM超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s76177/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71687",
+    "label": "EV 智驾版 420KM领先型",
+    "photos": 476,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2025款 EV 智驾版 420KM领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71687/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12059",
+      "hex": "#364258",
+      "name_zh": "白釉青",
+      "photos": 8
+     },
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "74866",
+    "label": "EV 智驾版 510KM进取型",
+    "photos": 455,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2025款 EV 智驾版 510KM进取型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s74866/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 8
+     },
+     {
+      "color_id": "12801",
+      "hex": "#787878",
+      "name_zh": "未央灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71688",
+    "label": "EV 智驾版 510KM领先型",
+    "photos": 342,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2025款 EV 智驾版 510KM领先型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71688/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12059",
+      "hex": "#364258",
+      "name_zh": "白釉青",
+      "photos": 8
+     },
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71689",
+    "label": "EV 智驾版 510KM超越型",
+    "photos": 296,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2025款 EV 智驾版 510KM超越型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71689/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "12359",
+      "hex": "#A7B4BB",
+      "name_zh": "冰珀青",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "72103",
+    "label": "EV 510KM 标准版",
+    "photos": 235,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2025款 EV 510KM 标准版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s72103/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "72442",
+    "label": "EV 510KM 畅行版",
+    "photos": 249,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2025款 EV 510KM 畅行版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s72442/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "72524",
+    "label": "EV 智驾版 510KM领航版",
+    "photos": 353,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2025款 EV 智驾版 510KM领航版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s72524/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "12059",
+      "hex": "#364258",
+      "name_zh": "白釉青",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "65656",
+    "label": "EV 510KM 出行版",
+    "photos": 163,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2023款 EV 510KM 出行版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s65656/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "63012",
+    "label": "EV 510KM 出行版",
+    "photos": 161,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2021款 EV 510KM 出行版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63012/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "51966",
+    "label": "EV 420KM 出行版",
+    "photos": 147,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_秦PLUS 2021款 EV 420KM 出行版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s51966/5964-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 6
+     }
+    ]
+   }
+  ]
+ },
+ "Song Plus": {
+  "series_id": 5761,
+  "series_urls": {
+   "series-t": "https://car.autohome.com.cn/pic/series-t/5761.html",
+   "series": "https://car.autohome.com.cn/pic/series/5761.html"
+  },
+  "specs": [
+   {
+    "year": "2025款",
+    "spec_id": "69209",
+    "label": "DM-i 75KM 豪华型",
+    "photos": 265,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 DM-i 75KM 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69209/5761-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69252",
+    "label": "DM-i 112KM 尊贵型",
+    "photos": 483,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 DM-i 112KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69252/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69253",
+    "label": "DM-i 112KM 尊荣型",
+    "photos": 436,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 DM-i 112KM 尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69253/5761-1.html",
+    "colors": [
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 8
+     },
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69254",
+    "label": "DM-i 160KM 旗舰型",
+    "photos": 420,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 DM-i 160KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69254/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69210",
+    "label": "DM-i 160KM 旗舰PLUS",
+    "photos": 381,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 DM-i 160KM 旗舰PLUS车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69210/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69512",
+    "label": "EV 520km 豪华型",
+    "photos": 382,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 EV 520km 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69512/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69513",
+    "label": "EV 520km 尊贵型",
+    "photos": 517,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 EV 520km 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69513/5761-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 16
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 14
+     },
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "69514",
+    "label": "EV 605km 旗舰型",
+    "photos": 372,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 EV 605km 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69514/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71470",
+    "label": "DM-i 智驾版 112KM 尊贵型",
+    "photos": 403,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 DM-i 智驾版 112KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71470/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71525",
+    "label": "DM-i 智驾版 112KM 尊荣型",
+    "photos": 451,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 DM-i 智驾版 112KM 尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71525/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71480",
+    "label": "DM-i 智驾版 160KM 旗舰型",
+    "photos": 418,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 DM-i 智驾版 160KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71480/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71520",
+    "label": "EV 智驾版 520km 豪华型",
+    "photos": 295,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 EV 智驾版 520km 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71520/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71524",
+    "label": "EV 智驾版 520km 尊贵型",
+    "photos": 357,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 EV 智驾版 520km 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71524/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "71481",
+    "label": "EV 智驾版 605km 旗舰型",
+    "photos": 379,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 EV 智驾版 605km 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s71481/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "72520",
+    "label": "EV 智驾版 520km 领航版",
+    "photos": 288,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款 EV 智驾版 520km 领航版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s72520/5761-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "74737",
+    "label": "欧洲版",
+    "photos": 106,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2025款  欧洲版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s74737/5761-1.html",
+    "colors": []
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66931",
+    "label": "荣耀版 DM-i 71km 豪华型",
+    "photos": 177,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2024款 荣耀版 DM-i 71km 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66931/5761-1.html",
+    "colors": [
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66932",
+    "label": "荣耀版 DM-i 110km 旗舰型",
+    "photos": 267,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2024款 荣耀版 DM-i 110km 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66932/5761-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66933",
+    "label": "荣耀版 DM-i 110km 旗舰PLUS",
+    "photos": 165,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2024款 荣耀版 DM-i 110km 旗舰PLUS车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66933/5761-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66934",
+    "label": "荣耀版 DM-i 150km 旗舰PLUS",
+    "photos": 251,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2024款 荣耀版 DM-i 150km 旗舰PLUS车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66934/5761-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66935",
+    "label": "荣耀版 DM-i 150km 旗舰PLUS 5G",
+    "photos": 287,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2024款 荣耀版 DM-i 150km 旗舰PLUS 5G车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66935/5761-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66936",
+    "label": "荣耀版 EV 520km 豪华型",
+    "photos": 470,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2024款 荣耀版 EV 520km 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66936/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10908",
+      "hex": "#C3D8EB",
+      "name_zh": "天青色",
+      "photos": 7
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66937",
+    "label": "荣耀版 EV 520km 尊贵型",
+    "photos": 418,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2024款 荣耀版 EV 520km 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66937/5761-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10908",
+      "hex": "#C3D8EB",
+      "name_zh": "天青色",
+      "photos": 7
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66939",
+    "label": "荣耀版 EV 605km 旗舰PLUS",
+    "photos": 468,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2024款 荣耀版 EV 605km 旗舰PLUS车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66939/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 7
+     },
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66938",
+    "label": "荣耀版 EV 520km 旗舰型",
+    "photos": 265,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2024款 荣耀版 EV 520km 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66938/5761-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62470",
+    "label": "冠军版 EV 520KM 豪华型",
+    "photos": 161,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2023款 冠军版 EV 520KM 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62470/5761-1.html",
+    "colors": [
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62471",
+    "label": "冠军版 EV 520KM 尊贵型",
+    "photos": 255,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2023款 冠军版 EV 520KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62471/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63394",
+    "label": "冠军版 EV 520KM 旗舰型",
+    "photos": 264,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2023款 冠军版 EV 520KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63394/5761-1.html",
+    "colors": [
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63395",
+    "label": "冠军版 EV 605KM 旗舰PLUS",
+    "photos": 223,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2023款 冠军版 EV 605KM 旗舰PLUS车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63395/5761-1.html",
+    "colors": [
+     {
+      "color_id": "10908",
+      "hex": "#C3D8EB",
+      "name_zh": "天青色",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63396",
+    "label": "冠军版 DM-i 110KM 旗舰型",
+    "photos": 242,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2023款 冠军版 DM-i 110KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63396/5761-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63397",
+    "label": "冠军版 DM-i 110KM 旗舰PLUS",
+    "photos": 402,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2023款 冠军版 DM-i 110KM 旗舰PLUS车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63397/5761-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     },
+     {
+      "color_id": "10908",
+      "hex": "#C3D8EB",
+      "name_zh": "天青色",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63398",
+    "label": "冠军版 DM-i 150KM 旗舰PLUS",
+    "photos": 174,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2023款 冠军版 DM-i 150KM 旗舰PLUS车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63398/5761-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63399",
+    "label": "冠军版 DM-i 150KM 旗舰PLUS 5G",
+    "photos": 177,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2023款 冠军版 DM-i 150KM 旗舰PLUS 5G车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63399/5761-1.html",
+    "colors": [
+     {
+      "color_id": "10909",
+      "hex": "#CECDC9",
+      "name_zh": "苍烟色",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64731",
+    "label": "海豹 U 欧洲版",
+    "photos": 309,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2023款 海豹 U 欧洲版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64731/5761-1.html",
+    "colors": []
+   },
+   {
+    "year": "2021款",
+    "spec_id": "49506",
+    "label": "DM-i 51KM 尊荣型",
+    "photos": 188,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2021款 DM-i 51KM 尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s49506/5761-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "49507",
+    "label": "DM-i 110KM 旗舰型",
+    "photos": 291,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2021款 DM-i 110KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s49507/5761-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "49508",
+    "label": "DM-i 110KM 旗舰PLUS",
+    "photos": 555,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2021款 DM-i 110KM 旗舰PLUS车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s49508/5761-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 12
+     },
+     {
+      "color_id": "9991",
+      "hex": "#033570",
+      "name_zh": "穹顶蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 7
+     },
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "57112",
+    "label": "DM-i 110KM 旗舰PLUS 5G版",
+    "photos": 185,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2021款 DM-i 110KM 旗舰PLUS 5G版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s57112/5761-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "53500",
+    "label": "DM-i 100KM 四驱旗舰PLUS",
+    "photos": 110,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2021款 DM-i 100KM 四驱旗舰PLUS车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s53500/5761-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "50586",
+    "label": "EV 尊贵型",
+    "photos": 433,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2021款 EV 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s50586/5761-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "45550",
+    "label": "EV 旗舰型",
+    "photos": 216,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_宋PLUS新能源 2021款 EV 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s45550/5761-1.html",
+    "colors": [
+     {
+      "color_id": "6310",
+      "hex": "#B7242E",
+      "name_zh": "赤帝红",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 5
+     },
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 3
+     }
+    ]
+   }
+  ]
+ },
+ "Destroyer 05": {
+  "series_id": 6337,
+  "series_urls": {
+   "series-t": "https://car.autohome.com.cn/pic/series-t/6337.html",
+   "series": "https://car.autohome.com.cn/pic/series/6337.html"
+  },
+  "specs": [
+   {
+    "year": "2024款",
+    "spec_id": "66738",
+    "label": "荣耀版 DM-i 55KM 尊贵型",
+    "photos": 260,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2024款 荣耀版 DM-i 55KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66738/6337-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "11304",
+      "hex": "#000000",
+      "name_zh": "魔域黑",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66739",
+    "label": "荣耀版 DM-i 120KM 豪华型",
+    "photos": 249,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2024款 荣耀版 DM-i 120KM 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66739/6337-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11304",
+      "hex": "#000000",
+      "name_zh": "魔域黑",
+      "photos": 8
+     },
+     {
+      "color_id": "5884",
+      "hex": "#18284C",
+      "name_zh": "墨石蓝",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66740",
+    "label": "荣耀版 DM-i 120KM 尊贵型",
+    "photos": 196,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2024款 荣耀版 DM-i 120KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66740/6337-1.html",
+    "colors": [
+     {
+      "color_id": "5884",
+      "hex": "#18284C",
+      "name_zh": "墨石蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     },
+     {
+      "color_id": "11304",
+      "hex": "#000000",
+      "name_zh": "魔域黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66741",
+    "label": "荣耀版 DM-i 120KM 尊荣型",
+    "photos": 172,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2024款 荣耀版 DM-i 120KM 尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66741/6337-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66742",
+    "label": "荣耀版 DM-i 120KM 旗舰型",
+    "photos": 194,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2024款 荣耀版 DM-i 120KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66742/6337-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "66734",
+    "label": "荣耀版 DM-i 55KM 豪华型",
+    "photos": 421,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2024款 荣耀版 DM-i 55KM 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s66734/6337-1.html",
+    "colors": [
+     {
+      "color_id": "5884",
+      "hex": "#18284C",
+      "name_zh": "墨石蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     },
+     {
+      "color_id": "11304",
+      "hex": "#000000",
+      "name_zh": "魔域黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62917",
+    "label": "冠军版 DM-i 55KM 豪华型",
+    "photos": 201,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2023款 冠军版 DM-i 55KM 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62917/6337-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62918",
+    "label": "冠军版 DM-i 55KM 尊贵型",
+    "photos": 159,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2023款 冠军版 DM-i 55KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62918/6337-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "64150",
+    "label": "冠军版 DM-i 120KM 豪华型",
+    "photos": 152,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2023款 冠军版 DM-i 120KM 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s64150/6337-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62919",
+    "label": "冠军版 DM-i 120KM 尊贵型",
+    "photos": 329,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2023款 冠军版 DM-i 120KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62919/6337-1.html",
+    "colors": [
+     {
+      "color_id": "5884",
+      "hex": "#18284C",
+      "name_zh": "墨石蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "11304",
+      "hex": "#000000",
+      "name_zh": "魔域黑",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62920",
+    "label": "冠军版 DM-i 120KM 尊荣型",
+    "photos": 198,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2023款 冠军版 DM-i 120KM 尊荣型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62920/6337-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "62921",
+    "label": "冠军版 DM-i 120KM 旗舰型",
+    "photos": 207,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2023款 冠军版 DM-i 120KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62921/6337-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "55772",
+    "label": "DM-i 55KM 舒适型",
+    "photos": 175,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2022款 DM-i 55KM 舒适型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s55772/6337-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "55773",
+    "label": "DM-i 55KM 豪华型",
+    "photos": 162,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2022款 DM-i 55KM 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s55773/6337-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "55774",
+    "label": "DM-i 55KM 尊贵型",
+    "photos": 275,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2022款 DM-i 55KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s55774/6337-1.html",
+    "colors": [
+     {
+      "color_id": "92",
+      "hex": "#040000",
+      "name_zh": "德兰黑",
+      "photos": 7
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 7
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 6
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "55771",
+    "label": "DM-i 120KM 尊贵型",
+    "photos": 175,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2022款 DM-i 120KM 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s55771/6337-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 5
+     }
+    ]
+   },
+   {
+    "year": "2022款",
+    "spec_id": "52587",
+    "label": "DM-i 120KM 旗舰型",
+    "photos": 895,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_驱逐舰05 2022款 DM-i 120KM 旗舰型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s52587/6337-1.html",
+    "colors": [
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 32
+     },
+     {
+      "color_id": "9991",
+      "hex": "#033570",
+      "name_zh": "穹顶蓝",
+      "photos": 14
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "73236",
+    "label": "DM-i 55KM 畅行版",
+    "photos": 238,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_驱逐舰05 2025款 DM-i 55KM 畅行版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s73236/6337-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 4
+     }
+    ]
+   },
+   {
+    "year": "2025款",
+    "spec_id": "73237",
+    "label": "DM-i 120KM 畅行版",
+    "photos": 163,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_驱逐舰05 2025款 DM-i 120KM 畅行版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s73237/6337-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "69283",
+    "label": "DM-i 55KM 领航荣耀版",
+    "photos": 248,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_驱逐舰05 2024款 DM-i 55KM 领航荣耀版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69283/6337-1.html",
+    "colors": [
+     {
+      "color_id": "5884",
+      "hex": "#18284C",
+      "name_zh": "墨石蓝",
+      "photos": 8
+     },
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     },
+     {
+      "color_id": "7686",
+      "hex": "#404954",
+      "name_zh": "时光灰",
+      "photos": 8
+     },
+     {
+      "color_id": "11304",
+      "hex": "#000000",
+      "name_zh": "魔域黑",
+      "photos": 8
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "69284",
+    "label": "DM-i 120KM 领航荣耀版",
+    "photos": 170,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_驱逐舰05 2024款 DM-i 120KM 领航荣耀版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s69284/6337-1.html",
+    "colors": [
+     {
+      "color_id": "6311",
+      "hex": "#FFFFFF",
+      "name_zh": "雪域白",
+      "photos": 8
+     }
+    ]
+   }
+  ]
+ },
+ "e2": {
+  "series_id": 5238,
+  "series_urls": {
+   "series-t": "https://car.autohome.com.cn/pic/series-t/5238.html",
+   "series": "https://car.autohome.com.cn/pic/series/5238.html"
+  },
+  "specs": [
+   {
+    "year": "2023款",
+    "spec_id": "62327",
+    "label": "舒适型",
+    "photos": 185,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2023款 舒适型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s62327/5238-1.html",
+    "colors": [
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "61270",
+    "label": "豪华型",
+    "photos": 450,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2023款 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s61270/5238-1.html",
+    "colors": [
+     {
+      "color_id": "1509",
+      "hex": "#D20A16",
+      "name_zh": "法兰红",
+      "photos": 7
+     },
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 7
+     },
+     {
+      "color_id": "9262",
+      "hex": "#50596A",
+      "name_zh": "贝贝灰",
+      "photos": 7
+     },
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "51405",
+    "label": "出行版",
+    "photos": 153,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2021款 出行版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s51405/5238-1.html",
+    "colors": [
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "53581",
+    "label": "标准型",
+    "photos": 153,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2021款 标准型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s53581/5238-1.html",
+    "colors": [
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "50581",
+    "label": "舒适型",
+    "photos": 152,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2021款 舒适型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s50581/5238-1.html",
+    "colors": [
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "50512",
+    "label": "豪华型",
+    "photos": 305,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2021款 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s50512/5238-1.html",
+    "colors": [
+     {
+      "color_id": "1509",
+      "hex": "#D20A16",
+      "name_zh": "法兰红",
+      "photos": 7
+     },
+     {
+      "color_id": "4936",
+      "hex": "#001694",
+      "name_zh": "苍穹蓝",
+      "photos": 7
+     },
+     {
+      "color_id": "6313",
+      "hex": "#45474D",
+      "name_zh": "山脉灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2021款",
+    "spec_id": "50582",
+    "label": "尊贵型",
+    "photos": 227,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2021款 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s50582/5238-1.html",
+    "colors": []
+   },
+   {
+    "year": "2020款",
+    "spec_id": "47235",
+    "label": "升级版 标准续航版 标准型",
+    "photos": 147,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2020款 升级版 标准续航版 标准型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s47235/5238-1.html",
+    "colors": [
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2020款",
+    "spec_id": "47236",
+    "label": "升级版 标准续航版 舒适型",
+    "photos": 122,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2020款 升级版 标准续航版 舒适型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s47236/5238-1.html",
+    "colors": [
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2020款",
+    "spec_id": "47237",
+    "label": "升级版 高续航版 豪华型",
+    "photos": 378,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2020款 升级版 高续航版 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s47237/5238-1.html",
+    "colors": [
+     {
+      "color_id": "1509",
+      "hex": "#D20A16",
+      "name_zh": "法兰红",
+      "photos": 7
+     },
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 7
+     },
+     {
+      "color_id": "6313",
+      "hex": "#45474D",
+      "name_zh": "山脉灰",
+      "photos": 6
+     }
+    ]
+   },
+   {
+    "year": "2020款",
+    "spec_id": "47238",
+    "label": "升级版 高续航版 尊贵型",
+    "photos": 239,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2020款 升级版 高续航版 尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s47238/5238-1.html",
+    "colors": [
+     {
+      "color_id": "4936",
+      "hex": "#001694",
+      "name_zh": "苍穹蓝",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2019款",
+    "spec_id": "38727",
+    "label": "试装车",
+    "photos": 208,
+    "stopsale": true,
+    "color_view": false,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2019款 试装车车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s38727/5238-1.html",
+    "colors": []
+   },
+   {
+    "year": "2019款",
+    "spec_id": "41398",
+    "label": "标准续航版 悦·标准型",
+    "photos": 173,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2019款 标准续航版 悦·标准型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s41398/5238-1.html",
+    "colors": [
+     {
+      "color_id": "1509",
+      "hex": "#D20A16",
+      "name_zh": "法兰红",
+      "photos": 7
+     },
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2019款",
+    "spec_id": "41095",
+    "label": "标准续航版 智·舒适型",
+    "photos": 405,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2019款 标准续航版 智·舒适型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s41095/5238-1.html",
+    "colors": [
+     {
+      "color_id": "1509",
+      "hex": "#D20A16",
+      "name_zh": "法兰红",
+      "photos": 7
+     },
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 7
+     },
+     {
+      "color_id": "6313",
+      "hex": "#45474D",
+      "name_zh": "山脉灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2019款",
+    "spec_id": "41399",
+    "label": "高续航版 耀·豪华型",
+    "photos": 176,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2019款 高续航版 耀·豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s41399/5238-1.html",
+    "colors": [
+     {
+      "color_id": "4936",
+      "hex": "#001694",
+      "name_zh": "苍穹蓝",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2019款",
+    "spec_id": "41158",
+    "label": "高续航版 创·尊贵型",
+    "photos": 134,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2019款 高续航版 创·尊贵型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s41158/5238-1.html",
+    "colors": []
+   },
+   {
+    "year": "2019款",
+    "spec_id": "41428",
+    "label": "400出行版",
+    "photos": 120,
+    "stopsale": true,
+    "color_view": true,
+    "listed_on": [
+     "series-t"
+    ],
+    "title": "比亚迪_比亚迪e2 2019款 400出行版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s41428/5238-1.html",
+    "colors": [
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "67156",
+    "label": "荣耀版 舒适型",
+    "photos": 208,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_比亚迪e2 2024款 荣耀版 舒适型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s67156/5238-1.html",
+    "colors": [
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 8
+     },
+     {
+      "color_id": "9262",
+      "hex": "#50596A",
+      "name_zh": "贝贝灰",
+      "photos": 7
+     },
+     {
+      "color_id": "11216",
+      "hex": "#F0F0F0",
+      "name_zh": "暖阳白",
+      "photos": 7
+     },
+     {
+      "color_id": "1509",
+      "hex": "#D20A16",
+      "name_zh": "法兰红",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2024款",
+    "spec_id": "67157",
+    "label": "荣耀版 豪华型",
+    "photos": 197,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_比亚迪e2 2024款 荣耀版 豪华型车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s67157/5238-1.html",
+    "colors": [
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 7
+     },
+     {
+      "color_id": "9262",
+      "hex": "#50596A",
+      "name_zh": "贝贝灰",
+      "photos": 7
+     }
+    ]
+   },
+   {
+    "year": "2023款",
+    "spec_id": "63011",
+    "label": "出行版",
+    "photos": 165,
+    "stopsale": false,
+    "color_view": true,
+    "listed_on": [
+     "series"
+    ],
+    "title": "比亚迪_比亚迪e2 2023款 出行版车身外观图片_汽车之家",
+    "url": "https://car.autohome.com.cn/pic/series-s63011/5238-1.html",
+    "colors": [
+     {
+      "color_id": "2856",
+      "hex": "#FFFFFF",
+      "name_zh": "水晶白",
+      "photos": 7
+     }
+    ]
+   }
+  ]
+ }
+}

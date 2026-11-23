@@ -1,0 +1,727 @@
+trim_id,autohome_spec_id,year,trim_name_zh,color_name_zh,swatch_hex,photos,spec_kind,evidence_url,source_id
+T0001,69392,2025,510标准版,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s69392/6394-1.html,S15
+T0001,69392,2025,510标准版,亚特兰蒂斯灰,#55728C,8,standard,https://car.autohome.com.cn/pic/series-s69392/6394-1.html,S15
+T0001,69392,2025,510标准版,迷迭灰,#75747E,8,standard,https://car.autohome.com.cn/pic/series-s69392/6394-1.html,S15
+T0001,69392,2025,510标准版,天空紫,#8585AC,8,standard,https://car.autohome.com.cn/pic/series-s69392/6394-1.html,S15
+T0002,69345,2025,650长续航版,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s69345/6394-1.html,S15
+T0002,69345,2025,650长续航版,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s69345/6394-1.html,S15
+T0002,69345,2025,650长续航版,迷迭灰,#75747E,7,standard,https://car.autohome.com.cn/pic/series-s69345/6394-1.html,S15
+T0002,69345,2025,650长续航版,天空紫,#8585AC,7,standard,https://car.autohome.com.cn/pic/series-s69345/6394-1.html,S15
+T0003,69393,2025,650智驾版,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s69393/6394-1.html,S15
+T0003,69393,2025,650智驾版,亚特兰蒂斯灰,#55728C,8,standard,https://car.autohome.com.cn/pic/series-s69393/6394-1.html,S15
+T0003,69393,2025,650智驾版,迷迭灰,#75747E,8,standard,https://car.autohome.com.cn/pic/series-s69393/6394-1.html,S15
+T0003,69393,2025,650智驾版,天空紫,#8585AC,8,standard,https://car.autohome.com.cn/pic/series-s69393/6394-1.html,S15
+T0004,69394,2025,600四驱智驾版,迷迭灰,#75747E,8,standard,https://car.autohome.com.cn/pic/series-s69394/6394-1.html,S15
+T0005,71663,2025,510智航版,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71663/6394-1.html,S15
+T0005,71663,2025,510智航版,亚特兰蒂斯灰,#55728C,8,standard,https://car.autohome.com.cn/pic/series-s71663/6394-1.html,S15
+T0005,71663,2025,510智航版,迷迭灰,#75747E,8,standard,https://car.autohome.com.cn/pic/series-s71663/6394-1.html,S15
+T0005,71663,2025,510智航版,天空紫,#8585AC,8,standard,https://car.autohome.com.cn/pic/series-s71663/6394-1.html,S15
+T0006,71664,2025,650智航版,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71664/6394-1.html,S15
+T0006,71664,2025,650智航版,亚特兰蒂斯灰,#55728C,8,standard,https://car.autohome.com.cn/pic/series-s71664/6394-1.html,S15
+T0006,71664,2025,650智航版,迷迭灰,#75747E,8,standard,https://car.autohome.com.cn/pic/series-s71664/6394-1.html,S15
+T0006,71664,2025,650智航版,天空紫,#8585AC,8,standard,https://car.autohome.com.cn/pic/series-s71664/6394-1.html,S15
+T0007,71665,2025,改款 650智驾版,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71665/6394-1.html,S15
+T0007,71665,2025,改款 650智驾版,迷迭灰,#75747E,8,standard,https://car.autohome.com.cn/pic/series-s71665/6394-1.html,S15
+T0007,71665,2025,改款 650智驾版,天空紫,#8585AC,8,standard,https://car.autohome.com.cn/pic/series-s71665/6394-1.html,S15
+T0007,71665,2025,改款 650智驾版,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s71665/6394-1.html,S15
+T0008,71666,2025,改款 600四驱智驾版,天空紫,#8585AC,8,standard,https://car.autohome.com.cn/pic/series-s71666/6394-1.html,S15
+T0010,66925,2024,荣耀版 DM-i 1.5L 121km 精英型,极光白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66925/6394-1.html,S15
+T0011,66926,2024,荣耀版 DM-i 1.5L 121km 豪华型,极光白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66926/6394-1.html,S15
+T0011,66926,2024,荣耀版 DM-i 1.5L 121km 豪华型,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s66926/6394-1.html,S15
+T0012,66927,2024,荣耀版 DM-i 1.5L 121km 尊贵型,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s66927/6394-1.html,S15
+T0012,66927,2024,荣耀版 DM-i 1.5L 121km 尊贵型,暖色烟茶,#F0F0F0,7,standard,https://car.autohome.com.cn/pic/series-s66927/6394-1.html,S15
+T0013,66928,2024,荣耀版 DM-i 1.5T 121km 尊荣型,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s66928/6394-1.html,S15
+T0013,66928,2024,荣耀版 DM-i 1.5T 121km 尊荣型,魅影红,#674D5E,7,standard,https://car.autohome.com.cn/pic/series-s66928/6394-1.html,S15
+T0013,66928,2024,荣耀版 DM-i 1.5T 121km 尊荣型,暖色烟茶,#F0F0F0,7,standard,https://car.autohome.com.cn/pic/series-s66928/6394-1.html,S15
+T0014,66929,2024,荣耀版 DM-i 1.5T 121km 旗舰型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66929/6394-1.html,S15
+T0015,66930,2024,荣耀版 DM-i 1.5T 200km 旗舰型,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s66930/6394-1.html,S15
+T0016,67380,2024,荣耀版 550km 精英型,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s67380/6394-1.html,S15
+T0017,67381,2024,荣耀版 550km 尊贵型,极光白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s67381/6394-1.html,S15
+T0017,67381,2024,荣耀版 550km 尊贵型,迷迭灰,#75747E,7,standard,https://car.autohome.com.cn/pic/series-s67381/6394-1.html,S15
+T0018,67382,2024,荣耀版 700km 尊贵型,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s67382/6394-1.html,S15
+T0019,67383,2024,荣耀版 700km 性能版,北冰蓝,#879DB2,7,standard,https://car.autohome.com.cn/pic/series-s67383/6394-1.html,S15
+T0021,60594,2023,DM-i 1.5L 121km 精英型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s60594/6394-1.html,S15
+T0022,64468,2023,DM-i 1.5L 121km 豪华型,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s64468/6394-1.html,S15
+T0023,64469,2023,DM-i 1.5L 121km 尊贵型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s64469/6394-1.html,S15
+T0024,64470,2023,DM-i 1.5T 121km 尊荣型,魅影红,#674D5E,7,standard,https://car.autohome.com.cn/pic/series-s64470/6394-1.html,S15
+T0025,62757,2023,DM-i 1.5T 121km 旗舰型,北冰蓝,#879DB2,22,standard,https://car.autohome.com.cn/pic/series-s62757/6394-1.html,S15
+T0025,62757,2023,DM-i 1.5T 121km 旗舰型,魅影红,#674D5E,7,standard,https://car.autohome.com.cn/pic/series-s62757/6394-1.html,S15
+T0025,62757,2023,DM-i 1.5T 121km 旗舰型,暖色烟茶,#F0F0F0,7,standard,https://car.autohome.com.cn/pic/series-s62757/6394-1.html,S15
+T0026,62660,2023,DM-i 1.5T 200km 旗舰型,北冰蓝,#879DB2,7,standard,https://car.autohome.com.cn/pic/series-s62660/6394-1.html,S15
+T0028,63032,2023,冠军版 550km 精英型,极光白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s63032/6394-1.html,S15
+T0029,63033,2023,冠军版 550km 尊贵型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s63033/6394-1.html,S15
+T0029,63033,2023,冠军版 550km 尊贵型,迷迭灰,#75747E,7,standard,https://car.autohome.com.cn/pic/series-s63033/6394-1.html,S15
+T0030,63034,2023,冠军版 700km 尊贵型,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s63034/6394-1.html,S15
+T0030,63034,2023,冠军版 700km 尊贵型,北冰蓝,#879DB2,7,standard,https://car.autohome.com.cn/pic/series-s63034/6394-1.html,S15
+T0030,63034,2023,冠军版 700km 尊贵型,风卷草绿,#7E9286,7,standard,https://car.autohome.com.cn/pic/series-s63034/6394-1.html,S15
+T0031,63035,2023,冠军版 700km 性能版,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s63035/6394-1.html,S15
+T0032,63036,2023,冠军版 650km 四驱性能版,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s63036/6394-1.html,S15
+T0033,56592,2022,550km 标准续航后驱版精英型,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s56592/6394-1.html,S15
+T0034,57090,2022,550km 标准续航后驱版尊贵型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s57090/6394-1.html,S15
+T0034,57090,2022,550km 标准续航后驱版尊贵型,迷迭灰,#75747E,7,standard,https://car.autohome.com.cn/pic/series-s57090/6394-1.html,S15
+T0034,57090,2022,550km 标准续航后驱版尊贵型,北冰蓝,#879DB2,7,standard,https://car.autohome.com.cn/pic/series-s57090/6394-1.html,S15
+T0035,55916,2022,700km 长续航后驱版,北冰蓝,#879DB2,14,standard,https://car.autohome.com.cn/pic/series-s55916/6394-1.html,S15
+T0035,55916,2022,700km 长续航后驱版,海透镜蓝,#8FA0A8,7,standard,https://car.autohome.com.cn/pic/series-s55916/6394-1.html,S15
+T0035,55916,2022,700km 长续航后驱版,风卷草绿,#7E9286,7,standard,https://car.autohome.com.cn/pic/series-s55916/6394-1.html,S15
+T0035,55916,2022,700km 长续航后驱版,极光白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s55916/6394-1.html,S15
+T0035,55916,2022,700km 长续航后驱版,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s55916/6394-1.html,S15
+T0036,56593,2022,650km 四驱性能版,亚特兰蒂斯灰,#55728C,14,standard,https://car.autohome.com.cn/pic/series-s56593/6394-1.html,S15
+T0036,56593,2022,650km 四驱性能版,北冰蓝,#879DB2,14,standard,https://car.autohome.com.cn/pic/series-s56593/6394-1.html,S15
+T0039,66576,2024,荣耀版 420km 自由版,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s66576/6139-1.html,S16
+T0039,66576,2024,荣耀版 420km 自由版,芝士黄,#D6D4CC,7,standard,https://car.autohome.com.cn/pic/series-s66576/6139-1.html,S16
+T0039,66576,2024,荣耀版 420km 自由版,芋泥紫,#9A97C0,7,standard,https://car.autohome.com.cn/pic/series-s66576/6139-1.html,S16
+T0039,66576,2024,荣耀版 420km 自由版,热浪绯红,#D20A16,7,standard,https://car.autohome.com.cn/pic/series-s66576/6139-1.html,S16
+T0040,66577,2024,荣耀版 420km 时尚版,贝贝灰,#50596A,7,standard,https://car.autohome.com.cn/pic/series-s66577/6139-1.html,S16
+T0040,66577,2024,荣耀版 420km 时尚版,噗噗粉,#D4B3AF,7,standard,https://car.autohome.com.cn/pic/series-s66577/6139-1.html,S16
+T0040,66577,2024,荣耀版 420km 时尚版,芝士黄,#D6D4CC,7,standard,https://car.autohome.com.cn/pic/series-s66577/6139-1.html,S16
+T0042,61094,2023,420km 自由版,贝贝灰,#50596A,7,standard,https://car.autohome.com.cn/pic/series-s61094/6139-1.html,S16
+T0042,61094,2023,420km 自由版,芝士黄,#D6D4CC,7,standard,https://car.autohome.com.cn/pic/series-s61094/6139-1.html,S16
+T0042,61094,2023,420km 自由版,芋泥紫,#9A97C0,7,standard,https://car.autohome.com.cn/pic/series-s61094/6139-1.html,S16
+T0043,61095,2023,420km 时尚版,噗噗粉,#D4B3AF,7,standard,https://car.autohome.com.cn/pic/series-s61095/6139-1.html,S16
+T0043,61095,2023,420km 时尚版,芋泥紫,#9A97C0,7,standard,https://car.autohome.com.cn/pic/series-s61095/6139-1.html,S16
+T0048,51852,2021,405km 时尚版,噗噗粉,#D4B3AF,14,standard,https://car.autohome.com.cn/pic/series-s51852/6139-1.html,S16
+T0048,51852,2021,405km 时尚版,芝士黄,#D6D4CC,7,standard,https://car.autohome.com.cn/pic/series-s51852/6139-1.html,S16
+T0048,51852,2021,405km 时尚版,贝贝灰,#50596A,7,standard,https://car.autohome.com.cn/pic/series-s51852/6139-1.html,S16
+T0048,51852,2021,405km 时尚版,冲浪蓝,#287494,7,standard,https://car.autohome.com.cn/pic/series-s51852/6139-1.html,S16
+T0052,69004,2025,420km 活力版,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s69004/6139-1.html,S16
+T0052,69004,2025,420km 活力版,芝士黄,#D6D4CC,7,standard,https://car.autohome.com.cn/pic/series-s69004/6139-1.html,S16
+T0053,69005,2025,420km 自由版,噗噗粉,#D4B3AF,7,standard,https://car.autohome.com.cn/pic/series-s69005/6139-1.html,S16
+T0053,69005,2025,420km 自由版,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s69005/6139-1.html,S16
+T0053,69005,2025,420km 自由版,芝士黄,#D6D4CC,7,standard,https://car.autohome.com.cn/pic/series-s69005/6139-1.html,S16
+T0053,69005,2025,420km 自由版,芋泥紫,#9A97C0,7,standard,https://car.autohome.com.cn/pic/series-s69005/6139-1.html,S16
+T0053,69005,2025,420km 自由版,热浪绯红,#D20A16,7,standard,https://car.autohome.com.cn/pic/series-s69005/6139-1.html,S16
+T0054,69006,2025,420km 时尚版,噗噗粉,#D4B3AF,7,standard,https://car.autohome.com.cn/pic/series-s69006/6139-1.html,S16
+T0054,69006,2025,420km 时尚版,亚特兰蒂斯灰,#55728C,7,standard,https://car.autohome.com.cn/pic/series-s69006/6139-1.html,S16
+T0054,69006,2025,420km 时尚版,芝士黄,#D6D4CC,7,standard,https://car.autohome.com.cn/pic/series-s69006/6139-1.html,S16
+T0054,69006,2025,420km 时尚版,芋泥紫,#9A97C0,7,standard,https://car.autohome.com.cn/pic/series-s69006/6139-1.html,S16
+T0054,69006,2025,420km 时尚版,热浪绯红,#D20A16,7,standard,https://car.autohome.com.cn/pic/series-s69006/6139-1.html,S16
+T0056,71048,2025,智驾版 420km 自由版,亚特兰蒂斯灰,#55728C,8,standard,https://car.autohome.com.cn/pic/series-s71048/6139-1.html,S16
+T0056,71048,2025,智驾版 420km 自由版,芝士黄,#D6D4CC,8,standard,https://car.autohome.com.cn/pic/series-s71048/6139-1.html,S16
+T0056,71048,2025,智驾版 420km 自由版,芋泥紫,#9A97C0,8,standard,https://car.autohome.com.cn/pic/series-s71048/6139-1.html,S16
+T0056,71048,2025,智驾版 420km 自由版,海贝粉,#D4B4B4,8,standard,https://car.autohome.com.cn/pic/series-s71048/6139-1.html,S16
+T0056,71048,2025,智驾版 420km 自由版,巧克力黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71048/6139-1.html,S16
+T0057,71049,2025,智驾版 410km 时尚版,亚特兰蒂斯灰,#55728C,8,standard,https://car.autohome.com.cn/pic/series-s71049/6139-1.html,S16
+T0057,71049,2025,智驾版 410km 时尚版,芝士黄,#D6D4CC,8,standard,https://car.autohome.com.cn/pic/series-s71049/6139-1.html,S16
+T0057,71049,2025,智驾版 410km 时尚版,芋泥紫,#9A97C0,8,standard,https://car.autohome.com.cn/pic/series-s71049/6139-1.html,S16
+T0057,71049,2025,智驾版 410km 时尚版,海贝粉,#D4B4B4,8,standard,https://car.autohome.com.cn/pic/series-s71049/6139-1.html,S16
+T0057,71049,2025,智驾版 410km 时尚版,巧克力黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71049/6139-1.html,S16
+T0058,71050,2025,智驾版 520km 骑士版,亚特兰蒂斯灰,#55728C,8,standard,https://car.autohome.com.cn/pic/series-s71050/6139-1.html,S16
+T0058,71050,2025,智驾版 520km 骑士版,芝士黄,#D6D4CC,8,standard,https://car.autohome.com.cn/pic/series-s71050/6139-1.html,S16
+T0058,71050,2025,智驾版 520km 骑士版,海贝粉,#D4B4B4,8,standard,https://car.autohome.com.cn/pic/series-s71050/6139-1.html,S16
+T0058,71050,2025,智驾版 520km 骑士版,巧克力黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71050/6139-1.html,S16
+T0060,71690,2025,智驾版 305km 活力版,北冰蓝,#879DB2,8,standard,https://car.autohome.com.cn/pic/series-s71690/6762-1.html,S17
+T0060,71690,2025,智驾版 305km 活力版,暖阳白,#F0F0F0,8,standard,https://car.autohome.com.cn/pic/series-s71690/6762-1.html,S17
+T0060,71690,2025,智驾版 305km 活力版,极夜黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71690/6762-1.html,S17
+T0060,71690,2025,智驾版 305km 活力版,萌芽绿,#C4D16A,8,standard,https://car.autohome.com.cn/pic/series-s71690/6762-1.html,S17
+T0060,71690,2025,智驾版 305km 活力版,蜜桃粉,#D4B4B4,8,standard,https://car.autohome.com.cn/pic/series-s71690/6762-1.html,S17
+T0061,71691,2025,智驾版 305km 自由版,北冰蓝,#879DB2,8,standard,https://car.autohome.com.cn/pic/series-s71691/6762-1.html,S17
+T0061,71691,2025,智驾版 305km 自由版,暖阳白,#F0F0F0,8,standard,https://car.autohome.com.cn/pic/series-s71691/6762-1.html,S17
+T0061,71691,2025,智驾版 305km 自由版,极夜黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71691/6762-1.html,S17
+T0061,71691,2025,智驾版 305km 自由版,萌芽绿,#C4D16A,8,standard,https://car.autohome.com.cn/pic/series-s71691/6762-1.html,S17
+T0061,71691,2025,智驾版 305km 自由版,蜜桃粉,#D4B4B4,8,standard,https://car.autohome.com.cn/pic/series-s71691/6762-1.html,S17
+T0062,73635,2025,智驾版 405km 自在版,北冰蓝,#879DB2,8,standard,https://car.autohome.com.cn/pic/series-s73635/6762-1.html,S17
+T0062,73635,2025,智驾版 405km 自在版,暖阳白,#F0F0F0,8,standard,https://car.autohome.com.cn/pic/series-s73635/6762-1.html,S17
+T0062,73635,2025,智驾版 405km 自在版,极夜黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s73635/6762-1.html,S17
+T0062,73635,2025,智驾版 405km 自在版,蜜桃粉,#D4B4B4,8,standard,https://car.autohome.com.cn/pic/series-s73635/6762-1.html,S17
+T0063,69068,2025,305km 活力版,北冰蓝,#879DB2,7,standard,https://car.autohome.com.cn/pic/series-s69068/6762-1.html,S17
+T0063,69068,2025,305km 活力版,暖阳白,#F0F0F0,7,standard,https://car.autohome.com.cn/pic/series-s69068/6762-1.html,S17
+T0063,69068,2025,305km 活力版,极夜黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s69068/6762-1.html,S17
+T0063,69068,2025,305km 活力版,蜜桃粉,#D4B4B4,7,standard,https://car.autohome.com.cn/pic/series-s69068/6762-1.html,S17
+T0064,69069,2025,305km 自由版,北冰蓝,#879DB2,7,standard,https://car.autohome.com.cn/pic/series-s69069/6762-1.html,S17
+T0064,69069,2025,305km 自由版,暖阳白,#F0F0F0,7,standard,https://car.autohome.com.cn/pic/series-s69069/6762-1.html,S17
+T0064,69069,2025,305km 自由版,极夜黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s69069/6762-1.html,S17
+T0064,69069,2025,305km 自由版,蜜桃粉,#D4B4B4,7,standard,https://car.autohome.com.cn/pic/series-s69069/6762-1.html,S17
+T0065,69070,2025,405km 飞翔版,北冰蓝,#879DB2,7,standard,https://car.autohome.com.cn/pic/series-s69070/6762-1.html,S17
+T0065,69070,2025,405km 飞翔版,暖阳白,#F0F0F0,7,standard,https://car.autohome.com.cn/pic/series-s69070/6762-1.html,S17
+T0065,69070,2025,405km 飞翔版,极夜黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s69070/6762-1.html,S17
+T0065,69070,2025,405km 飞翔版,蜜桃粉,#D4B4B4,7,standard,https://car.autohome.com.cn/pic/series-s69070/6762-1.html,S17
+T0066,71065,2025,智驾版 405km 飞翔版,北冰蓝,#879DB2,8,standard,https://car.autohome.com.cn/pic/series-s71065/6762-1.html,S17
+T0066,71065,2025,智驾版 405km 飞翔版,暖阳白,#F0F0F0,8,standard,https://car.autohome.com.cn/pic/series-s71065/6762-1.html,S17
+T0066,71065,2025,智驾版 405km 飞翔版,极夜黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71065/6762-1.html,S17
+T0066,71065,2025,智驾版 405km 飞翔版,蜜桃粉,#D4B4B4,8,standard,https://car.autohome.com.cn/pic/series-s71065/6762-1.html,S17
+T0068,67024,2024,荣耀版 305km 活力版,蜜桃粉,#D4B4B4,7,standard,https://car.autohome.com.cn/pic/series-s67024/6762-1.html,S17
+T0069,67025,2024,荣耀版 305km 自由版,北冰蓝,#879DB2,7,standard,https://car.autohome.com.cn/pic/series-s67025/6762-1.html,S17
+T0069,67025,2024,荣耀版 305km 自由版,暖阳白,#F0F0F0,7,standard,https://car.autohome.com.cn/pic/series-s67025/6762-1.html,S17
+T0069,67025,2024,荣耀版 305km 自由版,萌芽绿,#C4D16A,7,standard,https://car.autohome.com.cn/pic/series-s67025/6762-1.html,S17
+T0070,67026,2024,荣耀版 405km 飞翔版,暖阳白,#F0F0F0,7,standard,https://car.autohome.com.cn/pic/series-s67026/6762-1.html,S17
+T0070,67026,2024,荣耀版 405km 飞翔版,极夜黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s67026/6762-1.html,S17
+T0071,62495,2023,活力版,萌芽绿,#C4D16A,7,standard,https://car.autohome.com.cn/pic/series-s62495/6762-1.html,S17
+T0072,62496,2023,自由版,暖阳白,#F0F0F0,7,standard,https://car.autohome.com.cn/pic/series-s62496/6762-1.html,S17
+T0073,57341,2023,飞翔版,暖阳白,#F0F0F0,7,standard,https://car.autohome.com.cn/pic/series-s57341/6762-1.html,S17
+T0073,57341,2023,飞翔版,极夜黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s57341/6762-1.html,S17
+T0073,57341,2023,飞翔版,萌芽绿,#C4D16A,7,standard,https://car.autohome.com.cn/pic/series-s57341/6762-1.html,S17
+T0073,57341,2023,飞翔版,蜜桃粉,#D4B4B4,7,standard,https://car.autohome.com.cn/pic/series-s57341/6762-1.html,S17
+T0074,79549,2027,320KM 活力版,芝麻灰,#505457,8,standard,https://car.autohome.com.cn/pic/series-s79549/6762-1.html,S17
+T0074,79549,2027,320KM 活力版,冰椰蓝,#475577,8,standard,https://car.autohome.com.cn/pic/series-s79549/6762-1.html,S17
+T0074,79549,2027,320KM 活力版,奶油白,#BFBDBA,8,standard,https://car.autohome.com.cn/pic/series-s79549/6762-1.html,S17
+T0075,79550,2027,320KM 自由版,芝麻灰,#505457,8,standard,https://car.autohome.com.cn/pic/series-s79550/6762-1.html,S17
+T0075,79550,2027,320KM 自由版,奶油白,#BFBDBA,8,standard,https://car.autohome.com.cn/pic/series-s79550/6762-1.html,S17
+T0076,78508,2027,420KM 自在版,芝麻灰,#505457,8,standard,https://car.autohome.com.cn/pic/series-s78508/6762-1.html,S17
+T0076,78508,2027,420KM 自在版,奶油白,#BFBDBA,8,standard,https://car.autohome.com.cn/pic/series-s78508/6762-1.html,S17
+T0077,79267,2027,420KM 飞翔版,芒芒橙,#CD5F36,8,standard,https://car.autohome.com.cn/pic/series-s79267/6762-1.html,S17
+T0077,79267,2027,420KM 飞翔版,芝麻灰,#505457,8,standard,https://car.autohome.com.cn/pic/series-s79267/6762-1.html,S17
+T0077,79267,2027,420KM 飞翔版,冰椰蓝,#475577,8,standard,https://car.autohome.com.cn/pic/series-s79267/6762-1.html,S17
+T0077,79267,2027,420KM 飞翔版,奶油白,#BFBDBA,8,standard,https://car.autohome.com.cn/pic/series-s79267/6762-1.html,S17
+T0078,79268,2027,420KM 智趣版,莓莓粉,#D6C3C9,8,standard,https://car.autohome.com.cn/pic/series-s79268/6762-1.html,S17
+T0078,79268,2027,420KM 智趣版,冰椰蓝,#475577,3,standard,https://car.autohome.com.cn/pic/series-s79268/6762-1.html,S17
+T0079,77748,2026,305km 活力版,暖阳白,#F0F0F0,8,standard,https://car.autohome.com.cn/pic/series-s77748/6762-1.html,S17
+T0079,77748,2026,305km 活力版,萌芽绿,#C4D16A,8,standard,https://car.autohome.com.cn/pic/series-s77748/6762-1.html,S17
+T0079,77748,2026,305km 活力版,蜜桃粉,#D4B4B4,8,standard,https://car.autohome.com.cn/pic/series-s77748/6762-1.html,S17
+T0079,77748,2026,305km 活力版,芒芒橙,#CD5F36,8,standard,https://car.autohome.com.cn/pic/series-s77748/6762-1.html,S17
+T0079,77748,2026,305km 活力版,薄荷青,#B3C9D1,8,standard,https://car.autohome.com.cn/pic/series-s77748/6762-1.html,S17
+T0080,77717,2026,305km 自由版,暖阳白,#F0F0F0,8,standard,https://car.autohome.com.cn/pic/series-s77717/6762-1.html,S17
+T0080,77717,2026,305km 自由版,萌芽绿,#C4D16A,8,standard,https://car.autohome.com.cn/pic/series-s77717/6762-1.html,S17
+T0080,77717,2026,305km 自由版,蜜桃粉,#D4B4B4,8,standard,https://car.autohome.com.cn/pic/series-s77717/6762-1.html,S17
+T0080,77717,2026,305km 自由版,芒芒橙,#CD5F36,8,standard,https://car.autohome.com.cn/pic/series-s77717/6762-1.html,S17
+T0080,77717,2026,305km 自由版,薄荷青,#B3C9D1,8,standard,https://car.autohome.com.cn/pic/series-s77717/6762-1.html,S17
+T0081,77718,2026,405km 自在版,暖阳白,#F0F0F0,8,standard,https://car.autohome.com.cn/pic/series-s77718/6762-1.html,S17
+T0081,77718,2026,405km 自在版,萌芽绿,#C4D16A,8,standard,https://car.autohome.com.cn/pic/series-s77718/6762-1.html,S17
+T0081,77718,2026,405km 自在版,蜜桃粉,#D4B4B4,8,standard,https://car.autohome.com.cn/pic/series-s77718/6762-1.html,S17
+T0081,77718,2026,405km 自在版,薄荷青,#B3C9D1,8,standard,https://car.autohome.com.cn/pic/series-s77718/6762-1.html,S17
+T0082,77749,2026,405km 飞翔版,暖阳白,#F0F0F0,8,standard,https://car.autohome.com.cn/pic/series-s77749/6762-1.html,S17
+T0082,77749,2026,405km 飞翔版,萌芽绿,#C4D16A,8,standard,https://car.autohome.com.cn/pic/series-s77749/6762-1.html,S17
+T0082,77749,2026,405km 飞翔版,蜜桃粉,#D4B4B4,8,standard,https://car.autohome.com.cn/pic/series-s77749/6762-1.html,S17
+T0082,77749,2026,405km 飞翔版,芒芒橙,#CD5F36,8,standard,https://car.autohome.com.cn/pic/series-s77749/6762-1.html,S17
+T0082,77749,2026,405km 飞翔版,薄荷青,#B3C9D1,8,standard,https://car.autohome.com.cn/pic/series-s77749/6762-1.html,S17
+T0083,66988,2024,荣耀版 430KM 领先型,攀岩灰,#A8A8A8,8,standard,https://car.autohome.com.cn/pic/series-s66988/6298-1.html,S18
+T0083,66988,2024,荣耀版 430KM 领先型,氧气蓝,#7C9EBA,8,standard,https://car.autohome.com.cn/pic/series-s66988/6298-1.html,S18
+T0083,66988,2024,荣耀版 430KM 领先型,黑骑士,#000000,8,standard,https://car.autohome.com.cn/pic/series-s66988/6298-1.html,S18
+T0083,66988,2024,荣耀版 430KM 领先型,律动紫,#7A7DA4,7,standard,https://car.autohome.com.cn/pic/series-s66988/6298-1.html,S18
+T0083,66988,2024,荣耀版 430KM 领先型,冲浪蓝,#287494,7,standard,https://car.autohome.com.cn/pic/series-s66988/6298-1.html,S18
+T0083,66988,2024,荣耀版 430KM 领先型,滑雪白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66988/6298-1.html,S18
+T0084,66989,2024,荣耀版 430KM 超越型,氧气蓝,#7C9EBA,8,standard,https://car.autohome.com.cn/pic/series-s66989/6298-1.html,S18
+T0084,66989,2024,荣耀版 430KM 超越型,黑骑士,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66989/6298-1.html,S18
+T0084,66989,2024,荣耀版 430KM 超越型,滑雪白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66989/6298-1.html,S18
+T0084,66989,2024,荣耀版 430KM 超越型,攀岩灰,#A8A8A8,7,standard,https://car.autohome.com.cn/pic/series-s66989/6298-1.html,S18
+T0085,66990,2024,荣耀版 510KM 领先型,滑雪白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s66990/6298-1.html,S18
+T0085,66990,2024,荣耀版 510KM 领先型,攀岩灰,#A8A8A8,8,standard,https://car.autohome.com.cn/pic/series-s66990/6298-1.html,S18
+T0085,66990,2024,荣耀版 510KM 领先型,黑骑士,#000000,8,standard,https://car.autohome.com.cn/pic/series-s66990/6298-1.html,S18
+T0085,66990,2024,荣耀版 510KM 领先型,氧气蓝,#7C9EBA,7,standard,https://car.autohome.com.cn/pic/series-s66990/6298-1.html,S18
+T0086,66991,2024,荣耀版 510KM 超越型,攀岩灰,#A8A8A8,8,standard,https://car.autohome.com.cn/pic/series-s66991/6298-1.html,S18
+T0086,66991,2024,荣耀版 510KM 超越型,氧气蓝,#7C9EBA,8,standard,https://car.autohome.com.cn/pic/series-s66991/6298-1.html,S18
+T0086,66991,2024,荣耀版 510KM 超越型,律动紫,#7A7DA4,7,standard,https://car.autohome.com.cn/pic/series-s66991/6298-1.html,S18
+T0086,66991,2024,荣耀版 510KM 超越型,黑骑士,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66991/6298-1.html,S18
+T0086,66991,2024,荣耀版 510KM 超越型,探险绿,#4A6C51,7,standard,https://car.autohome.com.cn/pic/series-s66991/6298-1.html,S18
+T0086,66991,2024,荣耀版 510KM 超越型,滑雪白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66991/6298-1.html,S18
+T0087,66992,2024,荣耀版 510KM 卓越型,滑雪白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66992/6298-1.html,S18
+T0087,66992,2024,荣耀版 510KM 卓越型,攀岩灰,#A8A8A8,7,standard,https://car.autohome.com.cn/pic/series-s66992/6298-1.html,S18
+T0087,66992,2024,荣耀版 510KM 卓越型,黑骑士,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66992/6298-1.html,S18
+T0089,64814,2023,冠军版 430KM 领先型,滑雪白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s64814/6298-1.html,S18
+T0090,64721,2023,冠军版 430KM 超越型,冲浪蓝,#287494,7,standard,https://car.autohome.com.cn/pic/series-s64721/6298-1.html,S18
+T0090,64721,2023,冠军版 430KM 超越型,攀岩灰,#A8A8A8,7,standard,https://car.autohome.com.cn/pic/series-s64721/6298-1.html,S18
+T0091,64802,2023,冠军版 510KM 领先型,攀岩灰,#A8A8A8,7,standard,https://car.autohome.com.cn/pic/series-s64802/6298-1.html,S18
+T0091,64802,2023,冠军版 510KM 领先型,探险绿,#4A6C51,7,standard,https://car.autohome.com.cn/pic/series-s64802/6298-1.html,S18
+T0092,64719,2023,冠军版 510KM 超越型,攀岩灰,#A8A8A8,7,standard,https://car.autohome.com.cn/pic/series-s64719/6298-1.html,S18
+T0093,64720,2023,冠军版 510KM 卓越型,氧气蓝,#7C9EBA,7,standard,https://car.autohome.com.cn/pic/series-s64720/6298-1.html,S18
+T0093,64720,2023,冠军版 510KM 卓越型,律动紫,#7A7DA4,6,standard,https://car.autohome.com.cn/pic/series-s64720/6298-1.html,S18
+T0094,55069,2022,430KM 豪华型,攀岩灰,#A8A8A8,7,standard,https://car.autohome.com.cn/pic/series-s55069/6298-1.html,S18
+T0095,54409,2022,430KM 尊贵型,滑雪白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s54409/6298-1.html,S18
+T0096,55071,2022,510KM 尊荣型,滑雪白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s55071/6298-1.html,S18
+T0096,55071,2022,510KM 尊荣型,攀岩灰,#A8A8A8,7,standard,https://car.autohome.com.cn/pic/series-s55071/6298-1.html,S18
+T0096,55071,2022,510KM 尊荣型,探险绿,#4A6C51,7,standard,https://car.autohome.com.cn/pic/series-s55071/6298-1.html,S18
+T0096,55071,2022,510KM 尊荣型,冲浪蓝,#287494,6,standard,https://car.autohome.com.cn/pic/series-s55071/6298-1.html,S18
+T0097,52183,2022,510KM 旗舰型,冲浪蓝,#287494,7,standard,https://car.autohome.com.cn/pic/series-s52183/6298-1.html,S18
+T0097,52183,2022,510KM 旗舰型,攀岩灰,#A8A8A8,7,standard,https://car.autohome.com.cn/pic/series-s52183/6298-1.html,S18
+T0097,52183,2022,510KM 旗舰型,跑酷红,#C92829,7,standard,https://car.autohome.com.cn/pic/series-s52183/6298-1.html,S18
+T0098,55070,2022,510KM 旗舰型PLUS,滑雪白,#FFFFFF,14,standard,https://car.autohome.com.cn/pic/series-s55070/6298-1.html,S18
+T0098,55070,2022,510KM 旗舰型PLUS,攀岩灰,#A8A8A8,7,standard,https://car.autohome.com.cn/pic/series-s55070/6298-1.html,S18
+T0100,75165,2026,540KM 领先型,空境白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s75165/6298-1.html,S18
+T0100,75165,2026,540KM 领先型,线条灰,#9E9E9E,8,standard,https://car.autohome.com.cn/pic/series-s75165/6298-1.html,S18
+T0100,75165,2026,540KM 领先型,幻梦粉,#EDB5A4,8,standard,https://car.autohome.com.cn/pic/series-s75165/6298-1.html,S18
+T0100,75165,2026,540KM 领先型,境遇青,#B3C9D1,6,standard,https://car.autohome.com.cn/pic/series-s75165/6298-1.html,S18
+T0100,75165,2026,540KM 领先型,潮玩蓝,#66CBE9,6,standard,https://car.autohome.com.cn/pic/series-s75165/6298-1.html,S18
+T0101,77914,2026,540KM 超越型,境遇青,#B3C9D1,8,standard,https://car.autohome.com.cn/pic/series-s77914/6298-1.html,S18
+T0101,77914,2026,540KM 超越型,空境白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s77914/6298-1.html,S18
+T0101,77914,2026,540KM 超越型,线条灰,#9E9E9E,8,standard,https://car.autohome.com.cn/pic/series-s77914/6298-1.html,S18
+T0101,77914,2026,540KM 超越型,潮玩蓝,#66CBE9,8,standard,https://car.autohome.com.cn/pic/series-s77914/6298-1.html,S18
+T0101,77914,2026,540KM 超越型,幻梦粉,#EDB5A4,8,standard,https://car.autohome.com.cn/pic/series-s77914/6298-1.html,S18
+T0101,77914,2026,540KM 超越型,气场绿,#47574D,8,standard,https://car.autohome.com.cn/pic/series-s77914/6298-1.html,S18
+T0102,77869,2026,630KM 超越型,境遇青,#B3C9D1,8,standard,https://car.autohome.com.cn/pic/series-s77869/6298-1.html,S18
+T0102,77869,2026,630KM 超越型,空境白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s77869/6298-1.html,S18
+T0102,77869,2026,630KM 超越型,线条灰,#9E9E9E,8,standard,https://car.autohome.com.cn/pic/series-s77869/6298-1.html,S18
+T0102,77869,2026,630KM 超越型,幻梦粉,#EDB5A4,8,standard,https://car.autohome.com.cn/pic/series-s77869/6298-1.html,S18
+T0102,77869,2026,630KM 超越型,气场绿,#47574D,8,standard,https://car.autohome.com.cn/pic/series-s77869/6298-1.html,S18
+T0102,77869,2026,630KM 超越型,潮玩蓝,#66CBE9,6,standard,https://car.autohome.com.cn/pic/series-s77869/6298-1.html,S18
+T0103,76816,2026,630KM 卓越型,境遇青,#B3C9D1,8,standard,https://car.autohome.com.cn/pic/series-s76816/6298-1.html,S18
+T0103,76816,2026,630KM 卓越型,空境白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s76816/6298-1.html,S18
+T0103,76816,2026,630KM 卓越型,线条灰,#9E9E9E,8,standard,https://car.autohome.com.cn/pic/series-s76816/6298-1.html,S18
+T0104,72031,2025,智驾版 430KM 领先型,滑雪白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s72031/6298-1.html,S18
+T0104,72031,2025,智驾版 430KM 领先型,攀岩灰,#A8A8A8,8,standard,https://car.autohome.com.cn/pic/series-s72031/6298-1.html,S18
+T0104,72031,2025,智驾版 430KM 领先型,玄武黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s72031/6298-1.html,S18
+T0104,72031,2025,智驾版 430KM 领先型,乐动米,#E5DCC8,8,standard,https://car.autohome.com.cn/pic/series-s72031/6298-1.html,S18
+T0104,72031,2025,智驾版 430KM 领先型,扬帆蓝,#5C6D90,8,standard,https://car.autohome.com.cn/pic/series-s72031/6298-1.html,S18
+T0104,72031,2025,智驾版 430KM 领先型,越野绿,#BCD3BB,8,standard,https://car.autohome.com.cn/pic/series-s72031/6298-1.html,S18
+T0105,71427,2025,智驾版 430KM 超越型,滑雪白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71427/6298-1.html,S18
+T0105,71427,2025,智驾版 430KM 超越型,攀岩灰,#A8A8A8,8,standard,https://car.autohome.com.cn/pic/series-s71427/6298-1.html,S18
+T0105,71427,2025,智驾版 430KM 超越型,玄武黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71427/6298-1.html,S18
+T0105,71427,2025,智驾版 430KM 超越型,乐动米,#E5DCC8,8,standard,https://car.autohome.com.cn/pic/series-s71427/6298-1.html,S18
+T0105,71427,2025,智驾版 430KM 超越型,扬帆蓝,#5C6D90,8,standard,https://car.autohome.com.cn/pic/series-s71427/6298-1.html,S18
+T0105,71427,2025,智驾版 430KM 超越型,越野绿,#BCD3BB,8,standard,https://car.autohome.com.cn/pic/series-s71427/6298-1.html,S18
+T0106,71817,2025,智驾版 510KM 领先型,滑雪白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71817/6298-1.html,S18
+T0106,71817,2025,智驾版 510KM 领先型,攀岩灰,#A8A8A8,8,standard,https://car.autohome.com.cn/pic/series-s71817/6298-1.html,S18
+T0106,71817,2025,智驾版 510KM 领先型,玄武黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71817/6298-1.html,S18
+T0106,71817,2025,智驾版 510KM 领先型,乐动米,#E5DCC8,8,standard,https://car.autohome.com.cn/pic/series-s71817/6298-1.html,S18
+T0106,71817,2025,智驾版 510KM 领先型,扬帆蓝,#5C6D90,8,standard,https://car.autohome.com.cn/pic/series-s71817/6298-1.html,S18
+T0106,71817,2025,智驾版 510KM 领先型,越野绿,#BCD3BB,8,standard,https://car.autohome.com.cn/pic/series-s71817/6298-1.html,S18
+T0107,71852,2025,智驾版 510KM 超越型,滑雪白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71852/6298-1.html,S18
+T0107,71852,2025,智驾版 510KM 超越型,攀岩灰,#A8A8A8,8,standard,https://car.autohome.com.cn/pic/series-s71852/6298-1.html,S18
+T0107,71852,2025,智驾版 510KM 超越型,玄武黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71852/6298-1.html,S18
+T0107,71852,2025,智驾版 510KM 超越型,乐动米,#E5DCC8,8,standard,https://car.autohome.com.cn/pic/series-s71852/6298-1.html,S18
+T0107,71852,2025,智驾版 510KM 超越型,扬帆蓝,#5C6D90,8,standard,https://car.autohome.com.cn/pic/series-s71852/6298-1.html,S18
+T0108,71918,2025,智驾版 510KM 卓越型,攀岩灰,#A8A8A8,8,standard,https://car.autohome.com.cn/pic/series-s71918/6298-1.html,S18
+T0108,71918,2025,智驾版 510KM 卓越型,乐动米,#E5DCC8,8,standard,https://car.autohome.com.cn/pic/series-s71918/6298-1.html,S18
+T0108,71918,2025,智驾版 510KM 卓越型,滑雪白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s71918/6298-1.html,S18
+T0110,71623,2025,EV 智驾版 701KM尊荣型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71623/5499-1.html,S19
+T0110,71623,2025,EV 智驾版 701KM尊荣型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71623/5499-1.html,S19
+T0110,71623,2025,EV 智驾版 701KM尊荣型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s71623/5499-1.html,S19
+T0111,71703,2025,EV 智驾版 701KM激光雷达尊享型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71703/5499-1.html,S19
+T0112,71704,2025,EV 智驾版 701KM激光雷达旗舰型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s71704/5499-1.html,S19
+T0113,69142,2025,EV 506KM尊贵型,未央灰,#787878,16,standard,https://car.autohome.com.cn/pic/series-s69142/5499-1.html,S19
+T0113,69142,2025,EV 506KM尊贵型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s69142/5499-1.html,S19
+T0113,69142,2025,EV 506KM尊贵型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s69142/5499-1.html,S19
+T0113,69142,2025,EV 506KM尊贵型,银釉白,#C3CBD6,8,standard,https://car.autohome.com.cn/pic/series-s69142/5499-1.html,S19
+T0114,69813,2025,EV 605KM尊贵型,未央灰,#787878,14,standard,https://car.autohome.com.cn/pic/series-s69813/5499-1.html,S19
+T0114,69813,2025,EV 605KM尊贵型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s69813/5499-1.html,S19
+T0114,69813,2025,EV 605KM尊贵型,银釉白,#C3CBD6,7,standard,https://car.autohome.com.cn/pic/series-s69813/5499-1.html,S19
+T0114,69813,2025,EV 605KM尊贵型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s69813/5499-1.html,S19
+T0115,69814,2025,EV 701KM尊享型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s69814/5499-1.html,S19
+T0115,69814,2025,EV 701KM尊享型,银釉白,#C3CBD6,8,standard,https://car.autohome.com.cn/pic/series-s69814/5499-1.html,S19
+T0115,69814,2025,EV 701KM尊享型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s69814/5499-1.html,S19
+T0116,69802,2025,EV 701KM激光雷达智驾型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s69802/5499-1.html,S19
+T0116,69802,2025,EV 701KM激光雷达智驾型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s69802/5499-1.html,S19
+T0117,69815,2025,DM-i 125KM舒适型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s69815/5499-1.html,S19
+T0117,69815,2025,DM-i 125KM舒适型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s69815/5499-1.html,S19
+T0117,69815,2025,DM-i 125KM舒适型,银釉白,#C3CBD6,8,standard,https://car.autohome.com.cn/pic/series-s69815/5499-1.html,S19
+T0118,69143,2025,DM-i 125KM精英型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s69143/5499-1.html,S19
+T0118,69143,2025,DM-i 125KM精英型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s69143/5499-1.html,S19
+T0118,69143,2025,DM-i 125KM精英型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s69143/5499-1.html,S19
+T0118,69143,2025,DM-i 125KM精英型,银釉白,#C3CBD6,7,standard,https://car.autohome.com.cn/pic/series-s69143/5499-1.html,S19
+T0119,69816,2025,DM-i 125KM尊贵型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s69816/5499-1.html,S19
+T0119,69816,2025,DM-i 125KM尊贵型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s69816/5499-1.html,S19
+T0119,69816,2025,DM-i 125KM尊贵型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s69816/5499-1.html,S19
+T0119,69816,2025,DM-i 125KM尊贵型,银釉白,#C3CBD6,7,standard,https://car.autohome.com.cn/pic/series-s69816/5499-1.html,S19
+T0120,69817,2025,DM-i 125KM尊荣型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s69817/5499-1.html,S19
+T0120,69817,2025,DM-i 125KM尊荣型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s69817/5499-1.html,S19
+T0120,69817,2025,DM-i 125KM尊荣型,银釉白,#C3CBD6,8,standard,https://car.autohome.com.cn/pic/series-s69817/5499-1.html,S19
+T0120,69817,2025,DM-i 125KM尊荣型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s69817/5499-1.html,S19
+T0121,69144,2025,DM-i 125KM激光雷达智驾型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s69144/5499-1.html,S19
+T0122,66902,2024,EV 荣耀版 506KM前驱尊贵型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66902/5499-1.html,S19
+T0123,66903,2024,EV 荣耀版 605KM前驱尊贵型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66903/5499-1.html,S19
+T0124,66774,2024,EV 荣耀版 715KM前驱旗舰型,暮山紫,#8F98C3,7,standard,https://car.autohome.com.cn/pic/series-s66774/5499-1.html,S19
+T0125,66905,2024,EV 荣耀版 610KM四驱天神之眼智驾型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66905/5499-1.html,S19
+T0126,66906,2024,DM-i 荣耀版 121KM 精英型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66906/5499-1.html,S19
+T0127,66753,2024,DM-i 荣耀版 121KM 尊贵型,银釉白,#C3CBD6,8,standard,https://car.autohome.com.cn/pic/series-s66753/5499-1.html,S19
+T0127,66753,2024,DM-i 荣耀版 121KM 尊贵型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66753/5499-1.html,S19
+T0127,66753,2024,DM-i 荣耀版 121KM 尊贵型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66753/5499-1.html,S19
+T0128,66907,2024,DM-i 荣耀版 121KM 尊荣型,银釉白,#C3CBD6,8,standard,https://car.autohome.com.cn/pic/series-s66907/5499-1.html,S19
+T0128,66907,2024,DM-i 荣耀版 121KM 尊荣型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66907/5499-1.html,S19
+T0128,66907,2024,DM-i 荣耀版 121KM 尊荣型,冰川蓝,#9EB9D9,7,standard,https://car.autohome.com.cn/pic/series-s66907/5499-1.html,S19
+T0129,66773,2024,DM-i 荣耀版 121KM 尊享型,银釉白,#C3CBD6,7,standard,https://car.autohome.com.cn/pic/series-s66773/5499-1.html,S19
+T0130,66908,2024,DM-i 荣耀版 200KM 旗舰型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66908/5499-1.html,S19
+T0130,66908,2024,DM-i 荣耀版 200KM 旗舰型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66908/5499-1.html,S19
+T0131,66909,2024,DM-p 战神版,玄空黑,#000000,7,special_edition,https://car.autohome.com.cn/pic/series-s66909/5499-1.html,S19
+T0132,67270,2024,DM-i 121KM领航荣耀版,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s67270/5499-1.html,S19
+T0133,63138,2023,DM-i 冠军版 121KM 精英型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s63138/5499-1.html,S19
+T0134,63137,2023,DM-i 冠军版 121KM 尊贵型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s63137/5499-1.html,S19
+T0135,63136,2023,DM-i 冠军版 121KM 尊荣型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s63136/5499-1.html,S19
+T0136,63070,2023,DM-i 冠军版 121KM 尊享型,极光蓝,#2871EB,7,standard,https://car.autohome.com.cn/pic/series-s63070/5499-1.html,S19
+T0136,63070,2023,DM-i 冠军版 121KM 尊享型,冰川蓝,#9EB9D9,7,standard,https://car.autohome.com.cn/pic/series-s63070/5499-1.html,S19
+T0137,63139,2023,DM-i 冠军版 200KM 尊享型,冰川蓝,#9EB9D9,7,standard,https://car.autohome.com.cn/pic/series-s63139/5499-1.html,S19
+T0138,63071,2023,DM-i 冠军版 200KM 旗舰型,冰川蓝,#9EB9D9,7,standard,https://car.autohome.com.cn/pic/series-s63071/5499-1.html,S19
+T0139,63087,2023,DM-p 战神版,玄空黑,#000000,7,special_edition,https://car.autohome.com.cn/pic/series-s63087/5499-1.html,S19
+T0140,61824,2023,EV 冠军版 506KM前驱尊贵型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s61824/5499-1.html,S19
+T0141,61410,2023,EV 冠军版 605KM前驱尊贵型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s61410/5499-1.html,S19
+T0141,61410,2023,EV 冠军版 605KM前驱尊贵型,赤帝红,#B7242E,6,standard,https://car.autohome.com.cn/pic/series-s61410/5499-1.html,S19
+T0142,61763,2023,EV 冠军版 715KM前驱尊荣型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s61763/5499-1.html,S19
+T0144,61823,2023,EV 冠军版 715KM前驱旗舰型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s61823/5499-1.html,S19
+T0145,61825,2023,EV 冠军版 610KM四驱旗舰型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s61825/5499-1.html,S19
+T0145,61825,2023,EV 冠军版 610KM四驱旗舰型,冰川蓝,#9EB9D9,7,standard,https://car.autohome.com.cn/pic/series-s61825/5499-1.html,S19
+T0145,61825,2023,EV 冠军版 610KM四驱旗舰型,赤帝红,#B7242E,1,standard,https://car.autohome.com.cn/pic/series-s61825/5499-1.html,S19
+T0145,61825,2023,EV 冠军版 610KM四驱旗舰型,极光蓝,#2871EB,1,standard,https://car.autohome.com.cn/pic/series-s61825/5499-1.html,S19
+T0146,56566,2022,EV 创世版 715KM前驱尊荣型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s56566/5499-1.html,S19
+T0147,56542,2022,EV 创世版 715KM前驱旗舰型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s56542/5499-1.html,S19
+T0148,56451,2022,EV 创世版 610KM四驱尊享型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s56451/5499-1.html,S19
+T0148,56451,2022,EV 创世版 610KM四驱尊享型,极光蓝,#2871EB,7,standard,https://car.autohome.com.cn/pic/series-s56451/5499-1.html,S19
+T0148,56451,2022,EV 创世版 610KM四驱尊享型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s56451/5499-1.html,S19
+T0149,56153,2022,DM-i 121KM 尊贵型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s56153/5499-1.html,S19
+T0150,56152,2022,DM-i 121KM 尊荣型,极光蓝,#2871EB,6,standard,https://car.autohome.com.cn/pic/series-s56152/5499-1.html,S19
+T0151,55313,2022,DM-i 121KM 尊享型,赤帝红,#B7242E,12,standard,https://car.autohome.com.cn/pic/series-s55313/5499-1.html,S19
+T0151,55313,2022,DM-i 121KM 尊享型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s55313/5499-1.html,S19
+T0151,55313,2022,DM-i 121KM 尊享型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s55313/5499-1.html,S19
+T0152,56151,2022,DM-i 242KM 旗舰型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s56151/5499-1.html,S19
+T0153,55886,2022,DM-p 202KM 四驱旗舰型,赤帝红,#B7242E,7,standard,https://car.autohome.com.cn/pic/series-s55886/5499-1.html,S19
+T0154,56567,2022,EV 610KM四驱千山翠限量版,千山翠,#3D655D,7,special_edition,https://car.autohome.com.cn/pic/series-s56567/5499-1.html,S19
+T0156,50310,2021,EV 苏州园林定制版,雪域白,#FFFFFF,4,special_edition,https://car.autohome.com.cn/pic/series-s50310/5499-1.html,S19
+T0157,52453,2021,EV 标准续航版豪华型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s52453/5499-1.html,S19
+T0158,45620,2020,EV 超长续航版尊贵型,赤帝红,#B7242E,14,standard,https://car.autohome.com.cn/pic/series-s45620/5499-1.html,S19
+T0158,45620,2020,EV 超长续航版尊贵型,玄空黑,#000000,12,standard,https://car.autohome.com.cn/pic/series-s45620/5499-1.html,S19
+T0158,45620,2020,EV 超长续航版尊贵型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s45620/5499-1.html,S19
+T0159,42643,2020,EV 四驱高性能版旗舰型,极光蓝,#2871EB,14,standard,https://car.autohome.com.cn/pic/series-s42643/5499-1.html,S19
+T0159,42643,2020,EV 四驱高性能版旗舰型,赤帝红,#B7242E,7,standard,https://car.autohome.com.cn/pic/series-s42643/5499-1.html,S19
+T0160,43481,2020,DM 四驱性能版豪华型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s43481/5499-1.html,S19
+T0160,43481,2020,DM 四驱性能版豪华型,时光灰,#404954,5,standard,https://car.autohome.com.cn/pic/series-s43481/5499-1.html,S19
+T0161,46953,2020,DM 四驱性能版尊贵型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s46953/5499-1.html,S19
+T0161,46953,2020,DM 四驱性能版尊贵型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s46953/5499-1.html,S19
+T0161,46953,2020,DM 四驱性能版尊贵型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s46953/5499-1.html,S19
+T0162,45619,2020,EV 超长续航版豪华型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s45619/5499-1.html,S19
+T0164,77297,2026,EV 智驾版 705KM闪充尊贵型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s77297/5499-1.html,S19
+T0164,77297,2026,EV 智驾版 705KM闪充尊贵型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s77297/5499-1.html,S19
+T0164,77297,2026,EV 智驾版 705KM闪充尊贵型,松影绿,#68757B,8,standard,https://car.autohome.com.cn/pic/series-s77297/5499-1.html,S19
+T0164,77297,2026,EV 智驾版 705KM闪充尊贵型,雾凇金,#D6CDC4,8,standard,https://car.autohome.com.cn/pic/series-s77297/5499-1.html,S19
+T0165,77668,2026,EV 智驾版 705KM闪充尊荣型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s77668/5499-1.html,S19
+T0165,77668,2026,EV 智驾版 705KM闪充尊荣型,雾凇金,#D6CDC4,8,standard,https://car.autohome.com.cn/pic/series-s77668/5499-1.html,S19
+T0166,71535,2025,EV 智驾版 506KM尊贵型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71535/5499-1.html,S19
+T0166,71535,2025,EV 智驾版 506KM尊贵型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71535/5499-1.html,S19
+T0166,71535,2025,EV 智驾版 506KM尊贵型,银釉白,#C3CBD6,8,standard,https://car.autohome.com.cn/pic/series-s71535/5499-1.html,S19
+T0166,71535,2025,EV 智驾版 506KM尊贵型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s71535/5499-1.html,S19
+T0167,71591,2025,EV 智驾版 605KM尊荣型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71591/5499-1.html,S19
+T0167,71591,2025,EV 智驾版 605KM尊荣型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71591/5499-1.html,S19
+T0167,71591,2025,EV 智驾版 605KM尊荣型,银釉白,#C3CBD6,8,standard,https://car.autohome.com.cn/pic/series-s71591/5499-1.html,S19
+T0167,71591,2025,EV 智驾版 605KM尊荣型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s71591/5499-1.html,S19
+T0168,75061,2025,EV 智驾版 635KM旗舰版,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s75061/5499-1.html,S19
+T0168,75061,2025,EV 智驾版 635KM旗舰版,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s75061/5499-1.html,S19
+T0168,75061,2025,EV 智驾版 635KM旗舰版,松影绿,#68757B,8,standard,https://car.autohome.com.cn/pic/series-s75061/5499-1.html,S19
+T0168,75061,2025,EV 智驾版 635KM旗舰版,远峰蓝,#7C8FA0,8,standard,https://car.autohome.com.cn/pic/series-s75061/5499-1.html,S19
+T0168,75061,2025,EV 智驾版 635KM旗舰版,雾凇金,#D6CDC4,5,standard,https://car.autohome.com.cn/pic/series-s75061/5499-1.html,S19
+T0169,75188,2025,EV 智驾版 635KM激光雷达旗舰型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s75188/5499-1.html,S19
+T0169,75188,2025,EV 智驾版 635KM激光雷达旗舰型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s75188/5499-1.html,S19
+T0169,75188,2025,EV 智驾版 635KM激光雷达旗舰型,松影绿,#68757B,8,standard,https://car.autohome.com.cn/pic/series-s75188/5499-1.html,S19
+T0169,75188,2025,EV 智驾版 635KM激光雷达旗舰型,雾凇金,#D6CDC4,8,standard,https://car.autohome.com.cn/pic/series-s75188/5499-1.html,S19
+T0169,75188,2025,EV 智驾版 635KM激光雷达旗舰型,远峰蓝,#7C8FA0,8,standard,https://car.autohome.com.cn/pic/series-s75188/5499-1.html,S19
+T0170,71705,2025,DM-i 智驾版 125KM舒适型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71705/5499-1.html,S19
+T0170,71705,2025,DM-i 智驾版 125KM舒适型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71705/5499-1.html,S19
+T0170,71705,2025,DM-i 智驾版 125KM舒适型,银釉白,#C3CBD6,8,standard,https://car.autohome.com.cn/pic/series-s71705/5499-1.html,S19
+T0170,71705,2025,DM-i 智驾版 125KM舒适型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s71705/5499-1.html,S19
+T0171,71533,2025,DM-i 智驾版 125KM精英型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71533/5499-1.html,S19
+T0171,71533,2025,DM-i 智驾版 125KM精英型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71533/5499-1.html,S19
+T0171,71533,2025,DM-i 智驾版 125KM精英型,银釉白,#C3CBD6,8,standard,https://car.autohome.com.cn/pic/series-s71533/5499-1.html,S19
+T0171,71533,2025,DM-i 智驾版 125KM精英型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s71533/5499-1.html,S19
+T0172,71534,2025,DM-i 智驾版 125KM尊贵型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71534/5499-1.html,S19
+T0172,71534,2025,DM-i 智驾版 125KM尊贵型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71534/5499-1.html,S19
+T0172,71534,2025,DM-i 智驾版 125KM尊贵型,银釉白,#C3CBD6,8,standard,https://car.autohome.com.cn/pic/series-s71534/5499-1.html,S19
+T0172,71534,2025,DM-i 智驾版 125KM尊贵型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s71534/5499-1.html,S19
+T0173,71706,2025,DM-i 智驾版 125KM尊荣型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71706/5499-1.html,S19
+T0173,71706,2025,DM-i 智驾版 125KM尊荣型,银釉白,#C3CBD6,8,standard,https://car.autohome.com.cn/pic/series-s71706/5499-1.html,S19
+T0173,71706,2025,DM-i 智驾版 125KM尊荣型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s71706/5499-1.html,S19
+T0174,71707,2025,DM-i 智驾版 125KM激光雷达旗舰型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s71707/5499-1.html,S19
+T0174,71707,2025,DM-i 智驾版 125KM激光雷达旗舰型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s71707/5499-1.html,S19
+T0175,75104,2025,DM-i 智驾版 245KM尊贵型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s75104/5499-1.html,S19
+T0175,75104,2025,DM-i 智驾版 245KM尊贵型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s75104/5499-1.html,S19
+T0175,75104,2025,DM-i 智驾版 245KM尊贵型,松影绿,#68757B,8,standard,https://car.autohome.com.cn/pic/series-s75104/5499-1.html,S19
+T0175,75104,2025,DM-i 智驾版 245KM尊贵型,雾凇金,#D6CDC4,8,standard,https://car.autohome.com.cn/pic/series-s75104/5499-1.html,S19
+T0176,75106,2025,DM-i 智驾版 245KM尊荣型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s75106/5499-1.html,S19
+T0176,75106,2025,DM-i 智驾版 245KM尊荣型,松影绿,#68757B,8,standard,https://car.autohome.com.cn/pic/series-s75106/5499-1.html,S19
+T0176,75106,2025,DM-i 智驾版 245KM尊荣型,雾凇金,#D6CDC4,8,standard,https://car.autohome.com.cn/pic/series-s75106/5499-1.html,S19
+T0176,75106,2025,DM-i 智驾版 245KM尊荣型,远峰蓝,#7C8FA0,8,standard,https://car.autohome.com.cn/pic/series-s75106/5499-1.html,S19
+T0176,75106,2025,DM-i 智驾版 245KM尊荣型,未央灰,#787878,7,standard,https://car.autohome.com.cn/pic/series-s75106/5499-1.html,S19
+T0177,75192,2025,DM-i 智驾版 245KM激光雷达旗舰型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s75192/5499-1.html,S19
+T0177,75192,2025,DM-i 智驾版 245KM激光雷达旗舰型,松影绿,#68757B,8,standard,https://car.autohome.com.cn/pic/series-s75192/5499-1.html,S19
+T0177,75192,2025,DM-i 智驾版 245KM激光雷达旗舰型,远峰蓝,#7C8FA0,8,standard,https://car.autohome.com.cn/pic/series-s75192/5499-1.html,S19
+T0178,72514,2025,EV 智驾版 605KM领航版,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s72514/5499-1.html,S19
+T0178,72514,2025,EV 智驾版 605KM领航版,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s72514/5499-1.html,S19
+T0179,72515,2025,DM-i 智驾版 125KM领航版,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s72515/5499-1.html,S19
+T0179,72515,2025,DM-i 智驾版 125KM领航版,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s72515/5499-1.html,S19
+T0180,71504,2025,DM-i 智驾版 55KM领先型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71504/5964-1.html,S20
+T0180,71504,2025,DM-i 智驾版 55KM领先型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71504/5964-1.html,S20
+T0180,71504,2025,DM-i 智驾版 55KM领先型,白釉青,#364258,8,standard,https://car.autohome.com.cn/pic/series-s71504/5964-1.html,S20
+T0180,71504,2025,DM-i 智驾版 55KM领先型,冰珀青,#A7B4BB,8,standard,https://car.autohome.com.cn/pic/series-s71504/5964-1.html,S20
+T0181,74790,2025,DM-i 智驾版 128KM进取型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s74790/5964-1.html,S20
+T0181,74790,2025,DM-i 智驾版 128KM进取型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s74790/5964-1.html,S20
+T0181,74790,2025,DM-i 智驾版 128KM进取型,白釉青,#364258,8,standard,https://car.autohome.com.cn/pic/series-s74790/5964-1.html,S20
+T0181,74790,2025,DM-i 智驾版 128KM进取型,冰珀青,#A7B4BB,8,standard,https://car.autohome.com.cn/pic/series-s74790/5964-1.html,S20
+T0181,74790,2025,DM-i 智驾版 128KM进取型,星河米,#C9C9C9,8,standard,https://car.autohome.com.cn/pic/series-s74790/5964-1.html,S20
+T0182,71685,2025,DM-i 智驾版 55KM超越型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71685/5964-1.html,S20
+T0182,71685,2025,DM-i 智驾版 55KM超越型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71685/5964-1.html,S20
+T0182,71685,2025,DM-i 智驾版 55KM超越型,冰珀青,#A7B4BB,8,standard,https://car.autohome.com.cn/pic/series-s71685/5964-1.html,S20
+T0182,71685,2025,DM-i 智驾版 55KM超越型,白釉青,#364258,6,standard,https://car.autohome.com.cn/pic/series-s71685/5964-1.html,S20
+T0183,71686,2025,DM-i 智驾版 120KM超越型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71686/5964-1.html,S20
+T0183,71686,2025,DM-i 智驾版 120KM超越型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71686/5964-1.html,S20
+T0183,71686,2025,DM-i 智驾版 120KM超越型,白釉青,#364258,8,standard,https://car.autohome.com.cn/pic/series-s71686/5964-1.html,S20
+T0183,71686,2025,DM-i 智驾版 120KM超越型,冰珀青,#A7B4BB,8,standard,https://car.autohome.com.cn/pic/series-s71686/5964-1.html,S20
+T0184,66743,2024,荣耀版 DM-i 55KM领先型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s66743/5964-1.html,S20
+T0184,66743,2024,荣耀版 DM-i 55KM领先型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66743/5964-1.html,S20
+T0184,66743,2024,荣耀版 DM-i 55KM领先型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66743/5964-1.html,S20
+T0184,66743,2024,荣耀版 DM-i 55KM领先型,墨玉蓝,#033570,7,standard,https://car.autohome.com.cn/pic/series-s66743/5964-1.html,S20
+T0184,66743,2024,荣耀版 DM-i 55KM领先型,白釉青,#364258,7,standard,https://car.autohome.com.cn/pic/series-s66743/5964-1.html,S20
+T0185,66744,2024,荣耀版 DM-i 55KM超越型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66744/5964-1.html,S20
+T0186,66745,2024,荣耀版 DM-i 120KM领先型,玄空黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s66745/5964-1.html,S20
+T0186,66745,2024,荣耀版 DM-i 120KM领先型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66745/5964-1.html,S20
+T0187,66746,2024,荣耀版 DM-i 120KM超越型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66746/5964-1.html,S20
+T0187,66746,2024,荣耀版 DM-i 120KM超越型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66746/5964-1.html,S20
+T0187,66746,2024,荣耀版 DM-i 120KM超越型,白釉青,#364258,7,standard,https://car.autohome.com.cn/pic/series-s66746/5964-1.html,S20
+T0188,66733,2024,荣耀版 DM-i 120KM卓越型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s66733/5964-1.html,S20
+T0188,66733,2024,荣耀版 DM-i 120KM卓越型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66733/5964-1.html,S20
+T0189,66747,2024,荣耀版 EV 420KM领先型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s66747/5964-1.html,S20
+T0189,66747,2024,荣耀版 EV 420KM领先型,白釉青,#364258,8,standard,https://car.autohome.com.cn/pic/series-s66747/5964-1.html,S20
+T0189,66747,2024,荣耀版 EV 420KM领先型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66747/5964-1.html,S20
+T0189,66747,2024,荣耀版 EV 420KM领先型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66747/5964-1.html,S20
+T0190,66748,2024,荣耀版 EV 420KM超越型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66748/5964-1.html,S20
+T0190,66748,2024,荣耀版 EV 420KM超越型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66748/5964-1.html,S20
+T0190,66748,2024,荣耀版 EV 420KM超越型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66748/5964-1.html,S20
+T0191,66749,2024,荣耀版 EV 510KM领先型,墨玉蓝,#033570,8,standard,https://car.autohome.com.cn/pic/series-s66749/5964-1.html,S20
+T0191,66749,2024,荣耀版 EV 510KM领先型,白釉青,#364258,8,standard,https://car.autohome.com.cn/pic/series-s66749/5964-1.html,S20
+T0191,66749,2024,荣耀版 EV 510KM领先型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66749/5964-1.html,S20
+T0191,66749,2024,荣耀版 EV 510KM领先型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66749/5964-1.html,S20
+T0191,66749,2024,荣耀版 EV 510KM领先型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66749/5964-1.html,S20
+T0192,66750,2024,荣耀版 EV 510KM超越型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s66750/5964-1.html,S20
+T0192,66750,2024,荣耀版 EV 510KM超越型,白釉青,#364258,8,standard,https://car.autohome.com.cn/pic/series-s66750/5964-1.html,S20
+T0192,66750,2024,荣耀版 EV 510KM超越型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66750/5964-1.html,S20
+T0193,66751,2024,荣耀版 EV 510KM卓越型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66751/5964-1.html,S20
+T0194,67266,2024,DM-i 120KM领航荣耀版,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s67266/5964-1.html,S20
+T0195,67265,2024,DM-i 55KM领航荣耀版,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s67265/5964-1.html,S20
+T0196,61527,2023,冠军版 DM-i 55KM领先型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s61527/5964-1.html,S20
+T0197,61528,2023,冠军版 DM-i 55KM超越型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s61528/5964-1.html,S20
+T0198,61235,2023,冠军版 DM-i 120KM领先型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s61235/5964-1.html,S20
+T0199,61240,2023,冠军版 DM-i 120KM超越型,赤帝红,#B7242E,7,standard,https://car.autohome.com.cn/pic/series-s61240/5964-1.html,S20
+T0199,61240,2023,冠军版 DM-i 120KM超越型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s61240/5964-1.html,S20
+T0200,61318,2023,冠军版 DM-i 120KM卓越型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s61318/5964-1.html,S20
+T0200,61318,2023,冠军版 DM-i 120KM卓越型,玄空黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s61318/5964-1.html,S20
+T0200,61318,2023,冠军版 DM-i 120KM卓越型,墨玉蓝,#033570,7,standard,https://car.autohome.com.cn/pic/series-s61318/5964-1.html,S20
+T0201,62385,2023,冠军版 EV 420KM领先型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s62385/5964-1.html,S20
+T0202,62386,2023,冠军版 EV 420KM超越型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s62386/5964-1.html,S20
+T0203,62387,2023,冠军版 EV 510KM领先型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s62387/5964-1.html,S20
+T0204,62389,2023,冠军版 EV 510KM超越型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s62389/5964-1.html,S20
+T0205,62390,2023,冠军版 EV 510KM卓越型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s62390/5964-1.html,S20
+T0206,62080,2023,冠军版 EV 610KM卓越型,赤帝红,#B7242E,7,standard,https://car.autohome.com.cn/pic/series-s62080/5964-1.html,S20
+T0208,49498,2021,DM-i 55KM 尊贵型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s49498/5964-1.html,S20
+T0209,49499,2021,DM-i 55KM 旗舰型,时光灰,#404954,13,standard,https://car.autohome.com.cn/pic/series-s49499/5964-1.html,S20
+T0209,49499,2021,DM-i 55KM 旗舰型,天青蓝,#000555,7,standard,https://car.autohome.com.cn/pic/series-s49499/5964-1.html,S20
+T0209,49499,2021,DM-i 55KM 旗舰型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s49499/5964-1.html,S20
+T0210,49500,2021,DM-i 120KM 尊贵型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s49500/5964-1.html,S20
+T0211,49501,2021,DM-i 120KM 旗舰型,赤帝红,#B7242E,7,standard,https://car.autohome.com.cn/pic/series-s49501/5964-1.html,S20
+T0211,49501,2021,DM-i 120KM 旗舰型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s49501/5964-1.html,S20
+T0211,49501,2021,DM-i 120KM 旗舰型,玄羽黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s49501/5964-1.html,S20
+T0212,50587,2021,EV 400KM 豪华型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s50587/5964-1.html,S20
+T0213,50588,2021,EV 500KM 豪华型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s50588/5964-1.html,S20
+T0214,50589,2021,EV 500KM 尊贵型,赤帝红,#B7242E,8,standard,https://car.autohome.com.cn/pic/series-s50589/5964-1.html,S20
+T0214,50589,2021,EV 500KM 尊贵型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s50589/5964-1.html,S20
+T0215,49774,2021,EV 600KM 旗舰型,雪域白,#FFFFFF,5,standard,https://car.autohome.com.cn/pic/series-s49774/5964-1.html,S20
+T0216,51965,2021,EV 400KM 领畅版,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s51965/5964-1.html,S20
+T0217,79575,2027,DM-i 140KM领先型,冰珀青,#A7B4BB,8,standard,https://car.autohome.com.cn/pic/series-s79575/5964-1.html,S20
+T0217,79575,2027,DM-i 140KM领先型,星河米,#C9C9C9,8,standard,https://car.autohome.com.cn/pic/series-s79575/5964-1.html,S20
+T0217,79575,2027,DM-i 140KM领先型,墨竹青,#5595AA,8,standard,https://car.autohome.com.cn/pic/series-s79575/5964-1.html,S20
+T0217,79575,2027,DM-i 140KM领先型,初雪白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s79575/5964-1.html,S20
+T0217,79575,2027,DM-i 140KM领先型,钛晶灰,#7A7779,8,standard,https://car.autohome.com.cn/pic/series-s79575/5964-1.html,S20
+T0217,79575,2027,DM-i 140KM领先型,海岛蓝,#8C9BD2,8,standard,https://car.autohome.com.cn/pic/series-s79575/5964-1.html,S20
+T0218,79573,2027,DM-i 220KM超越型,星河米,#C9C9C9,8,standard,https://car.autohome.com.cn/pic/series-s79573/5964-1.html,S20
+T0218,79573,2027,DM-i 220KM超越型,墨竹青,#5595AA,8,standard,https://car.autohome.com.cn/pic/series-s79573/5964-1.html,S20
+T0218,79573,2027,DM-i 220KM超越型,初雪白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s79573/5964-1.html,S20
+T0218,79573,2027,DM-i 220KM超越型,钛晶灰,#7A7779,8,standard,https://car.autohome.com.cn/pic/series-s79573/5964-1.html,S20
+T0218,79573,2027,DM-i 220KM超越型,海岛蓝,#8C9BD2,8,standard,https://car.autohome.com.cn/pic/series-s79573/5964-1.html,S20
+T0218,79573,2027,DM-i 220KM超越型,冰珀青,#A7B4BB,6,standard,https://car.autohome.com.cn/pic/series-s79573/5964-1.html,S20
+T0219,78511,2027,DM-i 220KM卓越型,星河米,#C9C9C9,8,standard,https://car.autohome.com.cn/pic/series-s78511/5964-1.html,S20
+T0219,78511,2027,DM-i 220KM卓越型,墨竹青,#5595AA,8,standard,https://car.autohome.com.cn/pic/series-s78511/5964-1.html,S20
+T0219,78511,2027,DM-i 220KM卓越型,初雪白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s78511/5964-1.html,S20
+T0219,78511,2027,DM-i 220KM卓越型,钛晶灰,#7A7779,8,standard,https://car.autohome.com.cn/pic/series-s78511/5964-1.html,S20
+T0219,78511,2027,DM-i 220KM卓越型,海岛蓝,#8C9BD2,8,standard,https://car.autohome.com.cn/pic/series-s78511/5964-1.html,S20
+T0219,78511,2027,DM-i 220KM卓越型,冰珀青,#A7B4BB,6,standard,https://car.autohome.com.cn/pic/series-s78511/5964-1.html,S20
+T0220,76199,2026,DM-i 128KM进取型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s76199/5964-1.html,S20
+T0220,76199,2026,DM-i 128KM进取型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s76199/5964-1.html,S20
+T0220,76199,2026,DM-i 128KM进取型,冰珀青,#A7B4BB,8,standard,https://car.autohome.com.cn/pic/series-s76199/5964-1.html,S20
+T0220,76199,2026,DM-i 128KM进取型,星河米,#C9C9C9,8,standard,https://car.autohome.com.cn/pic/series-s76199/5964-1.html,S20
+T0221,76109,2026,DM-i 210KM进取型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s76109/5964-1.html,S20
+T0221,76109,2026,DM-i 210KM进取型,冰珀青,#A7B4BB,8,standard,https://car.autohome.com.cn/pic/series-s76109/5964-1.html,S20
+T0221,76109,2026,DM-i 210KM进取型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s76109/5964-1.html,S20
+T0221,76109,2026,DM-i 210KM进取型,星河米,#C9C9C9,8,standard,https://car.autohome.com.cn/pic/series-s76109/5964-1.html,S20
+T0221,76109,2026,DM-i 210KM进取型,松烟绿,#68757B,8,standard,https://car.autohome.com.cn/pic/series-s76109/5964-1.html,S20
+T0222,76177,2026,DM-i 210KM超越型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s76177/5964-1.html,S20
+T0222,76177,2026,DM-i 210KM超越型,冰珀青,#A7B4BB,8,standard,https://car.autohome.com.cn/pic/series-s76177/5964-1.html,S20
+T0223,71687,2025,EV 智驾版 420KM领先型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71687/5964-1.html,S20
+T0223,71687,2025,EV 智驾版 420KM领先型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71687/5964-1.html,S20
+T0223,71687,2025,EV 智驾版 420KM领先型,白釉青,#364258,8,standard,https://car.autohome.com.cn/pic/series-s71687/5964-1.html,S20
+T0223,71687,2025,EV 智驾版 420KM领先型,冰珀青,#A7B4BB,8,standard,https://car.autohome.com.cn/pic/series-s71687/5964-1.html,S20
+T0224,74866,2025,EV 智驾版 510KM进取型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s74866/5964-1.html,S20
+T0224,74866,2025,EV 智驾版 510KM进取型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s74866/5964-1.html,S20
+T0224,74866,2025,EV 智驾版 510KM进取型,冰珀青,#A7B4BB,8,standard,https://car.autohome.com.cn/pic/series-s74866/5964-1.html,S20
+T0224,74866,2025,EV 智驾版 510KM进取型,未央灰,#787878,8,standard,https://car.autohome.com.cn/pic/series-s74866/5964-1.html,S20
+T0225,71688,2025,EV 智驾版 510KM领先型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71688/5964-1.html,S20
+T0225,71688,2025,EV 智驾版 510KM领先型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71688/5964-1.html,S20
+T0225,71688,2025,EV 智驾版 510KM领先型,白釉青,#364258,8,standard,https://car.autohome.com.cn/pic/series-s71688/5964-1.html,S20
+T0225,71688,2025,EV 智驾版 510KM领先型,冰珀青,#A7B4BB,8,standard,https://car.autohome.com.cn/pic/series-s71688/5964-1.html,S20
+T0226,71689,2025,EV 智驾版 510KM超越型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71689/5964-1.html,S20
+T0226,71689,2025,EV 智驾版 510KM超越型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71689/5964-1.html,S20
+T0226,71689,2025,EV 智驾版 510KM超越型,冰珀青,#A7B4BB,8,standard,https://car.autohome.com.cn/pic/series-s71689/5964-1.html,S20
+T0227,72103,2025,EV 510KM 标准版,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s72103/5964-1.html,S20
+T0227,72103,2025,EV 510KM 标准版,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s72103/5964-1.html,S20
+T0228,72442,2025,EV 510KM 畅行版,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s72442/5964-1.html,S20
+T0228,72442,2025,EV 510KM 畅行版,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s72442/5964-1.html,S20
+T0229,72524,2025,EV 智驾版 510KM领航版,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s72524/5964-1.html,S20
+T0229,72524,2025,EV 智驾版 510KM领航版,白釉青,#364258,8,standard,https://car.autohome.com.cn/pic/series-s72524/5964-1.html,S20
+T0230,65656,2023,EV 510KM 出行版,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s65656/5964-1.html,S20
+T0231,63012,2021,EV 510KM 出行版,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s63012/5964-1.html,S20
+T0232,51966,2021,EV 420KM 出行版,雪域白,#FFFFFF,6,standard,https://car.autohome.com.cn/pic/series-s51966/5964-1.html,S20
+T0233,69209,2025,DM-i 75KM 豪华型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s69209/5761-1.html,S21
+T0233,69209,2025,DM-i 75KM 豪华型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s69209/5761-1.html,S21
+T0233,69209,2025,DM-i 75KM 豪华型,苍烟色,#CECDC9,8,standard,https://car.autohome.com.cn/pic/series-s69209/5761-1.html,S21
+T0234,69252,2025,DM-i 112KM 尊贵型,德兰黑,#040000,7,standard,https://car.autohome.com.cn/pic/series-s69252/5761-1.html,S21
+T0234,69252,2025,DM-i 112KM 尊贵型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s69252/5761-1.html,S21
+T0234,69252,2025,DM-i 112KM 尊贵型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s69252/5761-1.html,S21
+T0234,69252,2025,DM-i 112KM 尊贵型,苍烟色,#CECDC9,7,standard,https://car.autohome.com.cn/pic/series-s69252/5761-1.html,S21
+T0235,69253,2025,DM-i 112KM 尊荣型,苍烟色,#CECDC9,8,standard,https://car.autohome.com.cn/pic/series-s69253/5761-1.html,S21
+T0235,69253,2025,DM-i 112KM 尊荣型,德兰黑,#040000,7,standard,https://car.autohome.com.cn/pic/series-s69253/5761-1.html,S21
+T0235,69253,2025,DM-i 112KM 尊荣型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s69253/5761-1.html,S21
+T0235,69253,2025,DM-i 112KM 尊荣型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s69253/5761-1.html,S21
+T0236,69254,2025,DM-i 160KM 旗舰型,德兰黑,#040000,8,standard,https://car.autohome.com.cn/pic/series-s69254/5761-1.html,S21
+T0236,69254,2025,DM-i 160KM 旗舰型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s69254/5761-1.html,S21
+T0236,69254,2025,DM-i 160KM 旗舰型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s69254/5761-1.html,S21
+T0236,69254,2025,DM-i 160KM 旗舰型,苍烟色,#CECDC9,7,standard,https://car.autohome.com.cn/pic/series-s69254/5761-1.html,S21
+T0237,69210,2025,DM-i 160KM 旗舰PLUS,德兰黑,#040000,8,standard,https://car.autohome.com.cn/pic/series-s69210/5761-1.html,S21
+T0237,69210,2025,DM-i 160KM 旗舰PLUS,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s69210/5761-1.html,S21
+T0237,69210,2025,DM-i 160KM 旗舰PLUS,苍烟色,#CECDC9,8,standard,https://car.autohome.com.cn/pic/series-s69210/5761-1.html,S21
+T0237,69210,2025,DM-i 160KM 旗舰PLUS,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s69210/5761-1.html,S21
+T0238,69512,2025,EV 520km 豪华型,德兰黑,#040000,8,standard,https://car.autohome.com.cn/pic/series-s69512/5761-1.html,S21
+T0238,69512,2025,EV 520km 豪华型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s69512/5761-1.html,S21
+T0238,69512,2025,EV 520km 豪华型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s69512/5761-1.html,S21
+T0238,69512,2025,EV 520km 豪华型,苍烟色,#CECDC9,8,standard,https://car.autohome.com.cn/pic/series-s69512/5761-1.html,S21
+T0239,69513,2025,EV 520km 尊贵型,时光灰,#404954,16,standard,https://car.autohome.com.cn/pic/series-s69513/5761-1.html,S21
+T0239,69513,2025,EV 520km 尊贵型,苍烟色,#CECDC9,14,standard,https://car.autohome.com.cn/pic/series-s69513/5761-1.html,S21
+T0239,69513,2025,EV 520km 尊贵型,德兰黑,#040000,8,standard,https://car.autohome.com.cn/pic/series-s69513/5761-1.html,S21
+T0239,69513,2025,EV 520km 尊贵型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s69513/5761-1.html,S21
+T0240,69514,2025,EV 605km 旗舰型,德兰黑,#040000,8,standard,https://car.autohome.com.cn/pic/series-s69514/5761-1.html,S21
+T0240,69514,2025,EV 605km 旗舰型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s69514/5761-1.html,S21
+T0240,69514,2025,EV 605km 旗舰型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s69514/5761-1.html,S21
+T0240,69514,2025,EV 605km 旗舰型,苍烟色,#CECDC9,8,standard,https://car.autohome.com.cn/pic/series-s69514/5761-1.html,S21
+T0241,71470,2025,DM-i 智驾版 112KM 尊贵型,德兰黑,#040000,8,standard,https://car.autohome.com.cn/pic/series-s71470/5761-1.html,S21
+T0241,71470,2025,DM-i 智驾版 112KM 尊贵型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71470/5761-1.html,S21
+T0241,71470,2025,DM-i 智驾版 112KM 尊贵型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71470/5761-1.html,S21
+T0241,71470,2025,DM-i 智驾版 112KM 尊贵型,苍烟色,#CECDC9,8,standard,https://car.autohome.com.cn/pic/series-s71470/5761-1.html,S21
+T0242,71525,2025,DM-i 智驾版 112KM 尊荣型,德兰黑,#040000,8,standard,https://car.autohome.com.cn/pic/series-s71525/5761-1.html,S21
+T0242,71525,2025,DM-i 智驾版 112KM 尊荣型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71525/5761-1.html,S21
+T0242,71525,2025,DM-i 智驾版 112KM 尊荣型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71525/5761-1.html,S21
+T0242,71525,2025,DM-i 智驾版 112KM 尊荣型,苍烟色,#CECDC9,8,standard,https://car.autohome.com.cn/pic/series-s71525/5761-1.html,S21
+T0243,71480,2025,DM-i 智驾版 160KM 旗舰型,德兰黑,#040000,8,standard,https://car.autohome.com.cn/pic/series-s71480/5761-1.html,S21
+T0243,71480,2025,DM-i 智驾版 160KM 旗舰型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71480/5761-1.html,S21
+T0243,71480,2025,DM-i 智驾版 160KM 旗舰型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71480/5761-1.html,S21
+T0243,71480,2025,DM-i 智驾版 160KM 旗舰型,苍烟色,#CECDC9,8,standard,https://car.autohome.com.cn/pic/series-s71480/5761-1.html,S21
+T0244,71520,2025,EV 智驾版 520km 豪华型,德兰黑,#040000,8,standard,https://car.autohome.com.cn/pic/series-s71520/5761-1.html,S21
+T0244,71520,2025,EV 智驾版 520km 豪华型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71520/5761-1.html,S21
+T0244,71520,2025,EV 智驾版 520km 豪华型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71520/5761-1.html,S21
+T0244,71520,2025,EV 智驾版 520km 豪华型,苍烟色,#CECDC9,8,standard,https://car.autohome.com.cn/pic/series-s71520/5761-1.html,S21
+T0245,71524,2025,EV 智驾版 520km 尊贵型,德兰黑,#040000,8,standard,https://car.autohome.com.cn/pic/series-s71524/5761-1.html,S21
+T0245,71524,2025,EV 智驾版 520km 尊贵型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71524/5761-1.html,S21
+T0245,71524,2025,EV 智驾版 520km 尊贵型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71524/5761-1.html,S21
+T0245,71524,2025,EV 智驾版 520km 尊贵型,苍烟色,#CECDC9,8,standard,https://car.autohome.com.cn/pic/series-s71524/5761-1.html,S21
+T0246,71481,2025,EV 智驾版 605km 旗舰型,德兰黑,#040000,8,standard,https://car.autohome.com.cn/pic/series-s71481/5761-1.html,S21
+T0246,71481,2025,EV 智驾版 605km 旗舰型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s71481/5761-1.html,S21
+T0246,71481,2025,EV 智驾版 605km 旗舰型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s71481/5761-1.html,S21
+T0246,71481,2025,EV 智驾版 605km 旗舰型,苍烟色,#CECDC9,8,standard,https://car.autohome.com.cn/pic/series-s71481/5761-1.html,S21
+T0247,72520,2025,EV 智驾版 520km 领航版,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s72520/5761-1.html,S21
+T0247,72520,2025,EV 智驾版 520km 领航版,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s72520/5761-1.html,S21
+T0248,66931,2024,荣耀版 DM-i 71km 豪华型,苍烟色,#CECDC9,7,standard,https://car.autohome.com.cn/pic/series-s66931/5761-1.html,S21
+T0249,66932,2024,荣耀版 DM-i 110km 旗舰型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66932/5761-1.html,S21
+T0250,66933,2024,荣耀版 DM-i 110km 旗舰PLUS,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66933/5761-1.html,S21
+T0251,66934,2024,荣耀版 DM-i 150km 旗舰PLUS,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66934/5761-1.html,S21
+T0251,66934,2024,荣耀版 DM-i 150km 旗舰PLUS,苍烟色,#CECDC9,7,standard,https://car.autohome.com.cn/pic/series-s66934/5761-1.html,S21
+T0252,66935,2024,荣耀版 DM-i 150km 旗舰PLUS 5G,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66935/5761-1.html,S21
+T0253,66936,2024,荣耀版 EV 520km 豪华型,德兰黑,#040000,7,standard,https://car.autohome.com.cn/pic/series-s66936/5761-1.html,S21
+T0253,66936,2024,荣耀版 EV 520km 豪华型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66936/5761-1.html,S21
+T0253,66936,2024,荣耀版 EV 520km 豪华型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66936/5761-1.html,S21
+T0253,66936,2024,荣耀版 EV 520km 豪华型,天青色,#C3D8EB,7,standard,https://car.autohome.com.cn/pic/series-s66936/5761-1.html,S21
+T0253,66936,2024,荣耀版 EV 520km 豪华型,苍烟色,#CECDC9,7,standard,https://car.autohome.com.cn/pic/series-s66936/5761-1.html,S21
+T0254,66937,2024,荣耀版 EV 520km 尊贵型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66937/5761-1.html,S21
+T0254,66937,2024,荣耀版 EV 520km 尊贵型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66937/5761-1.html,S21
+T0254,66937,2024,荣耀版 EV 520km 尊贵型,天青色,#C3D8EB,7,standard,https://car.autohome.com.cn/pic/series-s66937/5761-1.html,S21
+T0254,66937,2024,荣耀版 EV 520km 尊贵型,苍烟色,#CECDC9,7,standard,https://car.autohome.com.cn/pic/series-s66937/5761-1.html,S21
+T0255,66939,2024,荣耀版 EV 605km 旗舰PLUS,德兰黑,#040000,7,standard,https://car.autohome.com.cn/pic/series-s66939/5761-1.html,S21
+T0255,66939,2024,荣耀版 EV 605km 旗舰PLUS,赤帝红,#B7242E,7,standard,https://car.autohome.com.cn/pic/series-s66939/5761-1.html,S21
+T0255,66939,2024,荣耀版 EV 605km 旗舰PLUS,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66939/5761-1.html,S21
+T0256,66938,2024,荣耀版 EV 520km 旗舰型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66938/5761-1.html,S21
+T0256,66938,2024,荣耀版 EV 520km 旗舰型,苍烟色,#CECDC9,7,standard,https://car.autohome.com.cn/pic/series-s66938/5761-1.html,S21
+T0257,62470,2023,冠军版 EV 520KM 豪华型,苍烟色,#CECDC9,7,standard,https://car.autohome.com.cn/pic/series-s62470/5761-1.html,S21
+T0258,62471,2023,冠军版 EV 520KM 尊贵型,德兰黑,#040000,7,standard,https://car.autohome.com.cn/pic/series-s62471/5761-1.html,S21
+T0258,62471,2023,冠军版 EV 520KM 尊贵型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s62471/5761-1.html,S21
+T0259,63394,2023,冠军版 EV 520KM 旗舰型,赤帝红,#B7242E,7,standard,https://car.autohome.com.cn/pic/series-s63394/5761-1.html,S21
+T0259,63394,2023,冠军版 EV 520KM 旗舰型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s63394/5761-1.html,S21
+T0260,63395,2023,冠军版 EV 605KM 旗舰PLUS,天青色,#C3D8EB,7,standard,https://car.autohome.com.cn/pic/series-s63395/5761-1.html,S21
+T0261,63396,2023,冠军版 DM-i 110KM 旗舰型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s63396/5761-1.html,S21
+T0261,63396,2023,冠军版 DM-i 110KM 旗舰型,苍烟色,#CECDC9,7,standard,https://car.autohome.com.cn/pic/series-s63396/5761-1.html,S21
+T0262,63397,2023,冠军版 DM-i 110KM 旗舰PLUS,德兰黑,#040000,7,standard,https://car.autohome.com.cn/pic/series-s63397/5761-1.html,S21
+T0262,63397,2023,冠军版 DM-i 110KM 旗舰PLUS,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s63397/5761-1.html,S21
+T0262,63397,2023,冠军版 DM-i 110KM 旗舰PLUS,天青色,#C3D8EB,7,standard,https://car.autohome.com.cn/pic/series-s63397/5761-1.html,S21
+T0263,63398,2023,冠军版 DM-i 150KM 旗舰PLUS,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s63398/5761-1.html,S21
+T0264,63399,2023,冠军版 DM-i 150KM 旗舰PLUS 5G,苍烟色,#CECDC9,7,standard,https://car.autohome.com.cn/pic/series-s63399/5761-1.html,S21
+T0265,49506,2021,DM-i 51KM 尊荣型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s49506/5761-1.html,S21
+T0266,49507,2021,DM-i 110KM 旗舰型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s49507/5761-1.html,S21
+T0267,49508,2021,DM-i 110KM 旗舰PLUS,时光灰,#404954,12,standard,https://car.autohome.com.cn/pic/series-s49508/5761-1.html,S21
+T0267,49508,2021,DM-i 110KM 旗舰PLUS,穹顶蓝,#033570,7,standard,https://car.autohome.com.cn/pic/series-s49508/5761-1.html,S21
+T0267,49508,2021,DM-i 110KM 旗舰PLUS,德兰黑,#040000,7,standard,https://car.autohome.com.cn/pic/series-s49508/5761-1.html,S21
+T0267,49508,2021,DM-i 110KM 旗舰PLUS,赤帝红,#B7242E,7,standard,https://car.autohome.com.cn/pic/series-s49508/5761-1.html,S21
+T0267,49508,2021,DM-i 110KM 旗舰PLUS,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s49508/5761-1.html,S21
+T0268,57112,2021,DM-i 110KM 旗舰PLUS 5G版,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s57112/5761-1.html,S21
+T0269,53500,2021,DM-i 100KM 四驱旗舰PLUS,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s53500/5761-1.html,S21
+T0270,50586,2021,EV 尊贵型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s50586/5761-1.html,S21
+T0271,45550,2021,EV 旗舰型,赤帝红,#B7242E,7,standard,https://car.autohome.com.cn/pic/series-s45550/5761-1.html,S21
+T0271,45550,2021,EV 旗舰型,时光灰,#404954,5,standard,https://car.autohome.com.cn/pic/series-s45550/5761-1.html,S21
+T0271,45550,2021,EV 旗舰型,德兰黑,#040000,3,standard,https://car.autohome.com.cn/pic/series-s45550/5761-1.html,S21
+T0272,66738,2024,荣耀版 DM-i 55KM 尊贵型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s66738/6337-1.html,S22
+T0272,66738,2024,荣耀版 DM-i 55KM 尊贵型,魔域黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s66738/6337-1.html,S22
+T0272,66738,2024,荣耀版 DM-i 55KM 尊贵型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66738/6337-1.html,S22
+T0273,66739,2024,荣耀版 DM-i 120KM 豪华型,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s66739/6337-1.html,S22
+T0273,66739,2024,荣耀版 DM-i 120KM 豪华型,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s66739/6337-1.html,S22
+T0273,66739,2024,荣耀版 DM-i 120KM 豪华型,魔域黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s66739/6337-1.html,S22
+T0273,66739,2024,荣耀版 DM-i 120KM 豪华型,墨石蓝,#18284C,7,standard,https://car.autohome.com.cn/pic/series-s66739/6337-1.html,S22
+T0274,66740,2024,荣耀版 DM-i 120KM 尊贵型,墨石蓝,#18284C,7,standard,https://car.autohome.com.cn/pic/series-s66740/6337-1.html,S22
+T0274,66740,2024,荣耀版 DM-i 120KM 尊贵型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66740/6337-1.html,S22
+T0274,66740,2024,荣耀版 DM-i 120KM 尊贵型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66740/6337-1.html,S22
+T0274,66740,2024,荣耀版 DM-i 120KM 尊贵型,魔域黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66740/6337-1.html,S22
+T0275,66741,2024,荣耀版 DM-i 120KM 尊荣型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66741/6337-1.html,S22
+T0276,66742,2024,荣耀版 DM-i 120KM 旗舰型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66742/6337-1.html,S22
+T0277,66734,2024,荣耀版 DM-i 55KM 豪华型,墨石蓝,#18284C,7,standard,https://car.autohome.com.cn/pic/series-s66734/6337-1.html,S22
+T0277,66734,2024,荣耀版 DM-i 55KM 豪华型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s66734/6337-1.html,S22
+T0277,66734,2024,荣耀版 DM-i 55KM 豪华型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s66734/6337-1.html,S22
+T0277,66734,2024,荣耀版 DM-i 55KM 豪华型,魔域黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s66734/6337-1.html,S22
+T0278,62917,2023,冠军版 DM-i 55KM 豪华型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s62917/6337-1.html,S22
+T0279,62918,2023,冠军版 DM-i 55KM 尊贵型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s62918/6337-1.html,S22
+T0280,64150,2023,冠军版 DM-i 120KM 豪华型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s64150/6337-1.html,S22
+T0281,62919,2023,冠军版 DM-i 120KM 尊贵型,墨石蓝,#18284C,7,standard,https://car.autohome.com.cn/pic/series-s62919/6337-1.html,S22
+T0281,62919,2023,冠军版 DM-i 120KM 尊贵型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s62919/6337-1.html,S22
+T0281,62919,2023,冠军版 DM-i 120KM 尊贵型,魔域黑,#000000,7,standard,https://car.autohome.com.cn/pic/series-s62919/6337-1.html,S22
+T0282,62920,2023,冠军版 DM-i 120KM 尊荣型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s62920/6337-1.html,S22
+T0283,62921,2023,冠军版 DM-i 120KM 旗舰型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s62921/6337-1.html,S22
+T0284,55772,2022,DM-i 55KM 舒适型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s55772/6337-1.html,S22
+T0285,55773,2022,DM-i 55KM 豪华型,时光灰,#404954,7,standard,https://car.autohome.com.cn/pic/series-s55773/6337-1.html,S22
+T0286,55774,2022,DM-i 55KM 尊贵型,德兰黑,#040000,7,standard,https://car.autohome.com.cn/pic/series-s55774/6337-1.html,S22
+T0286,55774,2022,DM-i 55KM 尊贵型,雪域白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s55774/6337-1.html,S22
+T0286,55774,2022,DM-i 55KM 尊贵型,时光灰,#404954,6,standard,https://car.autohome.com.cn/pic/series-s55774/6337-1.html,S22
+T0287,55771,2022,DM-i 120KM 尊贵型,时光灰,#404954,5,standard,https://car.autohome.com.cn/pic/series-s55771/6337-1.html,S22
+T0288,52587,2022,DM-i 120KM 旗舰型,时光灰,#404954,32,standard,https://car.autohome.com.cn/pic/series-s52587/6337-1.html,S22
+T0288,52587,2022,DM-i 120KM 旗舰型,穹顶蓝,#033570,14,standard,https://car.autohome.com.cn/pic/series-s52587/6337-1.html,S22
+T0289,73236,2025,DM-i 55KM 畅行版,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s73236/6337-1.html,S22
+T0289,73236,2025,DM-i 55KM 畅行版,时光灰,#404954,4,standard,https://car.autohome.com.cn/pic/series-s73236/6337-1.html,S22
+T0290,73237,2025,DM-i 120KM 畅行版,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s73237/6337-1.html,S22
+T0291,69283,2024,DM-i 55KM 领航荣耀版,墨石蓝,#18284C,8,standard,https://car.autohome.com.cn/pic/series-s69283/6337-1.html,S22
+T0291,69283,2024,DM-i 55KM 领航荣耀版,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s69283/6337-1.html,S22
+T0291,69283,2024,DM-i 55KM 领航荣耀版,时光灰,#404954,8,standard,https://car.autohome.com.cn/pic/series-s69283/6337-1.html,S22
+T0291,69283,2024,DM-i 55KM 领航荣耀版,魔域黑,#000000,8,standard,https://car.autohome.com.cn/pic/series-s69283/6337-1.html,S22
+T0292,69284,2024,DM-i 120KM 领航荣耀版,雪域白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s69284/6337-1.html,S22
+T0293,62327,2023,舒适型,水晶白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s62327/5238-1.html,S23
+T0294,61270,2023,豪华型,法兰红,#D20A16,7,standard,https://car.autohome.com.cn/pic/series-s61270/5238-1.html,S23
+T0294,61270,2023,豪华型,水晶白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s61270/5238-1.html,S23
+T0294,61270,2023,豪华型,贝贝灰,#50596A,7,standard,https://car.autohome.com.cn/pic/series-s61270/5238-1.html,S23
+T0294,61270,2023,豪华型,暖阳白,#F0F0F0,7,standard,https://car.autohome.com.cn/pic/series-s61270/5238-1.html,S23
+T0295,51405,2021,出行版,水晶白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s51405/5238-1.html,S23
+T0296,53581,2021,标准型,水晶白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s53581/5238-1.html,S23
+T0297,50581,2021,舒适型,水晶白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s50581/5238-1.html,S23
+T0298,50512,2021,豪华型,法兰红,#D20A16,7,standard,https://car.autohome.com.cn/pic/series-s50512/5238-1.html,S23
+T0298,50512,2021,豪华型,苍穹蓝,#001694,7,standard,https://car.autohome.com.cn/pic/series-s50512/5238-1.html,S23
+T0298,50512,2021,豪华型,山脉灰,#45474D,7,standard,https://car.autohome.com.cn/pic/series-s50512/5238-1.html,S23
+T0300,47235,2020,升级版 标准续航版 标准型,水晶白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s47235/5238-1.html,S23
+T0301,47236,2020,升级版 标准续航版 舒适型,水晶白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s47236/5238-1.html,S23
+T0302,47237,2020,升级版 高续航版 豪华型,法兰红,#D20A16,7,standard,https://car.autohome.com.cn/pic/series-s47237/5238-1.html,S23
+T0302,47237,2020,升级版 高续航版 豪华型,水晶白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s47237/5238-1.html,S23
+T0302,47237,2020,升级版 高续航版 豪华型,山脉灰,#45474D,6,standard,https://car.autohome.com.cn/pic/series-s47237/5238-1.html,S23
+T0303,47238,2020,升级版 高续航版 尊贵型,苍穹蓝,#001694,7,standard,https://car.autohome.com.cn/pic/series-s47238/5238-1.html,S23
+T0305,41398,2019,标准续航版 悦·标准型,法兰红,#D20A16,7,standard,https://car.autohome.com.cn/pic/series-s41398/5238-1.html,S23
+T0305,41398,2019,标准续航版 悦·标准型,水晶白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s41398/5238-1.html,S23
+T0306,41095,2019,标准续航版 智·舒适型,法兰红,#D20A16,7,standard,https://car.autohome.com.cn/pic/series-s41095/5238-1.html,S23
+T0306,41095,2019,标准续航版 智·舒适型,水晶白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s41095/5238-1.html,S23
+T0306,41095,2019,标准续航版 智·舒适型,山脉灰,#45474D,7,standard,https://car.autohome.com.cn/pic/series-s41095/5238-1.html,S23
+T0307,41399,2019,高续航版 耀·豪华型,苍穹蓝,#001694,7,standard,https://car.autohome.com.cn/pic/series-s41399/5238-1.html,S23
+T0309,41428,2019,400出行版,水晶白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s41428/5238-1.html,S23
+T0310,67156,2024,荣耀版 舒适型,水晶白,#FFFFFF,8,standard,https://car.autohome.com.cn/pic/series-s67156/5238-1.html,S23
+T0310,67156,2024,荣耀版 舒适型,贝贝灰,#50596A,7,standard,https://car.autohome.com.cn/pic/series-s67156/5238-1.html,S23
+T0310,67156,2024,荣耀版 舒适型,暖阳白,#F0F0F0,7,standard,https://car.autohome.com.cn/pic/series-s67156/5238-1.html,S23
+T0310,67156,2024,荣耀版 舒适型,法兰红,#D20A16,7,standard,https://car.autohome.com.cn/pic/series-s67156/5238-1.html,S23
+T0311,67157,2024,荣耀版 豪华型,水晶白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s67157/5238-1.html,S23
+T0311,67157,2024,荣耀版 豪华型,贝贝灰,#50596A,7,standard,https://car.autohome.com.cn/pic/series-s67157/5238-1.html,S23
+T0312,63011,2023,出行版,水晶白,#FFFFFF,7,standard,https://car.autohome.com.cn/pic/series-s63011/5238-1.html,S23

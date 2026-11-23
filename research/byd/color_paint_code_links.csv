@@ -1,0 +1,120 @@
+link_id,color_id,paint_code_id,oem_code,link_basis,confidence,candidate_ids,year_specificity,conflict_note,status
+L0001,C0098,PC001,00AN,supplier name equivalence: 'Cosmos Black'/'Xuan Empty Black' (literal of 玄空黑),medium,P118;P009;P069,supplier listing is model-level or name-only; year not matched,Three independent suppliers; 'Xuan Empty Black' is a literal rendering of 玄空黑.,POSSIBLE
+L0002,C0098,PC002,AA1,supplier name equivalence: 'Cosmos Black'/'Xuan Empty Black' (literal of 玄空黑),medium,P118;P009;P069,supplier listing is model-level or name-only; year not matched,Three independent suppliers; 'Xuan Empty Black' is a literal rendering of 玄空黑.,POSSIBLE
+L0003,C0105,PC001,00AN,supplier name equivalence: 'Cosmos Black'/'Xuan Empty Black' (literal of 玄空黑),medium,P118;P009;P069,supplier listing is model-level or name-only; year not matched,Three independent suppliers; 'Xuan Empty Black' is a literal rendering of 玄空黑.,POSSIBLE
+L0004,C0105,PC002,AA1,supplier name equivalence: 'Cosmos Black'/'Xuan Empty Black' (literal of 玄空黑),medium,P118;P009;P069,supplier listing is model-level or name-only; year not matched,Three independent suppliers; 'Xuan Empty Black' is a literal rendering of 玄空黑.,POSSIBLE
+L0005,C0115,PC001,00AN,supplier name equivalence: 'Cosmos Black'/'Xuan Empty Black' (literal of 玄空黑),medium,P118;P009;P069,supplier listing is model-level or name-only; year not matched,Three independent suppliers; 'Xuan Empty Black' is a literal rendering of 玄空黑.,POSSIBLE
+L0006,C0115,PC002,AA1,supplier name equivalence: 'Cosmos Black'/'Xuan Empty Black' (literal of 玄空黑),medium,P118;P009;P069,supplier listing is model-level or name-only; year not matched,Three independent suppliers; 'Xuan Empty Black' is a literal rendering of 玄空黑.,POSSIBLE
+L0007,C0097,PC071,HB5,exact name 'Atlantis Grey',low,P114;P113;P102,partly year-listed (see candidates),CONFLICT: HB5 (gloss) vs HB6 (listed MATT / ¤MAT). Which applies to which year/finish is unknown.,POSSIBLE
+L0008,C0097,PC072,HB6,exact name 'Atlantis Grey',low,P114;P113;P102,partly year-listed (see candidates),CONFLICT: HB5 (gloss) vs HB6 (listed MATT / ¤MAT). Which applies to which year/finish is unknown.,POSSIBLE
+L0009,C0103,PC071,HB5,exact name 'Atlantis Grey',low,P114;P113;P102,partly year-listed (see candidates),CONFLICT: HB5 (gloss) vs HB6 (listed MATT / ¤MAT). Which applies to which year/finish is unknown.,POSSIBLE
+L0010,C0103,PC072,HB6,exact name 'Atlantis Grey',low,P114;P113;P102,partly year-listed (see candidates),CONFLICT: HB5 (gloss) vs HB6 (listed MATT / ¤MAT). Which applies to which year/finish is unknown.,POSSIBLE
+L0011,C0109,PC071,HB5,exact name 'Atlantis Grey',low,P114;P113;P102,partly year-listed (see candidates),CONFLICT: HB5 (gloss) vs HB6 (listed MATT / ¤MAT). Which applies to which year/finish is unknown.,POSSIBLE
+L0012,C0109,PC072,HB6,exact name 'Atlantis Grey',low,P114;P113;P102,partly year-listed (see candidates),CONFLICT: HB5 (gloss) vs HB6 (listed MATT / ¤MAT). Which applies to which year/finish is unknown.,POSSIBLE
+L0013,C0116,PC071,HB5,exact name 'Atlantis Grey',low,P114;P113;P102,partly year-listed (see candidates),CONFLICT: HB5 (gloss) vs HB6 (listed MATT / ¤MAT). Which applies to which year/finish is unknown.,POSSIBLE
+L0014,C0116,PC072,HB6,exact name 'Atlantis Grey',low,P114;P113;P102,partly year-listed (see candidates),CONFLICT: HB5 (gloss) vs HB6 (listed MATT / ¤MAT). Which applies to which year/finish is unknown.,POSSIBLE
+L0015,C0099,PC070,HB4,supplier name 'Rosemary Grey' (literal of 迷迭灰; 'Cinza de Alecrim' = rosemary),medium,P117,supplier listing is model-level or name-only; year not matched,Same code also lists 'Shark Grey' (AU brochure name).,POSSIBLE
+L0016,C0106,PC070,HB4,supplier name 'Rosemary Grey' (literal of 迷迭灰; 'Cinza de Alecrim' = rosemary),medium,P117,supplier listing is model-level or name-only; year not matched,Same code also lists 'Shark Grey' (AU brochure name).,POSSIBLE
+L0017,C0111,PC070,HB4,supplier name 'Rosemary Grey' (literal of 迷迭灰; 'Cinza de Alecrim' = rosemary),medium,P117,supplier listing is model-level or name-only; year not matched,Same code also lists 'Shark Grey' (AU brochure name).,POSSIBLE
+L0018,C0113,PC070,HB4,supplier name 'Rosemary Grey' (literal of 迷迭灰; 'Cinza de Alecrim' = rosemary),medium,P117,supplier listing is model-level or name-only; year not matched,Same code also lists 'Shark Grey' (AU brochure name).,POSSIBLE
+L0019,C0096,PC085,LAT,supplier name 'Arctic Blue' (literal of 北冰蓝),medium,P112,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0020,C0107,PC085,LAT,supplier name 'Arctic Blue' (literal of 北冰蓝),medium,P112,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0021,C0112,PC085,LAT,supplier name 'Arctic Blue' (literal of 北冰蓝),medium,P112,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0022,C0101,PC109,UY,supplier names 'Grass Green'/'Verde Erva' (grass green),low,P119;P103,partly year-listed (see candidates),Literal match is partial (风卷草 = windswept grass).,POSSIBLE
+L0023,C0101,PC080,LAD,supplier names 'Grass Green'/'Verde Erva' (grass green),low,P119;P103,partly year-listed (see candidates),Literal match is partial (风卷草 = windswept grass).,POSSIBLE
+L0024,C0108,PC109,UY,supplier names 'Grass Green'/'Verde Erva' (grass green),low,P119;P103,partly year-listed (see candidates),Literal match is partial (风卷草 = windswept grass).,POSSIBLE
+L0025,C0108,PC080,LAD,supplier names 'Grass Green'/'Verde Erva' (grass green),low,P119;P103,partly year-listed (see candidates),Literal match is partial (风卷草 = windswept grass).,POSSIBLE
+L0026,C0279,PC071,HB5,exact name match,low,P114;P113;P102;P005,partly year-listed (see candidates),Same HB5/HB6 conflict as above.,POSSIBLE
+L0027,C0279,PC072,HB6,exact name match,low,P114;P113;P102;P005,partly year-listed (see candidates),Same HB5/HB6 conflict as above.,POSSIBLE
+L0028,C0281,PC001,00AN,exact name match,medium,P118;P024,partly year-listed (see candidates),,POSSIBLE
+L0029,C0281,PC002,AA1,exact name match,medium,P118;P024,partly year-listed (see candidates),,POSSIBLE
+L0030,C0282,PC070,HB4,exact name match,medium,P117,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0031,C0127,PC076,KW,supplier names 'Pupu Pink'/'Poops Pink' (literal 噗噗粉),medium,P122,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0032,C0134,PC076,KW,supplier names 'Pupu Pink'/'Poops Pink' (literal 噗噗粉),medium,P122,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0033,C0140,PC076,KW,supplier names 'Pupu Pink'/'Poops Pink' (literal 噗噗粉),medium,P122,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0034,C0146,PC076,KW,supplier names 'Pupu Pink'/'Poops Pink' (literal 噗噗粉),medium,P122,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0035,C0323,PC076,KW,supplier names 'Pupu Pink'/'Poops Pink' (literal 噗噗粉),medium,P122,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0036,C0130,PC082,LAP,supplier names 'Surfing Blue' (literal 冲浪蓝),medium,P127;P002,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0037,C0324,PC082,LAP,supplier names 'Surfing Blue' (literal 冲浪蓝),medium,P127;P002,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0038,C0128,PC122,YB1,supplier name 'Cheese Yellow' (literal),medium,P130,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0039,C0133,PC122,YB1,supplier name 'Cheese Yellow' (literal),medium,P130,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0040,C0135,PC122,YB1,supplier name 'Cheese Yellow' (literal),medium,P130,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0041,C0142,PC122,YB1,supplier name 'Cheese Yellow' (literal),medium,P130,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0042,C0136,PC071,HB5,exact name 'Atlantis Grey',low,P126,supplier listing is model-level or name-only; year not matched,HB6 (matte) variant may also exist.,POSSIBLE
+L0043,C0141,PC071,HB5,exact name 'Atlantis Grey',low,P126,supplier listing is model-level or name-only; year not matched,HB6 (matte) variant may also exist.,POSSIBLE
+L0044,C0129,PC068,HAN,supplier name list contains 'Cinza Beibei' (贝贝灰),low,P128;P030,partly year-listed (see candidates),Code HAN is shared in supplier lists with Urban/Boulder/Climbing/Time Grey (multi-name group); treat as unreliable until label seen.,POSSIBLE
+L0045,C0132,PC068,HAN,supplier name list contains 'Cinza Beibei' (贝贝灰),low,P128;P030,partly year-listed (see candidates),Code HAN is shared in supplier lists with Urban/Boulder/Climbing/Time Grey (multi-name group); treat as unreliable until label seen.,POSSIBLE
+L0046,C0139,PC068,HAN,supplier name list contains 'Cinza Beibei' (贝贝灰),low,P128;P030,partly year-listed (see candidates),Code HAN is shared in supplier lists with Urban/Boulder/Climbing/Time Grey (multi-name group); treat as unreliable until label seen.,POSSIBLE
+L0047,C0299,PC054,CA2,exact name match (other market),low,P124,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0048,C0300,PC076,KW,exact name match (other market),low,P122,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0049,C0302,PC115,WAC,exact name match (other market),low,P129,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0050,C0303,PC082,LAP,exact name match,low,P127;P002,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0051,C0301,PC005,B1,exact name match (other market),low,P131,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0052,C0301,PC006,B7822,exact name match (other market),low,P131,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0053,C0301,PC057,DBU,exact name match (other market),low,P131,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0054,C0304,PC068,HAN,exact name match (other market),low,P128,supplier listing is model-level or name-only; year not matched,Multi-name group (see 贝贝灰).,POSSIBLE
+L0055,C0305,PC071,HB5,exact name match,low,P126,supplier listing is model-level or name-only; year not matched,,POSSIBLE
+L0056,C0055,PC104,UA6,supplier name 'Exploration Green' (literal of 探险绿),medium,P134;P007;P018,partly year-listed (see candidates),Three suppliers.,POSSIBLE
+L0057,C0055,PC081,LAG,supplier name 'Exploration Green' (literal of 探险绿),medium,P134;P007;P018,partly year-listed (see candidates),Three suppliers.,POSSIBLE
+L0058,C0060,PC104,UA6,supplier name 'Exploration Green' (literal of 探险绿),medium,P134;P007;P018,partly year-listed (see candidates),Three suppliers.,POSSIBLE
+L0059,C0060,PC081,LAG,supplier name 'Exploration Green' (literal of 探险绿),medium,P134;P007;P018,partly year-listed (see candidates),Three suppliers.,POSSIBLE
+L0060,C0069,PC104,UA6,supplier name 'Exploration Green' (literal of 探险绿),medium,P134;P007;P018,partly year-listed (see candidates),Three suppliers.,POSSIBLE
+L0061,C0069,PC081,LAG,supplier name 'Exploration Green' (literal of 探险绿),medium,P134;P007;P018,partly year-listed (see candidates),Three suppliers.,POSSIBLE
+L0062,C0054,PC082,LAP,supplier name 'Surf(ing) Blue' (literal),medium,P135;P029,partly year-listed (see candidates),,POSSIBLE
+L0063,C0059,PC082,LAP,supplier name 'Surf(ing) Blue' (literal),medium,P135;P029,partly year-listed (see candidates),,POSSIBLE
+L0064,C0068,PC082,LAP,supplier name 'Surf(ing) Blue' (literal),medium,P135;P029,partly year-listed (see candidates),,POSSIBLE
+L0065,C0056,PC083,LAQ,supplier name 'Parkour Red' (literal),medium,P136;P027;P104;P001,partly year-listed (see candidates),Four suppliers.,POSSIBLE
+L0066,C0056,PC095,RA5,supplier name 'Parkour Red' (literal),medium,P136;P027;P104;P001,partly year-listed (see candidates),Four suppliers.,POSSIBLE
+L0067,C0052,PC068,HAN,supplier names 'Boulder/Climbing Grey' (literal 攀岩灰),low,P137;P025,partly year-listed (see candidates),"Multi-name group (also Time Grey, Harbour Grey, Urban Grey).",POSSIBLE
+L0068,C0052,PC067,HA4,supplier names 'Boulder/Climbing Grey' (literal 攀岩灰),low,P137;P025,partly year-listed (see candidates),"Multi-name group (also Time Grey, Harbour Grey, Urban Grey).",POSSIBLE
+L0069,C0057,PC068,HAN,supplier names 'Boulder/Climbing Grey' (literal 攀岩灰),low,P137;P025,partly year-listed (see candidates),"Multi-name group (also Time Grey, Harbour Grey, Urban Grey).",POSSIBLE
+L0070,C0057,PC067,HA4,supplier names 'Boulder/Climbing Grey' (literal 攀岩灰),low,P137;P025,partly year-listed (see candidates),"Multi-name group (also Time Grey, Harbour Grey, Urban Grey).",POSSIBLE
+L0071,C0063,PC068,HAN,supplier names 'Boulder/Climbing Grey' (literal 攀岩灰),low,P137;P025,partly year-listed (see candidates),"Multi-name group (also Time Grey, Harbour Grey, Urban Grey).",POSSIBLE
+L0072,C0063,PC067,HA4,supplier names 'Boulder/Climbing Grey' (literal 攀岩灰),low,P137;P025,partly year-listed (see candidates),"Multi-name group (also Time Grey, Harbour Grey, Urban Grey).",POSSIBLE
+L0073,C0070,PC068,HAN,supplier names 'Boulder/Climbing Grey' (literal 攀岩灰),low,P137;P025,partly year-listed (see candidates),"Multi-name group (also Time Grey, Harbour Grey, Urban Grey).",POSSIBLE
+L0074,C0070,PC067,HA4,supplier names 'Boulder/Climbing Grey' (literal 攀岩灰),low,P137;P025,partly year-listed (see candidates),"Multi-name group (also Time Grey, Harbour Grey, Urban Grey).",POSSIBLE
+L0075,C0053,PC115,WAC,supplier name 'Ski White' (literal),medium,P138;P028,partly year-listed (see candidates),,POSSIBLE
+L0076,C0053,PC112,W46C,supplier name 'Ski White' (literal),medium,P138;P028,partly year-listed (see candidates),,POSSIBLE
+L0077,C0058,PC115,WAC,supplier name 'Ski White' (literal),medium,P138;P028,partly year-listed (see candidates),,POSSIBLE
+L0078,C0058,PC112,W46C,supplier name 'Ski White' (literal),medium,P138;P028,partly year-listed (see candidates),,POSSIBLE
+L0079,C0065,PC115,WAC,supplier name 'Ski White' (literal),medium,P138;P028,partly year-listed (see candidates),,POSSIBLE
+L0080,C0065,PC112,W46C,supplier name 'Ski White' (literal),medium,P138;P028,partly year-listed (see candidates),,POSSIBLE
+L0081,C0072,PC115,WAC,supplier name 'Ski White' (literal),medium,P138;P028,partly year-listed (see candidates),,POSSIBLE
+L0082,C0072,PC112,W46C,supplier name 'Ski White' (literal),medium,P138;P028,partly year-listed (see candidates),,POSSIBLE
+L0083,C0293,PC082,LAP,exact name match,medium,P135;P029,partly year-listed (see candidates),,POSSIBLE
+L0084,C0294,PC115,WAC,exact name match,medium,P138;P028,partly year-listed (see candidates),,POSSIBLE
+L0085,C0294,PC112,W46C,exact name match,medium,P138;P028,partly year-listed (see candidates),,POSSIBLE
+L0086,C0295,PC068,HAN,exact name match,low,P025;P023,partly year-listed (see candidates),Cartouch lists 'Harbour Grey' under two different code groups (HAN/HA4 and HB5/HB6/H84C): ambiguous.,POSSIBLE
+L0087,C0295,PC067,HA4,exact name match,low,P025;P023,partly year-listed (see candidates),Cartouch lists 'Harbour Grey' under two different code groups (HAN/HA4 and HB5/HB6/H84C): ambiguous.,POSSIBLE
+L0088,C0295,PC071,HB5,exact name match,low,P025;P023,partly year-listed (see candidates),Cartouch lists 'Harbour Grey' under two different code groups (HAN/HA4 and HB5/HB6/H84C): ambiguous.,POSSIBLE
+L0089,C0295,PC072,HB6,exact name match,low,P025;P023,partly year-listed (see candidates),Cartouch lists 'Harbour Grey' under two different code groups (HAN/HA4 and HB5/HB6/H84C): ambiguous.,POSSIBLE
+L0090,C0295,PC066,H84C,exact name match,low,P025;P023,partly year-listed (see candidates),Cartouch lists 'Harbour Grey' under two different code groups (HAN/HA4 and HB5/HB6/H84C): ambiguous.,POSSIBLE
+L0091,C0296,PC002,AA1,exact name match,medium,P024,partly year-listed (see candidates),,POSSIBLE
+L0092,C0296,PC004,AN,exact name match,medium,P024,partly year-listed (see candidates),,POSSIBLE
+L0093,C0296,PC001,00AN,exact name match,medium,P024,partly year-listed (see candidates),,POSSIBLE
+L0094,C0297,PC071,HB5,"exact name match (Atlantis Grey, 2025 list)",low,P023,partly year-listed (see candidates),,POSSIBLE
+L0095,C0297,PC072,HB6,"exact name match (Atlantis Grey, 2025 list)",low,P023,partly year-listed (see candidates),,POSSIBLE
+L0096,C0297,PC066,H84C,"exact name match (Atlantis Grey, 2025 list)",low,P023,partly year-listed (see candidates),,POSSIBLE
+L0097,C0298,PC104,UA6,exact name 'Forest Green' inside the Exploration Green code group,low,P018,partly year-listed (see candidates),AU supplier lists Forest Green as an alias of the Exploration Green code.,POSSIBLE
+L0098,C0298,PC081,LAG,exact name 'Forest Green' inside the Exploration Green code group,low,P018,partly year-listed (see candidates),AU supplier lists Forest Green as an alias of the Exploration Green code.,POSSIBLE
+L0099,C0174,PC085,LAT,supplier name 'Arctic Blue' (literal),low,P112,supplier listing is model-level or name-only; year not matched,"Code listed under Seal page, not Seagull.",POSSIBLE
+L0100,C0177,PC085,LAT,supplier name 'Arctic Blue' (literal),low,P112,supplier listing is model-level or name-only; year not matched,"Code listed under Seal page, not Seagull.",POSSIBLE
+L0101,C0168,PC103,UA5,supplier name 'Sprout Green' (literal of 萌芽绿),low,P123,supplier listing is model-level or name-only; year not matched,"Code listed under Dolphin page, not Seagull.",POSSIBLE
+L0102,C0175,PC103,UA5,supplier name 'Sprout Green' (literal of 萌芽绿),low,P123,supplier listing is model-level or name-only; year not matched,"Code listed under Dolphin page, not Seagull.",POSSIBLE
+L0103,C0181,PC103,UA5,supplier name 'Sprout Green' (literal of 萌芽绿),low,P123,supplier listing is model-level or name-only; year not matched,"Code listed under Dolphin page, not Seagull.",POSSIBLE
+L0104,C0183,PC103,UA5,supplier name 'Sprout Green' (literal of 萌芽绿),low,P123,supplier listing is model-level or name-only; year not matched,"Code listed under Dolphin page, not Seagull.",POSSIBLE
+L0105,C0313,PC103,UA5,supplier name 'Sprout Green' (literal of 萌芽绿),low,P123,supplier listing is model-level or name-only; year not matched,"Code listed under Dolphin page, not Seagull.",POSSIBLE
+L0106,C0306,PC043,BYHA-00002,exact name match,low,P111,supplier listing is model-level or name-only; year not matched,"Code group listed under Seal/Dolphin pages, not Seagull.",POSSIBLE
+L0107,C0306,PC073,HBG,exact name match,low,P111,supplier listing is model-level or name-only; year not matched,"Code group listed under Seal/Dolphin pages, not Seagull.",POSSIBLE
+L0108,C0306,PC123,YB9,exact name match,low,P111,supplier listing is model-level or name-only; year not matched,"Code group listed under Seal/Dolphin pages, not Seagull.",POSSIBLE
+L0109,C0309,PC043,BYHA-00002,exact name match,low,P111,supplier listing is model-level or name-only; year not matched,"Code group listed under Seal/Dolphin pages, not Seagull.",POSSIBLE
+L0110,C0309,PC073,HBG,exact name match,low,P111,supplier listing is model-level or name-only; year not matched,"Code group listed under Seal/Dolphin pages, not Seagull.",POSSIBLE
+L0111,C0309,PC123,YB9,exact name match,low,P111,supplier listing is model-level or name-only; year not matched,"Code group listed under Seal/Dolphin pages, not Seagull.",POSSIBLE
+L0112,C0307,PC005,B1,exact name match,low,P131,supplier listing is model-level or name-only; year not matched,Listed under Dolphin page.,POSSIBLE
+L0113,C0307,PC006,B7822,exact name match,low,P131,supplier listing is model-level or name-only; year not matched,Listed under Dolphin page.,POSSIBLE
+L0114,C0307,PC057,DBU,exact name match,low,P131,supplier listing is model-level or name-only; year not matched,Listed under Dolphin page.,POSSIBLE
+L0115,C0310,PC005,B1,exact name match,low,P131,supplier listing is model-level or name-only; year not matched,Listed under Dolphin page.,POSSIBLE
+L0116,C0310,PC006,B7822,exact name match,low,P131,supplier listing is model-level or name-only; year not matched,Listed under Dolphin page.,POSSIBLE
+L0117,C0310,PC057,DBU,exact name match,low,P131,supplier listing is model-level or name-only; year not matched,Listed under Dolphin page.,POSSIBLE
+L0118,C0308,PC103,UA5,exact name match,low,P123,supplier listing is model-level or name-only; year not matched,Listed under Dolphin page.,POSSIBLE
+L0119,C0311,PC103,UA5,exact name match,low,P123,supplier listing is model-level or name-only; year not matched,Listed under Dolphin page.,POSSIBLE

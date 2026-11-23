@@ -1,0 +1,142 @@
+candidate_id,source_id,market,model_as_listed,year_as_listed,code_raw,names_raw,listing_level,evidence_url,note
+P001,S29,Australia,,,LAQ,Parkour Red,name-only,https://colourtubes.com.au/pages/byd-paint-code,
+P002,S29,Australia,,,LAP,Surfing Blue,name-only,https://colourtubes.com.au/pages/byd-paint-code,
+P003,S29,Australia,,,LAT,Mercury Blue,name-only,https://colourtubes.com.au/pages/byd-paint-code,
+P004,S29,Australia,,,UV,Azure Blue,name-only,https://colourtubes.com.au/pages/byd-paint-code,
+P005,S29,Australia,,,HB5,Vanishing Atlantis,name-only,https://colourtubes.com.au/pages/byd-paint-code,
+P006,S29,Australia,,,HBG,Lisbon Beige,name-only,https://colourtubes.com.au/pages/byd-paint-code,
+P007,S29,Australia,,,UA6,Exploration Green,name-only,https://colourtubes.com.au/pages/byd-paint-code,
+P008,S29,Australia,,,UQ,Chinese Olive Green,name-only,https://colourtubes.com.au/pages/byd-paint-code,
+P009,S29,Australia,,,00AN,Xuan Empty Black,name-only,https://colourtubes.com.au/pages/byd-paint-code,
+P010,S29,Australia,,,9010,RAL 9010 White,name-only,https://colourtubes.com.au/pages/byd-paint-code,"RAL reference colour, not a BYD code; excluded from paint_codes."
+P011,S30,Australia,ATTO 3,2022,LAP,"SURF BLUE, LAGOON BLUE",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2022&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P012,S30,Australia,ATTO 3,2023,"UA6, LAG","EXPLORATION GREEN, EMERALD, FOREST GREEN",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2023&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P013,S30,Australia,ATTO 3,2023,"HAN, HA4","HARBOUR GREY, BOULDER GREY",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2023&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P014,S30,Australia,ATTO 3,2023,"RA5, LAQ","PARKOUR RED, BLUSH, SOLAR RED",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2023&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P015,S30,Australia,ATTO 3,2023,"WAC, W46C","SKI WHITE, DODO, FROST WHITE",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2023&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P016,S30,Australia,ATTO 3,2023,LAP,"SURF BLUE, LAGOON BLUE",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2023&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P017,S30,Australia,ATTO 3,2024,"AA1, AN, 00AN","COSMOS BLACK, TIDAL BLACK",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2024&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P018,S30,Australia,ATTO 3,2024,"UA6, LAG","EXPLORATION GREEN, EMERALD, FOREST GREEN",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2024&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P019,S30,Australia,ATTO 3,2024,"HAN, HA4","HARBOUR GREY, BOULDER GREY",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2024&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P020,S30,Australia,ATTO 3,2024,"RA5, LAQ","PARKOUR RED, BLUSH, SOLAR RED",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2024&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P021,S30,Australia,ATTO 3,2024,"WAC, W46C","SKI WHITE, DODO, FROST WHITE",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2024&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P022,S30,Australia,ATTO 3,2024,LAP,"SURF BLUE, LAGOON BLUE",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2024&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P023,S30,Australia,ATTO 3,2025,"HB5, HB6, H84C","ATLANTIS GREY, HARBOUR GREY",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2025&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P024,S30,Australia,ATTO 3,2025,"AA1, AN, 00AN","COSMOS BLACK, TIDAL BLACK",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2025&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P025,S30,Australia,ATTO 3,2025,"HAN, HA4","HARBOUR GREY, BOULDER GREY",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2025&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P026,S30,Australia,ATTO 3,2025,"H3, BMS",MARSEILLES GREY,model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2025&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P027,S30,Australia,ATTO 3,2025,"RA5, LAQ","PARKOUR RED, BLUSH, SOLAR RED",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2025&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P028,S30,Australia,ATTO 3,2025,"WAC, W46C","SKI WHITE, DODO, FROST WHITE",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2025&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P029,S30,Australia,ATTO 3,2025,LAP,"SURF BLUE, LAGOON BLUE",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2025&txtmake=BYD+AUTO&txtModel=ATTO+3,Only first rows retrieved ('Load More' not fetched).
+P030,S30,Australia,DOLPHIN,2024,"HAN, HA4","BOULDER GREY, TIME GREY",model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2024&txtmake=BYD+AUTO&txtModel=DOLPHIN,Only first rows retrieved.
+P031,S30,Australia,SEAL,2024,,,model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2024&txtmake=BYD+AUTO&txtModel=SEAL,Page returned no code rows.
+P032,S30,Australia,SEAGULL,2024,,,model+year,https://www.cartouchuppaint.com.au/your-color-code?txtYear=2024&txtmake=BYD+AUTO&txtModel=SEAGULL,Page returned no code rows.
+P033,S31,Europe,,2022,HB6,ATLANTIS GREY-MET. ¤MAT,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P034,S31,Europe,,2023,AAP,OBSIDIAN BLACK-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P035,S31,Europe,,2023-2024,HCJ,MILK ASH GREEN-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P036,S31,Europe,,2023,EY,QUANTA SILVER-MET. ¤MAT,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P037,S31,Europe,,2024,BYU,PINAMU GREEN-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P038,S31,Europe,,2021-2024,"LAQ, RA5",BLUSH/PARKOUR RED-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P039,S31,Europe,,2024,BB8,SNOW SILVER-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P040,S31,Europe,,2024,BBN,HIGHLIGHT BLACK,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P041,S31,Europe,,2017-2019,"BYH, XC",JADEITE YELLOW-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P042,S31,Europe,,2017-2018,"BLG, ZB",TIME BROWN-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P043,S31,Europe,,2017-2024,"W36C, WA2",SNOW WHITE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P044,S31,Europe,,2023-2024,C9,GROOVE PURPLE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P045,S31,Europe,,2024,RAT,BOLD PINK-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P046,S31,Europe,,2009-2021,"BFL, R2",FLANGE RED,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P047,S31,Europe,,2022-2024,"LAD, UY",GRASS GREEN-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P048,S31,Europe,,2018-2023,"BYM, DN",MOUNTAINS GREY-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P049,S31,Europe,,2007-2017,BW,TIANSHAN WHITE,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P050,S31,Europe,,2009-2021,"BMS, H16C, H3",MARSEILLES GREY-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P051,S31,Europe,,2016,BSA,BRIGHT SILVER-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P052,S31,Europe,,2017-2023,"BYS, WW",CRYSTAL WHITE,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P053,S31,Europe,,2007,BBM,FANTASY BLUE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P054,S31,Europe,,2015-2019,"F2, L32C",FIRMAMENT BLUE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P055,S31,Europe,,2016-2019,"BGG, YU",CHAMPAGNE GOLD-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P056,S31,Europe,,2015-2018,"BYT, W0, WG",WHITE,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P057,S31,Europe,,2007-2017,"BBS, S1",ELEGANT SILVER-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P058,S31,Europe,,2007-2017,BBB,GERMANY BLUISH BLACK-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P059,S31,Europe,,2019,SS,RHEA SILVER-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P060,S31,Europe,,2009,BFH,FLANGE YELLOW,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P061,S31,Europe,,2015-2016,"BCZ, Z2",CHOCOLATE BROWN-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P062,S31,Europe,,2015-2018,"BCB, LU",EISMEER BLUE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P063,S31,Europe,,2024,LYA,CYBER GOLD-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P064,S31,Europe,,2016-2018,"BCP, XB",VITALITY ORANGE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P065,S31,Europe,,2015,BAQ,AEGAE BLUE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P066,S31,Europe,,2016,BGD,SPLENDOROUS GOLD-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P067,S31,Europe,,2007,L25C,OCEAN BLUE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P068,S31,Europe,,2024,LYE,ARGYLE PURPLE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P069,S31,Europe,,2020-2024,"00AN, AA1, AN",DARK BLACK-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P070,S31,Europe,,2024,BH06,OOZE GREEN-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P071,S31,Europe,,2016-2018,"BCR, RV",PURPLE RED-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P072,S31,Europe,,2023,CA3,WINE RED-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P073,S31,Europe,,2022-2023,LAR,TRISTA GREEN-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P074,S31,Europe,,2016,"BPB, LA",INNER MONGOLIA PURPLE BLUE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P075,S31,Europe,,2023,UAM,HOLMES GREEN-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P076,S31,Europe,,2015-2016,"BCO, X4",MAGIC ORANGE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P077,S31,Europe,,2007-2015,"BBQ, LL",OCEAN BLUE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P078,S31,Europe,,2007-2008,BR,FLYER RED,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P079,S31,Europe,,2018,"BYB, LT",FLICKER BLUE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P080,S31,Europe,,2024,LYB,TUNDRA GREEN-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P081,S31,Europe,,2016,BGB,MINT GREEN-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P082,S31,Europe,,2023,U9,SINGAPORE GREEN-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P083,S31,Europe,,2015,"G28C, GX",SOUL GREEN-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P084,S31,Europe,,2017,"BHN, RH",HAOLA RED-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P085,S31,Europe,,2024,LYC,MATTE PURPLE-MET. ¤MAT,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P086,S31,Europe,,2009,BXK,SKY BLUE,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P087,S31,Europe,,2016,BBA,DONAU BLUE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P088,S31,Europe,,2016,BRA,SEINE RED-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P089,S31,Europe,,2009,BBH,DEEP GOLD-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P090,S31,Europe,,2007,BBF,HONOURABLE GREEN-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P091,S31,Europe,,2023,BZL,NAMIBIA BEIGE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P092,S31,Europe,,2005-2014,J01,INKA GOLD-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P093,S31,Europe,,2009,BYJ,INCA GOLD-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P094,S31,Europe,,2007,"BG, G2",ENVIRONMENTAL GREEN,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P095,S31,Europe,,2016-2024,BCM,SILVER BLACK-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P096,S31,Europe,,2016,BCL,CASHMERE SILVER-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P097,S31,Europe,,2024,LYD,ATOM BLUE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P098,S31,Europe,,2023,BSM,ROSE RED-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P099,S31,Europe,,2016-2017,BYL,FIRFAMENT BLUE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P100,S31,Europe,,2023,CAC,KILN PURPLE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P101,S31,Europe,,2009,BZN,PURPLE BLUE-MET.,name-only,https://www.carross.eu/en/paint-byd-b221,Main list; model not shown per row.
+P102,S31,Europe,Seal,2022,HB6,ATLANTIS GREY-MET. ¤MAT,model+year,https://www.carross.eu/en/paint-byd-seal-m4147,Model sub-page (2 colours).
+P103,S31,Europe,Seal,2022-2024,"LAD, UY",GRASS GREEN-MET.,model+year,https://www.carross.eu/en/paint-byd-seal-m4147,Model sub-page.
+P104,S31,Europe,ATTO 3,2021-2024,"LAQ, RA5",BLUSH/PARKOUR RED-MET.,model+year,https://www.carross.eu/en/paint-byd-atto-3-m4151,Model sub-page (2 colours).
+P105,S31,Europe,ATTO 3,2023-2024,C9,GROOVE PURPLE-MET.,model+year,https://www.carross.eu/en/paint-byd-atto-3-m4151,Model sub-page.
+P106,S31,Europe,SONG (2015-2019 generation; NOT Song PLUS),2017-2019,"BYH, XC",JADEITE YELLOW-MET.,model+year,https://www.carross.eu/en/paint-byd-song-m4143,"Model sub-page; legacy Song, listed for completeness only."
+P107,S31,Europe,SONG (2015-2019 generation; NOT Song PLUS),2018-2023,"BYM, DN",MOUNTAINS GREY-MET.,model+year,https://www.carross.eu/en/paint-byd-song-m4143,"Model sub-page; legacy Song, listed for completeness only."
+P108,S31,Europe,SONG (2015-2019 generation; NOT Song PLUS),2019,SS,RHEA SILVER-MET.,model+year,https://www.carross.eu/en/paint-byd-song-m4143,"Model sub-page; legacy Song, listed for completeness only."
+P109,S31,Europe,SONG (2015-2019 generation; NOT Song PLUS),2015-2018,"BCB, LU",EISMEER BLUE-MET.,model+year,https://www.carross.eu/en/paint-byd-song-m4143,"Model sub-page; legacy Song, listed for completeness only."
+P110,S31,Europe,SONG (2015-2019 generation; NOT Song PLUS),2016-2018,"BCP, XB",VITALITY ORANGE-MET.,model+year,https://www.carross.eu/en/paint-byd-song-m4143,"Model sub-page; legacy Song, listed for completeness only."
+P111,S32,unspecified (multi-market names),SEAL,,BYHA-00002;HBG;YB9,"APRICITY WHITE, LISBON SUNSHINE, LISBON WARM WHITE, TEA BEIGE, WARM WHITE",model,https://touchuppaintfactory.com/brands/byd/seal/,Years not shown per row; one code may carry names from several markets/languages.
+P112,S32,unspecified (multi-market names),SEAL,,LAT,"ARCTIC BLUE, AZUL GLACIER, GLACIER BLUE, ICE BLUE, MERCURY BLUE",model,https://touchuppaintfactory.com/brands/byd/seal/,Years not shown per row; one code may carry names from several markets/languages.
+P113,S32,unspecified (multi-market names),SEAL,,HB6,ATLANTIS GREY MATT,model,https://touchuppaintfactory.com/brands/byd/seal/,Years not shown per row; one code may carry names from several markets/languages.
+P114,S32,unspecified (multi-market names),SEAL,,HB5,"ATLANTIS GREY, DEEP SEA BLUE",model,https://touchuppaintfactory.com/brands/byd/seal/,Years not shown per row; one code may carry names from several markets/languages.
+P115,S32,unspecified (multi-market names),SEAL,,HAZ,"BOUNDLESS CLOUD, HAZY GREY, SMOKE GREY",model,https://touchuppaintfactory.com/brands/byd/seal/,Years not shown per row; one code may carry names from several markets/languages.
+P116,S32,unspecified (multi-market names),SEAL,,BYHB-00001;W36C;WA2;WA8,"BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",model,https://touchuppaintfactory.com/brands/byd/seal/,Years not shown per row; one code may carry names from several markets/languages.
+P117,S32,unspecified (multi-market names),SEAL,,HB4,"CINZA DE ALECRIM, INDIGO GREY, ROSEMARY GREY, SHARK GREY",model,https://touchuppaintfactory.com/brands/byd/seal/,Years not shown per row; one code may carry names from several markets/languages.
+P118,S32,unspecified (multi-market names),SEAL,,00AN;AA1,"COSMOS BLACK, SPACE BLACK",model,https://touchuppaintfactory.com/brands/byd/seal/,Years not shown per row; one code may carry names from several markets/languages.
+P119,S32,unspecified (multi-market names),SEAL,,UY,"COURTYARD GREEN, SHADOW GREEN, VERDE ERVA",model,https://touchuppaintfactory.com/brands/byd/seal/,Years not shown per row; one code may carry names from several markets/languages.
+P120,S32,unspecified (multi-market names),SEAL,,AAP,"OBSIDIAN BLACK, TIDAL BLACK",model,https://touchuppaintfactory.com/brands/byd/seal/,Years not shown per row; one code may carry names from several markets/languages.
+P121,S32,unspecified (multi-market names),SEAL,,CA3,WINE RED,model,https://touchuppaintfactory.com/brands/byd/seal/,Years not shown per row; one code may carry names from several markets/languages.
+P122,S32,unspecified (multi-market names),DOLPHIN,,KW,"AFTERGLOW PINK, CORAL PINK, POOPS PINK, PUPU PINK",model,https://touchuppaintfactory.com/brands/byd/dolphin/,Years not shown per row; one code may carry names from several markets/languages.
+P123,S32,unspecified (multi-market names),DOLPHIN,,UA5,"ALAMO CYAN, SPROUT GREEN, LIME GREEN",model,https://touchuppaintfactory.com/brands/byd/dolphin/,Years not shown per row; one code may carry names from several markets/languages.
+P124,S32,unspecified (multi-market names),DOLPHIN,,CA2,AMETHYST PURPLE,model,https://touchuppaintfactory.com/brands/byd/dolphin/,Years not shown per row; one code may carry names from several markets/languages.
+P125,S32,unspecified (multi-market names),DOLPHIN,,BYHA-00002;HBG;YB9,"APRICITY WHITE, LISBON SUNSHINE, LISBON WARM WHITE, TEA BEIGE, WARM WHITE",model,https://touchuppaintfactory.com/brands/byd/dolphin/,Years not shown per row; one code may carry names from several markets/languages.
+P126,S32,unspecified (multi-market names),DOLPHIN,,HB5,"ATLANTIS GREY, DEEP SEA BLUE",model,https://touchuppaintfactory.com/brands/byd/dolphin/,Years not shown per row; one code may carry names from several markets/languages.
+P127,S32,unspecified (multi-market names),DOLPHIN,,LAP,"AZUL SURFING, SURF BLUE, SURFING BLUE",model,https://touchuppaintfactory.com/brands/byd/dolphin/,Years not shown per row; one code may carry names from several markets/languages.
+P128,S32,unspecified (multi-market names),DOLPHIN,,HAN,"BOULDER GREY, CINZA BEIBEI, CINZA BOULDER GRAY, CLIMBING GREY, DOLPHIN GREY, URBAN GREY",model,https://touchuppaintfactory.com/brands/byd/dolphin/,Years not shown per row; one code may carry names from several markets/languages.
+P129,S32,unspecified (multi-market names),DOLPHIN,,WAC,"BRIGHT SILVER, DODO WHITE, DOODLE WHITE, SAND WHITE, SKI WHITE, SKIING WHITE",model,https://touchuppaintfactory.com/brands/byd/dolphin/,Years not shown per row; one code may carry names from several markets/languages.
+P130,S32,unspecified (multi-market names),DOLPHIN,,YB1,"CHEESE YELLOW, CREAM WHITE",model,https://touchuppaintfactory.com/brands/byd/dolphin/,Years not shown per row; one code may carry names from several markets/languages.
+P131,S32,unspecified (multi-market names),DOLPHIN,,B1;B7822;DBU,"DELAN BLACK, JET BLACK, POLAR NIGHT BLACK",model,https://touchuppaintfactory.com/brands/byd/dolphin/,Years not shown per row; one code may carry names from several markets/languages.
+P132,S32,unspecified (multi-market names),DOLPHIN,,YAK,HONEY ORANGE,model,https://touchuppaintfactory.com/brands/byd/dolphin/,Years not shown per row; one code may carry names from several markets/languages.
+P133,S32,unspecified (multi-market names),DOLPHIN,,SSL;UT,RUSTLE GREEN,model,https://touchuppaintfactory.com/brands/byd/dolphin/,Years not shown per row; one code may carry names from several markets/languages.
+P134,S32,unspecified (multi-market names),ATTO 3,,LAG;UA6,"ADVENTURING GREEN, EXPLORATION GREEN, EXPLORING GREEN",model,https://touchuppaintfactory.com/brands/byd/atto-3/,Years not shown per row; one code may carry names from several markets/languages.
+P135,S32,unspecified (multi-market names),ATTO 3,,LAP,"AZUL SURFING, SURF BLUE, SURFING BLUE",model,https://touchuppaintfactory.com/brands/byd/atto-3/,Years not shown per row; one code may carry names from several markets/languages.
+P136,S32,unspecified (multi-market names),ATTO 3,,LAQ;RA5,"BLUSH RED, PARKOUR RED",model,https://touchuppaintfactory.com/brands/byd/atto-3/,Years not shown per row; one code may carry names from several markets/languages.
+P137,S32,unspecified (multi-market names),ATTO 3,,HAN,"BOULDER GREY, CINZA BEIBEI, CINZA BOULDER GRAY, CLIMBING GREY, DOLPHIN GREY, URBAN GREY",model,https://touchuppaintfactory.com/brands/byd/atto-3/,Years not shown per row; one code may carry names from several markets/languages.
+P138,S32,unspecified (multi-market names),ATTO 3,,WAC,"BRIGHT SILVER, DODO WHITE, DOODLE WHITE, SAND WHITE, SKI WHITE, SKIING WHITE",model,https://touchuppaintfactory.com/brands/byd/atto-3/,Years not shown per row; one code may carry names from several markets/languages.
+P139,S32,unspecified (multi-market names),ATTO 3,,HA4,TIME GREY,model,https://touchuppaintfactory.com/brands/byd/atto-3/,Years not shown per row; one code may carry names from several markets/languages.
+P140,S33,unspecified,multiple,2020-2024,BYD-001..BYD-010,"Crystal White, Obsidian Black, Glacier Blue, ... Rose Gold",REJECTED,https://www.paintcalculators.com/car-colour-codes/byd/,"Rejected, see sources."
+P141,S34,China,,,,,location-only,https://www.autohome.com.cn/ask/18504197.html,Says nameplate under bonnet ('paintcolor' / 'H/S'); no code example given.

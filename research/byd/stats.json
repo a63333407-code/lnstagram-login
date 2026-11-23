@@ -1,0 +1,118 @@
+{
+ "models": 129,
+ "generations": 138,
+ "model_year_sourced": 179,
+ "model_year_estimates_separate": 180,
+ "trims": 312,
+ "trims_priority": 299,
+ "color_records": 342,
+ "color_records_priority": 323,
+ "distinct_zh_names_priority": 84,
+ "color_by_trim_rows": 726,
+ "colour_evidence_classes": {
+  "GALLERY_OBSERVED": 278,
+  "OEM_BROCHURE": 4,
+  "OEM_WEBSITE_SNIPPET": 9,
+  "OEM_BROCHURE_SNIPPET": 5,
+  "MEDIA_OR_RETAIL_SNIPPET": 16,
+  "MEDIA_LAUNCH_ARTICLE": 10,
+  "MEDIA_SNIPPET": 5,
+  "MEDIA_ANNOUNCEMENT": 6,
+  "OEM_WEBSITE_EXTRACT": 9
+ },
+ "paint_code_tokens": 126,
+ "candidates": 141,
+ "links": 119,
+ "colours_with_possible_code": 76,
+ "colours_linked_priority": 76,
+ "verification": {
+  "POSSIBLE": 202,
+  "NOT FOUND": 267
+ },
+ "excluded_specs": 2,
+ "unmapped_specs": 5,
+ "missing_rows": 13,
+ "coverage": [
+  {
+   "model": "Seal",
+   "model_years": 4,
+   "model_years_with_colours": 4,
+   "trims": 24,
+   "colour_records": 35,
+   "colours_with_possible_code": 19,
+   "years": "2022-2025"
+  },
+  {
+   "model": "Dolphin",
+   "model_years": 5,
+   "model_years_with_colours": 4,
+   "trims": 22,
+   "colour_records": 33,
+   "colours_with_possible_code": 23,
+   "years": "2021-2026"
+  },
+  {
+   "model": "Seagull",
+   "model_years": 6,
+   "model_years_with_colours": 5,
+   "trims": 23,
+   "colour_records": 35,
+   "colours_with_possible_code": 13,
+   "years": "2023-2027"
+  },
+  {
+   "model": "Atto 3 / Yuan PLUS",
+   "model_years": 5,
+   "model_years_with_colours": 5,
+   "trims": 27,
+   "colour_records": 42,
+   "colours_with_possible_code": 21,
+   "years": "2022-2026"
+  },
+  {
+   "model": "Han",
+   "model_years": 18,
+   "model_years_with_colours": 15,
+   "trims": 70,
+   "colour_records": 56,
+   "colours_with_possible_code": 0,
+   "years": "2020-2027"
+  },
+  {
+   "model": "Qin PLUS",
+   "model_years": 10,
+   "model_years_with_colours": 10,
+   "trims": 53,
+   "colour_records": 48,
+   "colours_with_possible_code": 0,
+   "years": "2021-2027"
+  },
+  {
+   "model": "Song PLUS",
+   "model_years": 9,
+   "model_years_with_colours": 8,
+   "trims": 39,
+   "colour_records": 34,
+   "colours_with_possible_code": 0,
+   "years": "2020-2025"
+  },
+  {
+   "model": "Destroyer 05",
+   "model_years": 4,
+   "model_years_with_colours": 4,
+   "trims": 21,
+   "colour_records": 14,
+   "colours_with_possible_code": 0,
+   "years": "2022-2025"
+  },
+  {
+   "model": "e2",
+   "model_years": 5,
+   "model_years_with_colours": 5,
+   "trims": 20,
+   "colour_records": 26,
+   "colours_with_possible_code": 0,
+   "years": "2019-2024"
+  }
+ ]
+}

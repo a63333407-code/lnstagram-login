@@ -1,0 +1,139 @@
+generation_id,model_id,source_row_name,generation_label,status,intro_year,facelift_year,discontinued_year,body_type_id,body_raw,size_class,doors,doors_source_id,body_style_text,production_start_text,production_end_text,generation_facts_note,facts_source_id,exterior_design,note,source_id
+G001,M001,Dahan EV,,current,2026,,,BT01,Full-size sedan,Full-size,,,,,,,,,,S01
+G002,M002,Han DM-i,,current,2020,2024,,BT01,Full-size sedan,Full-size,4,S42,4-door full-size (E-segment) sedan,April 2022 (DM-i with 2022 facelift),,Wikipedia: DM-i versions introduced in 2022 facelift,S42,,,S01
+G003,M003,Han L DM,,current,2025,,,BT01,Full-size sedan,Full-size,,,,,,,,,,S01
+G004,M004,Qin L DM-i,,current,2024,,,BT01,Mid-size sedan,Mid-size,,,,,,,,,,S01
+G005,M005,Qin L EV,,current,2025,,,BT01,Mid-size sedan,Mid-size,,,,,,,,,,S01
+G006,M006,Qin Max DM-i,,current,2026,,,BT01,Mid-size sedan,Mid-size,,,,,,,,,,S01
+G007,M007,Qin Plus DM-i,1st gen (implied by 2nd-gen row),current,2021,2025,,BT01,Compact sedan,Compact,4,S41,4-door sedan (series infobox; Qin Plus not separately described),March 2021 (renamed from Qin Pro),,2nd generation announced 2026,S41,,,S01
+G008,M007,Qin Plus DM-i (2nd gen),2nd gen,current,2026,,,BT01,Mid-size sedan,Mid-size,,,mid-size sedan (batch-1 list page),2026,,BYD official site calls this '第三代秦PLUS DM-i' (numbering conflict),S41,,Model code HA3H,S01
+G009,M008,Datang DM,,current,2026,,,BT02,Full-size crossover SUV,Full-size,,,,,,,,,,S01
+G010,M009,Song L DM-i,,current,2024,,,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G011,M010,Song L EV,,current,2023,,,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G012,M011,Song Ultra DM-i,,current,2026,,,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G013,M012,Song Pro,,current,2019,2024,,BT02,Compact crossover SUV,Compact,,,,,,,,,,S01
+G014,M013,Tang DM-i,,current,2018,2024,,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G015,M014,Tang EV (3rd gen),3rd gen,current,2026,,,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G016,M015,Tang L DM,,current,2025,,,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G017,M016,Yuan Plus (1st gen),1st gen,current,2022,2025,,BT02,Compact crossover SUV,Compact,5,S40,5-door compact crossover SUV (C-segment),January 2022,,Sold as Atto 3 abroad; Champion Ed. Sep 2023; 2025 China facelift,S40,,,S01
+G018,M016,Yuan Plus (2nd gen),2nd gen,current,2026,,,BT02,Compact crossover SUV,Compact,,,compact crossover SUV,2026,,Atto 3 page names successor 'Yuan Plus (second generation)'. Sina/Autohome call 2026 model '第三代元PLUS' (numbering conflict).,S40,,,S01
+G019,M017,Yuan Up (PHEV),,current,2025,,,BT02,Subcompact crossover SUV,Subcompact,,,,,,,,,,S01
+G020,M018,Xia,,current,2024,,,BT03,MPV/minivan,,,,,,,,,,,S01
+G021,M019,Destroyer 05,,current,2022,,,BT01,Compact sedan,Compact,4,S45,4-door compact (C-segment) sedan,March 2022 (unveiled Nov 2021),2025 (China); export 2023-,Successor Seal 05 DM-i; export Chazor/King/Seal 5 DM-i,S45,,No longer sold in China,S01
+G022,M020,Seal,,current,2022,,,BT01,Mid-size sedan,Mid-size,4,S36,mid-size fastback sedan (4-door),August 2022 (China),2026 (China); export 2023-present,"MY 2022-2025 (China); refresh Aug 2024 (new colours, LiDAR); Champion Ed. May 2023; Honor Ed. Mar 2024",S36,,No longer sold in China,S01
+G023,M021,Seal 05 DM-i,,current,2025,,,BT01,Compact sedan,Compact,,,,,,,,,,S01
+G024,M022,Seal 06 DM-i,1st gen (implied by 2nd-gen row),current,2024,,,BT01,Mid-size sedan,Mid-size,,,,,,,,,,S01
+G025,M022,Seal 06 DM-i (2nd gen),2nd gen,current,2026,,,BT01,Mid-size sedan,Mid-size,,,,,,,,,,S01
+G026,M023,Seal 07 DM-i,1st gen (implied by 2nd-gen row),current,2023,2025,,BT01,Full-size sedan,Full-size,,,,,,,,,Previously Seal DM-i,S01
+G027,M023,Seal 07 DM-i (2nd gen),2nd gen,current,2026,,,BT01,Full-size sedan,Full-size,,,,,,,,,,S01
+G028,M024,Seal 08 DM-i,,current,2026,,,BT01,Full-size sedan,Full-size,,,,,,,,,,S01
+G029,M025,Seal 06 DM-i Touring,,current,2025,,,BT04,Mid-size wagon,Mid-size,,,,,,,,,,S01
+G030,M026,Dolphin,,current,2021,2025,,BT05,Compact hatchback,Compact,5,S37,"5-door hatchback; subcompact (China 2021-25), compact (global 2023-)",August 2021,,"2025 facelift Feb/Mar 2025 (page inconsistent); Champion Ed. Feb 2024; 500,000 Commemorative Sep 2023",S37,,,S01
+G031,M027,e2,,current,2019,2023,,BT05,Compact hatchback,Compact,5,S39,"5-door hatchback, compact (C-segment); e3 is the 4-door sedan",2019 (unveiled Shanghai Apr 2019),,2021 LFP update; 2023 facelift,S39,,Hatchback version of the e3; series 'e (Ocean)',S01
+G032,M028,Seagull (1st gen),1st gen,current,2023,2025,,BT06,City car,,5,S38,"5-door hatchback (4-seat), city car",April 2023,2026 (China),Honor Ed. Mar 2024 added Ice Blue; update Feb 2025,S38,,,S01
+G033,M028,Seagull (2nd gen),2nd gen,current,2026,,,BT06,Supermini,Supermini,,,"hatchback, 5-seat (door count not separately stated)",October 2026,,MY2027; rear-motor RWD,S38,,,S01
+G034,M029,Seal 06 GT,,current,2024,,,BT05,Mid-size hatchback,Mid-size,,,,,,,,,,S01
+G035,M030,Sealion 05 DM-i (2nd gen),2nd gen,current,2026,,,BT02,Compact crossover SUV,Compact,,,,,,,,,,S01
+G036,M031,Sealion 06 DM-i,,current,2025,,,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G037,M032,Sealion 07 EV,,current,2024,,,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,No longer sold in China,S01
+G038,M033,Sealion 08 DM-i,,current,2026,,,BT02,Full-size crossover SUV,Full-size,,,,,,,,,,S01
+G039,M034,Song Plus DM-i,,current,2020,2023,,BT02,Compact crossover SUV,Compact,5,S44,5-door compact crossover SUV,March 2021 (DM-i sales; model from Sep 2020),2026 (China; removed from BYD site Jan 2026),2023 facelift June 2023 (Champion Edition); export Seal U / Sealion 6,S44,,Ocean Network since 2022 (page footnote); no longer sold in China,S01
+G040,M035,e6,source label: 2021 row,current,2021,,,BT03,Compact MPV (taxi),Compact,,,,,,,,,Based on Song Max; series 'e (Ocean)',S01
+G041,M036,Han EV,,current,,,,BT01,Full-size sedan,Full-size,4,S42,4-door full-size (E-segment) sedan,July 2020 (China sale),,2022 facelift Apr 2022; 2025MY Sep 2024; 2nd gen 2026 'to commence',S42,,,S01
+G042,M037,Han L EV,,current,,,,BT01,Full-size sedan,Full-size,,,,,,,,,,S01
+G043,M038,Qin Max EV,,current,,,,BT01,Mid-size sedan,Mid-size,,,,,,,,,,S01
+G044,M039,Qin Plus EV,,current,,,,BT01,Compact sedan,Compact,4,S41,4-door sedan (series infobox),March 2021,,,S41,,,S01
+G045,M040,Seal 06 EV,,current,2025,2026,,BT01,Mid-size sedan,Mid-size,,,,,,,,,,S01
+G046,M041,Seal 07 EV,1st gen (implied by 2nd-gen row),current,2026,,,BT01,Full-size sedan,Full-size,,,,,,,,,,S01
+G047,M041,Seal 07 EV (2nd gen),2nd gen,current,2026,,,BT01,Full-size sedan,Full-size,,,,,,,,,,S01
+G048,M042,Seal 08 EV,,current,,,,BT01,Full-size sedan,Full-size,,,,,,,,,,S01
+G049,M043,Dolphin G DM-i,,current,2026,,,BT05,Compact hatchback,Compact,,,,,,,,,,S01
+G050,M044,Racco,,current,2026,,,BT06,"Kei car, rear sliding doors",,,,,,,,,,,S01
+G051,M045,Datang EV,,current,,,,BT02,Full-size crossover SUV,Full-size,,,,,,,,,,S01
+G052,M046,Sealion 05 EV,,current,2025,2026,,BT02,Compact crossover SUV,Compact,,,,,,,,,,S01
+G053,M047,Sealion 06 EV,,current,,,,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G054,M048,Sealion 08 EV,,current,,,,BT02,Full-size crossover SUV,Full-size,,,,,,,,,,S01
+G055,M049,Song Plus EV,,current,,,,BT02,Compact crossover SUV,Compact,5,S44,5-door compact crossover SUV,April 2021,2026 (China),Export Seal U EV,S44,,No longer sold in China,S01
+G056,M050,Song Ultra EV,,current,,,,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G057,M014,Tang EV (2022),source label: 2022,current,2022,,,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,No longer sold in China,S01
+G058,M051,Tang L EV,,current,,,,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G059,M052,Ti 7,,current,2026,,,BT02,Mid-size SUV,Mid-size,,,,,,,,,Export rebadge of Fangchengbao Ti7,S01
+G060,M053,Yuan Up (BEV),,current,2024,,,BT02,Subcompact crossover SUV,Subcompact,,,,,,,,,Name cell blank in extract; inferred from image caption,S01
+G061,M054,M6 DM,,current,2026,,,BT03,Three-row compact MPV,Three-row compact,,,,,,,,,Based on Song Max,S01
+G062,M055,M6 EV,,current,2024,,,BT03,Three-row compact MPV,Three-row compact,,,,,,,,,Based on e6 and Song Max,S01
+G063,M056,Mako,,upcoming,,,,BT07,Pickup,,,,,,,,,,,S01
+G064,M057,Shark 6,,current,2024,,,BT07,Four-door body-on-frame pickup,,4,,,,,,,,,S01
+G065,M058,e5,,upcoming,,,,BT01,Compact sedan,Compact,,,,,,,,,Based on Qin Plus EV,S01
+G066,M059,e7,,current,2026,,,BT01,Mid-size sedan,Mid-size,,,,,,,,,,S01
+G067,M060,e9,,current,2026,,,BT01,Full-size sedan,Full-size,,,,,,,,,Based on Han EV,S01
+G068,M061,M9,,current,2026,,,BT03,MPV/minivan,,,,,,,,,,Based on Xia,S01
+G069,M062,Z9S,,current,2026,,,BT01,Full-size 4-door sedan,Full-size,4,,,,,,,,,S01
+G070,M063,Z9 GT PHEV,,current,2024,,,BT04,Full-size 5-door shooting brake,Full-size,5,,,,,,,,,S01
+G071,M064,Z9 GT EV,,current,,,,BT04,Full-size 5-door shooting brake,Full-size,5,,,,,,,,,S01
+G072,M065,Z Coupe,,current,2026,,,BT08,Coupe,,,,,,,,,,Model code EXE,S01
+G073,M066,Z Spider,,current,,,,BT09,Convertible,,,,,,,,,,,S01
+G074,M067,B5,,current,2025,,,BT02,Mid-size SUV,Mid-size,,,,,,,,,Rebadged Fangchengbao Bao 5 for export,S01
+G075,M068,B8,,current,2025,,,BT02,Full-size SUV,Full-size,,,,,,,,,Rebadged Fangchengbao Bao 8 for export,S01
+G076,M069,B3,,current,2026,,,BT02,Compact SUV,Compact,,,,,,,,,Rebadged Fangchengbao Tai 3 for export,S01
+G077,M070,N8 PHEV,,current,2026,,,BT02,Full-size SUV,Full-size,,,,,,,,,,S01
+G078,M071,N8 EV,,current,2026,,,BT02,Full-size SUV,Full-size,,,,,,,,,,S01
+G079,M072,N8L PHEV,,current,2025,,,BT02,Full-size SUV,Full-size,,,,,,,,,,S01
+G080,M073,N8L EV,,current,2026,,,BT02,Full-size SUV,Full-size,,,,,,,,,,S01
+G081,M074,N9,,current,2024,,,BT02,Full-size SUV,Full-size,,,,,,,,,,S01
+G082,M075,D9 DM-i,,current,2022,2026,,BT03,MPV/minivan,,,,,,,,,,,S01
+G083,M076,D9 EV,,current,,,,BT03,MPV/minivan,,,,,,,,,,,S01
+G084,M077,Z9,,discontinued,2024,,2026,BT01,Full-size 4-door sedan,Full-size,4,,,,,,,,,S01
+G085,M078,400/500/EV,,discontinued,2014,,2019,BT05,Compact hatchback,Compact,,,,,,,,,,S01
+G086,M079,X,,discontinued,2019,,2021,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G087,M080,N7,,discontinued,2023,,2026,BT02,Mid-size SUV,Mid-size,,,,,,,,,,S01
+G088,M081,Altior,,upcoming,,,,BT01,Full-size luxury sedan,Full-size,,,,,,,,,Model code HU,S01
+G089,M082,U7 PHEV,,current,2024,,,BT01,Full-size luxury sedan,Full-size,,,,,,,,,,S01
+G090,M083,U7 EV,,current,2024,,,BT01,Full-size luxury sedan,Full-size,,,,,,,,,,S01
+G091,M084,U8,,current,2023,,,BT02,Full-size luxury SUV,Full-size,,,,,,,,,,S01
+G092,M085,U8L,,current,2025,,,BT02,Full-size luxury SUV,Full-size,,,,,,,,,LWB variant of U8,S01
+G093,M086,U9,,current,2023,,,BT10,Supercar,,,,,,,,,,,S01
+G094,M087,Formula S,,current,2026,,,BT01,Full-size sedan,Full-size,,,,,,,,,,S01
+G095,M088,Formula SL,,upcoming,,,,BT01,Full-size sedan,Full-size,,,,,,,,,,S01
+G096,M089,Formula S GT,,current,2026,,,BT04,Full-size station wagon,Full-size,,,,,,,,,,S01
+G097,M090,Bao 5,,current,2023,,,BT02,Mid-size SUV,Mid-size,,,,,,,,,Exported as Denza B5,S01
+G098,M091,Bao 8,,current,2024,,,BT02,Full-size SUV,Full-size,,,,,,,,,Exported as Denza B8,S01
+G099,M092,Tai 3,,current,2025,,,BT02,Compact SUV,Compact,,,,,,,,,Exported as Denza B3,S01
+G100,M093,Ti7 (PHEV),,current,2025,,,BT02,Mid-size SUV,Mid-size,,,,,,,,,,S01
+G101,M094,Ti7 (BEV),,current,2026,,,BT02,Mid-size SUV,Mid-size,,,,,,,,,,S01
+G102,M095,Ti9,,current,2026,,,BT02,Full-size SUV,Full-size,,,,,,,,,,S01
+G103,M096,Shark,,current,2026,,,BT07,Four-door body-on-frame pickup,,4,,,,,,,,,S01
+G104,M097,e3,,discontinued,2019,,2022,BT01,Compact sedan,Compact,,,,,,,,,,S01
+G105,M098,e5,,discontinued,2015,,2020,BT01,Compact sedan,Compact,,,,,,,,,,S01
+G106,M099,F3,,discontinued,2005,,2021,BT01,Compact sedan (sedan version of F3R),Compact,,,,,,,,,,S01
+G107,M100,F3DM,,discontinued,2008,,2013,BT01,Compact sedan,Compact,,,,,,,,,,S01
+G108,M101,F6,,discontinued,2008,,2012,BT01,Mid-size sedan,Mid-size,,,,,,,,,,S01
+G109,M102,G3,,discontinued,2009,,2014,BT01,Compact sedan (sedan version of G3R),Compact,,,,,,,,,,S01
+G110,M103,G5,,discontinued,2014,,2017,BT01,Compact sedan,Compact,,,,,,,,,,S01
+G111,M104,G6,,discontinued,2011,,2018,BT01,Mid-size sedan,Mid-size,,,,,,,,,,S01
+G112,M105,L3 / New F3,,discontinued,2010,,2015,BT01,Compact sedan,Compact,,,,,,,,,,S01
+G113,M106,Qin,,discontinued,2012,,2024,BT01,Compact sedan,Compact,,,,,,,,,,S01
+G114,M107,Qin Pro,,discontinued,2018,,2021,BT01,Compact sedan,Compact,,,,,,,,,,S01
+G115,M108,Sirui,,discontinued,2013,,2014,BT01,Mid-size sedan,Mid-size,,,,,,,,,,S01
+G116,M109,Surui,,discontinued,2012,,2019,BT01,Compact sedan,Compact,,,,,,,,,,S01
+G117,M110,S8,,discontinued,2009,,2010,BT11,Compact sports car,Compact,,,,,,,,,,S01
+G118,M111,e1,,discontinued,2019,,2020,BT05,City car (hatchback),,,,,,,,,,,S01
+G119,M112,F0,,discontinued,2008,,2015,BT06,City car,,,,,,,,,,,S01
+G120,M113,Flyer,,discontinued,2005,,2008,BT06,City car,,,,,,,,,,,S01
+G121,M114,F3R,,discontinued,2005,,2014,BT05,Compact hatchback,Compact,,,,,,,,,,S01
+G122,M115,G3R,,discontinued,2009,,2014,BT05,Compact hatchback,Compact,,,,,,,,,,S01
+G123,M116,Frigate 07,,discontinued,2022,,2025,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G124,M117,S1,,discontinued,2015,,2016,BT02,Subcompact crossover SUV,Subcompact,,,,,,,,,,S01
+G125,M118,S2,,discontinued,2019,,2022,BT02,Subcompact crossover SUV,Subcompact,,,,,,,,,,S01
+G126,M119,S6,,discontinued,2011,,2016,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G127,M120,S7,,discontinued,2014,,2018,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G128,M030,Sealion 05 DM-i (1st gen),1st gen,discontinued,2024,,2026,BT02,Compact crossover SUV,Compact,,,,,,,,,,S01
+G129,M121,Sealion 07 DM-i,,discontinued,2025,,2026,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G130,M122,Song,,discontinued,2015,,2022,BT02,Compact crossover SUV,Compact,,,,,,,,,,S01
+G131,M123,Tang,,discontinued,2015,,2018,BT02,Mid-size crossover SUV,Mid-size,,,,,,,,,,S01
+G132,M124,Yuan,,discontinued,2016,,2024,BT02,Compact crossover SUV,Compact,,,,,,,,,,S01
+G133,M125,D1,,discontinued,2020,,2023,BT03,"Compact MPV (ride-hailing, DiDi)",Compact,,,,,,,,,,S01
+G134,M035,e6 (2009),source label: 2009,discontinued,2009,,2021,BT03,Compact MPV/minivan,Compact,,,,,,,,,,S01
+G135,M126,M6 (2010),,discontinued,2010,,2017,BT03,Compact MPV/minivan,Compact,,,,,,,,,,S01
+G136,M127,Song Max,,discontinued,2017,,2024,BT03,Three-row compact MPV,Three-row compact,,,,,,,,,,S01
+G137,M128,Han DM,,discontinued,2020,,2021,BT01,Full-size sedan,Full-size,4,S42,4-door full-size sedan,July 2020,2021,Han DM (2020-2021) 2.0T,S42,,Added in batch 2 from Wikipedia 'Han DM (2020-2021)' section; not in batch-1 list page.,S42
+G138,M129,Han DM-p,,current,2022,,,BT01,Full-size sedan,Full-size,4,S42,4-door full-size sedan,April 2022,,Part of 2022 facelift,S42,,Added in batch 2: Autohome lists 汉DM-p 战神版 (2022-2024). Wikipedia: DM-p part of 2022 facelift.,S42

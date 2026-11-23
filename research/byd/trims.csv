@@ -1,0 +1,313 @@
+trim_id,model_year_id,model_id,generation_id,market,year,trim_name_zh,trim_name_en,autohome_spec_id,spec_kind,gallery_photos,on_sale_status,evidence_url,source_id
+T0001,Y0132,M020,G022,China,2025,510标准版,,69392,standard,285,discontinued (停售),https://car.autohome.com.cn/pic/series-s69392/6394-1.html,S15
+T0002,Y0132,M020,G022,China,2025,650长续航版,,69345,standard,643,discontinued (停售),https://car.autohome.com.cn/pic/series-s69345/6394-1.html,S15
+T0003,Y0132,M020,G022,China,2025,650智驾版,,69393,standard,421,discontinued (停售),https://car.autohome.com.cn/pic/series-s69393/6394-1.html,S15
+T0004,Y0132,M020,G022,China,2025,600四驱智驾版,,69394,standard,196,discontinued (停售),https://car.autohome.com.cn/pic/series-s69394/6394-1.html,S15
+T0005,Y0132,M020,G022,China,2025,510智航版,,71663,standard,444,discontinued (停售),https://car.autohome.com.cn/pic/series-s71663/6394-1.html,S15
+T0006,Y0132,M020,G022,China,2025,650智航版,,71664,standard,450,discontinued (停售),https://car.autohome.com.cn/pic/series-s71664/6394-1.html,S15
+T0007,Y0132,M020,G022,China,2025,改款 650智驾版,,71665,standard,290,discontinued (停售),https://car.autohome.com.cn/pic/series-s71665/6394-1.html,S15
+T0008,Y0132,M020,G022,China,2025,改款 600四驱智驾版,,71666,standard,186,discontinued (停售),https://car.autohome.com.cn/pic/series-s71666/6394-1.html,S15
+T0009,Y0132,M020,G022,China,2025,中国香港车展版,,73399,hk_auto_show,230,discontinued (停售),https://car.autohome.com.cn/pic/series-s73399/6394-1.html,S15
+T0010,Y0133,M023,G026,China,2024,荣耀版 DM-i 1.5L 121km 精英型,,66925,standard,193,discontinued (停售),https://car.autohome.com.cn/pic/series-s66925/6394-1.html,S15
+T0011,Y0133,M023,G026,China,2024,荣耀版 DM-i 1.5L 121km 豪华型,,66926,standard,256,discontinued (停售),https://car.autohome.com.cn/pic/series-s66926/6394-1.html,S15
+T0012,Y0133,M023,G026,China,2024,荣耀版 DM-i 1.5L 121km 尊贵型,,66927,standard,240,discontinued (停售),https://car.autohome.com.cn/pic/series-s66927/6394-1.html,S15
+T0013,Y0133,M023,G026,China,2024,荣耀版 DM-i 1.5T 121km 尊荣型,,66928,standard,317,discontinued (停售),https://car.autohome.com.cn/pic/series-s66928/6394-1.html,S15
+T0014,Y0133,M023,G026,China,2024,荣耀版 DM-i 1.5T 121km 旗舰型,,66929,standard,180,discontinued (停售),https://car.autohome.com.cn/pic/series-s66929/6394-1.html,S15
+T0015,Y0133,M023,G026,China,2024,荣耀版 DM-i 1.5T 200km 旗舰型,,66930,standard,204,discontinued (停售),https://car.autohome.com.cn/pic/series-s66930/6394-1.html,S15
+T0016,Y0134,M020,G022,China,2024,荣耀版 550km 精英型,,67380,standard,176,discontinued (停售),https://car.autohome.com.cn/pic/series-s67380/6394-1.html,S15
+T0017,Y0134,M020,G022,China,2024,荣耀版 550km 尊贵型,,67381,standard,238,discontinued (停售),https://car.autohome.com.cn/pic/series-s67381/6394-1.html,S15
+T0018,Y0134,M020,G022,China,2024,荣耀版 700km 尊贵型,,67382,standard,210,discontinued (停售),https://car.autohome.com.cn/pic/series-s67382/6394-1.html,S15
+T0019,Y0134,M020,G022,China,2024,荣耀版 700km 性能版,,67383,standard,176,discontinued (停售),https://car.autohome.com.cn/pic/series-s67383/6394-1.html,S15
+T0020,Y0031,M023,G026,China,2023,DM-i 试装车,,63858,pre_production_trial_fit,90,discontinued (停售),https://car.autohome.com.cn/pic/series-s63858/6394-1.html,S15
+T0021,Y0031,M023,G026,China,2023,DM-i 1.5L 121km 精英型,,60594,standard,158,discontinued (停售),https://car.autohome.com.cn/pic/series-s60594/6394-1.html,S15
+T0022,Y0031,M023,G026,China,2023,DM-i 1.5L 121km 豪华型,,64468,standard,201,discontinued (停售),https://car.autohome.com.cn/pic/series-s64468/6394-1.html,S15
+T0023,Y0031,M023,G026,China,2023,DM-i 1.5L 121km 尊贵型,,64469,standard,332,discontinued (停售),https://car.autohome.com.cn/pic/series-s64469/6394-1.html,S15
+T0024,Y0031,M023,G026,China,2023,DM-i 1.5T 121km 尊荣型,,64470,standard,213,discontinued (停售),https://car.autohome.com.cn/pic/series-s64470/6394-1.html,S15
+T0025,Y0031,M023,G026,China,2023,DM-i 1.5T 121km 旗舰型,,62757,standard,763,discontinued (停售),https://car.autohome.com.cn/pic/series-s62757/6394-1.html,S15
+T0026,Y0031,M023,G026,China,2023,DM-i 1.5T 200km 旗舰型,,62660,standard,253,discontinued (停售),https://car.autohome.com.cn/pic/series-s62660/6394-1.html,S15
+T0027,Y0135,M020,G022,China,2023,欧洲版,,64622,europe_export_spec,332,discontinued (停售),https://car.autohome.com.cn/pic/series-s64622/6394-1.html,S15
+T0028,Y0135,M020,G022,China,2023,冠军版 550km 精英型,,63032,standard,192,discontinued (停售),https://car.autohome.com.cn/pic/series-s63032/6394-1.html,S15
+T0029,Y0135,M020,G022,China,2023,冠军版 550km 尊贵型,,63033,standard,326,discontinued (停售),https://car.autohome.com.cn/pic/series-s63033/6394-1.html,S15
+T0030,Y0135,M020,G022,China,2023,冠军版 700km 尊贵型,,63034,standard,450,discontinued (停售),https://car.autohome.com.cn/pic/series-s63034/6394-1.html,S15
+T0031,Y0135,M020,G022,China,2023,冠军版 700km 性能版,,63035,standard,285,discontinued (停售),https://car.autohome.com.cn/pic/series-s63035/6394-1.html,S15
+T0032,Y0135,M020,G022,China,2023,冠军版 650km 四驱性能版,,63036,standard,171,discontinued (停售),https://car.autohome.com.cn/pic/series-s63036/6394-1.html,S15
+T0033,Y0027,M020,G022,China,2022,550km 标准续航后驱版精英型,,56592,standard,175,discontinued (停售),https://car.autohome.com.cn/pic/series-s56592/6394-1.html,S15
+T0034,Y0027,M020,G022,China,2022,550km 标准续航后驱版尊贵型,,57090,standard,366,discontinued (停售),https://car.autohome.com.cn/pic/series-s57090/6394-1.html,S15
+T0035,Y0027,M020,G022,China,2022,700km 长续航后驱版,,55916,standard,822,discontinued (停售),https://car.autohome.com.cn/pic/series-s55916/6394-1.html,S15
+T0036,Y0027,M020,G022,China,2022,650km 四驱性能版,,56593,standard,589,discontinued (停售),https://car.autohome.com.cn/pic/series-s56593/6394-1.html,S15
+T0037,Y0027,M020,G022,China,2022,EV 试装车,,57740,pre_production_trial_fit,86,discontinued (停售),https://car.autohome.com.cn/pic/series-s57740/6394-1.html,S15
+T0038,Y0136,M026,G030,China,2024,荣耀版 302km 活力版,,66812,standard,3,discontinued (停售),https://car.autohome.com.cn/pic/series-s66812/6139-1.html,S16
+T0039,Y0136,M026,G030,China,2024,荣耀版 420km 自由版,,66576,standard,472,discontinued (停售),https://car.autohome.com.cn/pic/series-s66576/6139-1.html,S16
+T0040,Y0136,M026,G030,China,2024,荣耀版 420km 时尚版,,66577,standard,431,discontinued (停售),https://car.autohome.com.cn/pic/series-s66577/6139-1.html,S16
+T0041,Y0136,M026,G030,China,2024,荣耀版 401km 骑士版,,66578,standard,473,discontinued (停售),https://car.autohome.com.cn/pic/series-s66578/6139-1.html,S16
+T0042,Y0137,M026,G030,China,2023,420km 自由版,,61094,standard,326,discontinued (停售),https://car.autohome.com.cn/pic/series-s61094/6139-1.html,S16
+T0043,Y0137,M026,G030,China,2023,420km 时尚版,,61095,standard,402,discontinued (停售),https://car.autohome.com.cn/pic/series-s61095/6139-1.html,S16
+T0044,Y0137,M026,G030,China,2023,50万纪念版Pro,,64908,special_edition,197,discontinued (停售),https://car.autohome.com.cn/pic/series-s64908/6139-1.html,S16
+T0045,Y0137,M026,G030,China,2023,401km 骑士版,,61096,standard,654,discontinued (停售),https://car.autohome.com.cn/pic/series-s61096/6139-1.html,S16
+T0046,Y0137,M026,G030,China,2023,50万纪念版Plus,,64976,special_edition,241,discontinued (停售),https://car.autohome.com.cn/pic/series-s64976/6139-1.html,S16
+T0047,Y0036,M026,G030,China,2021,405km 自由版,,52655,standard,182,discontinued (停售),https://car.autohome.com.cn/pic/series-s52655/6139-1.html,S16
+T0048,Y0036,M026,G030,China,2021,405km 时尚版,,51852,standard,1062,discontinued (停售),https://car.autohome.com.cn/pic/series-s51852/6139-1.html,S16
+T0049,Y0036,M026,G030,China,2021,401km 骑士版,,52656,standard,478,discontinued (停售),https://car.autohome.com.cn/pic/series-s52656/6139-1.html,S16
+T0050,Y0036,M026,G030,China,2021,eStarPro共创联名版,,54583,special_edition,204,discontinued (停售),https://car.autohome.com.cn/pic/series-s54583/6139-1.html,S16
+T0051,Y0138,M026,G030,China,2026,基本型,,76225,placeholder_few_photos,3,on sale per Autohome,https://car.autohome.com.cn/pic/series-s76225/6139-1.html,S16
+T0052,Y0037,M026,G030,China,2025,420km 活力版,,69004,standard,367,on sale per Autohome,https://car.autohome.com.cn/pic/series-s69004/6139-1.html,S16
+T0053,Y0037,M026,G030,China,2025,420km 自由版,,69005,standard,778,on sale per Autohome,https://car.autohome.com.cn/pic/series-s69005/6139-1.html,S16
+T0054,Y0037,M026,G030,China,2025,420km 时尚版,,69006,standard,680,on sale per Autohome,https://car.autohome.com.cn/pic/series-s69006/6139-1.html,S16
+T0055,Y0037,M026,G030,China,2025,520km 骑士版,,66316,standard,263,on sale per Autohome,https://car.autohome.com.cn/pic/series-s66316/6139-1.html,S16
+T0056,Y0037,M026,G030,China,2025,智驾版 420km 自由版,,71048,standard,780,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71048/6139-1.html,S16
+T0057,Y0037,M026,G030,China,2025,智驾版 410km 时尚版,,71049,standard,752,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71049/6139-1.html,S16
+T0058,Y0037,M026,G030,China,2025,智驾版 520km 骑士版,,71050,standard,464,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71050/6139-1.html,S16
+T0059,Y0037,M026,G030,China,2025,中国香港车展版,,73405,hk_auto_show,234,on sale per Autohome,https://car.autohome.com.cn/pic/series-s73405/6139-1.html,S16
+T0060,Y0041,M028,G032,China,2025,智驾版 305km 活力版,,71690,standard,559,discontinued (停售),https://car.autohome.com.cn/pic/series-s71690/6762-1.html,S17
+T0061,Y0041,M028,G032,China,2025,智驾版 305km 自由版,,71691,standard,558,discontinued (停售),https://car.autohome.com.cn/pic/series-s71691/6762-1.html,S17
+T0062,Y0041,M028,G032,China,2025,智驾版 405km 自在版,,73635,standard,481,discontinued (停售),https://car.autohome.com.cn/pic/series-s73635/6762-1.html,S17
+T0063,Y0041,M028,G032,China,2025,305km 活力版,,69068,standard,474,discontinued (停售),https://car.autohome.com.cn/pic/series-s69068/6762-1.html,S17
+T0064,Y0041,M028,G032,China,2025,305km 自由版,,69069,standard,439,discontinued (停售),https://car.autohome.com.cn/pic/series-s69069/6762-1.html,S17
+T0065,Y0041,M028,G032,China,2025,405km 飞翔版,,69070,standard,556,discontinued (停售),https://car.autohome.com.cn/pic/series-s69070/6762-1.html,S17
+T0066,Y0041,M028,G032,China,2025,智驾版 405km 飞翔版,,71065,standard,442,discontinued (停售),https://car.autohome.com.cn/pic/series-s71065/6762-1.html,S17
+T0067,Y0041,M028,G032,China,2025,欧洲版,,74736,europe_export_spec,96,discontinued (停售),https://car.autohome.com.cn/pic/series-s74736/6762-1.html,S17
+T0068,Y0139,M028,G032,China,2024,荣耀版 305km 活力版,,67024,standard,150,discontinued (停售),https://car.autohome.com.cn/pic/series-s67024/6762-1.html,S17
+T0069,Y0139,M028,G032,China,2024,荣耀版 305km 自由版,,67025,standard,361,discontinued (停售),https://car.autohome.com.cn/pic/series-s67025/6762-1.html,S17
+T0070,Y0139,M028,G032,China,2024,荣耀版 405km 飞翔版,,67026,standard,246,discontinued (停售),https://car.autohome.com.cn/pic/series-s67026/6762-1.html,S17
+T0071,Y0040,M028,G032,China,2023,活力版,,62495,standard,142,discontinued (停售),https://car.autohome.com.cn/pic/series-s62495/6762-1.html,S17
+T0072,Y0040,M028,G032,China,2023,自由版,,62496,standard,255,discontinued (停售),https://car.autohome.com.cn/pic/series-s62496/6762-1.html,S17
+T0073,Y0040,M028,G032,China,2023,飞翔版,,57341,standard,597,discontinued (停售),https://car.autohome.com.cn/pic/series-s57341/6762-1.html,S17
+T0074,Y0140,M028,G033,China,2027,320KM 活力版,,79549,standard,329,on sale per Autohome,https://car.autohome.com.cn/pic/series-s79549/6762-1.html,S17
+T0075,Y0140,M028,G033,China,2027,320KM 自由版,,79550,standard,286,on sale per Autohome,https://car.autohome.com.cn/pic/series-s79550/6762-1.html,S17
+T0076,Y0140,M028,G033,China,2027,420KM 自在版,,78508,standard,291,on sale per Autohome,https://car.autohome.com.cn/pic/series-s78508/6762-1.html,S17
+T0077,Y0140,M028,G033,China,2027,420KM 飞翔版,,79267,standard,359,on sale per Autohome,https://car.autohome.com.cn/pic/series-s79267/6762-1.html,S17
+T0078,Y0140,M028,G033,China,2027,420KM 智趣版,,79268,standard,160,on sale per Autohome,https://car.autohome.com.cn/pic/series-s79268/6762-1.html,S17
+T0079,Y0141,M028,G032,China,2026,305km 活力版,,77748,standard,462,on sale per Autohome,https://car.autohome.com.cn/pic/series-s77748/6762-1.html,S17
+T0080,Y0141,M028,G032,China,2026,305km 自由版,,77717,standard,423,on sale per Autohome,https://car.autohome.com.cn/pic/series-s77717/6762-1.html,S17
+T0081,Y0141,M028,G032,China,2026,405km 自在版,,77718,standard,372,on sale per Autohome,https://car.autohome.com.cn/pic/series-s77718/6762-1.html,S17
+T0082,Y0141,M028,G032,China,2026,405km 飞翔版,,77749,standard,590,on sale per Autohome,https://car.autohome.com.cn/pic/series-s77749/6762-1.html,S17
+T0083,Y0142,M016,G017,China,2024,荣耀版 430KM 领先型,,66988,standard,466,discontinued (停售),https://car.autohome.com.cn/pic/series-s66988/6298-1.html,S18
+T0084,Y0142,M016,G017,China,2024,荣耀版 430KM 超越型,,66989,standard,343,discontinued (停售),https://car.autohome.com.cn/pic/series-s66989/6298-1.html,S18
+T0085,Y0142,M016,G017,China,2024,荣耀版 510KM 领先型,,66990,standard,337,discontinued (停售),https://car.autohome.com.cn/pic/series-s66990/6298-1.html,S18
+T0086,Y0142,M016,G017,China,2024,荣耀版 510KM 超越型,,66991,standard,485,discontinued (停售),https://car.autohome.com.cn/pic/series-s66991/6298-1.html,S18
+T0087,Y0142,M016,G017,China,2024,荣耀版 510KM 卓越型,,66992,standard,447,discontinued (停售),https://car.autohome.com.cn/pic/series-s66992/6298-1.html,S18
+T0088,Y0143,M016,G017,China,2023,ATTO 3 欧洲版,,60131,europe_export_spec,132,discontinued (停售),https://car.autohome.com.cn/pic/series-s60131/6298-1.html,S18
+T0089,Y0143,M016,G017,China,2023,冠军版 430KM 领先型,,64814,standard,186,discontinued (停售),https://car.autohome.com.cn/pic/series-s64814/6298-1.html,S18
+T0090,Y0143,M016,G017,China,2023,冠军版 430KM 超越型,,64721,standard,283,discontinued (停售),https://car.autohome.com.cn/pic/series-s64721/6298-1.html,S18
+T0091,Y0143,M016,G017,China,2023,冠军版 510KM 领先型,,64802,standard,239,discontinued (停售),https://car.autohome.com.cn/pic/series-s64802/6298-1.html,S18
+T0092,Y0143,M016,G017,China,2023,冠军版 510KM 超越型,,64719,standard,198,discontinued (停售),https://car.autohome.com.cn/pic/series-s64719/6298-1.html,S18
+T0093,Y0143,M016,G017,China,2023,冠军版 510KM 卓越型,,64720,standard,210,discontinued (停售),https://car.autohome.com.cn/pic/series-s64720/6298-1.html,S18
+T0094,Y0021,M016,G017,China,2022,430KM 豪华型,,55069,standard,161,discontinued (停售),https://car.autohome.com.cn/pic/series-s55069/6298-1.html,S18
+T0095,Y0021,M016,G017,China,2022,430KM 尊贵型,,54409,standard,150,discontinued (停售),https://car.autohome.com.cn/pic/series-s54409/6298-1.html,S18
+T0096,Y0021,M016,G017,China,2022,510KM 尊荣型,,55071,standard,317,discontinued (停售),https://car.autohome.com.cn/pic/series-s55071/6298-1.html,S18
+T0097,Y0021,M016,G017,China,2022,510KM 旗舰型,,52183,standard,641,discontinued (停售),https://car.autohome.com.cn/pic/series-s52183/6298-1.html,S18
+T0098,Y0021,M016,G017,China,2022,510KM 旗舰型PLUS,,55070,standard,336,discontinued (停售),https://car.autohome.com.cn/pic/series-s55070/6298-1.html,S18
+T0099,Y0021,M016,G017,China,2022,试装车,,54427,pre_production_trial_fit,444,discontinued (停售),https://car.autohome.com.cn/pic/series-s54427/6298-1.html,S18
+T0100,Y0023,M016,G018,China,2026,540KM 领先型,,75165,standard,420,on sale per Autohome,https://car.autohome.com.cn/pic/series-s75165/6298-1.html,S18
+T0101,Y0023,M016,G018,China,2026,540KM 超越型,,77914,standard,568,on sale per Autohome,https://car.autohome.com.cn/pic/series-s77914/6298-1.html,S18
+T0102,Y0023,M016,G018,China,2026,630KM 超越型,,77869,standard,618,on sale per Autohome,https://car.autohome.com.cn/pic/series-s77869/6298-1.html,S18
+T0103,Y0023,M016,G018,China,2026,630KM 卓越型,,76816,standard,1347,on sale per Autohome,https://car.autohome.com.cn/pic/series-s76816/6298-1.html,S18
+T0104,Y0022,M016,G017,China,2025,智驾版 430KM 领先型,,72031,standard,646,on sale per Autohome,https://car.autohome.com.cn/pic/series-s72031/6298-1.html,S18
+T0105,Y0022,M016,G017,China,2025,智驾版 430KM 超越型,,71427,standard,610,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71427/6298-1.html,S18
+T0106,Y0022,M016,G017,China,2025,智驾版 510KM 领先型,,71817,standard,629,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71817/6298-1.html,S18
+T0107,Y0022,M016,G017,China,2025,智驾版 510KM 超越型,,71852,standard,613,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71852/6298-1.html,S18
+T0108,Y0022,M016,G017,China,2025,智驾版 510KM 卓越型,,71918,standard,352,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71918/6298-1.html,S18
+T0109,Y0022,M016,G017,China,2025,中国香港车展版,,73409,hk_auto_show,260,on sale per Autohome,https://car.autohome.com.cn/pic/series-s73409/6298-1.html,S18
+T0110,Y0144,M036,G041,China,2025,EV 智驾版 701KM尊荣型,,71623,standard,402,discontinued (停售),https://car.autohome.com.cn/pic/series-s71623/5499-1.html,S19
+T0111,Y0144,M036,G041,China,2025,EV 智驾版 701KM激光雷达尊享型,,71703,standard,211,discontinued (停售),https://car.autohome.com.cn/pic/series-s71703/5499-1.html,S19
+T0112,Y0144,M036,G041,China,2025,EV 智驾版 701KM激光雷达旗舰型,,71704,standard,178,discontinued (停售),https://car.autohome.com.cn/pic/series-s71704/5499-1.html,S19
+T0113,Y0144,M036,G041,China,2025,EV 506KM尊贵型,,69142,standard,633,discontinued (停售),https://car.autohome.com.cn/pic/series-s69142/5499-1.html,S19
+T0114,Y0144,M036,G041,China,2025,EV 605KM尊贵型,,69813,standard,494,discontinued (停售),https://car.autohome.com.cn/pic/series-s69813/5499-1.html,S19
+T0115,Y0144,M036,G041,China,2025,EV 701KM尊享型,,69814,standard,302,discontinued (停售),https://car.autohome.com.cn/pic/series-s69814/5499-1.html,S19
+T0116,Y0144,M036,G041,China,2025,EV 701KM激光雷达智驾型,,69802,standard,285,discontinued (停售),https://car.autohome.com.cn/pic/series-s69802/5499-1.html,S19
+T0117,Y0145,M002,G002,China,2025,DM-i 125KM舒适型,,69815,standard,292,discontinued (停售),https://car.autohome.com.cn/pic/series-s69815/5499-1.html,S19
+T0118,Y0145,M002,G002,China,2025,DM-i 125KM精英型,,69143,standard,451,discontinued (停售),https://car.autohome.com.cn/pic/series-s69143/5499-1.html,S19
+T0119,Y0145,M002,G002,China,2025,DM-i 125KM尊贵型,,69816,standard,393,discontinued (停售),https://car.autohome.com.cn/pic/series-s69816/5499-1.html,S19
+T0120,Y0145,M002,G002,China,2025,DM-i 125KM尊荣型,,69817,standard,318,discontinued (停售),https://car.autohome.com.cn/pic/series-s69817/5499-1.html,S19
+T0121,Y0145,M002,G002,China,2025,DM-i 125KM激光雷达智驾型,,69144,standard,211,discontinued (停售),https://car.autohome.com.cn/pic/series-s69144/5499-1.html,S19
+T0122,Y0146,M036,G041,China,2024,EV 荣耀版 506KM前驱尊贵型,,66902,standard,195,discontinued (停售),https://car.autohome.com.cn/pic/series-s66902/5499-1.html,S19
+T0123,Y0146,M036,G041,China,2024,EV 荣耀版 605KM前驱尊贵型,,66903,standard,166,discontinued (停售),https://car.autohome.com.cn/pic/series-s66903/5499-1.html,S19
+T0124,Y0146,M036,G041,China,2024,EV 荣耀版 715KM前驱旗舰型,,66774,standard,228,discontinued (停售),https://car.autohome.com.cn/pic/series-s66774/5499-1.html,S19
+T0125,Y0146,M036,G041,China,2024,EV 荣耀版 610KM四驱天神之眼智驾型,,66905,standard,222,discontinued (停售),https://car.autohome.com.cn/pic/series-s66905/5499-1.html,S19
+T0126,Y0003,M002,G002,China,2024,DM-i 荣耀版 121KM 精英型,,66906,standard,198,discontinued (停售),https://car.autohome.com.cn/pic/series-s66906/5499-1.html,S19
+T0127,Y0003,M002,G002,China,2024,DM-i 荣耀版 121KM 尊贵型,,66753,standard,307,discontinued (停售),https://car.autohome.com.cn/pic/series-s66753/5499-1.html,S19
+T0128,Y0003,M002,G002,China,2024,DM-i 荣耀版 121KM 尊荣型,,66907,standard,344,discontinued (停售),https://car.autohome.com.cn/pic/series-s66907/5499-1.html,S19
+T0129,Y0003,M002,G002,China,2024,DM-i 荣耀版 121KM 尊享型,,66773,standard,220,discontinued (停售),https://car.autohome.com.cn/pic/series-s66773/5499-1.html,S19
+T0130,Y0003,M002,G002,China,2024,DM-i 荣耀版 200KM 旗舰型,,66908,standard,272,discontinued (停售),https://car.autohome.com.cn/pic/series-s66908/5499-1.html,S19
+T0131,Y0147,M129,G138,China,2024,DM-p 战神版,,66909,special_edition,214,discontinued (停售),https://car.autohome.com.cn/pic/series-s66909/5499-1.html,S19
+T0132,Y0003,M002,G002,China,2024,DM-i 121KM领航荣耀版,,67270,standard,196,discontinued (停售),https://car.autohome.com.cn/pic/series-s67270/5499-1.html,S19
+T0133,Y0148,M002,G002,China,2023,DM-i 冠军版 121KM 精英型,,63138,standard,240,discontinued (停售),https://car.autohome.com.cn/pic/series-s63138/5499-1.html,S19
+T0134,Y0148,M002,G002,China,2023,DM-i 冠军版 121KM 尊贵型,,63137,standard,200,discontinued (停售),https://car.autohome.com.cn/pic/series-s63137/5499-1.html,S19
+T0135,Y0148,M002,G002,China,2023,DM-i 冠军版 121KM 尊荣型,,63136,standard,213,discontinued (停售),https://car.autohome.com.cn/pic/series-s63136/5499-1.html,S19
+T0136,Y0148,M002,G002,China,2023,DM-i 冠军版 121KM 尊享型,,63070,standard,267,discontinued (停售),https://car.autohome.com.cn/pic/series-s63070/5499-1.html,S19
+T0137,Y0148,M002,G002,China,2023,DM-i 冠军版 200KM 尊享型,,63139,standard,215,discontinued (停售),https://car.autohome.com.cn/pic/series-s63139/5499-1.html,S19
+T0138,Y0148,M002,G002,China,2023,DM-i 冠军版 200KM 旗舰型,,63071,standard,189,discontinued (停售),https://car.autohome.com.cn/pic/series-s63071/5499-1.html,S19
+T0139,Y0149,M129,G138,China,2023,DM-p 战神版,,63087,special_edition,173,discontinued (停售),https://car.autohome.com.cn/pic/series-s63087/5499-1.html,S19
+T0140,Y0150,M036,G041,China,2023,EV 冠军版 506KM前驱尊贵型,,61824,standard,234,discontinued (停售),https://car.autohome.com.cn/pic/series-s61824/5499-1.html,S19
+T0141,Y0150,M036,G041,China,2023,EV 冠军版 605KM前驱尊贵型,,61410,standard,384,discontinued (停售),https://car.autohome.com.cn/pic/series-s61410/5499-1.html,S19
+T0142,Y0150,M036,G041,China,2023,EV 冠军版 715KM前驱尊荣型,,61763,standard,175,discontinued (停售),https://car.autohome.com.cn/pic/series-s61763/5499-1.html,S19
+T0143,Y0150,M036,G041,China,2023,EV 欧洲版,,60128,europe_export_spec,142,discontinued (停售),https://car.autohome.com.cn/pic/series-s60128/5499-1.html,S19
+T0144,Y0150,M036,G041,China,2023,EV 冠军版 715KM前驱旗舰型,,61823,standard,241,discontinued (停售),https://car.autohome.com.cn/pic/series-s61823/5499-1.html,S19
+T0145,Y0150,M036,G041,China,2023,EV 冠军版 610KM四驱旗舰型,,61825,standard,320,discontinued (停售),https://car.autohome.com.cn/pic/series-s61825/5499-1.html,S19
+T0146,Y0151,M036,G041,China,2022,EV 创世版 715KM前驱尊荣型,,56566,standard,144,discontinued (停售),https://car.autohome.com.cn/pic/series-s56566/5499-1.html,S19
+T0147,Y0151,M036,G041,China,2022,EV 创世版 715KM前驱旗舰型,,56542,standard,205,discontinued (停售),https://car.autohome.com.cn/pic/series-s56542/5499-1.html,S19
+T0148,Y0151,M036,G041,China,2022,EV 创世版 610KM四驱尊享型,,56451,standard,294,discontinued (停售),https://car.autohome.com.cn/pic/series-s56451/5499-1.html,S19
+T0149,Y0152,M002,G002,China,2022,DM-i 121KM 尊贵型,,56153,standard,193,discontinued (停售),https://car.autohome.com.cn/pic/series-s56153/5499-1.html,S19
+T0150,Y0152,M002,G002,China,2022,DM-i 121KM 尊荣型,,56152,standard,148,discontinued (停售),https://car.autohome.com.cn/pic/series-s56152/5499-1.html,S19
+T0151,Y0152,M002,G002,China,2022,DM-i 121KM 尊享型,,55313,standard,496,discontinued (停售),https://car.autohome.com.cn/pic/series-s55313/5499-1.html,S19
+T0152,Y0152,M002,G002,China,2022,DM-i 242KM 旗舰型,,56151,standard,169,discontinued (停售),https://car.autohome.com.cn/pic/series-s56151/5499-1.html,S19
+T0153,Y0153,M129,G138,China,2022,DM-p 202KM 四驱旗舰型,,55886,standard,170,discontinued (停售),https://car.autohome.com.cn/pic/series-s55886/5499-1.html,S19
+T0154,Y0151,M036,G041,China,2022,EV 610KM四驱千山翠限量版,,56567,special_edition,207,discontinued (停售),https://car.autohome.com.cn/pic/series-s56567/5499-1.html,S19
+T0155,Y0154,M128,G137,China,2021,DM 国漫版,,53010,special_edition,140,discontinued (停售),https://car.autohome.com.cn/pic/series-s53010/5499-1.html,S19
+T0156,Y0155,M036,G041,China,2021,EV 苏州园林定制版,,50310,special_edition,67,discontinued (停售),https://car.autohome.com.cn/pic/series-s50310/5499-1.html,S19
+T0157,Y0155,M036,G041,China,2021,EV 标准续航版豪华型,,52453,standard,175,discontinued (停售),https://car.autohome.com.cn/pic/series-s52453/5499-1.html,S19
+T0158,Y0156,M036,G041,China,2020,EV 超长续航版尊贵型,,45620,standard,849,discontinued (停售),https://car.autohome.com.cn/pic/series-s45620/5499-1.html,S19
+T0159,Y0156,M036,G041,China,2020,EV 四驱高性能版旗舰型,,42643,standard,751,discontinued (停售),https://car.autohome.com.cn/pic/series-s42643/5499-1.html,S19
+T0160,Y0157,M128,G137,China,2020,DM 四驱性能版豪华型,,43481,standard,237,discontinued (停售),https://car.autohome.com.cn/pic/series-s43481/5499-1.html,S19
+T0161,Y0157,M128,G137,China,2020,DM 四驱性能版尊贵型,,46953,standard,567,discontinued (停售),https://car.autohome.com.cn/pic/series-s46953/5499-1.html,S19
+T0162,Y0156,M036,G041,China,2020,EV 超长续航版豪华型,,45619,standard,196,discontinued (停售),https://car.autohome.com.cn/pic/series-s45619/5499-1.html,S19
+T0163,Y0158,M002,G002,China,2027,DM-i 基本型,,79516,placeholder_few_photos,3,on sale per Autohome,https://car.autohome.com.cn/pic/series-s79516/5499-1.html,S19
+T0164,Y0159,M036,G041,China,2026,EV 智驾版 705KM闪充尊贵型,,77297,standard,643,on sale per Autohome,https://car.autohome.com.cn/pic/series-s77297/5499-1.html,S19
+T0165,Y0159,M036,G041,China,2026,EV 智驾版 705KM闪充尊荣型,,77668,standard,195,on sale per Autohome,https://car.autohome.com.cn/pic/series-s77668/5499-1.html,S19
+T0166,Y0144,M036,G041,China,2025,EV 智驾版 506KM尊贵型,,71535,standard,403,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71535/5499-1.html,S19
+T0167,Y0144,M036,G041,China,2025,EV 智驾版 605KM尊荣型,,71591,standard,414,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71591/5499-1.html,S19
+T0168,Y0144,M036,G041,China,2025,EV 智驾版 635KM旗舰版,,75061,standard,615,on sale per Autohome,https://car.autohome.com.cn/pic/series-s75061/5499-1.html,S19
+T0169,Y0144,M036,G041,China,2025,EV 智驾版 635KM激光雷达旗舰型,,75188,standard,528,on sale per Autohome,https://car.autohome.com.cn/pic/series-s75188/5499-1.html,S19
+T0170,Y0145,M002,G002,China,2025,DM-i 智驾版 125KM舒适型,,71705,standard,345,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71705/5499-1.html,S19
+T0171,Y0145,M002,G002,China,2025,DM-i 智驾版 125KM精英型,,71533,standard,462,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71533/5499-1.html,S19
+T0172,Y0145,M002,G002,China,2025,DM-i 智驾版 125KM尊贵型,,71534,standard,362,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71534/5499-1.html,S19
+T0173,Y0145,M002,G002,China,2025,DM-i 智驾版 125KM尊荣型,,71706,standard,323,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71706/5499-1.html,S19
+T0174,Y0145,M002,G002,China,2025,DM-i 智驾版 125KM激光雷达旗舰型,,71707,standard,258,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71707/5499-1.html,S19
+T0175,Y0145,M002,G002,China,2025,DM-i 智驾版 245KM尊贵型,,75104,standard,541,on sale per Autohome,https://car.autohome.com.cn/pic/series-s75104/5499-1.html,S19
+T0176,Y0145,M002,G002,China,2025,DM-i 智驾版 245KM尊荣型,,75106,standard,601,on sale per Autohome,https://car.autohome.com.cn/pic/series-s75106/5499-1.html,S19
+T0177,Y0145,M002,G002,China,2025,DM-i 智驾版 245KM激光雷达旗舰型,,75192,standard,363,on sale per Autohome,https://car.autohome.com.cn/pic/series-s75192/5499-1.html,S19
+T0178,Y0144,M036,G041,China,2025,EV 智驾版 605KM领航版,,72514,standard,342,on sale per Autohome,https://car.autohome.com.cn/pic/series-s72514/5499-1.html,S19
+T0179,Y0145,M002,G002,China,2025,DM-i 智驾版 125KM领航版,,72515,standard,251,on sale per Autohome,https://car.autohome.com.cn/pic/series-s72515/5499-1.html,S19
+T0180,Y0009,M007,G007,China,2025,DM-i 智驾版 55KM领先型,,71504,standard,395,discontinued (停售),https://car.autohome.com.cn/pic/series-s71504/5964-1.html,S20
+T0181,Y0009,M007,G007,China,2025,DM-i 智驾版 128KM进取型,,74790,standard,606,discontinued (停售),https://car.autohome.com.cn/pic/series-s74790/5964-1.html,S20
+T0182,Y0009,M007,G007,China,2025,DM-i 智驾版 55KM超越型,,71685,standard,414,discontinued (停售),https://car.autohome.com.cn/pic/series-s71685/5964-1.html,S20
+T0183,Y0009,M007,G007,China,2025,DM-i 智驾版 120KM超越型,,71686,standard,444,discontinued (停售),https://car.autohome.com.cn/pic/series-s71686/5964-1.html,S20
+T0184,Y0160,M007,G007,China,2024,荣耀版 DM-i 55KM领先型,,66743,standard,469,discontinued (停售),https://car.autohome.com.cn/pic/series-s66743/5964-1.html,S20
+T0185,Y0160,M007,G007,China,2024,荣耀版 DM-i 55KM超越型,,66744,standard,261,discontinued (停售),https://car.autohome.com.cn/pic/series-s66744/5964-1.html,S20
+T0186,Y0160,M007,G007,China,2024,荣耀版 DM-i 120KM领先型,,66745,standard,212,discontinued (停售),https://car.autohome.com.cn/pic/series-s66745/5964-1.html,S20
+T0187,Y0160,M007,G007,China,2024,荣耀版 DM-i 120KM超越型,,66746,standard,297,discontinued (停售),https://car.autohome.com.cn/pic/series-s66746/5964-1.html,S20
+T0188,Y0160,M007,G007,China,2024,荣耀版 DM-i 120KM卓越型,,66733,standard,224,discontinued (停售),https://car.autohome.com.cn/pic/series-s66733/5964-1.html,S20
+T0189,Y0161,M039,G044,China,2024,荣耀版 EV 420KM领先型,,66747,standard,295,discontinued (停售),https://car.autohome.com.cn/pic/series-s66747/5964-1.html,S20
+T0190,Y0161,M039,G044,China,2024,荣耀版 EV 420KM超越型,,66748,standard,226,discontinued (停售),https://car.autohome.com.cn/pic/series-s66748/5964-1.html,S20
+T0191,Y0161,M039,G044,China,2024,荣耀版 EV 510KM领先型,,66749,standard,328,discontinued (停售),https://car.autohome.com.cn/pic/series-s66749/5964-1.html,S20
+T0192,Y0161,M039,G044,China,2024,荣耀版 EV 510KM超越型,,66750,standard,271,discontinued (停售),https://car.autohome.com.cn/pic/series-s66750/5964-1.html,S20
+T0193,Y0161,M039,G044,China,2024,荣耀版 EV 510KM卓越型,,66751,standard,188,discontinued (停售),https://car.autohome.com.cn/pic/series-s66751/5964-1.html,S20
+T0194,Y0160,M007,G007,China,2024,DM-i 120KM领航荣耀版,,67266,standard,172,discontinued (停售),https://car.autohome.com.cn/pic/series-s67266/5964-1.html,S20
+T0195,Y0160,M007,G007,China,2024,DM-i 55KM领航荣耀版,,67265,standard,175,discontinued (停售),https://car.autohome.com.cn/pic/series-s67265/5964-1.html,S20
+T0196,Y0162,M007,G007,China,2023,冠军版 DM-i 55KM领先型,,61527,standard,158,discontinued (停售),https://car.autohome.com.cn/pic/series-s61527/5964-1.html,S20
+T0197,Y0162,M007,G007,China,2023,冠军版 DM-i 55KM超越型,,61528,standard,160,discontinued (停售),https://car.autohome.com.cn/pic/series-s61528/5964-1.html,S20
+T0198,Y0162,M007,G007,China,2023,冠军版 DM-i 120KM领先型,,61235,standard,215,discontinued (停售),https://car.autohome.com.cn/pic/series-s61235/5964-1.html,S20
+T0199,Y0162,M007,G007,China,2023,冠军版 DM-i 120KM超越型,,61240,standard,225,discontinued (停售),https://car.autohome.com.cn/pic/series-s61240/5964-1.html,S20
+T0200,Y0162,M007,G007,China,2023,冠军版 DM-i 120KM卓越型,,61318,standard,490,discontinued (停售),https://car.autohome.com.cn/pic/series-s61318/5964-1.html,S20
+T0201,Y0163,M039,G044,China,2023,冠军版 EV 420KM领先型,,62385,standard,193,discontinued (停售),https://car.autohome.com.cn/pic/series-s62385/5964-1.html,S20
+T0202,Y0163,M039,G044,China,2023,冠军版 EV 420KM超越型,,62386,standard,197,discontinued (停售),https://car.autohome.com.cn/pic/series-s62386/5964-1.html,S20
+T0203,Y0163,M039,G044,China,2023,冠军版 EV 510KM领先型,,62387,standard,192,discontinued (停售),https://car.autohome.com.cn/pic/series-s62387/5964-1.html,S20
+T0204,Y0163,M039,G044,China,2023,冠军版 EV 510KM超越型,,62389,standard,158,discontinued (停售),https://car.autohome.com.cn/pic/series-s62389/5964-1.html,S20
+T0205,Y0163,M039,G044,China,2023,冠军版 EV 510KM卓越型,,62390,standard,198,discontinued (停售),https://car.autohome.com.cn/pic/series-s62390/5964-1.html,S20
+T0206,Y0163,M039,G044,China,2023,冠军版 EV 610KM卓越型,,62080,standard,193,discontinued (停售),https://car.autohome.com.cn/pic/series-s62080/5964-1.html,S20
+T0207,Y0163,M039,G044,China,2023,EV 500KM 出行版,,64994,standard,168,discontinued (停售),https://car.autohome.com.cn/pic/series-s64994/5964-1.html,S20
+T0208,Y0008,M007,G007,China,2021,DM-i 55KM 尊贵型,,49498,standard,160,discontinued (停售),https://car.autohome.com.cn/pic/series-s49498/5964-1.html,S20
+T0209,Y0008,M007,G007,China,2021,DM-i 55KM 旗舰型,,49499,standard,415,discontinued (停售),https://car.autohome.com.cn/pic/series-s49499/5964-1.html,S20
+T0210,Y0008,M007,G007,China,2021,DM-i 120KM 尊贵型,,49500,standard,160,discontinued (停售),https://car.autohome.com.cn/pic/series-s49500/5964-1.html,S20
+T0211,Y0008,M007,G007,China,2021,DM-i 120KM 旗舰型,,49501,standard,448,discontinued (停售),https://car.autohome.com.cn/pic/series-s49501/5964-1.html,S20
+T0212,Y0164,M039,G044,China,2021,EV 400KM 豪华型,,50587,standard,155,discontinued (停售),https://car.autohome.com.cn/pic/series-s50587/5964-1.html,S20
+T0213,Y0164,M039,G044,China,2021,EV 500KM 豪华型,,50588,standard,170,discontinued (停售),https://car.autohome.com.cn/pic/series-s50588/5964-1.html,S20
+T0214,Y0164,M039,G044,China,2021,EV 500KM 尊贵型,,50589,standard,292,discontinued (停售),https://car.autohome.com.cn/pic/series-s50589/5964-1.html,S20
+T0215,Y0164,M039,G044,China,2021,EV 600KM 旗舰型,,49774,standard,194,discontinued (停售),https://car.autohome.com.cn/pic/series-s49774/5964-1.html,S20
+T0216,Y0164,M039,G044,China,2021,EV 400KM 领畅版,,51965,standard,183,discontinued (停售),https://car.autohome.com.cn/pic/series-s51965/5964-1.html,S20
+T0217,Y0165,M007,G008,China,2027,DM-i 140KM领先型,,79575,standard,424,on sale per Autohome,https://car.autohome.com.cn/pic/series-s79575/5964-1.html,S20
+T0218,Y0165,M007,G008,China,2027,DM-i 220KM超越型,,79573,standard,444,on sale per Autohome,https://car.autohome.com.cn/pic/series-s79573/5964-1.html,S20
+T0219,Y0165,M007,G008,China,2027,DM-i 220KM卓越型,,78511,standard,430,on sale per Autohome,https://car.autohome.com.cn/pic/series-s78511/5964-1.html,S20
+T0220,Y0010,M007,G008,China,2026,DM-i 128KM进取型,,76199,standard,402,on sale per Autohome,https://car.autohome.com.cn/pic/series-s76199/5964-1.html,S20
+T0221,Y0010,M007,G008,China,2026,DM-i 210KM进取型,,76109,standard,440,on sale per Autohome,https://car.autohome.com.cn/pic/series-s76109/5964-1.html,S20
+T0222,Y0010,M007,G008,China,2026,DM-i 210KM超越型,,76177,standard,214,on sale per Autohome,https://car.autohome.com.cn/pic/series-s76177/5964-1.html,S20
+T0223,Y0166,M039,G044,China,2025,EV 智驾版 420KM领先型,,71687,standard,476,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71687/5964-1.html,S20
+T0224,Y0166,M039,G044,China,2025,EV 智驾版 510KM进取型,,74866,standard,455,on sale per Autohome,https://car.autohome.com.cn/pic/series-s74866/5964-1.html,S20
+T0225,Y0166,M039,G044,China,2025,EV 智驾版 510KM领先型,,71688,standard,342,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71688/5964-1.html,S20
+T0226,Y0166,M039,G044,China,2025,EV 智驾版 510KM超越型,,71689,standard,296,on sale per Autohome,https://car.autohome.com.cn/pic/series-s71689/5964-1.html,S20
+T0227,Y0166,M039,G044,China,2025,EV 510KM 标准版,,72103,standard,235,on sale per Autohome,https://car.autohome.com.cn/pic/series-s72103/5964-1.html,S20
+T0228,Y0166,M039,G044,China,2025,EV 510KM 畅行版,,72442,standard,249,on sale per Autohome,https://car.autohome.com.cn/pic/series-s72442/5964-1.html,S20
+T0229,Y0166,M039,G044,China,2025,EV 智驾版 510KM领航版,,72524,standard,353,on sale per Autohome,https://car.autohome.com.cn/pic/series-s72524/5964-1.html,S20
+T0230,Y0163,M039,G044,China,2023,EV 510KM 出行版,,65656,standard,163,on sale per Autohome,https://car.autohome.com.cn/pic/series-s65656/5964-1.html,S20
+T0231,Y0164,M039,G044,China,2021,EV 510KM 出行版,,63012,standard,161,on sale per Autohome,https://car.autohome.com.cn/pic/series-s63012/5964-1.html,S20
+T0232,Y0164,M039,G044,China,2021,EV 420KM 出行版,,51966,standard,147,on sale per Autohome,https://car.autohome.com.cn/pic/series-s51966/5964-1.html,S20
+T0233,Y0167,M034,G039,China,2025,DM-i 75KM 豪华型,,69209,standard,265,discontinued (停售),https://car.autohome.com.cn/pic/series-s69209/5761-1.html,S21
+T0234,Y0167,M034,G039,China,2025,DM-i 112KM 尊贵型,,69252,standard,483,discontinued (停售),https://car.autohome.com.cn/pic/series-s69252/5761-1.html,S21
+T0235,Y0167,M034,G039,China,2025,DM-i 112KM 尊荣型,,69253,standard,436,discontinued (停售),https://car.autohome.com.cn/pic/series-s69253/5761-1.html,S21
+T0236,Y0167,M034,G039,China,2025,DM-i 160KM 旗舰型,,69254,standard,420,discontinued (停售),https://car.autohome.com.cn/pic/series-s69254/5761-1.html,S21
+T0237,Y0167,M034,G039,China,2025,DM-i 160KM 旗舰PLUS,,69210,standard,381,discontinued (停售),https://car.autohome.com.cn/pic/series-s69210/5761-1.html,S21
+T0238,Y0168,M049,G055,China,2025,EV 520km 豪华型,,69512,standard,382,discontinued (停售),https://car.autohome.com.cn/pic/series-s69512/5761-1.html,S21
+T0239,Y0168,M049,G055,China,2025,EV 520km 尊贵型,,69513,standard,517,discontinued (停售),https://car.autohome.com.cn/pic/series-s69513/5761-1.html,S21
+T0240,Y0168,M049,G055,China,2025,EV 605km 旗舰型,,69514,standard,372,discontinued (停售),https://car.autohome.com.cn/pic/series-s69514/5761-1.html,S21
+T0241,Y0167,M034,G039,China,2025,DM-i 智驾版 112KM 尊贵型,,71470,standard,403,discontinued (停售),https://car.autohome.com.cn/pic/series-s71470/5761-1.html,S21
+T0242,Y0167,M034,G039,China,2025,DM-i 智驾版 112KM 尊荣型,,71525,standard,451,discontinued (停售),https://car.autohome.com.cn/pic/series-s71525/5761-1.html,S21
+T0243,Y0167,M034,G039,China,2025,DM-i 智驾版 160KM 旗舰型,,71480,standard,418,discontinued (停售),https://car.autohome.com.cn/pic/series-s71480/5761-1.html,S21
+T0244,Y0168,M049,G055,China,2025,EV 智驾版 520km 豪华型,,71520,standard,295,discontinued (停售),https://car.autohome.com.cn/pic/series-s71520/5761-1.html,S21
+T0245,Y0168,M049,G055,China,2025,EV 智驾版 520km 尊贵型,,71524,standard,357,discontinued (停售),https://car.autohome.com.cn/pic/series-s71524/5761-1.html,S21
+T0246,Y0168,M049,G055,China,2025,EV 智驾版 605km 旗舰型,,71481,standard,379,discontinued (停售),https://car.autohome.com.cn/pic/series-s71481/5761-1.html,S21
+T0247,Y0168,M049,G055,China,2025,EV 智驾版 520km 领航版,,72520,standard,288,discontinued (停售),https://car.autohome.com.cn/pic/series-s72520/5761-1.html,S21
+T0248,Y0169,M034,G039,China,2024,荣耀版 DM-i 71km 豪华型,,66931,standard,177,discontinued (停售),https://car.autohome.com.cn/pic/series-s66931/5761-1.html,S21
+T0249,Y0169,M034,G039,China,2024,荣耀版 DM-i 110km 旗舰型,,66932,standard,267,discontinued (停售),https://car.autohome.com.cn/pic/series-s66932/5761-1.html,S21
+T0250,Y0169,M034,G039,China,2024,荣耀版 DM-i 110km 旗舰PLUS,,66933,standard,165,discontinued (停售),https://car.autohome.com.cn/pic/series-s66933/5761-1.html,S21
+T0251,Y0169,M034,G039,China,2024,荣耀版 DM-i 150km 旗舰PLUS,,66934,standard,251,discontinued (停售),https://car.autohome.com.cn/pic/series-s66934/5761-1.html,S21
+T0252,Y0169,M034,G039,China,2024,荣耀版 DM-i 150km 旗舰PLUS 5G,,66935,standard,287,discontinued (停售),https://car.autohome.com.cn/pic/series-s66935/5761-1.html,S21
+T0253,Y0170,M049,G055,China,2024,荣耀版 EV 520km 豪华型,,66936,standard,470,discontinued (停售),https://car.autohome.com.cn/pic/series-s66936/5761-1.html,S21
+T0254,Y0170,M049,G055,China,2024,荣耀版 EV 520km 尊贵型,,66937,standard,418,discontinued (停售),https://car.autohome.com.cn/pic/series-s66937/5761-1.html,S21
+T0255,Y0170,M049,G055,China,2024,荣耀版 EV 605km 旗舰PLUS,,66939,standard,468,discontinued (停售),https://car.autohome.com.cn/pic/series-s66939/5761-1.html,S21
+T0256,Y0170,M049,G055,China,2024,荣耀版 EV 520km 旗舰型,,66938,standard,265,discontinued (停售),https://car.autohome.com.cn/pic/series-s66938/5761-1.html,S21
+T0257,Y0171,M049,G055,China,2023,冠军版 EV 520KM 豪华型,,62470,standard,161,discontinued (停售),https://car.autohome.com.cn/pic/series-s62470/5761-1.html,S21
+T0258,Y0171,M049,G055,China,2023,冠军版 EV 520KM 尊贵型,,62471,standard,255,discontinued (停售),https://car.autohome.com.cn/pic/series-s62471/5761-1.html,S21
+T0259,Y0171,M049,G055,China,2023,冠军版 EV 520KM 旗舰型,,63394,standard,264,discontinued (停售),https://car.autohome.com.cn/pic/series-s63394/5761-1.html,S21
+T0260,Y0171,M049,G055,China,2023,冠军版 EV 605KM 旗舰PLUS,,63395,standard,223,discontinued (停售),https://car.autohome.com.cn/pic/series-s63395/5761-1.html,S21
+T0261,Y0049,M034,G039,China,2023,冠军版 DM-i 110KM 旗舰型,,63396,standard,242,discontinued (停售),https://car.autohome.com.cn/pic/series-s63396/5761-1.html,S21
+T0262,Y0049,M034,G039,China,2023,冠军版 DM-i 110KM 旗舰PLUS,,63397,standard,402,discontinued (停售),https://car.autohome.com.cn/pic/series-s63397/5761-1.html,S21
+T0263,Y0049,M034,G039,China,2023,冠军版 DM-i 150KM 旗舰PLUS,,63398,standard,174,discontinued (停售),https://car.autohome.com.cn/pic/series-s63398/5761-1.html,S21
+T0264,Y0049,M034,G039,China,2023,冠军版 DM-i 150KM 旗舰PLUS 5G,,63399,standard,177,discontinued (停售),https://car.autohome.com.cn/pic/series-s63399/5761-1.html,S21
+T0265,Y0172,M034,G039,China,2021,DM-i 51KM 尊荣型,,49506,standard,188,discontinued (停售),https://car.autohome.com.cn/pic/series-s49506/5761-1.html,S21
+T0266,Y0172,M034,G039,China,2021,DM-i 110KM 旗舰型,,49507,standard,291,discontinued (停售),https://car.autohome.com.cn/pic/series-s49507/5761-1.html,S21
+T0267,Y0172,M034,G039,China,2021,DM-i 110KM 旗舰PLUS,,49508,standard,555,discontinued (停售),https://car.autohome.com.cn/pic/series-s49508/5761-1.html,S21
+T0268,Y0172,M034,G039,China,2021,DM-i 110KM 旗舰PLUS 5G版,,57112,standard,185,discontinued (停售),https://car.autohome.com.cn/pic/series-s57112/5761-1.html,S21
+T0269,Y0172,M034,G039,China,2021,DM-i 100KM 四驱旗舰PLUS,,53500,standard,110,discontinued (停售),https://car.autohome.com.cn/pic/series-s53500/5761-1.html,S21
+T0270,Y0173,M049,G055,China,2021,EV 尊贵型,,50586,standard,433,discontinued (停售),https://car.autohome.com.cn/pic/series-s50586/5761-1.html,S21
+T0271,Y0173,M049,G055,China,2021,EV 旗舰型,,45550,standard,216,discontinued (停售),https://car.autohome.com.cn/pic/series-s45550/5761-1.html,S21
+T0272,Y0174,M019,G021,China,2024,荣耀版 DM-i 55KM 尊贵型,,66738,standard,260,discontinued (停售),https://car.autohome.com.cn/pic/series-s66738/6337-1.html,S22
+T0273,Y0174,M019,G021,China,2024,荣耀版 DM-i 120KM 豪华型,,66739,standard,249,discontinued (停售),https://car.autohome.com.cn/pic/series-s66739/6337-1.html,S22
+T0274,Y0174,M019,G021,China,2024,荣耀版 DM-i 120KM 尊贵型,,66740,standard,196,discontinued (停售),https://car.autohome.com.cn/pic/series-s66740/6337-1.html,S22
+T0275,Y0174,M019,G021,China,2024,荣耀版 DM-i 120KM 尊荣型,,66741,standard,172,discontinued (停售),https://car.autohome.com.cn/pic/series-s66741/6337-1.html,S22
+T0276,Y0174,M019,G021,China,2024,荣耀版 DM-i 120KM 旗舰型,,66742,standard,194,discontinued (停售),https://car.autohome.com.cn/pic/series-s66742/6337-1.html,S22
+T0277,Y0174,M019,G021,China,2024,荣耀版 DM-i 55KM 豪华型,,66734,standard,421,discontinued (停售),https://car.autohome.com.cn/pic/series-s66734/6337-1.html,S22
+T0278,Y0175,M019,G021,China,2023,冠军版 DM-i 55KM 豪华型,,62917,standard,201,discontinued (停售),https://car.autohome.com.cn/pic/series-s62917/6337-1.html,S22
+T0279,Y0175,M019,G021,China,2023,冠军版 DM-i 55KM 尊贵型,,62918,standard,159,discontinued (停售),https://car.autohome.com.cn/pic/series-s62918/6337-1.html,S22
+T0280,Y0175,M019,G021,China,2023,冠军版 DM-i 120KM 豪华型,,64150,standard,152,discontinued (停售),https://car.autohome.com.cn/pic/series-s64150/6337-1.html,S22
+T0281,Y0175,M019,G021,China,2023,冠军版 DM-i 120KM 尊贵型,,62919,standard,329,discontinued (停售),https://car.autohome.com.cn/pic/series-s62919/6337-1.html,S22
+T0282,Y0175,M019,G021,China,2023,冠军版 DM-i 120KM 尊荣型,,62920,standard,198,discontinued (停售),https://car.autohome.com.cn/pic/series-s62920/6337-1.html,S22
+T0283,Y0175,M019,G021,China,2023,冠军版 DM-i 120KM 旗舰型,,62921,standard,207,discontinued (停售),https://car.autohome.com.cn/pic/series-s62921/6337-1.html,S22
+T0284,Y0026,M019,G021,China,2022,DM-i 55KM 舒适型,,55772,standard,175,discontinued (停售),https://car.autohome.com.cn/pic/series-s55772/6337-1.html,S22
+T0285,Y0026,M019,G021,China,2022,DM-i 55KM 豪华型,,55773,standard,162,discontinued (停售),https://car.autohome.com.cn/pic/series-s55773/6337-1.html,S22
+T0286,Y0026,M019,G021,China,2022,DM-i 55KM 尊贵型,,55774,standard,275,discontinued (停售),https://car.autohome.com.cn/pic/series-s55774/6337-1.html,S22
+T0287,Y0026,M019,G021,China,2022,DM-i 120KM 尊贵型,,55771,standard,175,discontinued (停售),https://car.autohome.com.cn/pic/series-s55771/6337-1.html,S22
+T0288,Y0026,M019,G021,China,2022,DM-i 120KM 旗舰型,,52587,standard,895,discontinued (停售),https://car.autohome.com.cn/pic/series-s52587/6337-1.html,S22
+T0289,Y0176,M019,G021,China,2025,DM-i 55KM 畅行版,,73236,standard,238,on sale per Autohome,https://car.autohome.com.cn/pic/series-s73236/6337-1.html,S22
+T0290,Y0176,M019,G021,China,2025,DM-i 120KM 畅行版,,73237,standard,163,on sale per Autohome,https://car.autohome.com.cn/pic/series-s73237/6337-1.html,S22
+T0291,Y0174,M019,G021,China,2024,DM-i 55KM 领航荣耀版,,69283,standard,248,on sale per Autohome,https://car.autohome.com.cn/pic/series-s69283/6337-1.html,S22
+T0292,Y0174,M019,G021,China,2024,DM-i 120KM 领航荣耀版,,69284,standard,170,on sale per Autohome,https://car.autohome.com.cn/pic/series-s69284/6337-1.html,S22
+T0293,Y0039,M027,G031,China,2023,舒适型,,62327,standard,185,discontinued (停售),https://car.autohome.com.cn/pic/series-s62327/5238-1.html,S23
+T0294,Y0039,M027,G031,China,2023,豪华型,,61270,standard,450,discontinued (停售),https://car.autohome.com.cn/pic/series-s61270/5238-1.html,S23
+T0295,Y0177,M027,G031,China,2021,出行版,,51405,standard,153,discontinued (停售),https://car.autohome.com.cn/pic/series-s51405/5238-1.html,S23
+T0296,Y0177,M027,G031,China,2021,标准型,,53581,standard,153,discontinued (停售),https://car.autohome.com.cn/pic/series-s53581/5238-1.html,S23
+T0297,Y0177,M027,G031,China,2021,舒适型,,50581,standard,152,discontinued (停售),https://car.autohome.com.cn/pic/series-s50581/5238-1.html,S23
+T0298,Y0177,M027,G031,China,2021,豪华型,,50512,standard,305,discontinued (停售),https://car.autohome.com.cn/pic/series-s50512/5238-1.html,S23
+T0299,Y0177,M027,G031,China,2021,尊贵型,,50582,standard,227,discontinued (停售),https://car.autohome.com.cn/pic/series-s50582/5238-1.html,S23
+T0300,Y0178,M027,G031,China,2020,升级版 标准续航版 标准型,,47235,standard,147,discontinued (停售),https://car.autohome.com.cn/pic/series-s47235/5238-1.html,S23
+T0301,Y0178,M027,G031,China,2020,升级版 标准续航版 舒适型,,47236,standard,122,discontinued (停售),https://car.autohome.com.cn/pic/series-s47236/5238-1.html,S23
+T0302,Y0178,M027,G031,China,2020,升级版 高续航版 豪华型,,47237,standard,378,discontinued (停售),https://car.autohome.com.cn/pic/series-s47237/5238-1.html,S23
+T0303,Y0178,M027,G031,China,2020,升级版 高续航版 尊贵型,,47238,standard,239,discontinued (停售),https://car.autohome.com.cn/pic/series-s47238/5238-1.html,S23
+T0304,Y0038,M027,G031,China,2019,试装车,,38727,pre_production_trial_fit,208,discontinued (停售),https://car.autohome.com.cn/pic/series-s38727/5238-1.html,S23
+T0305,Y0038,M027,G031,China,2019,标准续航版 悦·标准型,,41398,standard,173,discontinued (停售),https://car.autohome.com.cn/pic/series-s41398/5238-1.html,S23
+T0306,Y0038,M027,G031,China,2019,标准续航版 智·舒适型,,41095,standard,405,discontinued (停售),https://car.autohome.com.cn/pic/series-s41095/5238-1.html,S23
+T0307,Y0038,M027,G031,China,2019,高续航版 耀·豪华型,,41399,standard,176,discontinued (停售),https://car.autohome.com.cn/pic/series-s41399/5238-1.html,S23
+T0308,Y0038,M027,G031,China,2019,高续航版 创·尊贵型,,41158,standard,134,discontinued (停售),https://car.autohome.com.cn/pic/series-s41158/5238-1.html,S23
+T0309,Y0038,M027,G031,China,2019,400出行版,,41428,standard,120,discontinued (停售),https://car.autohome.com.cn/pic/series-s41428/5238-1.html,S23
+T0310,Y0179,M027,G031,China,2024,荣耀版 舒适型,,67156,standard,208,on sale per Autohome,https://car.autohome.com.cn/pic/series-s67156/5238-1.html,S23
+T0311,Y0179,M027,G031,China,2024,荣耀版 豪华型,,67157,standard,197,on sale per Autohome,https://car.autohome.com.cn/pic/series-s67157/5238-1.html,S23
+T0312,Y0039,M027,G031,China,2023,出行版,,63011,standard,165,on sale per Autohome,https://car.autohome.com.cn/pic/series-s63011/5238-1.html,S23

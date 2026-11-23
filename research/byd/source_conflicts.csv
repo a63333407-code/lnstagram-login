@@ -1,0 +1,13 @@
+subject,field,source_a,source_b,handling
+Han DM-i,start year,Wikipedia list page: intro 2020,Wikipedia Han article: DM-i introduced with April 2022 facelift; Autohome lists 2020款 as 'DM' (not DM-i),model_years row Han DM-i 2020 rests only on the list page; treat as doubtful
+Song Plus DM-i,start year,Wikipedia list page: intro 2020,Song Plus article: model Sep 2020 (petrol); DM-i on sale Mar 2021; Autohome DM-i starts 2021款,Song Plus DM-i 2020 rests only on the list page; treat as doubtful
+Yuan Plus 2026,generation number,Wikipedia list: 2nd generation (Atto 5),Sina/Autohome: 第三代元PLUS,Numbering differs by source; batch 2 keeps Wikipedia numbering and records the conflict
+Qin Plus DM-i 2026+,generation number,Wikipedia list: 2nd gen (HA3H),BYD official site: 第三代秦PLUS DM-i,Same as above; Autohome 2026款/2027款 assigned to 2nd gen by year (inferred)
+Seal,production end,"Wikipedia infobox: production to 2026, model years 2022-2025",Autohome lists 2025款 as last,Both recorded as text; no model-year 2026 created
+Dolphin,2025 facelift month,Wikipedia overview: March 2025,Wikipedia China section: February 2025,Recorded as 'Feb/Mar 2025'
+Seal (all markets),paint code for Atlantis Grey,"TouchUp Paint Factory: HB5 = Atlantis Grey, HB6 = Atlantis Grey MATT",Carross: HB6 = Atlantis Grey (listed with matt flag) for Seal 2022,Links to both HB5 and HB6 at 'low' confidence
+Atto 3 (Harbour Grey),paint code,Cartouch AU: Harbour Grey listed under HAN/HA4,Cartouch AU 2025: Harbour Grey also listed under HB5/HB6/H84C,Ambiguous; linked at 'low' confidence
+Grey group HAN,multi-name code,Suppliers list one code (HAN) for Boulder/Climbing/Urban/Dolphin/Beibei Grey; HA4 for Time Grey,"A vehicle label carries one code, so these names are probably different paints grouped by the retailer",Links to HAN are 'low'; do not import as OEM codes without label evidence
+Seal India colours,colour count,BYD India page (snippet): 5 colours incl. Shark Grey,Another India source: 4 colours without Shark Grey,Both kept; snippet-level
+Alias collisions (batch 1),export names,Qin L DM-i and Seal 06 DM-i both 'Seal 6 DM-i'; Destroyer 05 and Seal 05 DM-i both 'Seal 5 DM-i'/'King'; Dolphin and e2 both 'e2',n/a,Editor decision needed before import
+Paint label location,where to find code,"Colour Tubes: black label in driver door jamb (B-pillar), field 颜色/车身颜色 (Atto 3, Dolphin, Seal)",Autohome Q&A (weak): nameplate under bonnet marked 'paintcolor' or 'H/S',Door-jamb location has retailer support only; neither is OEM documentation

@@ -1,0 +1,7 @@
+brand_id,name,parent_brand_id
+B1,BYD Group (parent),
+B2,BYD,B1
+B3,Denza,B1
+B4,Yangwang,B1
+B5,Fangchengbao,B1
+B6,Linghui,B1
