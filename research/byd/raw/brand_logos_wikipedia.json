@@ -1,0 +1,68 @@
+[
+ {
+  "file": "File:BYD Company, Ltd. - Logo.svg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/BYD_Company%2C_Ltd._-_Logo.svg",
+  "width": 843,
+  "height": 510,
+  "repo": "shared",
+  "license": "Public domain",
+  "restrictions": "trademarked",
+  "artist": "FDRMRZUSA",
+  "desc_url": "https://en.wikipedia.org/wiki/File:BYD_Company,_Ltd._-_Logo.svg"
+ },
+ {
+  "file": "File:BYD Auto 2022 logo.svg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/BYD_Auto_2022_logo.svg",
+  "width": 1920,
+  "height": 480,
+  "repo": "shared",
+  "license": "Public domain",
+  "restrictions": "trademarked",
+  "artist": "BYD",
+  "desc_url": "https://en.wikipedia.org/wiki/File:BYD_Auto_2022_logo.svg"
+ },
+ {
+  "file": "File:Denza Logo.svg",
+  "url": "https://upload.wikimedia.org/wikipedia/en/0/06/Denza_Logo.svg",
+  "width": 186,
+  "height": 40,
+  "repo": "local",
+  "license": "Fair use",
+  "restrictions": "",
+  "artist": "",
+  "desc_url": "https://en.wikipedia.org/wiki/File:Denza_Logo.svg"
+ },
+ {
+  "file": "File:Fangchengbao logo.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Fangchengbao_logo.png",
+  "width": 500,
+  "height": 166,
+  "repo": "local",
+  "license": "PD",
+  "restrictions": "",
+  "artist": "BYD Auto",
+  "desc_url": "https://en.wikipedia.org/wiki/File:Fangchengbao_logo.png"
+ },
+ {
+  "file": "File:Yangwang logo.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Yangwang_logo.png",
+  "width": 1048,
+  "height": 524,
+  "repo": "local",
+  "license": "PD",
+  "restrictions": "trademarked",
+  "artist": "Yangwang Auto",
+  "desc_url": "https://en.wikipedia.org/wiki/File:Yangwang_logo.png"
+ },
+ {
+  "file": "File:Linghui logo.svg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Linghui_logo.svg",
+  "width": 70,
+  "height": 32,
+  "repo": "shared",
+  "license": "Public domain",
+  "restrictions": "",
+  "artist": "BYD Auto Industry Co., Ltd.",
+  "desc_url": "https://en.wikipedia.org/wiki/File:Linghui_logo.svg"
+ }
+]

@@ -1,0 +1,196 @@
+{
+ "reviewer": "Claude (model) viewing 400x300 thumbnails; NOT a human editor",
+ "method": "Contact sheets of colour-filtered exterior galleries (positions 1-8). Left/right read from nose direction: nose pointing left = left side visible. Pos 4 nose-left confirmed in 8 seven-photo galleries and in one eight-photo gallery (pos 8 nose-right).",
+ "standard_sequence": {
+  "1": "front_left_three_quarter",
+  "2": "front",
+  "3": "front_right_three_quarter",
+  "4": "left_side",
+  "5": "rear_left_three_quarter",
+  "6": "rear",
+  "7": "rear_right_three_quarter",
+  "8": "right_side (8-photo galleries only)"
+ },
+ "galleries": [
+  {
+   "series": "Seal",
+   "year": "2024款",
+   "spec_id": "67380",
+   "autohome_color_id": "10515",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Dolphin",
+   "year": "2025款",
+   "spec_id": "69005",
+   "autohome_color_id": "10387",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Yuan Plus",
+   "year": "2024款",
+   "spec_id": "66988",
+   "autohome_color_id": "9685",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Han",
+   "year": "2025款",
+   "spec_id": "71535",
+   "autohome_color_id": "7685",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Han",
+   "year": "2021款",
+   "spec_id": "52453",
+   "autohome_color_id": "7686",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Qin Plus",
+   "year": "2026款",
+   "spec_id": "76199",
+   "autohome_color_id": "6311",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "e2",
+   "year": "2019款",
+   "spec_id": "41399",
+   "autohome_color_id": "4936",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Han",
+   "year": "2025款",
+   "spec_id": "69142",
+   "autohome_color_id": "12801",
+   "photos_seen": 16,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Yuan Plus",
+   "year": "2025款",
+   "spec_id": "72031",
+   "autohome_color_id": "9684",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Song Plus",
+   "year": "2025款",
+   "spec_id": "72520",
+   "autohome_color_id": "6311",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Seal",
+   "year": "2025款",
+   "spec_id": "69393",
+   "autohome_color_id": "7685",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Dolphin",
+   "year": "2023款",
+   "spec_id": "61095",
+   "autohome_color_id": "10387",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Destroyer 05",
+   "year": "2022款",
+   "spec_id": "55771",
+   "autohome_color_id": "7686",
+   "photos_seen": 5,
+   "result": "irregular",
+   "note": "showroom shoot, 5 photos, different order"
+  },
+  {
+   "series": "Qin Plus",
+   "year": "2024款",
+   "spec_id": "66743",
+   "autohome_color_id": "6311",
+   "photos_seen": 8,
+   "result": "irregular",
+   "note": "showroom shoot, irregular order"
+  },
+  {
+   "series": "Seal",
+   "year": "2025款",
+   "spec_id": "71663",
+   "autohome_color_id": "7685",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Song Plus",
+   "year": "2021款",
+   "spec_id": "49506",
+   "autohome_color_id": "7686",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Destroyer 05",
+   "year": "2022款",
+   "spec_id": "55772",
+   "autohome_color_id": "7686",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "Yuan Plus",
+   "year": "2024款",
+   "spec_id": "66992",
+   "autohome_color_id": "9684",
+   "photos_seen": 0,
+   "result": "empty_gallery_on_review",
+   "note": "colour page returned no photos when sampled"
+  },
+  {
+   "series": "Seagull",
+   "year": "2026款",
+   "spec_id": "77718",
+   "autohome_color_id": "11216",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "series": "e2",
+   "year": "2024款",
+   "spec_id": "67157",
+   "autohome_color_id": "2856",
+   "photos_seen": 7,
+   "result": "irregular",
+   "note": "showroom shoot, last photo is a front 3/4 not a rear 3/4"
+  }
+ ]
+}
