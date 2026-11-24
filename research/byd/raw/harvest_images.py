@@ -19,7 +19,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 OUT = sys.argv[1]
 HERE = os.path.dirname(os.path.abspath(__file__))
-RAW = json.load(open(os.path.join(HERE, "autohome_specs.json"), encoding="utf-8"))
+RAW = json.load(open(os.environ.get("SPECS_JSON", os.path.join(HERE, "autohome_specs.json")), encoding="utf-8"))
 UA = "Mozilla/5.0"
 LOCK = threading.Lock()
 MAXPAGES = 12

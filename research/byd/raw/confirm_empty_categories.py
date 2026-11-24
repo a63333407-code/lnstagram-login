@@ -6,7 +6,7 @@ A 200 with photos would be flagged as a mismatch.   Usage: python3 confirm_empty
 import json, re, subprocess, sys, os, time, datetime
 from concurrent.futures import ThreadPoolExecutor
 D, OUT = sys.argv[1], sys.argv[2]; HERE = os.path.dirname(os.path.abspath(__file__))
-RAW = json.load(open(os.path.join(HERE, "autohome_specs.json"), encoding="utf-8")); EXP = json.load(open(os.path.join(D, "expected_counts.json"), encoding="utf-8"))
+RAW = json.load(open(os.environ.get("SPECS_JSON", os.path.join(HERE, "autohome_specs.json")), encoding="utf-8")); EXP = json.load(open(os.path.join(D, "expected_counts.json"), encoding="utf-8"))
 KEY = {"exterior": "1", "official": "53", "cockpit": "10", "seats": "3"}
 sid = {sp["spec_id"]: b["series_id"] for s, b in RAW.items() for sp in b["specs"]}
 now = lambda: datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")

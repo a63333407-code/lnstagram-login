@@ -5,7 +5,7 @@ Usage: python3 expected_counts.py <out_dir>   -> expected_counts.json  (failures
 import json, re, subprocess, sys, os, time
 from concurrent.futures import ThreadPoolExecutor
 OUT = sys.argv[1]; HERE = os.path.dirname(os.path.abspath(__file__))
-RAW = json.load(open(os.path.join(HERE, "autohome_specs.json"), encoding="utf-8"))
+RAW = json.load(open(os.environ.get("SPECS_JSON", os.path.join(HERE, "autohome_specs.json")), encoding="utf-8"))
 NAMES = {"车身外观": "exterior", "中控方向盘": "cockpit", "车厢座椅": "seats", "其它细节": "details", "官图": "official", "车展": "show"}
 def get(url):
     p = subprocess.run(["curl", "-sS", "-m", "40", "-A", "Mozilla/5.0", "-o", "-", "-w", "\n%{http_code}", url], capture_output=True)

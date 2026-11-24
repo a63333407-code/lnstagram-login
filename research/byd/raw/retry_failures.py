@@ -14,7 +14,7 @@ import json, re, subprocess, sys, os, time, html, datetime, collections
 from concurrent.futures import ThreadPoolExecutor
 D = sys.argv[1]; ROUND = sys.argv[2] if len(sys.argv) > 2 else "1"
 HERE = os.path.dirname(os.path.abspath(__file__))
-RAW = json.load(open(os.path.join(HERE, "autohome_specs.json"), encoding="utf-8"))
+RAW = json.load(open(os.environ.get("SPECS_JSON", os.path.join(HERE, "autohome_specs.json")), encoding="utf-8"))
 EXP = json.load(open(os.path.join(D, "expected_counts.json"), encoding="utf-8"))
 LI = re.compile(r'<li><a href="(https://www\.autohome\.com\.cn/cars/imgs-[^"]*?/(\d+)\.html)[^"]*"[^>]*>\s*<img([^>]*)>', re.S)
 CATKEY = {"exterior": "1", "official": "53", "cockpit": "10", "seats": "3"}

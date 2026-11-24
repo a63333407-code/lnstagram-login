@@ -1,0 +1,9 @@
+model_id,brand_id,series,model_key,name_zh,alt_names,powertrain,source_id,discovered_note
+M130,B2,Dynasty,Tang DM-p,,,PHEV,,Autohome 唐 series has DM-p trims; no row in the Wikipedia list
+M131,B2,Dynasty,"e9 (BYD brand, 2021)",,,BEV,,Autohome 比亚迪e9 (2021-2025) predates the Linghui e9 (2026) list row; kept separate to avoid a wrong association
+M132,B2,Dynasty,Song Pro EV,,,BEV,,Autohome 宋Pro新能源 EV trims; no row in the list
+M133,B2,Dynasty,Song Plus (ICE),,,ICE,,Autohome 宋PLUS (5760) is the 2020 petrol Song Plus; list rows cover DM-i/EV only
+M134,B2,Dynasty,Song Pro (ICE),,,ICE,,Autohome 宋Pro (5178) petrol; list row 'Song Pro' is PHEV
+M135,B2,Dynasty,Tang (ICE),,,ICE,,Autohome 唐 (4802) is the 2018-2021 petrol Tang; no row in the Wikipedia list
+M136,B4,,U9 Xtreme,,,BEV,,Autohome 仰望U9 Xtreme is its own series; no row in the list
+M137,B5,,Ti6,,,,,"Autohome 钛6 (1 trim, 3 photos); no row in the list"

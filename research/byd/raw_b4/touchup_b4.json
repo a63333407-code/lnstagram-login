@@ -1,0 +1,1455 @@
+{
+ "model_pages": [
+  "all-models",
+  "atto-2",
+  "atto-3",
+  "dolphin",
+  "dolphin-surf",
+  "e2",
+  "fang-cheng-bao-5",
+  "fang-cheng-bao-8",
+  "fang-cheng-bao-ti3",
+  "han",
+  "king",
+  "m9",
+  "qin-l",
+  "qin-plus",
+  "seal",
+  "seal-07",
+  "seal-u",
+  "sealion-05-ev",
+  "sealion-7",
+  "shark",
+  "song-l",
+  "song-plus",
+  "song-pro",
+  "tang",
+  "tang-l",
+  "u9",
+  "xia"
+ ],
+ "rows": [
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "LAG;UA6",
+   "names_raw": "ADVENTURING GREEN, EXPLORATION GREEN, EXPLORING GREEN",
+   "swatch_hex": "#abd190",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/adventuring-green-exploration-green-exploring-green-lag-ua6/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "KW",
+   "names_raw": "AFTERGLOW PINK, CORAL PINK, POOPS PINK, PUPU PINK",
+   "swatch_hex": "#bbaeb4",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/afterglow-pink-coral-pink-poops-pink-pupu-pink-kw/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "LAL",
+   "names_raw": "AI BLUE, WISDOM BLUE",
+   "swatch_hex": "#00187a",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/ai-blue-wisdom-blue-lal/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "UA5",
+   "names_raw": "ALAMO CYAN, SPROUT GREEN, LIME GREEN",
+   "swatch_hex": "#d6de70",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/alamo-cyan-sprout-green-lime-green-ua5/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "CA2",
+   "names_raw": "AMETHYST PURPLE",
+   "swatch_hex": "#a59fc7",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/amethyst-purple-ca2/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "BYHA-00002;HBG;YB9",
+   "names_raw": "APRICITY WHITE, LISBON SUNSHINE, LISBON WARM WHITE, TEA BEIGE, WARM WHITE",
+   "swatch_hex": "#aca899",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/apricity-white-lisbon-sunshine-lisbon-warm-white-tea-beige-warm-white-byha-00002-hbg-yb9/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "LAT",
+   "names_raw": "ARCTIC BLUE, AZUL GLACIER, GLACIER BLUE, ICE BLUE, MERCURY BLUE",
+   "swatch_hex": "#bcbdc5",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/arctic-blue-azul-glacier-glacier-blue-ice-blue-mercury-blue-lat/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "CA7",
+   "names_raw": "ARGYLE PURPLE",
+   "swatch_hex": "#928c9c",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/argyle-purple-ca7/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "HB6",
+   "names_raw": "ATLANTIS GREY MATT",
+   "swatch_hex": "#738291",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/atlantis-grey-matt-hb6/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "HB5",
+   "names_raw": "ATLANTIS GREY, DEEP SEA BLUE",
+   "swatch_hex": "#829199",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/atlantis-grey-deep-sea-blue-hb5/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "LAN",
+   "names_raw": "AZUL SKY, CERULEAN BLUE, DOME BLUE, SKY BLUE",
+   "swatch_hex": "#a0d4eb",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/azul-sky-cerulean-blue-dome-blue-sky-blue-lan/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "LAP",
+   "names_raw": "AZUL SURFING, SURF BLUE, SURFING BLUE",
+   "swatch_hex": "#1364ab",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/azul-surfing-surf-blue-surfing-blue-lap/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "LAQ;RA5",
+   "names_raw": "BLUSH RED, PARKOUR RED",
+   "swatch_hex": "#800000",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/blush-red-parkour-red-laq-ra5/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "HAN",
+   "names_raw": "BOULDER GREY, CINZA BEIBEI, CINZA BOULDER GRAY, CLIMBING GREY, DOLPHIN GREY, URBAN GREY",
+   "swatch_hex": "#a0a0a0",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/boulder-grey-cinza-beibei-cinza-boulder-gray-climbing-grey-dolphin-grey-urban-grey-han/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "HAZ",
+   "names_raw": "BOUNDLESS CLOUD, HAZY GREY, SMOKE GREY",
+   "swatch_hex": "#b3aca8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/boundless-cloud-hazy-grey-smoke-grey-haz/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "WAC",
+   "names_raw": "BRIGHT SILVER, DODO WHITE, DOODLE WHITE, SAND WHITE, SKI WHITE, SKIING WHITE",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-silver-dodo-white-doodle-white-sand-white-ski-white-skiing-white-wac/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "YB1",
+   "names_raw": "CHEESE YELLOW, CREAM WHITE",
+   "swatch_hex": "#dcdbd1",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cheese-yellow-cream-white-yb1/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "HB4",
+   "names_raw": "CINZA DE ALECRIM, INDIGO GREY, ROSEMARY GREY, SHARK GREY",
+   "swatch_hex": "#a7a7a7",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cinza-de-alecrim-indigo-grey-rosemary-grey-shark-grey-hb4/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "BYM;DN",
+   "names_raw": "CINZA MOUNTAIN, MOUNTAIN GREY",
+   "swatch_hex": "#787878",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cinza-mountain-mountain-grey-bym-dn/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "00AN;AA1",
+   "names_raw": "COSMOS BLACK, SPACE BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cosmos-black-space-black-00an-aa1/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "UY",
+   "names_raw": "COURTYARD GREEN, SHADOW GREEN, VERDE ERVA",
+   "swatch_hex": "#798682",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/courtyard-green-shadow-green-verde-erva-uy/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "JM",
+   "names_raw": "CYBERLIGHT GOLD",
+   "swatch_hex": "#ada892",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cyberlight-gold-jm/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "B1;B7822;DBU",
+   "names_raw": "DELAN BLACK, JET BLACK, POLAR NIGHT BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/delan-black-jet-black-polar-night-black-b1-b7822-dbu/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "BYC;K7",
+   "names_raw": "EMPEROR RED, EMPIRE RED, IMPERIAL RED",
+   "swatch_hex": "#a81308",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/emperor-red-empire-red-imperial-red-byc-k7/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "HCJ",
+   "names_raw": "HIKING GREEN, MIST GREY, URDU MISTY GREEN",
+   "swatch_hex": "#b0c4a3",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/hiking-green-mist-grey-urdu-misty-green-hcj/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "YAK",
+   "names_raw": "HONEY ORANGE",
+   "swatch_hex": "#fc4800",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/honey-orange-yak/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "FM",
+   "names_raw": "INKSTICK BLUE, STONY BLUE",
+   "swatch_hex": "#04307d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/inkstick-blue-stony-blue-fm/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "HDC",
+   "names_raw": "KILN GREY",
+   "swatch_hex": "#7d8579",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/kiln-grey-hdc/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "AAP",
+   "names_raw": "OBSIDIAN BLACK, TIDAL BLACK",
+   "swatch_hex": "#313131",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/obsidian-black-tidal-black-aap/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "RA6",
+   "names_raw": "PEACH PINK, VALENCIA ROSE",
+   "swatch_hex": "#db7280",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/peach-pink-valencia-rose-ra6/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "A3",
+   "names_raw": "PRETO SAND BLACK, SILVER SAND BLACK",
+   "swatch_hex": "#4d4d4d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/preto-sand-black-silver-sand-black-a3/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "SSL;UT",
+   "names_raw": "RUSTLE GREEN",
+   "swatch_hex": "#c5e090",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/rustle-green-ssl-ut/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "LBW",
+   "names_raw": "SHADOW CYAN",
+   "swatch_hex": "#769ca8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/shadow-cyan-lbw/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "UV",
+   "names_raw": "SKY BLUE",
+   "swatch_hex": "#a0d4eb",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/sky-blue-uv/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "BYL;F2",
+   "names_raw": "SKY BLUE, FIRMAMENT BLUE",
+   "swatch_hex": "#a0d4eb",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/sky-blue-firmament-blue-byl-f2/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "HDT",
+   "names_raw": "STARRY GREY",
+   "swatch_hex": "#666666",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/starry-grey-hdt/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "HA4",
+   "names_raw": "TIME GREY",
+   "swatch_hex": "#A8A8A8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/time-grey-ha4/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "CA3",
+   "names_raw": "WINE RED",
+   "swatch_hex": "#940f00",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/wine-red-ca3/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "all-models",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/all-models/",
+   "code_raw": "UB9",
+   "names_raw": "WINTER CYAN, WINTER TEAL",
+   "swatch_hex": "#a7a7a7",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/winter-cyan-winter-teal-ub9/",
+   "fetched_utc": "2026-11-24T01:52:42Z"
+  },
+  {
+   "model_slug": "atto-2",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/atto-2/",
+   "code_raw": "KW",
+   "names_raw": "AFTERGLOW PINK, CORAL PINK, POOPS PINK, PUPU PINK",
+   "swatch_hex": "#bbaeb4",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/afterglow-pink-coral-pink-poops-pink-pupu-pink-kw/",
+   "fetched_utc": "2026-11-24T01:52:44Z"
+  },
+  {
+   "model_slug": "atto-2",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/atto-2/",
+   "code_raw": "HAN",
+   "names_raw": "BOULDER GREY, CINZA BEIBEI, CINZA BOULDER GRAY, CLIMBING GREY, DOLPHIN GREY, URBAN GREY",
+   "swatch_hex": "#a0a0a0",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/boulder-grey-cinza-beibei-cinza-boulder-gray-climbing-grey-dolphin-grey-urban-grey-han/",
+   "fetched_utc": "2026-11-24T01:52:44Z"
+  },
+  {
+   "model_slug": "atto-2",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/atto-2/",
+   "code_raw": "WAC",
+   "names_raw": "BRIGHT SILVER, DODO WHITE, DOODLE WHITE, SAND WHITE, SKI WHITE, SKIING WHITE",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-silver-dodo-white-doodle-white-sand-white-ski-white-skiing-white-wac/",
+   "fetched_utc": "2026-11-24T01:52:44Z"
+  },
+  {
+   "model_slug": "atto-2",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/atto-2/",
+   "code_raw": "00AN;AA1",
+   "names_raw": "COSMOS BLACK, SPACE BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cosmos-black-space-black-00an-aa1/",
+   "fetched_utc": "2026-11-24T01:52:44Z"
+  },
+  {
+   "model_slug": "atto-2",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/atto-2/",
+   "code_raw": "HCJ",
+   "names_raw": "HIKING GREEN, MIST GREY, URDU MISTY GREEN",
+   "swatch_hex": "#b0c4a3",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/hiking-green-mist-grey-urdu-misty-green-hcj/",
+   "fetched_utc": "2026-11-24T01:52:44Z"
+  },
+  {
+   "model_slug": "atto-3",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/atto-3/",
+   "code_raw": "LAG;UA6",
+   "names_raw": "ADVENTURING GREEN, EXPLORATION GREEN, EXPLORING GREEN",
+   "swatch_hex": "#abd190",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/adventuring-green-exploration-green-exploring-green-lag-ua6/",
+   "fetched_utc": "2026-11-24T01:52:46Z"
+  },
+  {
+   "model_slug": "atto-3",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/atto-3/",
+   "code_raw": "LAP",
+   "names_raw": "AZUL SURFING, SURF BLUE, SURFING BLUE",
+   "swatch_hex": "#1364ab",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/azul-surfing-surf-blue-surfing-blue-lap/",
+   "fetched_utc": "2026-11-24T01:52:46Z"
+  },
+  {
+   "model_slug": "atto-3",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/atto-3/",
+   "code_raw": "LAQ;RA5",
+   "names_raw": "BLUSH RED, PARKOUR RED",
+   "swatch_hex": "#800000",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/blush-red-parkour-red-laq-ra5/",
+   "fetched_utc": "2026-11-24T01:52:46Z"
+  },
+  {
+   "model_slug": "atto-3",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/atto-3/",
+   "code_raw": "HAN",
+   "names_raw": "BOULDER GREY, CINZA BEIBEI, CINZA BOULDER GRAY, CLIMBING GREY, DOLPHIN GREY, URBAN GREY",
+   "swatch_hex": "#a0a0a0",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/boulder-grey-cinza-beibei-cinza-boulder-gray-climbing-grey-dolphin-grey-urban-grey-han/",
+   "fetched_utc": "2026-11-24T01:52:46Z"
+  },
+  {
+   "model_slug": "atto-3",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/atto-3/",
+   "code_raw": "WAC",
+   "names_raw": "BRIGHT SILVER, DODO WHITE, DOODLE WHITE, SAND WHITE, SKI WHITE, SKIING WHITE",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-silver-dodo-white-doodle-white-sand-white-ski-white-skiing-white-wac/",
+   "fetched_utc": "2026-11-24T01:52:46Z"
+  },
+  {
+   "model_slug": "atto-3",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/atto-3/",
+   "code_raw": "HA4",
+   "names_raw": "TIME GREY",
+   "swatch_hex": "#A8A8A8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/time-grey-ha4/",
+   "fetched_utc": "2026-11-24T01:52:46Z"
+  },
+  {
+   "model_slug": "dolphin",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin/",
+   "code_raw": "KW",
+   "names_raw": "AFTERGLOW PINK, CORAL PINK, POOPS PINK, PUPU PINK",
+   "swatch_hex": "#bbaeb4",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/afterglow-pink-coral-pink-poops-pink-pupu-pink-kw/",
+   "fetched_utc": "2026-11-24T01:52:48Z"
+  },
+  {
+   "model_slug": "dolphin",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin/",
+   "code_raw": "UA5",
+   "names_raw": "ALAMO CYAN, SPROUT GREEN, LIME GREEN",
+   "swatch_hex": "#d6de70",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/alamo-cyan-sprout-green-lime-green-ua5/",
+   "fetched_utc": "2026-11-24T01:52:48Z"
+  },
+  {
+   "model_slug": "dolphin",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin/",
+   "code_raw": "CA2",
+   "names_raw": "AMETHYST PURPLE",
+   "swatch_hex": "#a59fc7",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/amethyst-purple-ca2/",
+   "fetched_utc": "2026-11-24T01:52:48Z"
+  },
+  {
+   "model_slug": "dolphin",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin/",
+   "code_raw": "BYHA-00002;HBG;YB9",
+   "names_raw": "APRICITY WHITE, LISBON SUNSHINE, LISBON WARM WHITE, TEA BEIGE, WARM WHITE",
+   "swatch_hex": "#aca899",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/apricity-white-lisbon-sunshine-lisbon-warm-white-tea-beige-warm-white-byha-00002-hbg-yb9/",
+   "fetched_utc": "2026-11-24T01:52:48Z"
+  },
+  {
+   "model_slug": "dolphin",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin/",
+   "code_raw": "HB5",
+   "names_raw": "ATLANTIS GREY, DEEP SEA BLUE",
+   "swatch_hex": "#829199",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/atlantis-grey-deep-sea-blue-hb5/",
+   "fetched_utc": "2026-11-24T01:52:48Z"
+  },
+  {
+   "model_slug": "dolphin",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin/",
+   "code_raw": "LAP",
+   "names_raw": "AZUL SURFING, SURF BLUE, SURFING BLUE",
+   "swatch_hex": "#1364ab",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/azul-surfing-surf-blue-surfing-blue-lap/",
+   "fetched_utc": "2026-11-24T01:52:48Z"
+  },
+  {
+   "model_slug": "dolphin",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin/",
+   "code_raw": "HAN",
+   "names_raw": "BOULDER GREY, CINZA BEIBEI, CINZA BOULDER GRAY, CLIMBING GREY, DOLPHIN GREY, URBAN GREY",
+   "swatch_hex": "#a0a0a0",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/boulder-grey-cinza-beibei-cinza-boulder-gray-climbing-grey-dolphin-grey-urban-grey-han/",
+   "fetched_utc": "2026-11-24T01:52:48Z"
+  },
+  {
+   "model_slug": "dolphin",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin/",
+   "code_raw": "WAC",
+   "names_raw": "BRIGHT SILVER, DODO WHITE, DOODLE WHITE, SAND WHITE, SKI WHITE, SKIING WHITE",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-silver-dodo-white-doodle-white-sand-white-ski-white-skiing-white-wac/",
+   "fetched_utc": "2026-11-24T01:52:48Z"
+  },
+  {
+   "model_slug": "dolphin",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin/",
+   "code_raw": "YB1",
+   "names_raw": "CHEESE YELLOW, CREAM WHITE",
+   "swatch_hex": "#dcdbd1",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cheese-yellow-cream-white-yb1/",
+   "fetched_utc": "2026-11-24T01:52:48Z"
+  },
+  {
+   "model_slug": "dolphin",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin/",
+   "code_raw": "B1;B7822;DBU",
+   "names_raw": "DELAN BLACK, JET BLACK, POLAR NIGHT BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/delan-black-jet-black-polar-night-black-b1-b7822-dbu/",
+   "fetched_utc": "2026-11-24T01:52:48Z"
+  },
+  {
+   "model_slug": "dolphin",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin/",
+   "code_raw": "YAK",
+   "names_raw": "HONEY ORANGE",
+   "swatch_hex": "#fc4800",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/honey-orange-yak/",
+   "fetched_utc": "2026-11-24T01:52:48Z"
+  },
+  {
+   "model_slug": "dolphin",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin/",
+   "code_raw": "SSL;UT",
+   "names_raw": "RUSTLE GREEN",
+   "swatch_hex": "#c5e090",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/rustle-green-ssl-ut/",
+   "fetched_utc": "2026-11-24T01:52:48Z"
+  },
+  {
+   "model_slug": "dolphin-surf",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin-surf/",
+   "code_raw": "UA5",
+   "names_raw": "ALAMO CYAN, SPROUT GREEN, LIME GREEN",
+   "swatch_hex": "#d6de70",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/alamo-cyan-sprout-green-lime-green-ua5/",
+   "fetched_utc": "2026-11-24T01:52:50Z"
+  },
+  {
+   "model_slug": "dolphin-surf",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin-surf/",
+   "code_raw": "BYHA-00002;HBG;YB9",
+   "names_raw": "APRICITY WHITE, LISBON SUNSHINE, LISBON WARM WHITE, TEA BEIGE, WARM WHITE",
+   "swatch_hex": "#aca899",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/apricity-white-lisbon-sunshine-lisbon-warm-white-tea-beige-warm-white-byha-00002-hbg-yb9/",
+   "fetched_utc": "2026-11-24T01:52:50Z"
+  },
+  {
+   "model_slug": "dolphin-surf",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin-surf/",
+   "code_raw": "LAT",
+   "names_raw": "ARCTIC BLUE, AZUL GLACIER, GLACIER BLUE, ICE BLUE, MERCURY BLUE",
+   "swatch_hex": "#bcbdc5",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/arctic-blue-azul-glacier-glacier-blue-ice-blue-mercury-blue-lat/",
+   "fetched_utc": "2026-11-24T01:52:50Z"
+  },
+  {
+   "model_slug": "dolphin-surf",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin-surf/",
+   "code_raw": "B1;B7822;DBU",
+   "names_raw": "DELAN BLACK, JET BLACK, POLAR NIGHT BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/delan-black-jet-black-polar-night-black-b1-b7822-dbu/",
+   "fetched_utc": "2026-11-24T01:52:50Z"
+  },
+  {
+   "model_slug": "dolphin-surf",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/dolphin-surf/",
+   "code_raw": "RA6",
+   "names_raw": "PEACH PINK, VALENCIA ROSE",
+   "swatch_hex": "#db7280",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/peach-pink-valencia-rose-ra6/",
+   "fetched_utc": "2026-11-24T01:52:50Z"
+  },
+  {
+   "model_slug": "e2",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/e2/",
+   "code_raw": "BYL;F2",
+   "names_raw": "SKY BLUE, FIRMAMENT BLUE",
+   "swatch_hex": "#a0d4eb",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/sky-blue-firmament-blue-byl-f2/",
+   "fetched_utc": "2026-11-24T01:52:52Z"
+  },
+  {
+   "model_slug": "e2",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/e2/",
+   "code_raw": "HA4",
+   "names_raw": "TIME GREY",
+   "swatch_hex": "#A8A8A8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/time-grey-ha4/",
+   "fetched_utc": "2026-11-24T01:52:52Z"
+  },
+  {
+   "model_slug": "fang-cheng-bao-5",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/fang-cheng-bao-5/",
+   "code_raw": "HCJ",
+   "names_raw": "HIKING GREEN, MIST GREY, URDU MISTY GREEN",
+   "swatch_hex": "#b0c4a3",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/hiking-green-mist-grey-urdu-misty-green-hcj/",
+   "fetched_utc": "2026-11-24T01:52:54Z"
+  },
+  {
+   "model_slug": "fang-cheng-bao-8",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/fang-cheng-bao-8/",
+   "code_raw": "JM",
+   "names_raw": "CYBERLIGHT GOLD",
+   "swatch_hex": "#ada892",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cyberlight-gold-jm/",
+   "fetched_utc": "2026-11-24T01:52:56Z"
+  },
+  {
+   "model_slug": "fang-cheng-bao-ti3",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/fang-cheng-bao-ti3/",
+   "code_raw": "BYHA-00002;HBG;YB9",
+   "names_raw": "APRICITY WHITE, LISBON SUNSHINE, LISBON WARM WHITE, TEA BEIGE, WARM WHITE",
+   "swatch_hex": "#aca899",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/apricity-white-lisbon-sunshine-lisbon-warm-white-tea-beige-warm-white-byha-00002-hbg-yb9/",
+   "fetched_utc": "2026-11-24T01:52:57Z"
+  },
+  {
+   "model_slug": "han",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/han/",
+   "code_raw": "LAL",
+   "names_raw": "AI BLUE, WISDOM BLUE",
+   "swatch_hex": "#00187a",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/ai-blue-wisdom-blue-lal/",
+   "fetched_utc": "2026-11-24T01:52:59Z"
+  },
+  {
+   "model_slug": "han",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/han/",
+   "code_raw": "LAN",
+   "names_raw": "AZUL SKY, CERULEAN BLUE, DOME BLUE, SKY BLUE",
+   "swatch_hex": "#a0d4eb",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/azul-sky-cerulean-blue-dome-blue-sky-blue-lan/",
+   "fetched_utc": "2026-11-24T01:52:59Z"
+  },
+  {
+   "model_slug": "han",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/han/",
+   "code_raw": "WAC",
+   "names_raw": "BRIGHT SILVER, DODO WHITE, DOODLE WHITE, SAND WHITE, SKI WHITE, SKIING WHITE",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-silver-dodo-white-doodle-white-sand-white-ski-white-skiing-white-wac/",
+   "fetched_utc": "2026-11-24T01:52:59Z"
+  },
+  {
+   "model_slug": "han",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/han/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:52:59Z"
+  },
+  {
+   "model_slug": "han",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/han/",
+   "code_raw": "00AN;AA1",
+   "names_raw": "COSMOS BLACK, SPACE BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cosmos-black-space-black-00an-aa1/",
+   "fetched_utc": "2026-11-24T01:52:59Z"
+  },
+  {
+   "model_slug": "han",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/han/",
+   "code_raw": "B1;B7822;DBU",
+   "names_raw": "DELAN BLACK, JET BLACK, POLAR NIGHT BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/delan-black-jet-black-polar-night-black-b1-b7822-dbu/",
+   "fetched_utc": "2026-11-24T01:52:59Z"
+  },
+  {
+   "model_slug": "han",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/han/",
+   "code_raw": "BYC;K7",
+   "names_raw": "EMPEROR RED, EMPIRE RED, IMPERIAL RED",
+   "swatch_hex": "#a81308",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/emperor-red-empire-red-imperial-red-byc-k7/",
+   "fetched_utc": "2026-11-24T01:52:59Z"
+  },
+  {
+   "model_slug": "han",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/han/",
+   "code_raw": "HDC",
+   "names_raw": "KILN GREY",
+   "swatch_hex": "#7d8579",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/kiln-grey-hdc/",
+   "fetched_utc": "2026-11-24T01:52:59Z"
+  },
+  {
+   "model_slug": "han",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/han/",
+   "code_raw": "UV",
+   "names_raw": "SKY BLUE",
+   "swatch_hex": "#a0d4eb",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/sky-blue-uv/",
+   "fetched_utc": "2026-11-24T01:52:59Z"
+  },
+  {
+   "model_slug": "han",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/han/",
+   "code_raw": "HA4",
+   "names_raw": "TIME GREY",
+   "swatch_hex": "#A8A8A8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/time-grey-ha4/",
+   "fetched_utc": "2026-11-24T01:52:59Z"
+  },
+  {
+   "model_slug": "han",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/han/",
+   "code_raw": "UB9",
+   "names_raw": "WINTER CYAN, WINTER TEAL",
+   "swatch_hex": "#a7a7a7",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/winter-cyan-winter-teal-ub9/",
+   "fetched_utc": "2026-11-24T01:52:59Z"
+  },
+  {
+   "model_slug": "king",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/king/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:01Z"
+  },
+  {
+   "model_slug": "king",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/king/",
+   "code_raw": "00AN;AA1",
+   "names_raw": "COSMOS BLACK, SPACE BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cosmos-black-space-black-00an-aa1/",
+   "fetched_utc": "2026-11-24T01:53:01Z"
+  },
+  {
+   "model_slug": "king",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/king/",
+   "code_raw": "FM",
+   "names_raw": "INKSTICK BLUE, STONY BLUE",
+   "swatch_hex": "#04307d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/inkstick-blue-stony-blue-fm/",
+   "fetched_utc": "2026-11-24T01:53:01Z"
+  },
+  {
+   "model_slug": "king",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/king/",
+   "code_raw": "HA4",
+   "names_raw": "TIME GREY",
+   "swatch_hex": "#A8A8A8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/time-grey-ha4/",
+   "fetched_utc": "2026-11-24T01:53:01Z"
+  },
+  {
+   "model_slug": "m9",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/m9/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:03Z"
+  },
+  {
+   "model_slug": "m9",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/m9/",
+   "code_raw": "00AN;AA1",
+   "names_raw": "COSMOS BLACK, SPACE BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cosmos-black-space-black-00an-aa1/",
+   "fetched_utc": "2026-11-24T01:53:03Z"
+  },
+  {
+   "model_slug": "qin-l",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/qin-l/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:05Z"
+  },
+  {
+   "model_slug": "qin-l",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/qin-l/",
+   "code_raw": "HDC",
+   "names_raw": "KILN GREY",
+   "swatch_hex": "#7d8579",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/kiln-grey-hdc/",
+   "fetched_utc": "2026-11-24T01:53:05Z"
+  },
+  {
+   "model_slug": "qin-plus",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/qin-plus/",
+   "code_raw": "BYHA-00002;HBG;YB9",
+   "names_raw": "APRICITY WHITE, LISBON SUNSHINE, LISBON WARM WHITE, TEA BEIGE, WARM WHITE",
+   "swatch_hex": "#aca899",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/apricity-white-lisbon-sunshine-lisbon-warm-white-tea-beige-warm-white-byha-00002-hbg-yb9/",
+   "fetched_utc": "2026-11-24T01:53:07Z"
+  },
+  {
+   "model_slug": "qin-plus",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/qin-plus/",
+   "code_raw": "HB5",
+   "names_raw": "ATLANTIS GREY, DEEP SEA BLUE",
+   "swatch_hex": "#829199",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/atlantis-grey-deep-sea-blue-hb5/",
+   "fetched_utc": "2026-11-24T01:53:07Z"
+  },
+  {
+   "model_slug": "qin-plus",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/qin-plus/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:07Z"
+  },
+  {
+   "model_slug": "qin-plus",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/qin-plus/",
+   "code_raw": "00AN;AA1",
+   "names_raw": "COSMOS BLACK, SPACE BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cosmos-black-space-black-00an-aa1/",
+   "fetched_utc": "2026-11-24T01:53:07Z"
+  },
+  {
+   "model_slug": "qin-plus",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/qin-plus/",
+   "code_raw": "BYC;K7",
+   "names_raw": "EMPEROR RED, EMPIRE RED, IMPERIAL RED",
+   "swatch_hex": "#a81308",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/emperor-red-empire-red-imperial-red-byc-k7/",
+   "fetched_utc": "2026-11-24T01:53:07Z"
+  },
+  {
+   "model_slug": "qin-plus",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/qin-plus/",
+   "code_raw": "FM",
+   "names_raw": "INKSTICK BLUE, STONY BLUE",
+   "swatch_hex": "#04307d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/inkstick-blue-stony-blue-fm/",
+   "fetched_utc": "2026-11-24T01:53:07Z"
+  },
+  {
+   "model_slug": "qin-plus",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/qin-plus/",
+   "code_raw": "LBW",
+   "names_raw": "SHADOW CYAN",
+   "swatch_hex": "#769ca8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/shadow-cyan-lbw/",
+   "fetched_utc": "2026-11-24T01:53:07Z"
+  },
+  {
+   "model_slug": "qin-plus",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/qin-plus/",
+   "code_raw": "HA4",
+   "names_raw": "TIME GREY",
+   "swatch_hex": "#A8A8A8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/time-grey-ha4/",
+   "fetched_utc": "2026-11-24T01:53:07Z"
+  },
+  {
+   "model_slug": "seal",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal/",
+   "code_raw": "BYHA-00002;HBG;YB9",
+   "names_raw": "APRICITY WHITE, LISBON SUNSHINE, LISBON WARM WHITE, TEA BEIGE, WARM WHITE",
+   "swatch_hex": "#aca899",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/apricity-white-lisbon-sunshine-lisbon-warm-white-tea-beige-warm-white-byha-00002-hbg-yb9/",
+   "fetched_utc": "2026-11-24T01:53:09Z"
+  },
+  {
+   "model_slug": "seal",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal/",
+   "code_raw": "LAT",
+   "names_raw": "ARCTIC BLUE, AZUL GLACIER, GLACIER BLUE, ICE BLUE, MERCURY BLUE",
+   "swatch_hex": "#bcbdc5",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/arctic-blue-azul-glacier-glacier-blue-ice-blue-mercury-blue-lat/",
+   "fetched_utc": "2026-11-24T01:53:09Z"
+  },
+  {
+   "model_slug": "seal",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal/",
+   "code_raw": "HB6",
+   "names_raw": "ATLANTIS GREY MATT",
+   "swatch_hex": "#738291",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/atlantis-grey-matt-hb6/",
+   "fetched_utc": "2026-11-24T01:53:09Z"
+  },
+  {
+   "model_slug": "seal",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal/",
+   "code_raw": "HB5",
+   "names_raw": "ATLANTIS GREY, DEEP SEA BLUE",
+   "swatch_hex": "#829199",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/atlantis-grey-deep-sea-blue-hb5/",
+   "fetched_utc": "2026-11-24T01:53:09Z"
+  },
+  {
+   "model_slug": "seal",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal/",
+   "code_raw": "HAZ",
+   "names_raw": "BOUNDLESS CLOUD, HAZY GREY, SMOKE GREY",
+   "swatch_hex": "#b3aca8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/boundless-cloud-hazy-grey-smoke-grey-haz/",
+   "fetched_utc": "2026-11-24T01:53:09Z"
+  },
+  {
+   "model_slug": "seal",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:09Z"
+  },
+  {
+   "model_slug": "seal",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal/",
+   "code_raw": "HB4",
+   "names_raw": "CINZA DE ALECRIM, INDIGO GREY, ROSEMARY GREY, SHARK GREY",
+   "swatch_hex": "#a7a7a7",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cinza-de-alecrim-indigo-grey-rosemary-grey-shark-grey-hb4/",
+   "fetched_utc": "2026-11-24T01:53:09Z"
+  },
+  {
+   "model_slug": "seal",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal/",
+   "code_raw": "00AN;AA1",
+   "names_raw": "COSMOS BLACK, SPACE BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cosmos-black-space-black-00an-aa1/",
+   "fetched_utc": "2026-11-24T01:53:09Z"
+  },
+  {
+   "model_slug": "seal",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal/",
+   "code_raw": "UY",
+   "names_raw": "COURTYARD GREEN, SHADOW GREEN, VERDE ERVA",
+   "swatch_hex": "#798682",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/courtyard-green-shadow-green-verde-erva-uy/",
+   "fetched_utc": "2026-11-24T01:53:09Z"
+  },
+  {
+   "model_slug": "seal",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal/",
+   "code_raw": "AAP",
+   "names_raw": "OBSIDIAN BLACK, TIDAL BLACK",
+   "swatch_hex": "#313131",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/obsidian-black-tidal-black-aap/",
+   "fetched_utc": "2026-11-24T01:53:09Z"
+  },
+  {
+   "model_slug": "seal",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal/",
+   "code_raw": "CA3",
+   "names_raw": "WINE RED",
+   "swatch_hex": "#940f00",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/wine-red-ca3/",
+   "fetched_utc": "2026-11-24T01:53:09Z"
+  },
+  {
+   "model_slug": "seal-07",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal-07/",
+   "code_raw": "BYHA-00002;HBG;YB9",
+   "names_raw": "APRICITY WHITE, LISBON SUNSHINE, LISBON WARM WHITE, TEA BEIGE, WARM WHITE",
+   "swatch_hex": "#aca899",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/apricity-white-lisbon-sunshine-lisbon-warm-white-tea-beige-warm-white-byha-00002-hbg-yb9/",
+   "fetched_utc": "2026-11-24T01:53:11Z"
+  },
+  {
+   "model_slug": "seal-07",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal-07/",
+   "code_raw": "HB5",
+   "names_raw": "ATLANTIS GREY, DEEP SEA BLUE",
+   "swatch_hex": "#829199",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/atlantis-grey-deep-sea-blue-hb5/",
+   "fetched_utc": "2026-11-24T01:53:11Z"
+  },
+  {
+   "model_slug": "seal-07",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal-07/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:11Z"
+  },
+  {
+   "model_slug": "seal-07",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal-07/",
+   "code_raw": "AAP",
+   "names_raw": "OBSIDIAN BLACK, TIDAL BLACK",
+   "swatch_hex": "#313131",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/obsidian-black-tidal-black-aap/",
+   "fetched_utc": "2026-11-24T01:53:11Z"
+  },
+  {
+   "model_slug": "seal-07",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal-07/",
+   "code_raw": "CA3",
+   "names_raw": "WINE RED",
+   "swatch_hex": "#940f00",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/wine-red-ca3/",
+   "fetched_utc": "2026-11-24T01:53:11Z"
+  },
+  {
+   "model_slug": "seal-u",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal-u/",
+   "code_raw": "LAN",
+   "names_raw": "AZUL SKY, CERULEAN BLUE, DOME BLUE, SKY BLUE",
+   "swatch_hex": "#a0d4eb",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/azul-sky-cerulean-blue-dome-blue-sky-blue-lan/",
+   "fetched_utc": "2026-11-24T01:53:13Z"
+  },
+  {
+   "model_slug": "seal-u",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal-u/",
+   "code_raw": "HAZ",
+   "names_raw": "BOUNDLESS CLOUD, HAZY GREY, SMOKE GREY",
+   "swatch_hex": "#b3aca8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/boundless-cloud-hazy-grey-smoke-grey-haz/",
+   "fetched_utc": "2026-11-24T01:53:13Z"
+  },
+  {
+   "model_slug": "seal-u",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal-u/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:13Z"
+  },
+  {
+   "model_slug": "seal-u",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal-u/",
+   "code_raw": "B1;B7822;DBU",
+   "names_raw": "DELAN BLACK, JET BLACK, POLAR NIGHT BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/delan-black-jet-black-polar-night-black-b1-b7822-dbu/",
+   "fetched_utc": "2026-11-24T01:53:13Z"
+  },
+  {
+   "model_slug": "seal-u",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal-u/",
+   "code_raw": "BYC;K7",
+   "names_raw": "EMPEROR RED, EMPIRE RED, IMPERIAL RED",
+   "swatch_hex": "#a81308",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/emperor-red-empire-red-imperial-red-byc-k7/",
+   "fetched_utc": "2026-11-24T01:53:13Z"
+  },
+  {
+   "model_slug": "seal-u",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal-u/",
+   "code_raw": "UV",
+   "names_raw": "SKY BLUE",
+   "swatch_hex": "#a0d4eb",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/sky-blue-uv/",
+   "fetched_utc": "2026-11-24T01:53:13Z"
+  },
+  {
+   "model_slug": "seal-u",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/seal-u/",
+   "code_raw": "HA4",
+   "names_raw": "TIME GREY",
+   "swatch_hex": "#A8A8A8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/time-grey-ha4/",
+   "fetched_utc": "2026-11-24T01:53:13Z"
+  },
+  {
+   "model_slug": "sealion-05-ev",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/sealion-05-ev/",
+   "code_raw": "BYHA-00002;HBG;YB9",
+   "names_raw": "APRICITY WHITE, LISBON SUNSHINE, LISBON WARM WHITE, TEA BEIGE, WARM WHITE",
+   "swatch_hex": "#aca899",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/apricity-white-lisbon-sunshine-lisbon-warm-white-tea-beige-warm-white-byha-00002-hbg-yb9/",
+   "fetched_utc": "2026-11-24T01:53:15Z"
+  },
+  {
+   "model_slug": "sealion-05-ev",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/sealion-05-ev/",
+   "code_raw": "HDC",
+   "names_raw": "KILN GREY",
+   "swatch_hex": "#7d8579",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/kiln-grey-hdc/",
+   "fetched_utc": "2026-11-24T01:53:15Z"
+  },
+  {
+   "model_slug": "sealion-7",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/sealion-7/",
+   "code_raw": "HB5",
+   "names_raw": "ATLANTIS GREY, DEEP SEA BLUE",
+   "swatch_hex": "#829199",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/atlantis-grey-deep-sea-blue-hb5/",
+   "fetched_utc": "2026-11-24T01:53:17Z"
+  },
+  {
+   "model_slug": "sealion-7",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/sealion-7/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:17Z"
+  },
+  {
+   "model_slug": "sealion-7",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/sealion-7/",
+   "code_raw": "HB4",
+   "names_raw": "CINZA DE ALECRIM, INDIGO GREY, ROSEMARY GREY, SHARK GREY",
+   "swatch_hex": "#a7a7a7",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cinza-de-alecrim-indigo-grey-rosemary-grey-shark-grey-hb4/",
+   "fetched_utc": "2026-11-24T01:53:17Z"
+  },
+  {
+   "model_slug": "sealion-7",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/sealion-7/",
+   "code_raw": "00AN;AA1",
+   "names_raw": "COSMOS BLACK, SPACE BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cosmos-black-space-black-00an-aa1/",
+   "fetched_utc": "2026-11-24T01:53:17Z"
+  },
+  {
+   "model_slug": "sealion-7",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/sealion-7/",
+   "code_raw": "B1;B7822;DBU",
+   "names_raw": "DELAN BLACK, JET BLACK, POLAR NIGHT BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/delan-black-jet-black-polar-night-black-b1-b7822-dbu/",
+   "fetched_utc": "2026-11-24T01:53:17Z"
+  },
+  {
+   "model_slug": "shark",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/shark/",
+   "code_raw": "HB5",
+   "names_raw": "ATLANTIS GREY, DEEP SEA BLUE",
+   "swatch_hex": "#829199",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/atlantis-grey-deep-sea-blue-hb5/",
+   "fetched_utc": "2026-11-24T01:53:19Z"
+  },
+  {
+   "model_slug": "shark",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/shark/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:19Z"
+  },
+  {
+   "model_slug": "shark",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/shark/",
+   "code_raw": "HCJ",
+   "names_raw": "HIKING GREEN, MIST GREY, URDU MISTY GREEN",
+   "swatch_hex": "#b0c4a3",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/hiking-green-mist-grey-urdu-misty-green-hcj/",
+   "fetched_utc": "2026-11-24T01:53:19Z"
+  },
+  {
+   "model_slug": "shark",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/shark/",
+   "code_raw": "AAP",
+   "names_raw": "OBSIDIAN BLACK, TIDAL BLACK",
+   "swatch_hex": "#313131",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/obsidian-black-tidal-black-aap/",
+   "fetched_utc": "2026-11-24T01:53:19Z"
+  },
+  {
+   "model_slug": "song-l",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-l/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:21Z"
+  },
+  {
+   "model_slug": "song-l",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-l/",
+   "code_raw": "HDC",
+   "names_raw": "KILN GREY",
+   "swatch_hex": "#7d8579",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/kiln-grey-hdc/",
+   "fetched_utc": "2026-11-24T01:53:21Z"
+  },
+  {
+   "model_slug": "song-plus",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-plus/",
+   "code_raw": "HAZ",
+   "names_raw": "BOUNDLESS CLOUD, HAZY GREY, SMOKE GREY",
+   "swatch_hex": "#b3aca8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/boundless-cloud-hazy-grey-smoke-grey-haz/",
+   "fetched_utc": "2026-11-24T01:53:22Z"
+  },
+  {
+   "model_slug": "song-plus",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-plus/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:22Z"
+  },
+  {
+   "model_slug": "song-plus",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-plus/",
+   "code_raw": "B1;B7822;DBU",
+   "names_raw": "DELAN BLACK, JET BLACK, POLAR NIGHT BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/delan-black-jet-black-polar-night-black-b1-b7822-dbu/",
+   "fetched_utc": "2026-11-24T01:53:22Z"
+  },
+  {
+   "model_slug": "song-plus",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-plus/",
+   "code_raw": "BYC;K7",
+   "names_raw": "EMPEROR RED, EMPIRE RED, IMPERIAL RED",
+   "swatch_hex": "#a81308",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/emperor-red-empire-red-imperial-red-byc-k7/",
+   "fetched_utc": "2026-11-24T01:53:22Z"
+  },
+  {
+   "model_slug": "song-plus",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-plus/",
+   "code_raw": "HA4",
+   "names_raw": "TIME GREY",
+   "swatch_hex": "#A8A8A8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/time-grey-ha4/",
+   "fetched_utc": "2026-11-24T01:53:22Z"
+  },
+  {
+   "model_slug": "song-pro",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-pro/",
+   "code_raw": "HB5",
+   "names_raw": "ATLANTIS GREY, DEEP SEA BLUE",
+   "swatch_hex": "#829199",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/atlantis-grey-deep-sea-blue-hb5/",
+   "fetched_utc": "2026-11-24T01:53:24Z"
+  },
+  {
+   "model_slug": "song-pro",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-pro/",
+   "code_raw": "LAN",
+   "names_raw": "AZUL SKY, CERULEAN BLUE, DOME BLUE, SKY BLUE",
+   "swatch_hex": "#a0d4eb",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/azul-sky-cerulean-blue-dome-blue-sky-blue-lan/",
+   "fetched_utc": "2026-11-24T01:53:24Z"
+  },
+  {
+   "model_slug": "song-pro",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-pro/",
+   "code_raw": "HAZ",
+   "names_raw": "BOUNDLESS CLOUD, HAZY GREY, SMOKE GREY",
+   "swatch_hex": "#b3aca8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/boundless-cloud-hazy-grey-smoke-grey-haz/",
+   "fetched_utc": "2026-11-24T01:53:24Z"
+  },
+  {
+   "model_slug": "song-pro",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-pro/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:24Z"
+  },
+  {
+   "model_slug": "song-pro",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-pro/",
+   "code_raw": "B1;B7822;DBU",
+   "names_raw": "DELAN BLACK, JET BLACK, POLAR NIGHT BLACK",
+   "swatch_hex": "#5d5d5d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/delan-black-jet-black-polar-night-black-b1-b7822-dbu/",
+   "fetched_utc": "2026-11-24T01:53:24Z"
+  },
+  {
+   "model_slug": "song-pro",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-pro/",
+   "code_raw": "LBW",
+   "names_raw": "SHADOW CYAN",
+   "swatch_hex": "#769ca8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/shadow-cyan-lbw/",
+   "fetched_utc": "2026-11-24T01:53:24Z"
+  },
+  {
+   "model_slug": "song-pro",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/song-pro/",
+   "code_raw": "HA4",
+   "names_raw": "TIME GREY",
+   "swatch_hex": "#A8A8A8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/time-grey-ha4/",
+   "fetched_utc": "2026-11-24T01:53:24Z"
+  },
+  {
+   "model_slug": "tang",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/tang/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:26Z"
+  },
+  {
+   "model_slug": "tang",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/tang/",
+   "code_raw": "BYM;DN",
+   "names_raw": "CINZA MOUNTAIN, MOUNTAIN GREY",
+   "swatch_hex": "#787878",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/cinza-mountain-mountain-grey-bym-dn/",
+   "fetched_utc": "2026-11-24T01:53:26Z"
+  },
+  {
+   "model_slug": "tang",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/tang/",
+   "code_raw": "BYC;K7",
+   "names_raw": "EMPEROR RED, EMPIRE RED, IMPERIAL RED",
+   "swatch_hex": "#a81308",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/emperor-red-empire-red-imperial-red-byc-k7/",
+   "fetched_utc": "2026-11-24T01:53:26Z"
+  },
+  {
+   "model_slug": "tang",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/tang/",
+   "code_raw": "FM",
+   "names_raw": "INKSTICK BLUE, STONY BLUE",
+   "swatch_hex": "#04307d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/inkstick-blue-stony-blue-fm/",
+   "fetched_utc": "2026-11-24T01:53:26Z"
+  },
+  {
+   "model_slug": "tang",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/tang/",
+   "code_raw": "HDC",
+   "names_raw": "KILN GREY",
+   "swatch_hex": "#7d8579",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/kiln-grey-hdc/",
+   "fetched_utc": "2026-11-24T01:53:26Z"
+  },
+  {
+   "model_slug": "tang",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/tang/",
+   "code_raw": "A3",
+   "names_raw": "PRETO SAND BLACK, SILVER SAND BLACK",
+   "swatch_hex": "#4d4d4d",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/preto-sand-black-silver-sand-black-a3/",
+   "fetched_utc": "2026-11-24T01:53:26Z"
+  },
+  {
+   "model_slug": "tang",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/tang/",
+   "code_raw": "HDT",
+   "names_raw": "STARRY GREY",
+   "swatch_hex": "#666666",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/starry-grey-hdt/",
+   "fetched_utc": "2026-11-24T01:53:26Z"
+  },
+  {
+   "model_slug": "tang-l",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/tang-l/",
+   "code_raw": "BYHB-00001;W36C;WA2;WA8",
+   "names_raw": "BRIGHT WHITE, GREAT WHITE, POLAR WHITE, SNOW WHITE, SNOWFIELD WHITE, SUMMIT WHITE, WHITE PEARL",
+   "swatch_hex": "#d8d8d8",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/bright-white-great-white-polar-white-snow-white-snowfield-white-summit-white-white-pearl-byhb-00001-w36c-wa2-wa8/",
+   "fetched_utc": "2026-11-24T01:53:28Z"
+  },
+  {
+   "model_slug": "u9",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/u9/",
+   "code_raw": "CA7",
+   "names_raw": "ARGYLE PURPLE",
+   "swatch_hex": "#928c9c",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/argyle-purple-ca7/",
+   "fetched_utc": "2026-11-24T01:53:30Z"
+  },
+  {
+   "model_slug": "xia",
+   "page_url": "https://touchuppaintfactory.com/brands/byd/xia/",
+   "code_raw": "HB5",
+   "names_raw": "ATLANTIS GREY, DEEP SEA BLUE",
+   "swatch_hex": "#829199",
+   "swatch_page_url": "https://touchuppaintfactory.com/brands/byd/atlantis-grey-deep-sea-blue-hb5/",
+   "fetched_utc": "2026-11-24T01:53:32Z"
+  }
+ ]
+}

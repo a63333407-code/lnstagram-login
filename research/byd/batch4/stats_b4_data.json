@@ -1,0 +1,65 @@
+{
+ "specs": 1094,
+ "trims": 1070,
+ "unmapped": 18,
+ "excluded": 6,
+ "new_models": 8,
+ "new_generations": 17,
+ "new_model_years": 208,
+ "model_years_touched_existing": 69,
+ "colour_records": 881,
+ "distinct_zh_colours": 251,
+ "color_by_trim": 2324,
+ "candidates": 212,
+ "new_paint_codes": 13,
+ "links": 327,
+ "colours_linked": 151,
+ "dims": 149,
+ "facts": 133,
+ "conflicts": 43,
+ "alias_rows": 54,
+ "models_without_autohome_mapping": 12,
+ "series": 119,
+ "hard_checks": [
+  [
+   "every Autohome spec is a trim, unmapped or excluded (none lost)",
+   true
+  ],
+  [
+   "new ids unique and disjoint from batches 1-3",
+   true
+  ],
+  [
+   "trim -> model/generation/model-year consistent",
+   true
+  ],
+  [
+   "every colour record has source + URL and a consistent model/generation/year",
+   true
+  ],
+  [
+   "all model-year rows are sourced (no estimates)",
+   true
+  ],
+  [
+   "no VERIFIED status anywhere",
+   true
+  ],
+  [
+   "links reference existing colours and codes",
+   true
+  ],
+  [
+   "all Chinese colour names have a glossary entry",
+   true
+  ],
+  [
+   "every new model/generation has a source or documented origin",
+   true
+  ],
+  [
+   "series inventory complete (every Autohome series has a scope)",
+   true
+  ]
+ ]
+}

@@ -1,0 +1,1573 @@
+{{Short description|none}} <!-- This short description is INTENTIONALLY "none" - please see WP:SDNONE before you consider changing it! -->
+[[File:Yangwang U8, Yangwang U9, BYD Song Plus and Fangchengbao Bao 5.png|thumb|300x300px|Four BYD Auto vehicles from three different brands: [[Yangwang U8]], [[Yangwang U9]], [[BYD Song Plus]] and [[Denza B5|Fangchengbao Bao 5]]]]
+
+[[BYD Auto]] is a Chinese [[car manufacturer]] that produces a wide range of [[plug-in hybrid]] (PHEV) and [[battery electric vehicle|battery electric]] (BEV) [[passenger car]]s, [[electric bus]]es, [[electric truck]]s and other types of road vehicles. The company had formerly produced [[internal combustion engine]] (ICE) cars until 2022, when the company announced that it would focus on PHEVs and BEVs (collectively called "[[new energy vehicle]]s" or NEVs in China).<ref>{{Cite web |last=Pappas |first=Thanos |date=2022-04-05 |title=BYD Stops Production Of ICE-Only Cars, Focuses On PHEVs And EVs |url=https://www.carscoops.com/2022/04/byd-stops-production-of-ice-only-vehicle-focuses-on-phevs-and-bevs/ |access-date=2023-11-07 |website=Carscoops}}</ref>
+
+The following is a list of vehicles produced by BYD, including vehicles that are marketed under the [[Denza]], [[Yangwang]], [[Fangchengbao]] and [[Linghui]] brands.
+
+== Current passenger vehicles ==
+{{legend0|#3498DB|[[Plug-in hybrid]] vehicles}}{{spaces|3|type}}{{legend0|#82E0AA|[[Battery electric vehicles]]}}{{spaces|3|type}}{{legend0|#A569BD|[[Extended-range electric vehicle|Range extended]] electric vehicles}}
+
+=== BYD brand ===
+The BYD brand distinguishes their passenger car line-up under three "series", namely the Dynasty series (started by the [[BYD Qin]] in 2012), a line of higher-end vehicles with "dragon-inspired" designs aimed at the traditional [[mass market]]s;<ref>{{Cite web |last=Pandaily |date=2022-08-25 |title=BYD's Flagship SUV Tang DM-p Officially Launched |url=https://pandaily.com/byds-flagship-suv-tang-dm-p-officially-launched/ |access-date=2023-11-07 |website=Pandaily |language=en-US}}</ref><ref>{{Cite web |last=Chen |first=Dong Yi |date=2023-10-11 |title=BYD unveils teaser images of Song L SUV interior in China |url=https://carnewschina.com/2023/10/11/byd-unveils-teaser-images-of-song-l-suv-interior-in-china/ |access-date=2023-11-07 |website=CarNewsChina.com |language=en-US}}</ref> the Ocean series (started by the [[BYD Dolphin]] in 2021), a line of "ocean-themed" vehicles based on new aesthetic designs by [[Wolfgang Egger]] and the [[modular design|modular]] "[[BYD Auto#e-Platform 3.0|e-Platform 3.0]]", aimed at younger buyers;<ref>{{Cite web |last=Rahman |first=Basith |date=2021-09-08 |title=Apart from Dolphin, BYD's Ocean series will include Seal, Sealion, and Seagull |url=https://carnewschina.com/2021/09/08/apart-from-dolphin-byds-ocean-series-will-include-seal-sealion-and-seagull/ |access-date=2023-11-07 |website=CarNewsChina.com |language=en-US}}</ref> and the "e" series, a line of [[fleet vehicle]]s oriented at commercial sales such as [[ride-hailing]] and [[taxi]].<ref name=":2">{{Cite web |last=Kuhudzai |first=Remeredzai Joseph |date=2023-04-14 |title=BYD: A Look At The Other Side Of The Ocean & The Dynasty |url=https://cleantechnica.com/2023/04/14/byd-a-look-at-the-other-side-of-the-ocean-the-dynasty/ |access-date=2023-11-07 |website=CleanTechnica |language=en-US}}</ref> The Ocean series is further divided into series named after [[marine animal]]s ([[BYD Seagull|Seagull]], [[BYD Dolphin|Dolphin]], [[BYD Seal (nameplate)|Seal]] and [[BYD Sealion|Sealion]]).<ref>{{Cite web |last=Rahman |first=Basith |date=2021-09-08 |title=Apart from Dolphin, BYD's Ocean series will include Seal, Sealion, and Seagull |url=https://carnewschina.com/2021/09/08/apart-from-dolphin-byds-ocean-series-will-include-seal-sealion-and-seagull/ |access-date=2023-11-07 |website=CarNewsChina.com |language=en-US}}</ref><ref>{{Cite web |last=Rahman |first=Basith |date=2021-09-08 |title=Apart from Dolphin, BYD's Ocean series will include Seal, Sealion, and Seagull |url=https://carnewschina.com/2021/09/08/apart-from-dolphin-byds-ocean-series-will-include-seal-sealion-and-seagull/ |access-date=2023-11-15 |website=CarNewsChina.com |language=en-US}}</ref> Dynasty and Ocean series are offered through separate sales network, namely the Dynasty Network and the Ocean Network,<ref>{{Cite web |last= |date=2023-11-25 |title=启迪征途 星辰大海 比亚迪海洋网全国首家——河南迪海超级旗舰店11月28日盛大启航-汽车之讯 |trans-title=BYD Ocean Network's first nationwide--Henan Dihai Super Flagship Store launches grandly on November 28th |url=https://www.newsfcar.com/11897/ |access-date=2023-12-11 |website=www.newsfcar.com |language=zh}}</ref><ref>{{Cite web |date=2022-05-27 |title=聊一下比亚迪王朝网和海洋网的车系区别 |trans-title=Let's talk about the differences between BYD Dynasty and Ocean Network car series |url=https://www.dongchedi.com/article/7102217008766353935 |access-date=2023-12-11 |website=Dongchedi}}</ref> and uses separate [[mobile app|mobile apps]] for [[telematics]].<ref>{{Cite web |date=2023-08-30 |title=BYD App to Split: Dynasty and Ocean App to Operate Independently |url=https://shanghaiist.com/byd-app-to-split-dynasty-and-ocean-app-to-operate-independently/ |access-date=2023-11-07 |website=shanghaiist.com |language=en-US}}</ref>
+
+The [[powertrain]] options consists of BEVs often denoted by the "EV" [[suffix]], and PHEVs denoted by the "DM" (Dual Mode) suffix. The plug-in hybrids are further divided into the DM-i (for "intelligent") and DM-p (for "performance", for [[torque vectoring]] in [[all-wheel drive]] models) systems. The DM models are usually paired with a 1.5-litre [[petrol engine]], [[naturally aspirated]] or [[turbocharged]].<ref name=":2" />
+{| class="wikitable sortable" style="text-align: center; width: 100%"
+! rowspan="2" |Body style
+! colspan="6" width="1px" |Model
+! colspan="3" |Current generation
+! rowspan="2" width="30%" |Vehicle description
+|-
+! class="unsortable" |
+! class="unsortable" width="15%" |Image
+!Name(s)
+!Chinese name
+!Export name
+!Series
+!Model code<ref>{{Cite web |url=http://221.179.18.139/MaintenanceCase/ListCarType |access-date=2026-04-21 |website=221.179.18.139}}</ref>
+! width="9%" |Introduction<br><small>({{abbr|cal.|calendar}} year)</small>
+! class="unsortable" |[[Facelift (automotive)|Facelift]]
+|-
+! rowspan="24" |[[Sedan (automobile)|Sedan]]
+| style="background: #82E0AA" |
+|[[File:BYD Dahan 001.jpg|180x180px]]
+![[BYD Dahan|Dahan EV]]
+|大汉EV
+| -
+|Dynasty
+|HSE
+|2026
+| -
+|BEV full-size sedan. 
+|-
+| style="background: #3498DB" |
+|[[File:2022 BYD Destroyer 05.jpg|180x180px]]
+![[BYD Destroyer 05|Destroyer 05]]
+|驱逐舰05
+|
+* Chazor
+* King
+* Seal 5 DM-i
+|Ocean
+|HA2H
+|2022
+| -
+|[[PHEV]] [[Compact car|compact]] sedan, no longer sold in China.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:BYD Han EV IAA 2023 1X7A0645.jpg|180x180px]]
+![[BYD Han|Han {{nowrap|DM-i}}]]
+|汉DM-i
+| -
+| rowspan="2" |Dynasty
+|HCH
+| rowspan="2" |2020
+| rowspan="2" |2024
+|PHEV [[full-size car|full-size]] sedan.
+|-
+| style="background: #82E0AA" |
+![[BYD Han|Han EV]]
+|汉EV
+|
+* Han
+|HCE
+|BEV full-size sedan.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:BYD Han L EV 005.jpg|180x180px]]
+![[BYD Han L|Han L {{nowrap|DM}}]]
+|汉L {{nowrap|DM}}
+| -
+| rowspan="2" |Dynasty
+|HC2H
+| rowspan="2" |2025
+| rowspan="2" | -
+|PHEV [[full-size car|full-size]] sedan.
+|-
+| style="background: #82E0AA" |
+![[BYD Han L|Han L EV]]
+|汉L EV
+| -
+|HC2E
+|BEV full-size sedan.
+|-
+| style="background: #3498DB" |
+|[[File:2024 BYD Qin L DM-i.jpg|180x180px]]
+![[BYD Qin L DM-i|Qin L {{nowrap|DM-i}}]]
+|秦L {{nowrap|DM-i}}
+|
+* Seal 6 DM-i
+|Dynasty
+|HA3H
+|2024
+| -
+|PHEV mid-size sedan.
+|-
+| style="background: #82E0AA" |
+|[[File:BYD Qin L EV 003.jpg|180x180px]]
+![[BYD Qin L EV|Qin L EV]]
+|秦L EV
+|
+* Seal 6 EV
+|Dynasty
+|EWE
+|2025
+| -
+|BEV mid-size sedan.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:BYD Qin Max 001.jpg|180x180px]]
+![[BYD Qin Max|Qin Max {{nowrap|DM-i}}]]
+|秦MAX {{nowrap|DM-i}}
+| -
+| rowspan="2" | Dynasty
+|EWH
+| rowspan="2" | 2026
+| rowspan="2" | -
+|PHEV mid-size sedan.
+|-
+| style="background: #82E0AA" |
+![[BYD Qin Max|Qin Max EV]]
+|秦MAX EV
+| -
+|EWE
+|BEV mid-size sedan.
+|-
+| style="background: #3498DB" |
+|[[File:BYD Qin Plus DM-i facelift 001 (cropped).jpg|180x180px]]
+![[BYD Qin Plus|Qin Plus {{nowrap|DM-i}}]]
+|秦PLUS {{nowrap|DM-i}}
+|
+* Qin Plus
+| rowspan="2" |Dynasty
+|HA5H
+| rowspan="2" |2021
+| rowspan="2" |2025
+|PHEV compact sedan.
+|-
+| style="background: #82E0AA" |
+|[[File:BYD Qin Plus EV facelift 002.jpg|180x180px]]
+![[BYD Qin Plus|Qin Plus EV]]
+|秦PLUS EV
+| -
+|HA5E
+|BEV compact sedan.
+|-
+| style="background: #3498DB" |
+|
+![[BYD Qin Plus|Qin Plus {{nowrap|DM-i}} (2nd)]]
+|秦PLUS {{nowrap|DM-i}}
+| -
+|Dynasty
+|HA3H
+|2026
+| -
+|PHEV mid-size sedan.
+|-
+| style="background: #82E0AA" |
+|[[File:2022 BYD Seal.jpg|180x180px]]
+![[BYD Seal|Seal]]
+|海豹
+|
+* Seal
+|Ocean
+|EKE
+|2022
+| -
+|BEV [[Mid-size car|mid-size]] sedan, no longer sold in China.
+|-
+| style="background: #3498DB" |
+|[[File:BYD Seal 05 DM-i (cropped).jpg|180x180px]]
+![[BYD Seal 05 DM-i|Seal 05 {{nowrap|DM-i}}]]
+|海豹05 {{nowrap|DM-i}}
+|
+* Seal 5 DM-i
+* King
+|Ocean
+|HA6H
+|2025
+| -
+|[[PHEV]] [[Compact car|compact]] sedan.
+|-
+| style="background: #3498DB" |
+|[[File:2024 BYD Seal 06 DM-i.jpg|180x180px]]
+![[BYD Seal 06|Seal 06 {{nowrap|DM-i}}]]
+|海豹06 {{nowrap|DM-i}}
+|
+* Seal 6 DM-i
+|Ocean
+|HKH
+|2024
+| -
+|PHEV mid-size sedan.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:BYD Seal 06 EV facelift 001.jpg|180x180px]]
+![[BYD Seal 06|Seal 06 {{nowrap|DM-i}} (2nd)]]
+|海豹06 {{nowrap|DM-i}}
+| -
+| rowspan="2" |Ocean
+|EUH
+|2026
+| -
+|PHEV mid-size sedan.
+|-
+| style="background: #82E0AA" |
+![[BYD Seal 06|Seal 06 EV]]
+|海豹06 EV
+| -
+|EUE
+|2025
+|2026
+|BEV mid-size sedan.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:BYD Seal 07 facelift 003.jpg|180x180px]]
+![[BYD Seal 07 DM-i|Seal 07 {{nowrap|DM-i}}]]
+|海豹07 {{nowrap|DM-i}}
+|
+* Seal 7 DM-i
+| rowspan="2" |Ocean
+|HXH
+|2023
+|2025
+|PHEV full-size sedan, previously Seal {{nowrap|DM-i}}.
+|-
+| style="background: #82E0AA" |
+![[BYD Seal 07 EV|Seal 07 EV]]
+|海豹07 EV
+| -
+|HXE
+|2026
+| -
+|BEV full-size sedan.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |
+![[BYD Seal 07 DM-i|Seal 07 {{nowrap|DM-i}} (2nd)]]
+|海豹07 {{nowrap|DM-i}}
+|
+| rowspan="2" |Ocean
+|
+|2026
+| -
+|PHEV full-size sedan.
+|-
+| style="background: #82E0AA" |
+![[BYD Seal 07 EV|Seal 07 EV (2nd)]]
+|海豹07 EV
+| -
+|
+|2026
+| -
+|BEV full-size sedan.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:BYD Seal 08 001.jpg|180x180px]]
+![[BYD Seal 08|Seal 08 {{nowrap|DM-i}}]]
+|海豹08 {{nowrap|DM-i}}
+| -
+| rowspan="2" |Ocean
+|HYH
+| rowspan="2" |2026
+| rowspan="2" | -
+|PHEV full-size sedan.
+|-
+| style="background: #82E0AA" |
+![[BYD Seal 08|Seal 08 EV]] 
+|海豹08 EV
+| -
+|HYE
+|BEV full-size sedan.
+|-
+! rowspan="1" |[[Station wagon]]
+| style="background: #3498DB" |
+|[[File:BYD Seal 6 DM-i Touring IAA 2025 DSC 1930.jpg|180x180px]]
+![[BYD Seal 06 DM-i Touring|Seal 06 {{nowrap|DM-i}} Touring]]
+|海豹06 {{nowrap|DM-i}}旅行版
+|
+* Seal 6 DM-i Touring
+|Ocean
+|HKH
+|2025
+| -
+|PHEV mid-size wagon.
+|-
+! rowspan="6" |[[Hatchback]]
+| style="background: #82E0AA" |
+|[[File:2026-06-27 Moscow electric vehicle parade, riding 57 BYD.jpg|180x180px]]
+![[BYD Dolphin|Dolphin]]
+|海豚
+|
+* Dolphin
+* E2
+|Ocean
+|EM2E
+|2021
+|2025
+|BEV compact hatchback.
+|-
+| style="background: #3498DB" |
+|[[File:BYD Dolphin G IMG 7843.jpg|180x180px]]
+![[BYD Dolphin G|Dolphin G DM-i]]
+| -
+|
+* Dolphin G DM-i
+| -
+|CNH
+|2026
+| -
+|PHEV compact hatchback.
+|-
+| style="background: #82E0AA" |
+|[[File:BYD e2 facelift 003.jpg|180x180px]]
+![[BYD e2|e2]]
+|e2
+|
+* e2
+|e (Ocean)
+|EL
+|2019
+|2023
+|BEV compact hatchback, the hatchback version of the e3.
+|-
+| style="background: #82E0AA" |
+|[[File:BYD Seagull facelift 001.jpg|180x180px]]
+![[BYD Seagull|Seagull (1st)]]
+|海鸥
+|
+* Seagull
+* Dolphin Mini
+* Dolphin Surf
+* Atto 1
+|Ocean
+|EQE
+|2023
+|2025
+|BEV [[city car]].
+|-
+| style="background: #82E0AA" |
+|[[File:BYD Seagull II 001.jpg|180x180px]]
+![[BYD Seagull|Seagull (2nd)]]
+|海鸥
+| -
+|Ocean
+|CQE
+|2026
+| -
+|BEV [[Supermini]].
+|-
+| style="background: #82E0AA" |
+|[[File:BYD Seal 06 GT 006.jpg|180x180px]]
+![[BYD Seal 06 GT|Seal 06 GT]]
+|海豹06 GT
+| -
+|Ocean
+|EHE
+|2024
+| -
+|BEV mid-size hatchback.
+|-
+![[Kei car]]
+| style="background: #82E0AA" |
+|[[File:BYD Racco Prototype.jpg|180x180px]]
+![[BYD Racco|Racco]]
+| -
+|
+* Racco
+| -
+|CKE
+|2026
+| -
+|BEV kei car with rear sliding doors. 
+|-
+! rowspan="26" |[[Crossover SUV]]
+| style="background: #3498DB" |
+| rowspan="2" |[[File:BYD Datang 004.jpg|180x180px]]
+![[BYD Datang|Datang {{nowrap|DM}}]]
+|大唐DM
+| -
+| rowspan="2" |Dynasty
+|ST2H
+| rowspan="2" |2026
+| rowspan="2" | -
+|PHEV full-size crossover SUV.
+|-
+| style="background: #82E0AA" |
+![[BYD Datang|Datang EV]]
+|大唐EV
+| -
+|ST2E
+|BEV full-size crossover SUV. 
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:BYD Sealion 05 EV facelift 003.jpg|180x180px]]
+![[BYD Sealion 05 DM-i|Sealion 05 {{nowrap|DM-i}} (2nd)]]
+|海狮05 {{nowrap|DM-i}}
+| -
+| rowspan="2" |Ocean
+|UNH
+|2026
+| -
+|PHEV compact crossover SUV.
+|-
+| style="background: #82E0AA" |
+![[BYD Sealion 05 EV|Sealion 05 EV]]
+|海狮05 EV
+| -
+|UNE
+|2025
+|2026
+|BEV compact crossover SUV.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:BYD Sealion 06 EV 001 (cropped).jpg|180x180px]]
+![[BYD Sealion 06|Sealion 06 {{nowrap|DM-i}}]]
+|海狮06 {{nowrap|DM-i}}
+| -
+| rowspan="2" |Ocean
+|SHH
+| rowspan="2" |2025
+| rowspan="2" | -
+|PHEV mid-size crossover SUV.
+|-
+| style="background: #82E0AA" |
+![[BYD Sealion 06|Sealion 06 EV]]
+|海狮06 EV
+|
+* Song Plus<ref>{{Cite web |date=2026-10-09 |title=Con novedades y 605 km de autonomía, Cori Motors presentó el nuevo BYD Song Plus |url=https://puromotor.com/industria/con-novedades-y-605-km-de-autonomia-cori-motors-presento-el-nuevo-byd-song-plus/ |access-date=2026-10-28 |language=es}}</ref>
+|UGE/SHE
+|BEV mid-size crossover SUV.
+|-
+| style="background: #82E0AA" |
+|[[File:BYD Sealion 7, RWD, Japan, 2025, front.jpg|180x180px]]
+![[BYD Sealion 7|Sealion 07 EV]]
+|海狮07 EV
+|
+* Sealion 7
+|Ocean
+|UKE
+|2024
+| -
+|BEV mid-size crossover SUV, no longer sold in China.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:BYD Sealion 08 004.jpg|180x180px]]
+![[BYD Sealion 08|Sealion 08 DM-i]]
+|海狮08 DM-i
+| -
+| rowspan="2" |Ocean
+|SYH
+| rowspan="2" |2026
+| rowspan="2" | -
+|PHEV full-size crossover SUV.
+|-
+| style="background: #82E0AA" |
+![[BYD Sealion 08|Sealion 08 EV]]
+|海狮08 EV
+| -
+|SYE
+|BEV full-size crossover SUV.
+|-
+| style="background: #3498DB" |
+|[[File:BYD Song L DM-i 007 (cropped).jpg|180x180px]]
+![[BYD Song L DM-i|Song L {{nowrap|DM-i}}]]
+|宋L {{nowrap|DM-i}}
+| -
+|Dynasty
+|SA5H
+|2024
+| -
+|PHEV mid-size crossover SUV.
+|-
+| style="background: #82E0AA" |
+|[[File:BYD Song L EV 001.jpg|180x180px]]
+![[BYD Song L EV|Song L EV]]
+|宋L EV
+| -
+|Dynasty
+|UFE
+|2023
+| -
+|BEV mid-size crossover SUV.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:BYD Song Ultra (宋Ultra) EV 01 China 2026-04-01.jpg|180x180px]]
+![[BYD Song Ultra|Song Ultra {{nowrap|DM-i}}]]
+|宋Ultra {{nowrap|DM-i}}
+| rowspan="2" | -
+| rowspan="2" |Dynasty
+|SA5H
+| rowspan="2" |2026
+| rowspan="2" | -
+|PHEV mid-size crossover SUV.
+|-
+| style="background: #82E0AA" |
+![[BYD Song Ultra|Song Ultra EV]]
+|宋Ultra EV
+|SA5E
+|BEV mid-size crossover SUV.
+|-
+| style="background: #3498DB" |
+|[[File:2023 BYD Song Plus DM-i (front).jpg|180x180px]]
+![[BYD Song Plus|Song Plus {{nowrap|DM-i}}]]
+|宋PLUS {{nowrap|DM-i}}
+|
+* Seal U DM-i
+* Sealion 6 DM-i
+| rowspan="2" |Ocean{{efn|name=songplus|Marketed through Ocean Network dealerships since 2022 in China.}}
+|SA3H
+| rowspan="2" |2020
+| rowspan="2" |2023
+|PHEV [[compact crossover SUV]], no longer sold in China.
+|-
+| style="background: #82E0AA" |
+|[[File:BYD Seal U EV DSC 8762.jpg|180x180px]]
+![[BYD Song Plus|Song Plus EV]]
+|宋PLUS EV
+|
+* Seal U EV
+|SA3E
+|BEV compact crossover SUV, no longer sold in China.
+|-
+| style="background: #3498DB" |
+|[[File:BYD Song Pro DM-i 2024 facelift 007.jpg|180x180px]]
+![[BYD Song Pro|Song Pro]] 
+|宋Pro {{nowrap|DM-i}}
+|
+* Song Pro
+* Sealion 5 DM-i
+|Dynasty
+|SA6H
+|2019
+|2024
+|PHEV compact crossover SUV.
+|-
+| style="background: #3498DB" |
+|[[File:BYD Tang DM-p front quarter trimmed 2.jpg|180x180px]]
+![[BYD Tang DM|Tang {{nowrap|DM-i}}]]
+|唐DM-i
+|
+* Tang DM-i
+| rowspan="2" |Dynasty
+|STH
+| rowspan="2" |2018
+| 2024
+|PHEV mid-size crossover SUV.
+|-
+| style="background: #82E0AA" |
+|[[File:BYD Tang II EV facelift 003 (cropped).jpg|180x180px]]
+![[BYD Tang|Tang EV]]
+|唐EV
+|
+* Tang
+* Tan
+* Sealion 8
+|STE
+|2022
+|BEV mid-size crossover SUV, no longer sold in China.
+|-
+| style="background: #82E0AA" |
+|
+![[BYD Tang|Tang EV (3rd)]]
+|唐EV
+|
+|Dynasty
+|
+|2026
+| -
+|BEV mid-size crossover SUV.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:BYD Tang L EV IAA 2025 DSC 2306.jpg|180x180px]]
+![[BYD Tang L|Tang L {{nowrap|DM}}]]
+|唐L DM
+|
+* Sealion 8 DM-i
+* Atto 8
+| rowspan="2" |Dynasty
+|SRH
+| rowspan="2" |2025
+| rowspan="2" | -
+|PHEV mid-size crossover SUV.
+|-
+| style="background: #82E0AA" |
+![[BYD Tang L|Tang L EV]]
+|唐L EV
+| -
+|SRE
+|BEV mid-size crossover SUV.
+|-
+| style="background: #3498DB" |
+|
+![[BYD Ti 7|Ti 7]]
+| -
+|
+* Ti 7
+* Titan 7
+| -
+|QZH
+|2026
+| -
+|PHEV mid-size SUV, rebadged Fangchengbao Ti7 for export.
+|-
+| style="background: #82E0AA" |
+|[[File:BYD Atto 3 Evo IMG 6069.jpg|180x180px]]
+![[BYD Atto 3|Yuan Plus (1st)]]
+|元PLUS
+|
+* [[BYD Atto 3|Atto 3]]
+* Yuan Plus
+|Dynasty
+|SC2E
+|2022
+|2025
+|BEV compact crossover SUV.
+|-
+| style="background: #82E0AA" |
+|[[File:BYD Yuan Plus II 003.jpg|180x180px]]
+![[BYD Yuan Plus#Second generation|Yuan Plus (2nd)]]
+|元PLUS
+| Atto 5
+|Dynasty
+|SC6E
+|2026
+| -
+|BEV compact crossover SUV.
+|-
+| style="background: #3498DB" |
+|[[File:BYD Atto 2 DM-i Comfort – f 04062026.jpg|180x180px]]
+! rowspan="2" |[[BYD Atto 2|Yuan Up]]
+| -
+|
+* Atto 2 DM-i
+* Yuan Up DM-i
+* Yuan Pro DM-i
+| rowspan="2" |Dynasty
+|SC3H
+|2025
+| -
+|PHEV [[subcompact crossover SUV]].
+|-
+| style="background: #82E0AA" |
+|[[File:BYD Atto 2 IAA 2025 DSC 2131.jpg|180x180px]]
+|元UP
+|
+* Atto 2
+* Yuan Up
+* Yuan Pro
+* S1 Pro
+|SC3E
+|2024
+| -
+|BEV subcompact crossover SUV.
+|-
+! rowspan="4" |[[Minivan|MPV/<br>minivan]]
+| style="background: #82E0AA" |
+|[[File:(SGP-Singapore) BYD e6 SNHxxxxS 2024-03-24.jpg|180x180px]]
+![[BYD e6|e6]]
+|e6
+|
+* e6
+|e (Ocean)
+|MEE
+|2021
+| -
+|BEV [[compact MPV]] for [[taxi]] use, based on the Song Max.
+|-
+| style="background: #3498DB" |
+|[[File:2026 BYD M6 Cross DM-i Advanced (Indonesia) front view.jpg|180x180px]]
+![[BYD Song Max#BYD M6|M6 DM]]
+| -
+|
+* M6 DM
+| rowspan="2" | -
+|MEH
+|2026
+| -
+|PHEV three-row compact MPV based on the Song Max.
+|-
+| style="background: #82E0AA" |
+|[[File:2024 BYD M6 (front), Citraland, West Surabaya.jpg|180x180px]]
+![[BYD Song Max#BYD M6|M6 EV]]
+| -
+|
+* M6 EV
+* eMax 7
+|MEE
+|2024
+| -
+|BEV three-row compact MPV based on the e6 and Song Max.
+|-
+| style="background: #3498DB" |
+|[[File:(CHN-Shanghai) Showcar BYD Xia No-plate 2024-12-12 (cropped).jpg|180x180px]]
+![[BYD Xia|Xia]]
+|夏
+|
+* M9
+* eMax 9 DM-i
+|Dynasty
+|MCH
+|2024
+| -
+|PHEV MPV/minivan.
+|-
+! rowspan="2" |[[Pickup truck]]
+| style="background: #3498DB" |
+|
+![[BYD Mako|Mako]]
+| -
+|
+* Mako
+| -
+|
+|Upcoming
+| -
+|PHEV four-door unibody pickup truck.<ref>{{Cite web |date=2026-04-28 |title=BYD Mako: 10 coisas que já sabemos sobre a picape rival da Fiat Toro |url=https://autoesporte.globo.com/carros/lancamentos-de-carros/noticia/2026/04/byd-mako-10-coisas-ja-sabemospicape-rival-fiat-toro.ghtml |access-date=2026-04-30 |website=autoesporte |language=pt-br}}</ref>
+|-
+| style="background: #3498DB" |
+|[[File:2025 BYD Shark 6 front.jpg|180x180px]]
+![[BYD Shark 6|Shark 6]]
+| -
+|
+* Shark 6
+* Shark
+| -
+|PAH
+|2024
+| -
+|PHEV four-door body-on-frame pickup truck.
+|}
+<references group="lower-alpha" responsive="1"></references>
+
+=== Linghui ===
+{{Main|Linghui}}
+{| class="wikitable sortable" style="text-align: center; width: 100%"
+! rowspan="2" |Body style
+! colspan="4" width="1px" |Model
+! colspan="2" |Current generation
+! rowspan="2" |Vehicle description
+|-
+! class="unsortable" |
+! class="unsortable" | Image
+!Name(s)
+!Chinese name
+!Introduction<br><small>({{abbr|cal.|calendar}} year)</small>
+! class="unsortable" | Facelift
+|-
+! rowspan="3" |[[Sedan (automobile)|Sedan]]
+| style="background: #82E0AA"  |
+|
+![[Linghui e5|e5]]
+|领汇e5
+|Upcoming
+| -
+|BEV compact sedan based on the Qin Plus EV.
+|-
+| style="background: #82E0AA" |
+|[[File:BYD e7 002.jpg|180x180px]]
+![[Linghui e7|e7]]
+|领汇e7
+|2026
+| -
+|BEV mid-size sedan.
+|-
+| style="background: #82E0AA" |
+|[[File:BYD e9 004 (cropped).jpg|180x180px]]
+![[Linghui e9|e9]]
+|领汇e9
+|2026
+| -
+|BEV full-size sedan based on the Han EV.
+|-
+! rowspan="1" |[[Minivan|MPV/<br>minivan]]
+| style="background: #3498DB" |
+|
+![[Linghui M9|M9]]
+|领汇M9
+|2026
+| -
+|PHEV MPV/minivan based on the Xia.
+|}
+
+=== Denza ===
+{{Main|Denza}}
+{| class="wikitable sortable" style="text-align: center; width: 100%"
+! rowspan="2" |Body style
+! colspan="5" width="1px" |Model
+! colspan="2" |Current generation
+! rowspan="2" |Vehicle description
+|-
+! class="unsortable" |
+! class="unsortable" | Image
+!Name(s)
+!Chinese name
+!Model code
+!Introduction<br><small>({{abbr|cal.|calendar}} year)</small>
+! class="unsortable" | Facelift
+|-
+! rowspan="1" |[[Sedan (automobile)|Sedan]]
+| style="background: #82E0AA" |
+|[[File:Denza Z9S 001.jpg|180x180px]]
+![[Denza Z9S|Z9S]]
+|腾势Z9S
+|EZE
+|2026
+| -
+|BEV full-size 4-door sedan.
+|-
+! rowspan="2" |[[Station wagon]]
+| style="background: #3498DB" |
+|[[File:Denza Z9 GT IAA 2025 DSC 2124.jpg|180x180px]]
+![[Denza Z9 GT|Z9 GT PHEV]]
+|腾势Z9 GT插混
+|HTH
+| rowspan="2" |2024
+| rowspan="2" | -
+|PHEV full-size 5-door [[shooting brake]].
+|-
+| style="background: #82E0AA" |
+|[[File:Denza Z9 GT 001 (cropped).jpg|180x180px]]
+![[Denza Z9 GT|Z9 GT EV]]
+|腾势Z9 GT纯电
+|HTE
+|BEV full-size 5-door shooting brake.
+|-
+! rowspan="2" |[[Coupe]]/<br>[[convertible]]
+| style="background: #82E0AA" |
+|[[File:Denza Z Auto Zuerich 2026 IMG 8686.jpg|180x180px]]
+![[Denza Z|Z Coupe]]
+|腾势Z硬頂
+| rowspan="2" |EXE
+| rowspan="2" |2026
+| rowspan="2" | -
+|BEV coupe.
+|-
+| style="background: #82E0AA" |
+|
+![[Denza Z|Z Spider]]
+|腾势Z敞篷
+|BEV convertible.
+|-
+! rowspan="2" |[[Body-on-frame]] [[SUV]]
+| style="background: #3498DB" |
+|[[File:Denza B5 DMO Eclipse Black 01.jpg|180x180px]]
+![[Denza B5|B5]]
+| -
+|SFH
+|2025
+| -
+|PHEV mid-size SUV, rebadged Fangchengbao Bao 5 for export.
+|-
+| style="background: #3498DB" |
+|[[File:Denza B8 DMO AWD Nebula Silver 01.jpg|180x180px]]
+![[Denza B8|B8]]
+| -
+|SQH
+|2025
+| -
+|PHEV full-size SUV, rebadged Fangchengbao Bao 8 for export.
+|-
+! rowspan="6" |[[Crossover SUV]]
+| style="background: #82E0AA" |
+|
+![[Fangchengbao Tai 3|B3]]
+| -
+|URE
+|2026
+| -
+|BEV compact SUV, rebadged Fangchengbao Tai 3 for export.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:Denza N8 II 001.jpg|180x180px]]
+![[Denza N8|N8 PHEV]]
+|腾势N8插混
+|SNH
+|2026
+| -
+|PHEV full-size SUV.
+|-
+| style="background: #82E0AA" |
+![[Denza N8|N8 EV]]
+|腾势N8纯电
+|SNE
+|2026
+| -
+|BEV full-size SUV.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:Denza N8L 005.jpg|180x180px]]
+![[Denza N8L|N8L PHEV]]
+|腾势N8L插混
+|SNH
+|2025
+| -
+|PHEV full-size SUV.
+|-
+| style="background: #82E0AA" |
+![[Denza N8L|N8L EV]]
+|腾势N8L纯电
+|SNE
+|2026
+| -
+|BEV full-size SUV.
+|-
+| style="background: #3498DB" |
+|[[File:Denza N9 005.jpg|180x180px]]
+![[Denza N9|N9]]
+|腾势N9
+|SZH
+|2024
+| -
+|PHEV full-size SUV.
+|-
+! rowspan="2" |[[Minivan|MPV/<br>minivan]]
+| style="background: #3498DB" |
+|[[File:Denza D9 DM-i IAA 2025 DSC 2042.jpg|180x180px]]
+![[Denza D9|D9 {{nowrap|DM-i}}]]
+|腾势D9插混
+|MRH
+| rowspan="2" |2022
+| rowspan="2" |2026
+|PHEV MPV/minivan.
+|-
+| style="background: #82E0AA" |
+|[[File:Denza D9 EV 001 (cropped).jpg|180x180px]]
+![[Denza D9|D9 EV]]
+|腾势D9纯电
+|MRE
+|BEV MPV/minivan.
+|}
+
+=== Yangwang ===
+{{Main|Yangwang}}
+{| class="wikitable sortable" style="text-align: center; width: 100%"
+! rowspan="2" |Body style
+! colspan="4" width="1px" |Model
+! colspan="3" |Current generation
+! rowspan="2" |Vehicle description
+|-
+! class="unsortable" |
+! class="unsortable" | Image
+!Name(s)
+!Chinese name
+!Model code
+!Introduction<br><small>({{abbr|cal.|calendar}} year)</small>
+! class="unsortable" | Facelift
+|-
+! rowspan="3" |[[Sedan (automobile)|Sedan]]
+|
+|
+![[Yangwang Altior|Altior]]
+|仰望鼎耀
+|HU
+|Upcoming
+| -
+|full-size luxury sedan.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:2024 Yangwang U7 (China) front view.png|180x180px]]
+![[Yangwang U7|U7 PHEV]]
+|仰望U7 PHEV
+|ESH
+|2024
+| -
+|PHEV full-size luxury sedan.
+|-
+| style="background: #82E0AA" |
+![[Yangwang U7|U7 EV]]
+|仰望U7 EV
+|ESE
+|2024
+| -
+|BEV full-size luxury sedan.
+|-
+! rowspan="2" |[[SUV]]
+| style="background: #A569BD" |
+|[[File:2024 Yangwang U8 (front).jpg|180x180px]]
+![[Yangwang U8|U8]]
+|仰望U8
+| rowspan="2" |SGH
+|2023
+| -
+|[[Extended-range electric vehicle|Range extended electric]] full-size luxury SUV.
+|-
+| style="background: #A569BD" |
+|[[File:Yangwang U8L 001.jpg|180x180px]]
+![[Yangwang U8L|U8L]]
+|仰望U8L
+|2025
+| -
+|[[Extended-range electric vehicle|Range extended electric]] full-size luxury SUV, LWB variant of U8.
+|-
+![[Sports car]]
+| style="background: #82E0AA" |
+|[[File:2024 Yangwang U9 front view 03.png|180x180px]]
+![[Yangwang U9|U9]]
+|仰望U9
+|ERE
+|2023
+| -
+|BEV [[supercar]].
+|}
+
+=== Fangchengbao ===
+{{Main|Fangchengbao}}
+{| class="wikitable sortable" style="text-align: center; width: 95%"
+! rowspan="2" |Body style
+! colspan="4" width="1px" |Model
+! colspan="3" |Current generation
+! rowspan="2" |Vehicle description
+|-
+! class="unsortable" |
+! class="unsortable" | Image
+!Name(s)
+!Chinese name
+!Model code
+!Introduction<br><small>({{abbr|cal.|calendar}} year)</small>
+!Facelift
+|-
+! rowspan="2" |[[Sedan (automobile)|Sedan]]
+| style="background: #82E0AA" |
+|[[File:Fangchengbao Formula S 007.jpg|180x180px]]
+![[Fangchengbao Formula S|Formula S]]
+|方程S
+|HBE
+|2026
+| -
+|BEV full-size sedan.
+|-
+| style="background: #82E0AA" |
+|
+![[Fangchengbao Formula S|Formula SL]]
+|方程SL
+|
+|Upcoming
+| -
+|BEV full-size sedan.
+|-
+![[Station wagon]]
+| style="background: #82E0AA" |
+|[[File:Fangchengbao Formula S GT 001.jpg|180x180px]]
+![[Fangchengbao Formula S GT|Formula S GT]]
+|方程S GT
+|HBE
+|2026
+| -
+|BEV full-size station wagon.
+|-
+! rowspan="6" |[[SUV]]
+| style="background: #3498DB" |
+|[[File:2024 Fangchengbao Bao 5.jpg|180x180px]]
+![[Fangchengbao Bao 5|Bao 5]]
+|豹5
+|SFH
+|2023
+| -
+|PHEV mid-size SUV.
+|-
+| style="background: #3498DB" |
+|[[File:2025 Fangchengbao Bao 8 (front).jpg|180x180px]]
+![[Fangchengbao Bao 8|Bao 8]]
+|豹8
+|SQH
+|2024
+| -
+|PHEV full-size SUV.
+|-
+| style="background: #82E0AA" |
+|[[File:Fangchengbao Tai 3 004.jpg|180x180px]]
+![[Fangchengbao Tai 3|Tai 3]]
+|鈦3
+|URE
+|2025
+| -
+|BEV compact SUV.
+|-
+| style="background: #3498DB" |
+| rowspan="2" |[[File:Fangchengbao Ti7 006.jpg|180x180px]]
+! rowspan="2" |[[Fangchengbao Ti7|Ti7]]
+| rowspan="2" |鈦7
+|QZH
+|2025
+| -
+|PHEV mid-size SUV.
+|-
+| style="background: #82E0AA" |
+|QZE
+|2026
+| -
+|BEV mid-size SUV.
+|-
+| style="background: #3498DB" |
+|[[File:Fangchengbao Ti9 001.jpg|180x180px]]
+![[Fangchengbao Ti9|Ti9]]
+|鈦9
+|
+|2026
+| -
+|PHEV full-size SUV.
+|-
+! rowspan="2" |[[Pickup truck]]
+| style="background: #3498DB" |
+|
+![[Fangchengbao Shark|Shark]]
+|鲨鱼
+|PAH
+|2026
+| -
+|PHEV four-door body-on-frame pickup truck
+|}
+
+== Discontinued passenger vehicles ==
+
+=== BYD brand ===
+{| class="wikitable sortable" style="text-align: center; width: 100%"
+|-
+!Body style
+! class="unsortable" width="15%" |Image
+!Name(s)
+!Chinese name
+!Introduction<br>({{abbr|cal.|calendar}} year)
+! width="9%" |Discontinued<br>({{abbr|cal.|calendar}} year)
+! rowspan="2" width="30%" |Vehicle description
+|-
+! rowspan="13" |[[Sedan (automobile)|Sedan]]
+|[[File:BYD e3 001 (cropped).jpg|150x150px]]
+![[BYD e3|e3]]
+|e3
+|2019
+|2022
+|Compact sedan, BEV
+|-
+|[[File:2015 BYD e5.jpg|150x150px]]
+![[BYD e5|e5]]
+|e5
+|2015
+|2020
+|Compact sedan, BEV
+|-
+|[[File:2009 BYD F3 1.5L, front 8.3.18.jpg|150x150px]]
+![[BYD F3|F3]]
+|F3
+|2005
+|2021
+|Compact sedan, the sedan version of the F3R.
+|-
+|[[File:Bilbao 05 2012 BYD F3DM 2438.JPG|150x150px]]
+![[BYD F3DM|F3DM]]
+|F3DM
+|2008
+|2013
+|Compact sedan, PHEV.
+|-
+|[[File:BYD F6 01 China 2012-04-08.JPG|150x150px]]
+![[BYD F6|F6]]
+|F6
+|2008
+|2012
+|Mid-size sedan.
+|-
+|[[File:BYD G3 01 China 2012-05-20.JPG|150x150px]]
+![[BYD G3|G3]]
+|G3
+|2009
+|2014
+|Compact sedan, the sedan version of the G3R.
+|-
+|[[File:BYD G5 IMG01.jpg|150x150px]]
+![[BYD G5|G5]]
+|G5
+|2014
+|2017
+|Compact sedan.
+|-
+|[[File:2011 BYD G6 2.0L, front 8.16.18.jpg|150x150px]]
+![[BYD G6|G6]]
+|G6
+|2011
+|2018
+|Mid-size sedan.
+|-
+|[[File:2010 BYD L3.jpg|150x150px]]
+![[BYD L3|L3 / New F3]]
+|L3
+|2010
+|2015
+|Compact sedan.
+|-
+|[[File:2019 BYD Qin EV (facelift).jpg|150x150px]]
+![[BYD Qin|Qin]]
+|秦
+|2012
+|2024
+|Compact sedan, ICE/PHEV/BEV.
+|-
+|[[File:2019 BYD Qin (front).jpg|150x150px]]
+![[BYD Qin Pro|Qin Pro]]
+|秦Pro
+|2018
+|2021
+|Compact sedan, ICE/PHEV/BEV.
+|-
+|[[File:2013 BYD Sirui 1.5L TID, front 8.4.18.jpg|150x150px]]
+![[BYD Sirui|Sirui]]
+|思锐
+|2013
+|2014
+|Mid-size sedan.
+|-
+|[[File:2018 BYD Surui facelift, front 8.6.18.jpg|150x150px]]
+![[BYD Surui|Surui]]
+|速锐
+|2012
+|2019
+|Compact sedan.
+|-
+![[Coupe]]
+|[[File:BYD S8 01 China 2014-04-25.jpg|150x150px]]
+![[BYD S8|S8]]
+|S8
+|2009
+|2010
+|Compact sports car.
+|-
+! rowspan="5" |[[Hatchback]]
+|[[File:BYD e1 02 China 2019-04-04.jpg|150x150px]]
+![[BYD e1|e1]]
+|e1
+|2019
+|2020
+|City car, BEV.
+|-
+|[[File:BYD F0 facelift China 2018-03-20.jpg|150x150px]]
+![[BYD F0|F0]]
+|F0
+|2008
+|2015
+|City car.
+|-
+|[[File:BYD Flyer facelift China 2016-04-06.jpg|150x150px]]
+![[BYD Flyer|Flyer]]
+|福莱尔
+|2005
+|2008
+|City car.
+|-
+|[[File:BYD F3R 01 China 2016-04-06.jpg|150x150px]]
+![[BYD F3R|F3R]]
+|F3R
+|2005
+|2014
+|Compact hatchback, the hatchback version of the F3.
+|-
+|[[File:BYD G3R 01 -- Auto Chongqing -- 2012-06-07.jpg|150x150px]]
+![[BYD G3R|G3R]]
+|G3R
+|2009
+|2014
+|Compact hatchback, the hatchback version of the G3.
+|-
+! rowspan="10" |[[Crossover SUV]]
+|[[File:2022 BYD Frigate 07.jpg|150x150px]]
+![[BYD Frigate 07|Frigate 07]]
+|护卫舰07
+|2022
+|2025
+|Mid-size crossover SUV, PHEV.
+|-
+|[[File:2017 BYD Yuan Sport, front 8.8.18.jpg|150x150px]]
+![[BYD S1|S1]]
+|S1
+|2015
+|2016
+|Subcompact crossover SUV.
+|-
+|[[File:BYD S2 IMG001.jpg|150x150px]]
+![[BYD S2|S2]]
+|S2
+|2019
+|2022
+|Subcompact crossover SUV, BEV.
+|-
+|[[File:2014 BYD S6, front 8.16.18.jpg|150x150px]]
+![[BYD S6|S6]]
+|S6
+|2011
+|2016
+|Mid-size crossover SUV.
+|-
+|[[File:BYD S7 Sanming 01 2022-08-12.jpg|150x150px]]
+![[BYD S7|S7]]
+|S7
+|2014
+|2018
+|Mid-size crossover SUV.
+|-
+|[[File:BYD Sealion 05 DM-i facelift 001.jpg|150x150px]]
+![[BYD Sealion 05 DM-i|Sealion 05 {{nowrap|DM-i}} (1st)]]
+|海狮05 {{nowrap|DM-i}}
+|2024
+|2026
+|Compact crossover SUV, PHEV.
+|-
+|[[File:2025 BYD Sealion 07 DM-i front view.png|150x150px]]
+![[BYD Sealion 07 DM|Sealion 07 {{nowrap|DM-i}}]]
+|海狮07 {{nowrap|DM-i}}
+|2025
+|2026
+|Mid-size crossover SUV, PHEV.
+|-
+|[[File:BYD Song IMG001.jpg|150x150px]]
+![[BYD Song#First generation (2015)|Song]]
+|宋
+|2015
+|2022
+|Compact crossover SUV.
+|-
+|[[File:2015 BYD Tang.jpg|150x150px]]
+![[BYD Tang#First generation (2015)|Tang]]
+|唐
+|2015
+|2018
+|Mid-size crossover SUV.
+|-
+|[[File:2021 BYD Yuan Pro (facelift, front).jpg|150x150px]]
+![[BYD Yuan|Yuan]]
+|元
+|2016
+|2024
+|Compact crossover SUV, ICE/BEV.
+|-
+! rowspan="4" |[[Minivan|MPV/<br>minivan]]
+|[[File:2020 BYD D1 (front).jpg|150x150px]]
+![[BYD D1|D1]]
+|D1
+|2020
+|2023
+|BEV two-row compact MPV purpose-built for [[ride-hailing]] services [[DiDi]].
+|-
+|[[File:2014 BYD E6.jpg|150x150px]]
+![[BYD e6#First generation (2009)|e6 (2009)]]
+|e6
+|2009
+|2021
+|Compact MPV/minivan, BEV.
+|-
+|[[File:BYD M6 China 2012-04-28.JPG|150x150px]]
+![[BYD M6 (2010)|M6 (2010)]]
+|M6
+|2010
+|2017
+|Compact MPV/minivan.
+|-
+|[[File:BYD Song Max DM-i IMG003 (cropped).jpg|150x150px]]
+![[BYD Song Max|Song Max]]
+|宋MAX
+|2017
+|2024
+|Three-row compact MPV, ICE/PHEV/BEV.
+|}
+
+=== Denza ===
+{| class="wikitable sortable" style="text-align: center; width: 100%"
+|-
+!Body style
+! class="unsortable" width="15%" |Image
+!Name(s)
+!Chinese name
+!Introduction<br><small>({{abbr|cal.|calendar}} year)</small>
+! width="9%" |Discontinued
+! rowspan="2" width="30%" |Vehicle description
+|-
+![[Sedan (automobile)|Sedan]]
+|[[File:Denza Z9 001.jpg|150x150px]]
+![[Denza Z9|Z9]]
+|腾势Z9
+|2024
+|2026
+|BEV/PHEV Full-size 4-door [[Sedan (automobile)|sedan]].
+|-
+![[Hatchback]]
+|[[File:Denza 500 02 China 2019-03-28.jpg|150x150px]]
+![[Denza 500|400 / 500 / EV]]
+|腾势400/500/EV
+|2014
+|2019
+|Compact hatchback, BEV.
+|-
+! rowspan="3" |[[Crossover SUV]]
+|[[File:Denza X 006.jpg|150x150px]]
+![[Denza X|X]]
+|腾势X
+|2019
+|2021
+|Mid-size crossover SUV, PHEV/BEV.
+|-
+|[[File:2024 Denza N7 (facelift).jpg|150x150px]]
+![[Denza N7|N7]]
+|腾势N7
+|2023
+|2026
+|Mid-size SUV, BEV.
+|}
+
+== Concept vehicles ==
+* 2004 BYD ET<ref name=":4">{{Cite web |last=Feijter |first=Tycho de |date=2020-03-21 |title=China Concept Cars: The 2004 BYD ET {{!}} ChinaCarHistory |url=https://chinacarhistory.com/2020/03/21/china-concept-cars-the-2004-byd-et/ |access-date=2025-05-04 |language=en-US}}</ref>
+* 2004 BYD EF3<ref name=":4" />
+* 2013 Denza EV Concept (previewing the [[Denza 500|Denza EV]])<ref>{{Cite web |last=Feijter |first=Tycho de |date=2012-04-25 |title=BYD-Daimler Denza NEV debuts at the Beijing Auto Show |url=https://carnewschina.com/2012/04/25/byd-daimler-denza-nev-debuts-at-the-beijing-auto-show/ |access-date=2025-05-02 |website=CarNewsChina.com |language=en-US}}</ref>
+* 2017 BYD Dynasty (previewing the [[BYD Tang#Second generation (2018)|second-generation BYD Tang]])<ref>{{Cite news |date=2017-04-18 |title=BYD Dynasty Electric Concept Is A Surprisingly Good-Looking SUV {{!}} Carscoops |url=https://www.carscoops.com/2017/04/byd-dynasty-electric-concept-is/ |archive-url=https://web.archive.org/web/20210106023833/https://www.carscoops.com/2017/04/byd-dynasty-electric-concept-is/ |archive-date=2021-01-06 |access-date=2025-05-02 |work=Carscoops |language=en-US |url-status=live }}</ref>
+* 2018 BYD E-Seed<ref>{{Cite web |last=AUTO |first=BYD |title=BYD's super car models debut at Beijing Auto Show, sharing their e-platform technologies |url=https://www.prnewswire.com/news-releases/byds-super-car-models-debut-at-beijing-auto-show-sharing-their-e-platform-technologies-300645336.html |access-date=2025-05-02 |website=www.prnewswire.com |language=en}}</ref>
+* 2019 Denza Concept X (previewing the [[Denza X]])<ref>{{Cite web |title=The Denza Concept X debuts at the Shenzhen-Hong Kong-Macau International Auto Show |url=https://www.evspecifications.com/en/news/0047cd |access-date=2025-05-04 |website=EVSpecifications |language=en}}</ref>
+* 2019 BYD E-Seed GT (previewing the [[BYD Han]])<ref>{{Cite web |title=BYD E-Seed electric concept car: China does sexy |url=https://www.carmagazine.co.uk/car-news/first-official-pictures/byd/e-seed-gt-electric-concept-car/ |access-date=2025-05-02 |website=CAR Magazine |language=en}}</ref>
+* 2021 BYD EA1 (previewing the [[BYD Dolphin]])<ref>{{Cite web |title=BYD Introduces 800V E-Platform 3.0 And New EVs: EA1, X DREAM |url=https://insideevs.com/news/502427/byd-eplatform3-ea1-x-dream/ |access-date=2025-05-02 |website=InsideEVs |language=en}}</ref>
+* 2021 BYD X Dream (previewing the [[BYD Frigate 07]])<ref>{{Cite web |title=BYD Introduces 800V E-Platform 3.0 And New EVs: EA1, X DREAM |url=https://insideevs.com/news/502427/byd-eplatform3-ea1-x-dream/ |access-date=2025-05-02 |website=InsideEVs |language=en}}</ref>
+* 2021 BYD Ocean X (previewing the [[BYD Seal]])<ref>{{Cite web |last=Zhang |first=Phate |date=2021-09-09 |title=BYD officially launches e-Platform 3.0, unveils Ocean X concept car |url=https://cnevpost.com/2021/09/09/byd-officially-launches-e-platform-3-0-unveils-ocean-x-concept-car/ |access-date=2025-05-02 |website=CnEVPost |language=en-US}}</ref>
+* 2022 Denza Inception (previewing the [[Denza N7]])
+* 2023 BYD Song L (previewing the [[BYD Song L EV]])<ref>{{Cite web |last=Opletal |first=Jiri |date=2023-04-18 |title=BYD Song L concept SUV unveiled as Tesla Model Y competitor |url=https://carnewschina.com/2023/04/18/byd-song-l-concept-suv-unveiled-as-tesla-model-y-competitor/ |access-date=2025-05-02 |website=CarNewsChina.com |language=en-US}}</ref>
+* 2023 Fangchengbao Super 8 (previewing the [[Fangchengbao Bao 8]])
+* 2024 BYD Ocean-M (previewing the [[BYD Seal 06 GT]])<ref>{{Cite web |last=Luchian |first=Elena |date=2024-04-25 |title=BYD Unveils Radical Ocean-M Concept, Production Version To Hit Market Later This Year |url=https://www.autoevolution.com/news/byd-unveils-radical-ocean-m-concept-production-version-to-hit-the-market-later-this-year-232877.html |access-date=2025-05-02 |website=autoevolution |language=en}}</ref>
+* 2024 Fangchengbao Super 3 (previewing the [[Fangchengbao Tai 3]])<ref>{{Cite web |last=Opletal |first=Jiri |date=2024-04-16 |title=BYD's Fang Cheng Bao unveiled budget SUV Super 3 with drone port and Bao 8 flagship |url=https://carnewschina.com/2024/04/16/byds-fang-cheng-bao-unveiled-budget-suv-super-3-with-drone-port-and-bao-8-flagship/ |access-date=2025-05-02 |website=CarNewsChina.com |language=en-US}}</ref>
+* 2024 Fangchengbao Super 9 (previewing the [[Denza Z]])<ref>{{Cite web |last=Opletal |first=Jiri |date=2024-04-16 |title=BYD revealed Fang Cheng Bao Super 9 electric convertible supercar concept |url=https://carnewschina.com/2024/04/16/byd-revealed-fang-cheng-bao-super-9-electric-convertible-supercar-concept/ |access-date=2025-05-02 |website=CarNewsChina.com |language=en-US}}</ref>
+* 2025 BYD Dynasty-D (previewing the [[BYD Datang]])<ref name=":3">{{Cite web |last=Jost |first=Kevin |date=2025-04-24 |title=BYD has designs on new energy vehicle dominance |url=https://futurride.com/2025/04/24/byd-has-designs-on-new-energy-vehicle-dominance/ |access-date=2025-05-02 |website=Futurride |language=en-US}}</ref>
+* 2025 BYD Ocean-S (previewing the [[BYD Seal 08]])<ref name=":3" />
+* 2025 Denza Z<ref>{{Cite web |last=Zhang |first=Phate |date=2025-04-23 |title=BYD Denza unveils Denza Z concept sports car |url=https://cnevpost.com/2025/04/23/denza-unveils-z-concept-sports-car/ |access-date=2025-05-02 |website=CnEVPost |language=en-US}}</ref>
+* 2026 BYD Ocean-V<ref>{{Cite web |date=2026-04-24 |title=BYD Ocean-V: a minivan-cinema with a bed in the cabin |url=https://cenyavto.com/en/byd-ocean-v-a-minivan-cinema-with-a/ |access-date=2026-04-24 |website=Ceny Avto.com |language=en-US}}</ref>
+* 2026 Fangchengbao Formula X<ref>{{Cite web |last=Miao |first=Liu |date=2026-04-24 |title=BYD’s Fang Cheng Bao debuts first-ever sedans and Formula X supercar at 2026 Beijing Auto Show |url=https://carnewschina.com/2026/04/24/byds-fang-cheng-bao-debuts-first-ever-sedans-and-formula-x-supercar-at-2026-beijing-auto-show/ |access-date=2026-04-24 |website=CarNewsChina.com |language=en-US}}</ref>
+
+<gallery widths="180">
+File:Denza NEV 2013.JPG|Denza concept (2013)
+File:BYD Han 001.jpg|BYD E-Seed GT (2019)
+File:BYD EA1 001.jpg|BYD EA1 (2021)
+File:BYD Xdream Concept IMG001.jpg|BYD X-Dream (2021)
+File:BYD Song L 001.jpg|BYD Song L (2023)
+File:2024 Fangchengbao Super 3 (front).jpg|Fangchengbao Super 3 (2024)
+File:Fangchengbao Super 9 001 (resized).jpg|Fangchengbao Super 9 (2024)
+File:BYD Dynasty-D concept front view 02.png|BYD Dynasty-D (2025)
+File:BYD Ocean-S concept front view 01.png|BYD Ocean-S (2025)
+File:Denza Z 003.jpg|Denza Z (2025)
+File:Fangchengbao Formula X front left - Autowizja.jpg|Fangchengbao Formula X (2026)
+</gallery>
+
+== Commercial vehicles ==
+
+=== Transit buses ===
+{{main|BYD K series|BYD B series}}
+* BYD K6 electric bus ({{Convert|7|m|ft|abbr=on|disp=semicolon}})<ref name=":0">{{Cite web |title=BYD Claims Production of 10,000th Pure Electric Bus-news-www.chinabuses.org |url=http://www.chinabuses.org/news/2016/0516/article_9419.html |access-date=30 October 2016 |website=www.chinabuses.org}}</ref>
+* BYD K7 electric bus ({{Convert|8|m|ft|abbr=on|disp=semicolon}})<ref name=":0" />
+** K7M (30.7 ft)<ref>{{Cite web |date=2023-11-09 |title=K7M {{!}} 30′ Battery-Electric Transit Bus |url=https://ride.co/products/k7m/ |access-date=2025-11-13 |website=RIDE |language=en-US}}</ref>
+** K7MER (29.9 ft)<ref>{{Cite web |date=2023-11-10 |title=K7MER {{!}} 30′ Battery-Electric Transit Bus |url=https://ride.co/products/k7mer/ |access-date=2025-11-13 |website=RIDE |language=en-US}}</ref>
+* BYD K8 electric bus ({{Convert|10.5|m|ft|abbr=on|disp=semicolon}})<ref name=":0" />
+** K8M (35.8 ft)<ref>{{Cite web |date=2023-11-10 |title=K8M {{!}} 35′ Battery-Electric Transit Bus |url=https://ride.co/products/k8m/ |access-date=2025-11-13 |website=RIDE |language=en-US}}</ref>
+* [[BYD K9]] (K9M and K9S) electric bus ({{Convert|12|m|ft|abbr=on|disp=semicolon}})<ref name=":0" />
+** K9MD (40.9 ft)<ref>{{Cite web |date=2023-11-10 |title=K9MD {{!}} 40′ Battery-Electric Transit Bus |url=https://ride.co/products/k9md/ |access-date=2025-11-13 |website=RIDE |language=en-US}}</ref>
+* BYD K10 electric bus (double decker, {{Convert|10|m|ft|abbr=on|disp=semicolon}})<ref name=":0" />
+* BYD K11 electric bus (articulated, {{Convert|18|m|ft|abbr=on|disp=semicolon}})<ref name=":0" />
+** K11M (60.7 ft)<ref>{{Cite web |date=2023-11-10 |title=K11M - 60′ Battery-Electric Transit Bus |url=https://ride.co/products/k11m/ |access-date=2025-11-13 |website=RIDE |language=en-US}}</ref>
+* [[BYD B series]], successor for the K series.
+
+<gallery widths="180" heights="120">
+File:03637D EBS B852.jpg|BYD K6
+File:08639D EBS M318.jpg|BYD K7
+File:05425D at Xiasha, Binhe Blvd (20190505133456).jpg|BYD K8
+File:BYD K9 Gemilang, SBS Transit.jpg|BYD K9
+File:Free MallRide bus 2018—2.JPG|BYD K10
+File:BYD K11 articulated bus at MIT, March 2016.JPG|BYD K11
+File:(SGP-Singapore) SBS Transit SG4013A 265 2024-05-19 (2).jpg|BYD B-series
+</gallery>
+
+=== School buses ===
+* BYD Achiever - Type A School Bus (US only)<ref>{{Cite web |title=BYD Introduces Innovative and Safe Type A Battery Electric School Bus with V2G technology - BYD USA |url=https://en.byd.com/news/byd-introduces-innovative-and-safe-type-a-battery-electric-school-bus-with-v2g-technology/ |access-date=2023-11-03 |website=en.byd.com |language=en-US}}</ref>
+* BYD Creator - Type C School Bus<ref>{{Cite web |date=2023-11-10 |title=Creator {{!}} Battery-Electric Type C School Bus |url=https://ride.co/products/the-creator-type-c/ |access-date=2025-11-13 |website=RIDE |language=en-US}}</ref>
+* BYD Dreamer - Type D School Bus (US only)<ref>{{Cite web |title=BYD to Revolutionize Electric School Buses - BYD USA |url=https://en.byd.com/news/byd-to-revolutionize-electric-school-buses/ |access-date=2023-11-03 |website=en.byd.com |language=en-US}}</ref>
+
+=== Coaches ===
+* BYD C6 electric coach ({{Convert|7|m|ft|abbr=on|disp=semicolon}})<ref name=":0" />
+* BYD C7 electric coach ({{Convert|7.9|m|ft|abbr=on|disp=semicolon}})
+* BYD C8 electric coach ({{Convert|10.5|m|ft|abbr=on|disp=semicolon}})<ref name=":0" />
+* [[BYD C9]] electric coach ({{Convert|12|m|ft|abbr=on|disp=semicolon}})<ref name=":0" />
+* BYD C10 electric coach ({{Convert|14|m|ft|abbr=on|disp=semicolon}})<ref name=":0" />
+
+<gallery widths="180" heights="120">
+File:BYD_C9_electric_coach._Spielvogel.jpg|BYD C9
+File:BYD C8 (Pioneer Coachbuilders Dragoes III) (48725527802).jpg|BYD C8
+</gallery>
+
+=== Vans ===
+* [[BYD T3|BYD T3 / ETP3]] (commercial electric van)<ref>{{Cite web |title=BYD Auto, Build Your Dreams! |url=http://bydeurope.com/news/news.php?action=readnews&page=1&nid=216 |url-status=dead |archive-url=https://web.archive.org/web/20190127205801/http://bydeurope.com/news/news.php?action=readnews&page=1&nid=216 |archive-date=27 January 2019 |access-date=30 October 2016 |website=bydeurope.com}}</ref>
+* [[BYD V3]] (microvan)
+* BYD Class 6 (electric step van)<ref>{{Cite web |date=3 May 2016 |title=While Tesla Tackles Cars, BYD Attacks Diesel Emissions With New Truck Line |url=https://cleantechnica.com/2016/05/03/tesla-cars-byd-electric-trucks/ |access-date=30 October 2016 |website=CleanTechnica}}</ref>
+* [[BYD E-Vali]] (3.5-ton electric commercial van)
+
+<gallery widths="180" heights="120">
+File:BYD ETP 3 1X7A1595.jpg|BYD ETP3
+File:BYD V3 in Shanghai.jpg|BYD V3
+File:BYD E-Vali, IAA 2024, Hanover (P1190887).jpg|BYD E-Vali
+</gallery>
+
+=== Trucks ===
+* BYD T4 (T35)
+* BYD ETM6 (Class 5 electric truck)
+* BYD T4K (South Korean market only)
+* BYD T5 (Class 5 electric truck)<ref name=":1">{{Cite web |title=TRUCK – BYD USA |url=http://www.byd.com/usa/truck/#models |url-status=dead |archive-url=https://web.archive.org/web/20161030140807/http://www.byd.com/usa/truck/#models |archive-date=30 October 2016 |access-date=30 October 2016 |website=www.byd.com |df=dmy-all}}</ref>
+* BYD T7 (Class 6 electric truck)<ref name=":1" />
+* BYD T8 (Class 8 electric truck)
+* BYD T9 (Class 8 electric truck)
+* BYD T31 (Class 8 electric truck)
+* BYD T50 (Electric truck)
+* BYD ETM6 (Class 6 electric truck)
+* BYD ETH8 (Class 8 electric truck)
+* BYD T10 (Class 8 electric truck)
+* [[BYD 8TT]] (Class 8 electric semi-truck)
+* BYD Q1M / BYD 8Y (Class 8 [[Terminal tractor]])<ref name=":1" /><ref>{{Cite web |title=Q1M brochure |url=http://www.byd.com/usa/wp-content/uploads/2016/08/Q1M-final.pdf |url-status=dead |archive-url=https://web.archive.org/web/20171201035202/http://www.byd.com/usa/wp-content/uploads/2016/08/Q1M-final.pdf |archive-date=1 December 2017 |access-date=30 November 2018 |df=dmy-all}}</ref><ref>{{cite web |last=O'Dell |first=John |date=2017-03-13 |title=First of 27 BYD Electric Trucks Deployed at California Freight Yard |url=https://www.trucks.com/2017/03/13/electric-trucks-california-freight-yard/ |access-date=2017-11-21 |archive-date=2020-09-24 |archive-url=https://web.archive.org/web/20200924092623/https://www.trucks.com/2017/03/13/electric-trucks-california-freight-yard/ |url-status=dead }}</ref>
+* BYD 8R ([[refuse truck]])<ref>{{Cite web |title=Class 8 Refuse Truck - BYD USA |url=https://en.byd.com/truck/class-8-refuse-truck/ |access-date=2023-10-12 |website=en.byd.com |language=en-US}}</ref>
+* BYD 6F (electric chassis cab)<ref>{{Cite web |title=Truck - BYD USA |url=https://en.byd.com/truck/ |access-date=2023-10-12 |website=en.byd.com |language=en-US}}</ref>
+* BYD 6R (electric refuse truck)
+* BYD ETT 44 (electric [[tractor unit]], European market only)<ref>{{Cite web |title=BYD Commercial Vehicles unveils its most comprehensive zero-emission transport portfolio at IAA Transportation 2026 |url=https://bydukmedia.com/en/news-articles/byd-commercial-vehicles-unveils-its-most-comprehensive-zero-emission-transport-portfolio-at-iaa-transportation-2026.html  |access-date=15 September 2026}}</ref>
+
+<gallery widths="180" heights="120">
+File:Street_sweeper_truck_A48639D_at_Xizhimen_(20200820133725).jpg|BYD T8 street sweeper truck
+File:BYD vehicle 2021052201.jpg|BYD T31
+File:BYD T35 Van.jpg|BYD T35
+File:BYD T4 001.jpg|BYD T4
+File:BYD T5 001.jpg|BYD T5
+File:BYD T8SA.jpg|BYD T8
+File:(SGP-Singapore) Sembcorp BYD T9 XE6791A 2024-05-07.jpg|BYD T9
+File:BYD ETM6 IAA Transportation 2024 (DSC04040).jpg|BYD ETM6
+File:BYD ETH8 IAA Transportation 2024 (DSC04456).jpg|BYD ETH8
+File:BYD 8TT Shenzhen.png|BYD 8TT
+</gallery>
+
+=== Utilities ===
+* BYD J9G (electric garbage truck)
+
+=== Construction ===
+* BYD J9C (electric concrete mixer truck)
+
+=== Logistics ===
+* BYD J9D (electric container port drayage truck)
+* BYD EYT 2.0 (electric container port drayage truck)
+* BYD T50 (electric tow tractor)<ref>{{Cite web |title=Forklift: T 50 - Technological Innovations for a Better Life {{!}} BYD USA |url=https://en.byd.com/forklift/t50/ |access-date=2025-11-13 |website=en.byd.com |language=en-US}}</ref>
+* BYD T20 (electric autonomous tow tractor)<ref>{{Cite web |title=比亚迪叉车官方网站_新能源叉车引领者 |url=http://www.bydforklift.cn/activo/proinfo.html-param=%E4%BA%A7%E5%93%81%E7%89%B5%E5%BC%95%E5%BC%8F%E6%90%AC%E8%BF%90%E6%9C%BA%E5%99%A8%E4%BA%BA_AQ20MPW |access-date=2025-11-13 |website=www.bydforklift.cn}}</ref>
+
+<gallery widths="180" heights="120">
+File:BYD EYT2.0 IAA Transportation 2024 (DSC04024).jpg|BYD EYT 2.0
+</gallery>
+
+=== Mining ===
+* BYD V60 (electric [[haul truck]])
+
+==References==
+{{reflist}}
+
+{{BYD Auto}}
+{{BYD timeline 2003 to date}}
+
+[[Category:BYD vehicles| ]]
+[[Category:Lists of cars|BYD]]
+[[Category:BYD Auto]]
+[[Category:China transport-related lists|BYD Auto]]
+[[Category:Lists of vehicles by manufacturer]]
+[[Category:Truck-related lists]]
+[[Category:Bus-related lists]]
+{{Authority Control}}

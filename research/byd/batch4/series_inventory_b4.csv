@@ -1,0 +1,120 @@
+brand,series_id,series_name,photos_listed_all,stopsale,batch4_scope,scope_note,specs_found,mapped_model_keys,mapped_model_ids,policy_note,source_id,brand_page_url,fetched_utc
+BYD,3430,唐新能源,19473,False,HARVEST,,74,Tang;Tang DM-i;Tang DM-p;Tang EV,M013;M014;M123;M130,Autohome 唐新能源 spans Tang DM/DM-i/DM-p/EV 2015-2027; token-less 2015-2017 trims (2.0T) go to the first-generation Tang row (Wikipedia: first generation 2015-2018),S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,6762,海鸥,8628,False,DONE_BATCH3,,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,6139,海豚,9497,False,DONE_BATCH3,,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5238,比亚迪e2,4299,False,DONE_BATCH3,,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5371,比亚迪e3,1610,False,HARVEST,,10,e3,M097,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7981,海豹05 DM-i,2445,False,HARVEST,,6,Seal 05 DM-i,M021,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5964,秦PLUS,15464,False,DONE_BATCH3,,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,2761,秦新能源,5343,False,HARVEST,,28,Qin,M106,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,6337,驱逐舰05,5239,False,DONE_BATCH3,,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8015,比亚迪e7,1187,False,HARVEST,,5,e7,M059,Autohome lists 2025; Wikipedia list intro 2026,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7588,海豹06,12899,False,HARVEST,,28,Seal 06 DM-i;Seal 06 EV,M022;M040,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8201,海豹06 DM-i旅行版,3933,False,HARVEST,,8,Seal 06 DM-i Touring,M025,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7694,海豹06GT,5806,False,HARVEST,,14,Seal 06 GT,M029,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7578,秦L,10250,False,HARVEST,,21,Qin L DM-i;Qin L EV,M004;M005,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8463,秦MAX,3717,False,HARVEST,,9,Qin Max DM-i;Qin Max EV,M006;M038,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5955,比亚迪e9,536,False,HARVEST,,3,"e9 (BYD brand, 2021)",M131,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7822,海豹07,7293,False,HARVEST,,18,Seal 07 DM-i;Seal 07 EV,M023;M041,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8485,海豹08,2844,False,HARVEST,,7,Seal 08 DM-i;Seal 08 EV,M024;M042,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5499,汉,21583,False,DONE_BATCH3,,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7859,汉L,2763,False,HARVEST,,7,Han L DM;Han L EV,M003;M037,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8517,大汉,1689,False,HARVEST,,3,Dahan EV,M001,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7538,元UP,6199,False,HARVEST,,14,Yuan Up (BEV);Yuan Up (PHEV),M017;M053,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7807,海狮05 DM-i,5285,False,HARVEST,,13,Sealion 05 DM-i,M030,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7982,海狮05 EV,2907,False,HARVEST,,7,Sealion 05 EV,M046,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5279,宋Pro新能源,12377,False,HARVEST,,37,Song Pro;Song Pro EV,M012;M132,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,6298,元PLUS,11438,False,DONE_BATCH3,,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8087,海狮06,7666,False,HARVEST,,15,Sealion 06 DM-i;Sealion 06 EV,M031;M047,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7815,宋L DM-i,5352,False,HARVEST,,12,Song L DM-i,M009,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7220,宋L EV,4940,False,HARVEST,,15,Song L EV,M010,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8511,宋Ultra,3297,False,HARVEST,,8,Song Ultra DM-i;Song Ultra EV,M011;M050,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8484,海狮08,3366,False,HARVEST,,8,Sealion 08 DM-i;Sealion 08 EV,M033;M048,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8005,唐L,3533,False,HARVEST,,7,Tang L DM;Tang L EV,M015;M051,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8102,大唐,2559,False,HARVEST,,8,Datang EV,M045,all Autohome trims are 纯电,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,831,比亚迪e6,2010,False,HARVEST,,15,e6,M035,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8184,比亚迪M9,442,False,HARVEST,,2,M9,M061,Autohome lists 2025; Wikipedia list intro 2026,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7851,夏,3311,False,HARVEST,,8,Xia,M018,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7977,海狮07 DM-i,1225,False,HARVEST,,3,Sealion 07 DM-i,M121,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8397,BYD Racco,11,False,HARVEST,,1,Racco,M044,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8101,Ocean-S,40,False,EXCLUDED_CONCEPT_OR_SHOW,Ocean-S concept,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,6164,比亚迪X DREAM,60,False,EXCLUDED_CONCEPT_OR_SHOW,X DREAM concept,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8614,Ocean-V,89,False,EXCLUDED_CONCEPT_OR_SHOW,Ocean-V concept,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,8450,比亚迪T4,235,False,EXCLUDED_COMMERCIAL_NOT_RESEARCHED,BYD T4 light commercial,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,4108,比亚迪T3,3,False,EXCLUDED_COMMERCIAL_NOT_RESEARCHED,BYD T3 light commercial,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,6437,比亚迪V3,113,False,EXCLUDED_COMMERCIAL_NOT_RESEARCHED,BYD V3 light commercial,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7870,E-Vali,4,False,EXCLUDED_COMMERCIAL_NOT_RESEARCHED,BYD E-Vali (commercial),,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7257,BYD SHARK,144,False,HARVEST,,2,Shark 6,M057,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,7075,混动皮卡,3,False,EXCLUDED_COMMERCIAL_NOT_RESEARCHED,"混动皮卡 (pickup, 3 photos)",,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5009,比亚迪e1,694,True,HARVEST,,5,e1,M111,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,579,比亚迪F0,2759,True,HARVEST,,20,F0,M112,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,417,福莱尔,81,True,HARVEST,,3,Flyer,M113,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,4073,比亚迪e5,905,True,HARVEST,,7,e5,M098,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,407,比亚迪F3,4551,True,HARVEST,,42,F3,M099,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,940,比亚迪F3R,1393,True,HARVEST,,7,F3R,M114,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,4333,比亚迪F3新能源,294,True,HARVEST,,2,F3DM,M100,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,927,比亚迪G3,1232,True,HARVEST,,10,G3,M102,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,997,比亚迪G3R,532,True,HARVEST,,2,G3R,M115,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,3283,比亚迪G5,1353,True,HARVEST,,6,G5,M103,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,2085,比亚迪L3,1782,True,HARVEST,,12,L3 / New F3,M105,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5365,秦,1049,True,HARVEST,,4,Qin,M106,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,4900,秦Pro,2759,True,HARVEST,,21,Qin Pro,M107,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,4972,秦Pro新能源,3233,True,HARVEST,,19,Qin Pro,M107,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,2806,速锐,4049,True,HARVEST,,25,Surui,M109,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5228,比亚迪E-SEED GT,55,True,EXCLUDED_CONCEPT_OR_SHOW,E-SEED GT concept,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,540,比亚迪F6,1062,True,HARVEST,,8,F6,M101,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,2091,比亚迪G6,3237,True,HARVEST,,13,G6,M104,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,6394,海豹,11156,True,DONE_BATCH3,,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,2944,思锐,1103,True,HARVEST,,5,Sirui,M108,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5064,比亚迪S2,624,True,HARVEST,,2,S2,M118,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,3781,元,1863,True,HARVEST,,14,Yuan,M124,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,6073,元Pro,1381,True,HARVEST,,7,Yuan,M124,Yuan Pro is part of the 'Yuan / Yuan Pro' row,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,4353,元新能源,2472,True,HARVEST,,13,Yuan,M124,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,4844,比亚迪E-SEED,66,True,EXCLUDED_CONCEPT_OR_SHOW,E-SEED concept,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,3780,宋,4623,True,HARVEST,,34,Song,M122,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5760,宋PLUS,1542,True,HARVEST,,4,Song Plus (ICE),M133,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5761,宋PLUS新能源,12913,True,DONE_BATCH3,,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5178,宋Pro,1946,True,HARVEST,,9,Song Pro (ICE),M134,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,4394,宋新能源,2535,True,HARVEST,,16,Song,M122,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,2088,比亚迪S6,5025,True,HARVEST,,32,S6,M119,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,6531,比亚迪S6新能源,25,True,HARVEST,,1,S6,M119,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,3059,比亚迪S7,2776,True,HARVEST,,16,S7,M120,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,6851,海狮07 EV,3919,True,HARVEST,,9,Sealion 07 EV,M032,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,6671,护卫舰07,3490,True,HARVEST,,11,Frigate 07,M116,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,4802,唐,2884,True,HARVEST,,16,Tang (ICE),M135,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,4393,王朝概念车,43,True,EXCLUDED_CONCEPT_OR_SHOW,Dynasty concept cars,,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,3376,比亚迪C6,3,True,HARVEST,,1,,,"BYD C6: 1 trim, 3 photos, no catalogue row (likely a show car)",S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,5825,比亚迪D1,778,True,HARVEST,,4,D1,M125,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,3474,商,78,True,EXCLUDED_COMMERCIAL_NOT_RESEARCHED,商 (commercial),,,,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,4279,宋MAX,6633,True,HARVEST,,42,Song Max,M127,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,4831,宋MAX新能源,3215,True,HARVEST,,16,Song Max,M127,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,798,比亚迪M6,2126,True,HARVEST,,11,M6 (2010),M126,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+BYD,489,比亚迪S8,207,True,HARVEST,,3,S8,M110,,S48,https://car.autohome.com.cn/pic/brand-75.html,2026-11-24T01:50:12Z
+Denza,8107,腾势Z,1218,False,HARVEST,,3,Z Coupe;Z Spider,M065;M066,,S49,https://car.autohome.com.cn/pic/brand-161.html,2026-11-24T01:50:14Z
+Denza,7659,腾势Z9GT,6283,False,HARVEST,,16,Z9 GT EV;Z9 GT PHEV,M063;M064,range rule: Wikipedia Denza Z9: EV 630-1036 km CLTC; PHEV 1100 km total range,S49,https://car.autohome.com.cn/pic/brand-161.html,2026-11-24T01:50:14Z
+Denza,8758,腾势Z9S,1310,False,HARVEST,,3,Z9S,M062,,S49,https://car.autohome.com.cn/pic/brand-161.html,2026-11-24T01:50:14Z
+Denza,7179,腾势N8,1931,False,HARVEST,,6,N8 EV;N8 PHEV,M070;M071,,S49,https://car.autohome.com.cn/pic/brand-161.html,2026-11-24T01:50:14Z
+Denza,8159,腾势N8L,4138,False,HARVEST,,7,N8L EV;N8L PHEV,M072;M073,,S49,https://car.autohome.com.cn/pic/brand-161.html,2026-11-24T01:50:14Z
+Denza,7839,腾势N9,5716,False,HARVEST,,10,N9,M074,,S49,https://car.autohome.com.cn/pic/brand-161.html,2026-11-24T01:50:14Z
+Denza,6669,腾势D9,14426,False,HARVEST,,38,D9 DM-i;D9 EV,M075;M076,,S49,https://car.autohome.com.cn/pic/brand-161.html,2026-11-24T01:50:14Z
+Denza,7838,腾势Z9,1818,False,HARVEST,,6,Z9,M077,,S49,https://car.autohome.com.cn/pic/brand-161.html,2026-11-24T01:50:14Z
+Denza,2805,腾势,2136,True,HARVEST,,10,400/500/EV,M078,,S49,https://car.autohome.com.cn/pic/brand-161.html,2026-11-24T01:50:14Z
+Denza,6898,腾势N7,6223,True,HARVEST,,13,N7,M080,,S49,https://car.autohome.com.cn/pic/brand-161.html,2026-11-24T01:50:14Z
+Denza,5323,腾势X,1744,True,HARVEST,,7,X,M079,PHEV and 纯电 trims both under the 'X' row,S49,https://car.autohome.com.cn/pic/brand-161.html,2026-11-24T01:50:14Z
+Yangwang,8811,仰望鼎曜,74,False,HARVEST,,2,Altior,M081,,S50,https://car.autohome.com.cn/pic/brand-554.html,2026-11-24T01:50:15Z
+Yangwang,7391,仰望U7,3596,False,HARVEST,,9,U7 EV;U7 PHEV,M082;M083,,S50,https://car.autohome.com.cn/pic/brand-554.html,2026-11-24T01:50:15Z
+Yangwang,7003,仰望U8,2394,False,HARVEST,,4,U8,M084,,S50,https://car.autohome.com.cn/pic/brand-554.html,2026-11-24T01:50:15Z
+Yangwang,8266,仰望U8 L,2658,False,HARVEST,,3,U8L,M085,,S50,https://car.autohome.com.cn/pic/brand-554.html,2026-11-24T01:50:15Z
+Yangwang,7116,仰望U9,726,False,HARVEST,,3,U9,M086,,S50,https://car.autohome.com.cn/pic/brand-554.html,2026-11-24T01:50:15Z
+Yangwang,7507,仰望易四方,94,False,EXCLUDED_CONCEPT_OR_SHOW,"仰望易四方 (technology/show, not a catalogue model)",,,,,S50,https://car.autohome.com.cn/pic/brand-554.html,2026-11-24T01:50:15Z
+Yangwang,8649,仰望U9 Xtreme,294,False,HARVEST,,1,U9 Xtreme,M136,,S50,https://car.autohome.com.cn/pic/brand-554.html,2026-11-24T01:50:15Z
+Fangchengbao,8734,鲨鱼,302,False,HARVEST,,1,Shark,M096,,S51,https://car.autohome.com.cn/pic/brand-577.html,2026-11-24T01:50:17Z
+Fangchengbao,8596,方程S,3134,False,HARVEST,,9,Formula S;Formula S GT;Formula SL,M087;M088;M089,Formula S GT / SL trims share this series; identified by the GT/SL label prefix,S51,https://car.autohome.com.cn/pic/brand-577.html,2026-11-24T01:50:17Z
+Fangchengbao,7356,钛3,6971,False,HARVEST,,13,Tai 3,M092,,S51,https://car.autohome.com.cn/pic/brand-577.html,2026-11-24T01:50:17Z
+Fangchengbao,7177,豹5,9135,False,HARVEST,,17,Bao 5,M090,,S51,https://car.autohome.com.cn/pic/brand-577.html,2026-11-24T01:50:17Z
+Fangchengbao,7353,豹8,5715,False,HARVEST,,14,Bao 8,M091,,S51,https://car.autohome.com.cn/pic/brand-577.html,2026-11-24T01:50:17Z
+Fangchengbao,8171,钛7,6651,False,HARVEST,,9,Ti7 (BEV);Ti7 (PHEV),M093;M094,,S51,https://car.autohome.com.cn/pic/brand-577.html,2026-11-24T01:50:17Z
+Fangchengbao,8708,钛9,717,False,HARVEST,,1,Ti9,M095,,S51,https://car.autohome.com.cn/pic/brand-577.html,2026-11-24T01:50:17Z
+Fangchengbao,8857,钛6,3,False,HARVEST,,1,Ti6,M137,,S51,https://car.autohome.com.cn/pic/brand-577.html,2026-11-24T01:50:17Z
+Fangchengbao,8606,Formula X,174,False,EXCLUDED_CONCEPT_OR_SHOW,Formula X concept,,,,,S51,https://car.autohome.com.cn/pic/brand-577.html,2026-11-24T01:50:17Z
+Fangchengbao,7679,SUPER 9,56,False,EXCLUDED_CONCEPT_OR_SHOW,SUPER 9 concept,,,,,S51,https://car.autohome.com.cn/pic/brand-577.html,2026-11-24T01:50:17Z

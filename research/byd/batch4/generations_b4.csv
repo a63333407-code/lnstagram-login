@@ -1,0 +1,18 @@
+generation_id,model_id,source_row_name,generation_label,status,intro_year,facelift_year,discontinued_year,body_type_id,body_raw,size_class,doors,doors_source_id,body_style_text,production_start_text,production_end_text,generation_facts_note,facts_source_id,exterior_design,note,source_id
+G139,M130,Tang DM-p,,current,,,,,,,,,,,,,,,model and generation created in batch 4 from Autohome evidence; years come from the listed 款 only,S52
+G140,M014,Tang EV [generation unspecified],UNSPECIFIED,unknown,,,,,,,,,,,,Bucket for Autohome trims whose generation cannot be determined without guessing (boundary or out-of-range years).,,,created in batch 4 from Autohome evidence,S52
+G141,M022,Seal 06 DM-i [generation unspecified],UNSPECIFIED,unknown,,,,,,,,,,,,Bucket for Autohome trims whose generation cannot be determined without guessing (boundary or out-of-range years).,,,created in batch 4 from Autohome evidence,S57
+G142,M131,"e9 (BYD brand, 2021)",,current,,,,,,,,,,,,,,,model and generation created in batch 4 from Autohome evidence; years come from the listed 款 only,S62
+G143,M023,Seal 07 DM-i [generation unspecified],UNSPECIFIED,unknown,,,,,,,,,,,,Bucket for Autohome trims whose generation cannot be determined without guessing (boundary or out-of-range years).,,,created in batch 4 from Autohome evidence,S63
+G144,M041,Seal 07 EV [generation unspecified],UNSPECIFIED,unknown,,,,,,,,,,,,Bucket for Autohome trims whose generation cannot be determined without guessing (boundary or out-of-range years).,,,created in batch 4 from Autohome evidence,S63
+G145,M030,Sealion 05 DM-i [generation unspecified],UNSPECIFIED,unknown,,,,,,,,,,,,Bucket for Autohome trims whose generation cannot be determined without guessing (boundary or out-of-range years).,,,created in batch 4 from Autohome evidence,S68
+G146,M012,Song Pro [generation unspecified],UNSPECIFIED,unknown,,,,,,,,,,,,Bucket for Autohome trims whose generation cannot be determined without guessing (boundary or out-of-range years).,,,created in batch 4 from Autohome evidence,S70
+G147,M132,Song Pro EV,,current,,,,,,,,,,,,,,,model and generation created in batch 4 from Autohome evidence; years come from the listed 款 only,S70
+G148,M035,e6 [generation unspecified],UNSPECIFIED,unknown,,,,,,,,,,,,Bucket for Autohome trims whose generation cannot be determined without guessing (boundary or out-of-range years).,,,created in batch 4 from Autohome evidence,S78
+G149,M133,Song Plus (ICE),,discontinued,,,,,,,,,,,,,,,model and generation created in batch 4 from Autohome evidence; years come from the listed 款 only,S107
+G150,M134,Song Pro (ICE),,discontinued,,,,,,,,,,,,,,,model and generation created in batch 4 from Autohome evidence; years come from the listed 款 only,S108
+G151,M135,Tang (ICE),,discontinued,,,,,,,,,,,,,,,model and generation created in batch 4 from Autohome evidence; years come from the listed 款 only,S115
+G152,M075,D9 DM-i [generation unspecified],UNSPECIFIED,unknown,,,,,,,,,,,,Bucket for Autohome trims whose generation cannot be determined without guessing (boundary or out-of-range years).,,,created in batch 4 from Autohome evidence,S128
+G153,M076,D9 EV [generation unspecified],UNSPECIFIED,unknown,,,,,,,,,,,,Bucket for Autohome trims whose generation cannot be determined without guessing (boundary or out-of-range years).,,,created in batch 4 from Autohome evidence,S128
+G154,M136,U9 Xtreme,,current,,,,,,,,,,,,,,,model and generation created in batch 4 from Autohome evidence; years come from the listed 款 only,S138
+G155,M137,Ti6,,current,,,,,,,,,,,,,,,model and generation created in batch 4 from Autohome evidence; years come from the listed 款 only,S146
