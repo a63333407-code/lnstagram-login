@@ -1,0 +1,89 @@
+{
+ "sources_audited": 296,
+ "source_classes": {
+  "ENCYCLOPEDIA": 90,
+  "MANUFACTURER_CONTROLLED": 30,
+  "RETAILER_TOUCHUP_PAINT": 14,
+  "MEDIA_PORTAL_CATALOG": 115,
+  "MEDIA_ARTICLE": 7,
+  "MARKETPLACE_OR_COPIED_LISTING": 4,
+  "FORUM_QA": 2,
+  "INDUSTRY_BODY_INDEX": 1,
+  "SEARCH_RECORD": 13,
+  "LICENSED_PAINT_SYSTEM": 11,
+  "DATA_PLATFORM_THIRD_PARTY": 3,
+  "REGULATORY_STANDARD": 2,
+  "PENDING_PLACEHOLDER": 4
+ },
+ "lineages_all": 27,
+ "paint_code_lineages": 5,
+ "paint_code_lineage_ids": [
+  "L-PC-OEMATCH-LUNA",
+  "L-PC-TUPF-CARTOUCH",
+  "L-PC-CARROSS",
+  "L-PC-COLOURTUBES",
+  "L-PC-CROP"
+ ],
+ "edge_relations": {
+  "INDEPENDENCE_UNPROVEN": 26,
+  "SAME_LINEAGE": 3,
+  "HIGH_NAME_OVERLAP_UNPROVEN": 5,
+  "CLAIMED_ORIGIN": 1
+ },
+ "colour_records": 1223,
+ "status": {
+  "POSSIBLE": 329,
+  "UNVERIFIED": 787,
+  "CONFLICTED": 107
+ },
+ "verified_oem": 0,
+ "verified_label": 0,
+ "corroborated": 0,
+ "year_flag_rows": 29,
+ "year_flag_rows_with_candidates": 29,
+ "year_flag_reasons": {
+  "records_with_candidates_flagged": 29,
+  "supplier year range excludes this model year": 15,
+  "matte/gloss codes present but record finish unknown": 7,
+  "no model year assigned to this colour record": 13
+ },
+ "generation_flags": {
+  "none": 1174,
+  "MULTI_GENERATION_MODEL_GENERATION_LABEL_EMPTY": 49
+ },
+ "code_support_scope": {
+  "MODEL_LISTED_APPROX": 497,
+  "NAME_PROPAGATED": 212
+ },
+ "top20": [
+  "雪域白",
+  "攀岩灰",
+  "亚特兰蒂斯灰",
+  "苍穹蓝",
+  "贝贝灰",
+  "玄空黑",
+  "滑雪白",
+  "探险绿",
+  "跑酷红",
+  "风卷草绿",
+  "德兰黑",
+  "暮山紫",
+  "马赛灰",
+  "巧克力棕",
+  "阿盖尔紫",
+  "山脉灰",
+  "活力橙",
+  "时光灰",
+  "苍烟色",
+  "冲浪蓝"
+ ],
+ "priority_groups": [
+  "雪域白",
+  "攀岩灰",
+  "亚特兰蒂斯灰",
+  "苍穹蓝"
+ ],
+ "audit_rows": 16,
+ "requirement_rows": 27,
+ "manufacturer_controlled_sources": 30
+}
