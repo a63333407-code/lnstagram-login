@@ -382,6 +382,11 @@ byname = collections.defaultdict(set)
 for m in allm: byname[re.sub(r"[^a-z0-9]", "", m["model_key"].lower())].add(m["model_id"])
 for n, ids in byname.items():
     if len(ids) > 1: alias_rows.append(dict(alias_type="identical normalized model name", key=n, model_keys=" | ".join(sorted(model_by_id[i]["model_key"] + "(" + i + ")" for i in ids)), evidence="model_key", handling="duplicate risk: check brand/generation"))
+for m in allm:
+    for g in gens_of[m["model_id"]]:
+        n = g.get("note") or ""
+        mm = re.search(r"(?:Exported as|Rebadged|Export rebadge of)\s+(.+?)(?: for export)?$", n.strip())
+        if mm: alias_rows.append(dict(alias_type="export rebadge pair (Wikipedia list note)", key=m["model_key"], model_keys=f"{m['model_key']} <-> {mm.group(1)}", evidence=n[:120], handling="same vehicle sold under two names; keep both rows, link by this table, never merge"))
 for r in WIKI.get("redirects", []):
     alias_rows.append(dict(alias_type="Wikipedia redirect (name is an alias of another article)", key=r["page"], model_keys=r["redirect_to"] + (f" #{r['redirect_section']}" if r["redirect_section"] else ""), evidence=r["wikitext"][:120], handling="alias evidence; not merged"))
 for sid, mks in sorted(series_models.items()):

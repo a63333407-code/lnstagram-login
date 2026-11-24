@@ -5,6 +5,13 @@ export/alt name shared by several model rows,seal 5 dm-i,Destroyer 05 | Seal 05 
 export/alt name shared by several model rows,seal 6 dm-i,Qin L DM-i | Seal 06 DM-i,models.csv alt_names (Wikipedia list),editor decision needed before import
 same Chinese name on several model rows,鈦7,Ti7 (BEV) | Ti7 (PHEV),models.csv name_zh,"rows differ by powertrain/generation; keep separate, never merge on name alone"
 identical normalized model name,e5,e5(M058) | e5(M098),model_key,duplicate risk: check brand/generation
+export rebadge pair (Wikipedia list note),Ti 7,Ti 7 <-> Fangchengbao Ti7,Export rebadge of Fangchengbao Ti7,"same vehicle sold under two names; keep both rows, link by this table, never merge"
+export rebadge pair (Wikipedia list note),B5,B5 <-> Fangchengbao Bao 5,Rebadged Fangchengbao Bao 5 for export,"same vehicle sold under two names; keep both rows, link by this table, never merge"
+export rebadge pair (Wikipedia list note),B8,B8 <-> Fangchengbao Bao 8,Rebadged Fangchengbao Bao 8 for export,"same vehicle sold under two names; keep both rows, link by this table, never merge"
+export rebadge pair (Wikipedia list note),B3,B3 <-> Fangchengbao Tai 3,Rebadged Fangchengbao Tai 3 for export,"same vehicle sold under two names; keep both rows, link by this table, never merge"
+export rebadge pair (Wikipedia list note),Bao 5,Bao 5 <-> Denza B5,Exported as Denza B5,"same vehicle sold under two names; keep both rows, link by this table, never merge"
+export rebadge pair (Wikipedia list note),Bao 8,Bao 8 <-> Denza B8,Exported as Denza B8,"same vehicle sold under two names; keep both rows, link by this table, never merge"
+export rebadge pair (Wikipedia list note),Tai 3,Tai 3 <-> Denza B3,Exported as Denza B3,"same vehicle sold under two names; keep both rows, link by this table, never merge"
 Wikipedia redirect (name is an alias of another article),BYD F3R,BYD F3,#REDIRECT [[BYD F3]],alias evidence; not merged
 Wikipedia redirect (name is an alias of another article),BYD G3R,BYD G3,#REDIRECT [[BYD G3]],alias evidence; not merged
 Wikipedia redirect (name is an alias of another article),BYD Qin Pro,BYD Qin #Pro,#REDIRECT [[BYD Qin#Pro]] [[Category:BYD vehicles|Qin Pro]] [[Category:Cars introduced in 2018]],alias evidence; not merged

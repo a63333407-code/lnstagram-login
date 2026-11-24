@@ -17,7 +17,7 @@
  "dims": 149,
  "facts": 133,
  "conflicts": 43,
- "alias_rows": 54,
+ "alias_rows": 61,
  "models_without_autohome_mapping": 12,
  "series": 119,
  "hard_checks": [
