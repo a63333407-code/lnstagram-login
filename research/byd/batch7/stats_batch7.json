@@ -1,0 +1,178 @@
+{
+ "self_check": {
+  "batch6_keys": 672,
+  "reproduced_keys": 672,
+  "identical": true
+ },
+ "delta_rows": 431,
+ "by_delta": {
+  "NEW_ROW": 105,
+  "SOURCE_ADDED": 270,
+  "SOURCE_ADDED_SAME_LINEAGE": 42,
+  "STATUS_CHANGED": 14
+ },
+ "by_status": {
+  "POSSIBLE": 323,
+  "CONFLICTED": 108
+ },
+ "by_scope": {
+  "CODE_ONLY": 56,
+  "COLOUR_RECORD": 375
+ },
+ "dyc_titles": 92,
+ "dyc_distinct_pairs": 91,
+ "dyc_matched": 35,
+ "dyc_unmatched": 56,
+ "new_codes_from_dyc": [
+  "CA8",
+  "CAJ",
+  "EA5",
+  "EA7",
+  "EAF",
+  "EAP",
+  "EX",
+  "HCH",
+  "HDK",
+  "HE3",
+  "JN",
+  "L15C",
+  "R14C",
+  "S-01",
+  "UAK",
+  "UAY",
+  "UBG",
+  "UBM",
+  "YC8"
+ ],
+ "colour_status": {
+  "POSSIBLE": 329,
+  "CONFLICTED": 107
+ },
+ "colour_records_with_candidate": 436,
+ "conflicts": {
+  "MULTI_CODE_ALIAS_GROUP": 11,
+  "SOURCES_DISAGREE_NOT_NESTED": 9,
+  "SOURCES_DISAGREE_NESTED": 9,
+  "CODE_VS_CODE_SAME_NAME": 2,
+  "RETAILER_LINEAGE": 1,
+  "COLOUR_CLASS_VS_CODE": 1,
+  "LABEL_LOCATION": 1,
+  "FINISH_TYPE": 1,
+  "GLOSS_VS_MATTE_CODE_PAIR": 1,
+  "NAME_MATCH_REVIEW": 3
+ },
+ "sample_plan_rows": 63,
+ "lineage_oematch_vs_dyc": {
+  "source_a": "B6S02",
+  "source_b": "B7S02",
+  "lineage_a": "US-Luna/OEMatch (shared names)",
+  "lineage_b": "US-Luna/OEMatch (shared names)",
+  "codes_a": 71,
+  "codes_b": 84,
+  "shared_codes": 60,
+  "shared_codes_with_identical_normalised_name": 57,
+  "identical_name_share": "95%",
+  "reading": "SAME UPSTREAM (near-identical romanised names and abbreviations)"
+ },
+ "status_changes": [
+  [
+   "苍穹蓝",
+   "BYL",
+   "POSSIBLE",
+   "CONFLICTED"
+  ],
+  [
+   "苍穹蓝",
+   "BYL",
+   "POSSIBLE",
+   "CONFLICTED"
+  ],
+  [
+   "苍穹蓝",
+   "F2",
+   "POSSIBLE",
+   "CONFLICTED"
+  ],
+  [
+   "苍穹蓝",
+   "F2",
+   "POSSIBLE",
+   "CONFLICTED"
+  ],
+  [
+   "苍穹蓝",
+   "BYL",
+   "POSSIBLE",
+   "CONFLICTED"
+  ],
+  [
+   "苍穹蓝",
+   "F2",
+   "POSSIBLE",
+   "CONFLICTED"
+  ],
+  [
+   "苍穹蓝",
+   "BYL",
+   "POSSIBLE",
+   "CONFLICTED"
+  ],
+  [
+   "苍穹蓝",
+   "F2",
+   "POSSIBLE",
+   "CONFLICTED"
+  ],
+  [
+   "苍穹蓝",
+   "F2",
+   "POSSIBLE",
+   "CONFLICTED"
+  ],
+  [
+   "苍穹蓝",
+   "L32C",
+   "POSSIBLE",
+   "CONFLICTED"
+  ],
+  [
+   "苍穹蓝",
+   "F2",
+   "POSSIBLE",
+   "CONFLICTED"
+  ],
+  [
+   "苍穹蓝",
+   "L32C",
+   "POSSIBLE",
+   "CONFLICTED"
+  ],
+  [
+   "苍穹蓝",
+   "F2",
+   "POSSIBLE",
+   "CONFLICTED"
+  ],
+  [
+   "苍穹蓝",
+   "L32C",
+   "POSSIBLE",
+   "CONFLICTED"
+  ]
+ ],
+ "batch6_code_only_rows_now_matched": [
+  [
+   "B6S02",
+   "HAZ",
+   "cangyansep"
+  ]
+ ],
+ "independent_lineage_distribution": {
+  "1": 295,
+  "2": 120,
+  "4": 3,
+  "3": 13
+ },
+ "vin_methods": 16,
+ "sources_rows": 39
+}

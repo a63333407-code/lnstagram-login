@@ -1,0 +1,35 @@
+source_a,source_b,lineage_a,lineage_b,codes_a,codes_b,shared_codes,shared_codes_with_identical_normalised_name,identical_name_share,reading
+B6S02,B7S02,US-Luna/OEMatch (shared names),US-Luna/OEMatch (shared names),71,84,60,57,95%,SAME UPSTREAM (near-identical romanised names and abbreviations)
+B6S02,B6S03,US-Luna/OEMatch (shared names),CROP,71,9,2,0,0%,names differ - independence neither shown nor refuted
+B6S02,S29,US-Luna/OEMatch (shared names),ColourTubes,71,10,6,1,17%,names differ - independence neither shown nor refuted
+B6S02,S30,US-Luna/OEMatch (shared names),Cartouch,71,17,8,1,12%,names differ - independence neither shown nor refuted
+B6S02,S31,US-Luna/OEMatch (shared names),Carross,71,97,18,5,28%,names differ - independence neither shown nor refuted
+B6S02,S32,US-Luna/OEMatch (shared names),TouchUpPaintFactory,71,35,19,3,16%,names differ - independence neither shown nor refuted
+B6S02,S226,US-Luna/OEMatch (shared names),TouchUpPaintFactory,71,54,24,3,12%,names differ - independence neither shown nor refuted
+B6S02,S227,US-Luna/OEMatch (shared names),Carross,71,68,16,5,31%,names differ - independence neither shown nor refuted
+B7S02,B6S03,US-Luna/OEMatch (shared names),CROP,84,9,2,0,0%,names differ - independence neither shown nor refuted
+B7S02,S29,US-Luna/OEMatch (shared names),ColourTubes,84,10,7,1,14%,names differ - independence neither shown nor refuted
+B7S02,S30,US-Luna/OEMatch (shared names),Cartouch,84,17,9,1,11%,names differ - independence neither shown nor refuted
+B7S02,S31,US-Luna/OEMatch (shared names),Carross,84,97,16,5,31%,names differ - independence neither shown nor refuted
+B7S02,S32,US-Luna/OEMatch (shared names),TouchUpPaintFactory,84,35,18,3,17%,names differ - independence neither shown nor refuted
+B7S02,S226,US-Luna/OEMatch (shared names),TouchUpPaintFactory,84,54,25,3,12%,names differ - independence neither shown nor refuted
+B7S02,S227,US-Luna/OEMatch (shared names),Carross,84,68,13,5,38%,names differ - independence neither shown nor refuted
+B6S03,S29,CROP,ColourTubes,9,10,2,0,0%,names differ - independence neither shown nor refuted
+B6S03,S30,CROP,Cartouch,9,17,3,2,67%,names differ - independence neither shown nor refuted
+B6S03,S31,CROP,Carross,9,97,4,3,75%,names differ - independence neither shown nor refuted
+B6S03,S32,CROP,TouchUpPaintFactory,9,35,3,1,33%,names differ - independence neither shown nor refuted
+B6S03,S226,CROP,TouchUpPaintFactory,9,54,4,1,25%,names differ - independence neither shown nor refuted
+B6S03,S227,CROP,Carross,9,68,4,3,75%,names differ - independence neither shown nor refuted
+S29,S30,ColourTubes,Cartouch,10,17,5,2,40%,names differ - independence neither shown nor refuted
+S29,S31,ColourTubes,Carross,10,97,2,0,0%,names differ - independence neither shown nor refuted
+S29,S32,ColourTubes,TouchUpPaintFactory,10,35,7,4,57%,names differ - independence neither shown nor refuted
+S29,S226,ColourTubes,TouchUpPaintFactory,10,54,8,4,50%,names differ - independence neither shown nor refuted
+S29,S227,ColourTubes,Carross,10,68,1,0,0%,names differ - independence neither shown nor refuted
+S30,S31,Cartouch,Carross,17,97,8,3,38%,names differ - independence neither shown nor refuted
+S30,S32,Cartouch,TouchUpPaintFactory,17,35,12,12,100%,names differ - independence neither shown nor refuted
+S30,S226,Cartouch,TouchUpPaintFactory,17,54,12,12,100%,names differ - independence neither shown nor refuted
+S30,S227,Cartouch,Carross,17,68,5,3,60%,names differ - independence neither shown nor refuted
+S31,S32,Carross,TouchUpPaintFactory,97,35,10,5,50%,names differ - independence neither shown nor refuted
+S31,S226,Carross,TouchUpPaintFactory,97,54,15,6,40%,names differ - independence neither shown nor refuted
+S32,S227,TouchUpPaintFactory,Carross,35,68,8,5,62%,names differ - independence neither shown nor refuted
+S226,S227,TouchUpPaintFactory,Carross,54,68,12,6,50%,names differ - independence neither shown nor refuted
