@@ -1,0 +1,34 @@
+{
+ "models": 137,
+ "by_brand": {
+  "BYD": 96,
+  "Linghui": 4,
+  "Denza": 19,
+  "Yangwang": 7,
+  "Fangchengbao": 11
+ },
+ "colours": 1223,
+ "colour_status": {
+  "UNVERIFIED": 996,
+  "POSSIBLE": 199,
+  "CONFLICTED": 28
+ },
+ "link_rows": 446,
+ "link_status": {
+  "POSSIBLE": 393,
+  "CONFLICTED": 53
+ },
+ "distinct_codes": 51,
+ "conflicts": {
+  "ALIAS_GROUP_AMBIGUITY": 86,
+  "SOURCES_DISAGREE": 28,
+  "CODE_MULTI_COLOUR_NAME": 17,
+  "LABEL_LOCATION": 1,
+  "OEM_VS_RETAILER_NAMEPLATE": 1
+ },
+ "models_with_any_candidate": 30,
+ "models_no_candidate": 107,
+ "models_zero_colour": 21,
+ "label_rows": 9,
+ "sources": 23
+}
