@@ -1,0 +1,10 @@
+{
+ "collection_window_utc": {
+  "start": "2026-11-24T02:02:39Z",
+  "end": "2026-11-24T03:44:23Z"
+ },
+ "main_harvest_started_utc": "2026-11-24T02:02:39Z",
+ "main_harvest_finished_utc": "2026-11-24T03:22:07Z",
+ "pipeline_finished_utc": "2026-11-24T03:44:23Z",
+ "note": "Main harvest 8-10 workers; the retry rounds re-fetch every list whose count differs from Autohome's stated total, with per-request UTC times in retry_log_N.jsonl. PARSER FIX: the first run's parser missed photos in older galleries that use <a class=\"carpic-img\" href=...>; 429 lists were re-fetched with the fixed parser (all recovered except 12 genuine source inconsistencies)."
+}

@@ -45,7 +45,7 @@ def run(stage, here, stats):
             if t: bad.append((r["image_id"], "unlinked although spec has a trim"))
             if r["trim_id"] or r["vehicle_id"]: bad.append((r["image_id"], "unlinked row carries ids"))
     chk("image -> trim/model/generation/year consistent (union catalog)", not bad, f"{len(bad)} problems, e.g. {bad[:3]}; unlinked(model unresolved)={unl}")
-    pat_img = re.compile(r"^https://car\d*\.autoimg\.cn/cardfs/[^\s]+\.(jpg|jpeg|png|webp)$")
+    pat_img = re.compile(r"^https://car\d*\.autoimg\.cn/(cardfs|upload|car/upload)/[^\s]+\.(jpg|jpeg|png|webp|gif)$")   # cardfs = current CDN path; upload / car/upload = older galleries
     pat_pg = re.compile(r"^https://www\.autohome\.com\.cn/cars/imgs-(\d+)-(\d+)-(\d+)(?:-([^/]+))?/(\d+)\.html$")
     bu = []
     for r in img:
@@ -95,10 +95,28 @@ def run(stage, here, stats):
     chk("no trim left in FAILED_RETRY_REQUIRED (publish gate)", not failed, f"{len(failed)} trims: {failed[:10]}")
     retry_urls = [json.loads(l)["url"] for fn in sorted(os.listdir(os.path.join(here, "raw_b4"))) if re.fullmatch(r"retry_log_\d+\.jsonl", fn) for l in open(os.path.join(here, "raw_b4", fn), encoding="utf-8") if l.strip()]
     unretried = [r["autohome_spec_id"] for r in st if r["status"] == "PARTIAL" and not any(re.search(r"(?:series-s|spec-)%s\b" % r["autohome_spec_id"], u) for u in retry_urls)]
+    fr = rd(os.path.join(stage, "failed_requests_report_b4.csv"))
+    chk("no unexplained or unresolved failed request remains", not any(r["classification"] in ("UNEXPLAINED_FAILURE", "GENUINE_FAILURE_UNRESOLVED") for r in fr), dict(collections.Counter(r["classification"] for r in fr)))
     chk("every PARTIAL trim was re-fetched at least once", not unretried, f"{sum(1 for r in st if r['status']=='PARTIAL')} PARTIAL trims; not retried: {unretried[:10]}")
+    # image URLs must come from harvested records (no constructed URLs)
+    raw_dir = os.path.join(here, "raw_b4"); harvested_thumbs = set(); harvested_pages = set(); harvested_lists = set()
+    def _jl(path):
+        op = gzip.open if path.endswith(".gz") else open
+        with op(path, "rt", encoding="utf-8") as f:
+            for line in f:
+                if line.strip(): yield json.loads(line)
+    for fn in sorted(os.listdir(raw_dir)):
+        if fn == "autohome_images.jsonl.gz" or re.fullmatch(r"retry_records_\d+\.jsonl", fn):
+            for r_ in _jl(os.path.join(raw_dir, fn)):
+                if "error" in r_ or r_.get("_supersede"): continue
+                harvested_thumbs.add(r_.get("thumb_url")); harvested_pages.add(r_.get("photo_page_url")); harvested_lists.add(r_.get("list_url"))
+    inv_urls = [r["image_url"] for r in img if r["image_url"] not in harvested_thumbs]
+    inv_pg = [r["source_page_url"] for r in img if r["source_page_url"] not in harvested_pages]
+    inv_gl = [r["gallery_list_url"] for r in img if r["gallery_list_url"] not in harvested_lists]
+    chk("no invented image URLs: every image URL, photo-page URL and gallery URL appears in a harvested record", not inv_urls and not inv_pg and not inv_gl, f"{len(img)} images; not harvested: {len(inv_urls)} image urls, {len(inv_pg)} page urls, {len(inv_gl)} list urls")
     # earlier batches untouched (datasets, not scripts)
     gs = subprocess.run(["git", "-C", here, "status", "--porcelain", "--", "."], capture_output=True, text=True).stdout.splitlines()
-    changed = [l for l in gs if l[:2].strip() and not l.startswith("??") and not re.search(r"\.py$|\.gitignore$", l)]
+    changed = [l for l in gs if l[:2].strip() and not l.startswith("??") and not re.search(r"\.py$|\.gitignore$|research/byd/(batch4|catalog_union|raw_b4)/", l)]   # batches 1-3 only
     chk("previously committed datasets (batches 1-3) unchanged (git status)", not changed, f"modified tracked non-script files: {changed}")
     chk("no test/partial outputs in staging", not any(n.startswith(".") or "test" in n.lower() or "sample" in n.lower() for n in os.listdir(stage)), "")
     ok_all = all(ok for _, ok, _, hard in R if hard)

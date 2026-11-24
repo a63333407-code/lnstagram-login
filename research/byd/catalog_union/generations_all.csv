@@ -62,14 +62,14 @@ G060,M053,Yuan Up (BEV),,current,2024,,,BT02,Subcompact crossover SUV,Subcompact
 G061,M054,M6 DM,,current,2026,,,BT03,Three-row compact MPV,Three-row compact,,,,,,,,,Based on Song Max,S01
 G062,M055,M6 EV,,current,2024,,,BT03,Three-row compact MPV,Three-row compact,,,,,,,,,Based on e6 and Song Max,S01
 G063,M056,Mako,,upcoming,,,,BT07,Pickup,,4,S168,4-door ; pickup truck,2026–present,,,S168,Plug-in hybrid compact pickup truck,,S01
-G064,M057,Shark 6,,current,2024,,,BT07,Four-door body-on-frame pickup,,4,,4-door ; pickup truck; 4-door ; cab chassis,,,,S193,Plug-in hybrid pickup truck,,S01
+G064,M057,Shark 6,,current,2024,,,BT07,Four-door body-on-frame pickup,,4,S01,4-door ; pickup truck; 4-door ; cab chassis,,,,S193,Plug-in hybrid pickup truck,,S01
 G065,M058,e5,,upcoming,,,,BT01,Compact sedan,Compact,,,,,,,,,Based on Qin Plus EV,S01
 G066,M059,e7,,current,2026,,,BT01,Mid-size sedan,Mid-size,4,S221,4-door ; Sedan (automobile); sedan,May 2025 – present,,,S221,Battery electric mid-size sedan,,S01
 G067,M060,e9,,current,2026,,,BT01,Full-size sedan,Full-size,4,S164,4-door ; sedan (automobile); sedan,,,,S164,Full-size sedan,Based on Han EV,S01
 G068,M061,M9,,current,2026,,,BT03,MPV/minivan,,5,S203,5-door ; minivan,,,,S203,Plug-in hybrid minivan,Based on Xia,S01
-G069,M062,Z9S,,current,2026,,,BT01,Full-size 4-door sedan,Full-size,4,,4-door ; Sedan (automobile); sedan,2026–present,,,S217,Battery electric full-size sports sedan,,S01
-G070,M063,Z9 GT PHEV,,current,2024,,,BT04,Full-size 5-door shooting brake,Full-size,5,,4-door ; Sedan (automobile); sedan; 5-door ; shooting brake; (Z9 GT),,,,S216,Executive car,,S01
-G071,M064,Z9 GT EV,,current,,,,BT04,Full-size 5-door shooting brake,Full-size,5,,4-door ; Sedan (automobile); sedan; 5-door ; shooting brake; (Z9 GT),,,,S216,Executive car,,S01
+G069,M062,Z9S,,current,2026,,,BT01,Full-size 4-door sedan,Full-size,4,S01,4-door ; Sedan (automobile); sedan,2026–present,,,S217,Battery electric full-size sports sedan,,S01
+G070,M063,Z9 GT PHEV,,current,2024,,,BT04,Full-size 5-door shooting brake,Full-size,5,S01,4-door ; Sedan (automobile); sedan; 5-door ; shooting brake; (Z9 GT),,,,S216,Executive car,,S01
+G071,M064,Z9 GT EV,,current,,,,BT04,Full-size 5-door shooting brake,Full-size,5,S01,4-door ; Sedan (automobile); sedan; 5-door ; shooting brake; (Z9 GT),,,,S216,Executive car,,S01
 G072,M065,Z Coupe,,current,2026,,,BT08,Coupe,,2,S215,2-door ; coupé; 2-door ; convertible,2026–present,,,S215,Battery electric sports car,Model code EXE,S01
 G073,M066,Z Spider,,current,,,,BT09,Convertible,,2,S215,2-door ; coupé; 2-door ; convertible,2026–present,,,S215,Battery electric sports car,,S01
 G074,M067,B5,,current,2025,,,BT02,Mid-size SUV,Mid-size,5,S208,5-door ; SUV,,,,S208,Plug-in hybrid mid-size SUV,Rebadged Fangchengbao Bao 5 for export,S01
@@ -82,7 +82,7 @@ G080,M073,N8L EV,,current,2026,,,BT02,Full-size SUV,Full-size,5,S213,5-door ; SU
 G081,M074,N9,,current,2024,,,BT02,Full-size SUV,Full-size,5,S214,5-door ; SUV,February 2025 – present,,,S214,Full-size SUV,,S01
 G082,M075,D9 DM-i,,current,2022,2026,,BT03,MPV/minivan,,5,S210,5-door ; minivan,October 2022 – present,,,S210,Chinese minivan,,S01
 G083,M076,D9 EV,,current,,,,BT03,MPV/minivan,,5,S210,5-door ; minivan,October 2022 – present,,,S210,Chinese minivan,,S01
-G084,M077,Z9,,discontinued,2024,,2026,BT01,Full-size 4-door sedan,Full-size,4,,4-door ; Sedan (automobile); sedan; 5-door ; shooting brake; (Z9 GT),,,,S216,Executive car,,S01
+G084,M077,Z9,,discontinued,2024,,2026,BT01,Full-size 4-door sedan,Full-size,4,S01,4-door ; Sedan (automobile); sedan; 5-door ; shooting brake; (Z9 GT),,,,S216,Executive car,,S01
 G085,M078,400/500/EV,,discontinued,2014,,2019,BT05,Compact hatchback,Compact,5,S207,5-door ; hatchback,2014–2019,,,S207,Chinese automobile,,S01
 G086,M079,X,,discontinued,2019,,2021,BT02,Mid-size crossover SUV,Mid-size,5,S212,5-door ; crossover SUV,,,,S212,Mid-size and full-size crossover SUV,,S01
 G087,M080,N7,,discontinued,2023,,2026,BT02,Mid-size SUV,Mid-size,5,S211,5-door ; crossover SUV,June 2023 – 2026,,,S211,Battery electric mid-size crossover SUV,,S01
@@ -101,7 +101,7 @@ G099,M092,Tai 3,,current,2025,,,BT02,Compact SUV,Compact,5,S219,5-door ; SUV,Mar
 G100,M093,Ti7 (PHEV),,current,2025,,,BT02,Mid-size SUV,Mid-size,5,S202,5-door ; SUV,,,,S202,Mid-size SUV,,S01
 G101,M094,Ti7 (BEV),,current,2026,,,BT02,Mid-size SUV,Mid-size,5,S202,5-door ; SUV,,,,S202,Mid-size SUV,,S01
 G102,M095,Ti9,,current,2026,,,BT02,Full-size SUV,Full-size,5,S220,5-door ; SUV,2026–present,,,S220,Range extended full-size SUV,,S01
-G103,M096,Shark,,current,2026,,,BT07,Four-door body-on-frame pickup,,4,,4-door ; pickup truck; 4-door ; cab chassis,,,,S193,Plug-in hybrid pickup truck,,S01
+G103,M096,Shark,,current,2026,,,BT07,Four-door body-on-frame pickup,,4,S01,4-door ; pickup truck; 4-door ; cab chassis,,,,S193,Plug-in hybrid pickup truck,,S01
 G104,M097,e3,,discontinued,2019,,2022,BT01,Compact sedan,Compact,5,S204,5-door ; hatchback; (e2) ; 4-door ; Sedan (automobile); sedan; (e3),,,,S204,Battery electric compact hatchback,,S01
 G105,M098,e5,,discontinued,2015,,2020,BT01,Compact sedan,Compact,4,S205,4-door ; Sedan (automobile); sedan,2015–2020,,,S205,,,S01
 G106,M099,F3,,discontinued,2005,,2021,BT01,Compact sedan (sedan version of F3R),Compact,4,S156,,,,,S156,Compact car,,S01

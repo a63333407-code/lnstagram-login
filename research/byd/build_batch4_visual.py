@@ -173,7 +173,9 @@ for spec, (key, sp, sid, brand) in sorted(spec_info.items(), key=lambda kv: int(
         exp = e.get(kind); got = len(have.get((spec, kind, ck), ())); chk = EMPTY.get((spec, kind)); confirmed_empty = False
         if exp is None and chk and chk["outcome"] == "confirmed_empty_redirect" and got == 0: exp = 0; confirmed_empty = True
         per[kind] = (exp, got); got_tot += got
-        if exp is None: issues.append(f"{kind}: tab absent on landing page and not confirmed empty")
+        if exp is None and chk and chk["outcome"] == "MISMATCH_photos_served":
+            issues.append(f"{kind}: the landing page states no total for this category, but the list serves photos ({chk['photo_links_in_body']} on page 1; {got} harvested by paginating to exhaustion); completeness cannot be verified independently")
+        elif exp is None: issues.append(f"{kind}: tab absent on landing page and not confirmed empty")
         elif confirmed_empty:
             missing.append(dict(scope="trim_category", subject=f"spec {spec} {sp['year']} {sp['label']}", category=kind, expected=0, harvested=0, reason=f"confirmed empty: HTTP {chk['http']} redirect ({chk['utc']}); a redirect is NOT counted as a harvest", trim_id=t["trim_id"] if t else None))
         else:
@@ -210,6 +212,8 @@ for e in main_errors:
     chk = EMPTY.get((e["spec_id"], e["kind"])); fin = superseded.get((e["spec_id"], e["kind"], e["key"]))
     if chk and chk["outcome"] == "confirmed_empty_redirect":
         fails.append(dict(source="main harvest", utc=chk["utc"], spec_id=e["spec_id"], list_kind=e["kind"], url=e["url"], http=chk["http"], outcome="redirect_no_photos", classification="NOT_A_FAILURE_CATEGORY_EMPTY", final_disposition="redirect to trim landing page = no photos; confirmed by empty_category_checks.jsonl; NOT counted as a harvest"))
+    elif fin == "ok":
+        fails.append(dict(source="main harvest", utc=None, spec_id=e["spec_id"], list_kind=e["kind"], url=e["url"], http=None, outcome="fetch_failed (HTTP code not recorded in the main run)", classification="GENUINE_MAIN_RUN_FAILURE_RECOVERED_BY_RETRY", final_disposition="the whole list was re-fetched in the retry pass and returned photos"))
     else:
         unexplained += 1
         fails.append(dict(source="main harvest", utc=None, spec_id=e["spec_id"], list_kind=e["kind"], url=e["url"], http=None, outcome="fetch_failed", classification="UNEXPLAINED_FAILURE", final_disposition=(f"re-fetched in retry pass: {fin}" if fin else "NOT RE-FETCHED")))
@@ -235,6 +239,25 @@ stats = dict(trim_status=dict(STAT), specs=len(spec_info), images=len(vimg), by_
 json.dump(stats, open(os.path.join(STAGE, "image_stats_b4.json"), "w"), indent=1)
 json.dump(dict(next_image_id=next_img, images=len(vimg)), open(os.path.join(STAGE, "id_ranges_b4.json"), "w"))
 
+vs = stats["view_status"]; rs = review["summary"]
+open(os.path.join(STAGE, "image_verification_report_b4.md"), "w", encoding="utf-8").write(f"""# Batch 4 image verification report
+
+## What is and is not verified
+* **Vehicle linkage (trim / year / generation / model):** every image comes from the gallery of one exact Autohome trim (spec id). The spec id, series id and photo id inside each source-page URL were checked against the row for all {stats['images']:,} images (validation report). Autohome's labelling is the only evidence; no editor reviewed it. Trims whose EV/DM-i variant could not be resolved keep their images as `UNLINKED_MODEL_UNRESOLVED` ({stats['unlinked']:,} images).
+* **No invented URLs:** every image URL, photo-page URL and gallery URL in the tables appears in a harvested record (checked against raw_b4/autohome_images.jsonl.gz and the retry records).
+* **Colour association:** {stats['colour_associated_images']:,} images are linked to a colour because they appear in that trim's colour-filtered gallery (the URL carries the colour facet id). It is Autohome's colour label; photo colour vs swatch was not machine-checked. A colour with no gallery for the exact trim has no image (no substitute is used).
+* **View labels:** **nothing is VERIFIED** (no human editor). Status counts: {json.dumps(vs, ensure_ascii=False)}.
+  * `CANDIDATE`: label from the position in a 7/8-photo colour gallery. In my visual review of {rs['galleries_reviewed']} galleries from {rs['galleries_reviewed']} different series, **{rs['standard']} followed the standard order and {rs['irregular']} did not** (all dealer-showroom shoots). With batch 3 (16 of 19) that is 44 of 51 galleries (86%), so a candidate label can be wrong about one time in seven.
+  * `MODEL_REVIEWED_NOT_EDITOR_VERIFIED`: the {rs['individually_inspected_images']} images I looked at individually at 400x300 (position 4 = left side, position 8 = right side in 8 galleries; nose direction checked in each). A model reviewed them, not a human editor.
+  * `REVIEWED_GALLERY_IRREGULAR_NO_LABEL`: galleries I found to deviate; no label assigned.  `UNKNOWN_*`: no basis (plain exterior list, or a gallery size other than 7/8).
+* **Left/right rule:** nose pointing left in the image = car's left (driver) side visible.
+* **Interior images:** only two source categories exist (中控方向盘, 车厢座椅); dashboard vs steering wheel vs centre console and front vs rear seats are not distinguished. Interior colours are recorded as names/swatches per trim; photos are not linked to interior colours.
+* **Official press images:** Autohome category 官图 (53); provenance by category label only, not classified as exterior/interior.
+* **Resolution:** thumbnails only (400x300 / 480x360). No full-size image was downloaded or its URL harvested (batch 4 scope).
+* **Swatch HEX:** supplied by Autohome's colour facet; not sampled from photos and not a paint specification.
+* **Rights:** no image licence is cleared (same terms as batch 3). Do not publish or hot-link without permission.
+* **Collection timestamps:** run-level window ({stats['collection_window_utc']['start']} to {stats['collection_window_utc']['end']}); per-image time only for images re-fetched in retry rounds.
+""")
 sys.path.insert(0, HERE)
 import validate_batch4
 ok = validate_batch4.run(STAGE, HERE, stats)

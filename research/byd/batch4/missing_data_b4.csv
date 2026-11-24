@@ -1,0 +1,546 @@
+brand,model_key,missing_item,detail,severity
+BYD,Dahan EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Dahan EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Dahan EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Dahan EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Han DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Han DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Han DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Han L DM,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Han L DM,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Han L DM,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Han L DM,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Qin L DM-i,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Qin L DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Qin L DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Qin L DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Qin L EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Qin L EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Qin L EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Qin L EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Qin Max DM-i,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Qin Max DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Qin Max DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Qin Max DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Qin Plus DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Qin Plus DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Qin Plus DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Datang DM,no Autohome series/trims,no Autohome series/trims (not listed on Autohome),NO_SOURCE
+BYD,Datang DM,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Datang DM,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Datang DM,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Song L DM-i,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Song L DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Song L DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Song L DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Song L EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Song L EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Song L EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Song L EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Song Ultra DM-i,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Song Ultra DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Song Ultra DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Song Ultra DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Song Pro,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Song Pro,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Song Pro,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Tang DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Tang DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Tang DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Tang EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Tang EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Tang EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Tang L DM,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Tang L DM,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Tang L DM,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Tang L DM,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Yuan Plus,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Yuan Plus,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Yuan Plus,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Yuan Up (PHEV),exterior colours,exterior colours (no colour photos on any trim),GAP
+BYD,Yuan Up (PHEV),OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Yuan Up (PHEV),official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Yuan Up (PHEV),exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Xia,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Xia,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Xia,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Xia,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Destroyer 05,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Destroyer 05,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Destroyer 05,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Seal,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Seal,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Seal,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Seal 05 DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Seal 05 DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Seal 05 DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Seal 06 DM-i,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Seal 06 DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Seal 06 DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Seal 06 DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Seal 07 DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Seal 07 DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Seal 07 DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Seal 08 DM-i,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Seal 08 DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Seal 08 DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Seal 08 DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Seal 06 DM-i Touring,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Seal 06 DM-i Touring,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Seal 06 DM-i Touring,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Seal 06 DM-i Touring,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Dolphin,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Dolphin,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Dolphin,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,e2,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,e2,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,e2,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Seagull,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Seagull,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Seagull,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Seal 06 GT,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Seal 06 GT,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Seal 06 GT,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Seal 06 GT,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Sealion 05 DM-i,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Sealion 05 DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Sealion 05 DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Sealion 05 DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Sealion 06 DM-i,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Sealion 06 DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Sealion 06 DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Sealion 06 DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Sealion 07 EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Sealion 07 EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Sealion 07 EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Sealion 08 DM-i,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Sealion 08 DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Sealion 08 DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Sealion 08 DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Song Plus DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Song Plus DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Song Plus DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,e6,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,e6,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,e6,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,e6,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Han EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Han EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Han EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Han L EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Han L EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Han L EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Han L EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Qin Max EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Qin Max EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Qin Max EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Qin Max EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Qin Plus EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Qin Plus EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Qin Plus EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Seal 06 EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Seal 06 EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Seal 06 EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Seal 06 EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Seal 07 EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Seal 07 EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Seal 07 EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Seal 08 EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Seal 08 EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Seal 08 EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Seal 08 EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Dolphin G DM-i,no Autohome series/trims,no Autohome series/trims (not listed on Autohome),NO_SOURCE
+BYD,Dolphin G DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Dolphin G DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Dolphin G DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Racco,exterior colours,exterior colours (no colour photos on any trim),GAP
+BYD,Racco,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Racco,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Racco,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Datang EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Datang EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Datang EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Datang EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Sealion 05 EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Sealion 05 EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Sealion 05 EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Sealion 05 EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Sealion 06 EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Sealion 06 EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Sealion 06 EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Sealion 06 EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Sealion 08 EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Sealion 08 EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Sealion 08 EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Sealion 08 EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Song Plus EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Song Plus EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Song Plus EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Song Ultra EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Song Ultra EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Song Ultra EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Song Ultra EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Tang L EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Tang L EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Tang L EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Tang L EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Ti 7,no Autohome series/trims,no Autohome series/trims (Export rebadge of Fangchengbao Ti7),NO_SOURCE
+BYD,Ti 7,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Ti 7,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Ti 7,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Yuan Up (BEV),paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Yuan Up (BEV),OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Yuan Up (BEV),official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Yuan Up (BEV),exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,M6 DM,no Autohome series/trims,no Autohome series/trims (Based on Song Max),NO_SOURCE
+BYD,M6 DM,doors,doors,GAP
+BYD,M6 DM,dimensions,dimensions,GAP
+BYD,M6 DM,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,M6 DM,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,M6 DM,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,M6 EV,no Autohome series/trims,no Autohome series/trims (Based on e6 and Song Max),NO_SOURCE
+BYD,M6 EV,doors,doors,GAP
+BYD,M6 EV,dimensions,dimensions,GAP
+BYD,M6 EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,M6 EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,M6 EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Mako,no Autohome series/trims,no Autohome series/trims (not listed on Autohome),NO_SOURCE
+BYD,Mako,sourced model-years,sourced model-years,GAP
+BYD,Mako,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Mako,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Mako,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Shark 6,exterior colours,exterior colours (no colour photos on any trim),GAP
+BYD,Shark 6,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Shark 6,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Shark 6,exterior design description,no source text describes styling beyond body class,GLOBAL
+Linghui,e5,no Autohome series/trims,no Autohome series/trims (Based on Qin Plus EV),NO_SOURCE
+Linghui,e5,sourced model-years,sourced model-years,GAP
+Linghui,e5,doors,doors,GAP
+Linghui,e5,dimensions,dimensions,GAP
+Linghui,e5,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Linghui,e5,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Linghui,e5,exterior design description,no source text describes styling beyond body class,GLOBAL
+Linghui,e7,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Linghui,e7,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Linghui,e7,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Linghui,e7,exterior design description,no source text describes styling beyond body class,GLOBAL
+Linghui,e9,no Autohome series/trims,no Autohome series/trims (Based on Han EV),NO_SOURCE
+Linghui,e9,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Linghui,e9,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Linghui,e9,exterior design description,no source text describes styling beyond body class,GLOBAL
+Linghui,M9,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Linghui,M9,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Linghui,M9,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Linghui,M9,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,Z9S,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,Z9S,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,Z9S,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,Z9S,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,Z9 GT PHEV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,Z9 GT PHEV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,Z9 GT PHEV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,Z9 GT PHEV,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,Z9 GT EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,Z9 GT EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,Z9 GT EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,Z9 GT EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,Z Coupe,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,Z Coupe,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,Z Coupe,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,Z Coupe,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,Z Spider,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,Z Spider,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,Z Spider,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,Z Spider,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,B5,no Autohome series/trims,no Autohome series/trims (Rebadged Fangchengbao Bao 5 for export),NO_SOURCE
+Denza,B5,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,B5,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,B5,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,B8,no Autohome series/trims,no Autohome series/trims (Rebadged Fangchengbao Bao 8 for export),NO_SOURCE
+Denza,B8,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,B8,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,B8,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,B3,no Autohome series/trims,no Autohome series/trims (Rebadged Fangchengbao Tai 3 for export),NO_SOURCE
+Denza,B3,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,B3,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,B3,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,N8 PHEV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,N8 PHEV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,N8 PHEV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,N8 PHEV,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,N8 EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,N8 EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,N8 EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,N8 EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,N8L PHEV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,N8L PHEV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,N8L PHEV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,N8L PHEV,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,N8L EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,N8L EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,N8L EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,N8L EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,N9,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,N9,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,N9,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,N9,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,D9 DM-i,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,D9 DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,D9 DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,D9 DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,D9 EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,D9 EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,D9 EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,D9 EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,Z9,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,Z9,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,Z9,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,Z9,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,400/500/EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,400/500/EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,400/500/EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,400/500/EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,X,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,X,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,X,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,X,exterior design description,no source text describes styling beyond body class,GLOBAL
+Denza,N7,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Denza,N7,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Denza,N7,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Denza,N7,exterior design description,no source text describes styling beyond body class,GLOBAL
+Yangwang,Altior,exterior colours,exterior colours (no colour photos on any trim),GAP
+Yangwang,Altior,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Yangwang,Altior,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Yangwang,Altior,exterior design description,no source text describes styling beyond body class,GLOBAL
+Yangwang,U7 PHEV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Yangwang,U7 PHEV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Yangwang,U7 PHEV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Yangwang,U7 PHEV,exterior design description,no source text describes styling beyond body class,GLOBAL
+Yangwang,U7 EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Yangwang,U7 EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Yangwang,U7 EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Yangwang,U7 EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+Yangwang,U8,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Yangwang,U8,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Yangwang,U8,exterior design description,no source text describes styling beyond body class,GLOBAL
+Yangwang,U8L,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Yangwang,U8L,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Yangwang,U8L,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Yangwang,U8L,exterior design description,no source text describes styling beyond body class,GLOBAL
+Yangwang,U9,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Yangwang,U9,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Yangwang,U9,exterior design description,no source text describes styling beyond body class,GLOBAL
+Fangchengbao,Formula S,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Fangchengbao,Formula S,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Fangchengbao,Formula S,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Fangchengbao,Formula S,exterior design description,no source text describes styling beyond body class,GLOBAL
+Fangchengbao,Formula SL,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Fangchengbao,Formula SL,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Fangchengbao,Formula SL,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Fangchengbao,Formula SL,exterior design description,no source text describes styling beyond body class,GLOBAL
+Fangchengbao,Formula S GT,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Fangchengbao,Formula S GT,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Fangchengbao,Formula S GT,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Fangchengbao,Formula S GT,exterior design description,no source text describes styling beyond body class,GLOBAL
+Fangchengbao,Bao 5,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Fangchengbao,Bao 5,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Fangchengbao,Bao 5,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Fangchengbao,Bao 5,exterior design description,no source text describes styling beyond body class,GLOBAL
+Fangchengbao,Bao 8,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Fangchengbao,Bao 8,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Fangchengbao,Bao 8,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Fangchengbao,Bao 8,exterior design description,no source text describes styling beyond body class,GLOBAL
+Fangchengbao,Tai 3,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Fangchengbao,Tai 3,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Fangchengbao,Tai 3,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Fangchengbao,Tai 3,exterior design description,no source text describes styling beyond body class,GLOBAL
+Fangchengbao,Ti7 (PHEV),paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Fangchengbao,Ti7 (PHEV),OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Fangchengbao,Ti7 (PHEV),official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Fangchengbao,Ti7 (PHEV),exterior design description,no source text describes styling beyond body class,GLOBAL
+Fangchengbao,Ti7 (BEV),paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Fangchengbao,Ti7 (BEV),OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Fangchengbao,Ti7 (BEV),official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Fangchengbao,Ti7 (BEV),exterior design description,no source text describes styling beyond body class,GLOBAL
+Fangchengbao,Ti9,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Fangchengbao,Ti9,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Fangchengbao,Ti9,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Fangchengbao,Ti9,exterior design description,no source text describes styling beyond body class,GLOBAL
+Fangchengbao,Shark,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+Fangchengbao,Shark,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Fangchengbao,Shark,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Fangchengbao,Shark,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,e3,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,e3,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,e3,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,e3,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,e5,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,e5,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,e5,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,e5,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,F3,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,F3,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,F3,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,F3DM,doors,doors,GAP
+BYD,F3DM,exterior colours,exterior colours (no colour photos on any trim),GAP
+BYD,F3DM,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,F3DM,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,F3DM,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,F6,doors,doors,GAP
+BYD,F6,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,F6,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,F6,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,F6,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,G3,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,G3,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,G3,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,G5,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,G5,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,G5,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,G5,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,G6,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,G6,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,G6,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,G6,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,L3 / New F3,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,L3 / New F3,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,L3 / New F3,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Qin,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Qin,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Qin,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Qin,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Qin Pro,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Qin Pro,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Qin Pro,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Qin Pro,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Sirui,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Sirui,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Sirui,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Sirui,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Surui,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Surui,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Surui,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Surui,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,S8,exterior colours,exterior colours (no colour photos on any trim),GAP
+BYD,S8,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,S8,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,S8,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,e1,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,e1,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,e1,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,e1,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,F0,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,F0,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,F0,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Flyer,exterior colours,exterior colours (no colour photos on any trim),GAP
+BYD,Flyer,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Flyer,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Flyer,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,F3R,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,F3R,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,F3R,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,F3R,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,G3R,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,G3R,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,G3R,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,G3R,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Frigate 07,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Frigate 07,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Frigate 07,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Frigate 07,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,S1,no Autohome series/trims,no Autohome series/trims (not listed on Autohome),NO_SOURCE
+BYD,S1,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,S1,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,S1,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,S2,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,S2,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,S2,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,S2,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,S6,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,S6,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,S6,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,S6,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,S7,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,S7,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,S7,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Sealion 07 DM-i,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Sealion 07 DM-i,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Sealion 07 DM-i,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Sealion 07 DM-i,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Song,doors,doors,GAP
+BYD,Song,dimensions,dimensions,GAP
+BYD,Song,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Song,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Song,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Tang,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Tang,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Tang,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Tang,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Yuan,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Yuan,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Yuan,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,D1,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,D1,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,D1,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,D1,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,M6 (2010),doors,doors,GAP
+BYD,M6 (2010),paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,M6 (2010),OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,M6 (2010),official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,M6 (2010),exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Song Max,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Song Max,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Song Max,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Song Max,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Han DM,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Han DM,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Han DM,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Han DM-p,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Han DM-p,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Han DM-p,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Han DM-p,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Tang DM-p,doors,doors,GAP
+BYD,Tang DM-p,dimensions,dimensions,GAP
+BYD,Tang DM-p,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Tang DM-p,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Tang DM-p,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,"e9 (BYD brand, 2021)",doors,doors,GAP
+BYD,"e9 (BYD brand, 2021)",dimensions,dimensions,GAP
+BYD,"e9 (BYD brand, 2021)",paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,"e9 (BYD brand, 2021)",OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,"e9 (BYD brand, 2021)",official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,"e9 (BYD brand, 2021)",exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Song Pro EV,doors,doors,GAP
+BYD,Song Pro EV,dimensions,dimensions,GAP
+BYD,Song Pro EV,paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Song Pro EV,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Song Pro EV,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Song Pro EV,exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Song Plus (ICE),doors,doors,GAP
+BYD,Song Plus (ICE),dimensions,dimensions,GAP
+BYD,Song Plus (ICE),paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Song Plus (ICE),OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Song Plus (ICE),official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Song Plus (ICE),exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Song Pro (ICE),paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Song Pro (ICE),OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Song Pro (ICE),official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Song Pro (ICE),exterior design description,no source text describes styling beyond body class,GLOBAL
+BYD,Tang (ICE),doors,doors,GAP
+BYD,Tang (ICE),dimensions,dimensions,GAP
+BYD,Tang (ICE),paint code,paint code (no retailer candidate linked; none verified anyway),GAP
+BYD,Tang (ICE),OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+BYD,Tang (ICE),official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+BYD,Tang (ICE),exterior design description,no source text describes styling beyond body class,GLOBAL
+Yangwang,U9 Xtreme,doors,doors,GAP
+Yangwang,U9 Xtreme,dimensions,dimensions,GAP
+Yangwang,U9 Xtreme,exterior colours,exterior colours (no colour photos on any trim),GAP
+Yangwang,U9 Xtreme,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Yangwang,U9 Xtreme,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Yangwang,U9 Xtreme,exterior design description,no source text describes styling beyond body class,GLOBAL
+Fangchengbao,Ti6,doors,doors,GAP
+Fangchengbao,Ti6,dimensions,dimensions,GAP
+Fangchengbao,Ti6,exterior colours,exterior colours (no colour photos on any trim),GAP
+Fangchengbao,Ti6,OEM-verified paint code,no OEM or exact-vehicle evidence for any model; supplier-catalog codes are POSSIBLE at best,GLOBAL
+Fangchengbao,Ti6,official English colour names,only unofficial literal glosses exist for China-market colours,GLOBAL
+Fangchengbao,Ti6,exterior design description,no source text describes styling beyond body class,GLOBAL

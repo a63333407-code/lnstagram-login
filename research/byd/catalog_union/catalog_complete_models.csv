@@ -1,0 +1,138 @@
+model_id,brand,series,model_key,name_zh,alt_names,powertrain,generations,generation_names,status_values,documented_intro_years,sourced_model_years,sourced_year_range,trims,colour_records,distinct_zh_colours,colours_with_possible_code,doors_documented,body_style_documented,dimensions_documented,images_exterior,images_interior_cockpit,images_seats,images_official_press,autohome_series,research_status,missing,origin
+M001,BYD,Dynasty,Dahan EV,大汉EV,,BEV,1,Dahan EV,current,2026,1,2026-2026,3,13,9,0,True,True,True,121,267,280,15,大汉(8517),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M002,BYD,Dynasty,Han DM-i,汉DM-i,,PHEV,1,Han DM-i,current,2020,6,2020-2027,31,19,11,4,True,True,True,548,2056,1861,9,汉(5499),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M003,BYD,Dynasty,Han L DM,汉L DM,,PHEV,1,Han L DM,current,2025,1,2025-2025,3,4,4,0,True,True,True,72,207,266,11,汉L(7859),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M004,BYD,Dynasty,Qin L DM-i,秦L DM-i,Seal 6 DM-i,PHEV,1,Qin L DM-i,current,2024,3,2024-2026,17,15,8,0,True,True,True,494,1498,1483,47,秦L(7578),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M005,BYD,Dynasty,Qin L EV,秦L EV,Seal 6 EV,BEV,1,Qin L EV,current,2025,1,2025-2025,4,7,7,0,True,True,True,186,403,400,14,秦L(7578),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M006,BYD,Dynasty,Qin Max DM-i,秦MAX DM-i,,PHEV,1,Qin Max DM-i,current,2026,1,2026-2026,4,6,6,0,True,True,True,164,277,344,0,秦MAX(8463),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M007,BYD,Dynasty,Qin Plus DM-i,秦PLUS DM-i,Qin Plus,PHEV,2,Qin Plus DM-i | Qin Plus DM-i (2nd gen),current,2021;2026,6,2021-2027,26,32,16,10,True,True,True,589,1762,1662,40,秦PLUS(5964),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M008,BYD,Dynasty,Datang DM,大唐DM,,PHEV,1,Datang DM,current,2026,1,2026-2026,0,0,0,0,True,True,True,0,0,0,0,,NO_SOURCE_DATA_FOUND,no Autohome series/trims,batch1 list only
+M009,BYD,Dynasty,Song L DM-i,宋L DM-i,,PHEV,1,Song L DM-i,current,2024,3,2024-2026,12,13,7,0,True,True,True,390,907,894,25,宋L DM-i(7815),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M010,BYD,Dynasty,Song L EV,宋L EV,,BEV,1,Song L EV,current,2023,4,2023-2026,15,9,6,0,True,True,True,251,1119,1072,35,宋L EV(7220),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M011,BYD,Dynasty,Song Ultra DM-i,宋Ultra DM-i,,PHEV,1,Song Ultra DM-i,current,2026,1,2026-2026,5,6,6,0,True,True,True,168,359,362,0,宋Ultra(8511),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M012,BYD,Dynasty,Song Pro,宋Pro DM-i,Song Pro; Sealion 5 DM-i,PHEV,2,Song Pro | Song Pro [generation unspecified],current;unknown,2019,6,2019-2026,34,27,12,11,True,True,True,853,2359,2134,30,宋Pro新能源(5279),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M013,BYD,Dynasty,Tang DM-i,唐DM-i,Tang DM-i,PHEV,1,Tang DM-i,current,2018,8,2018-2025,40,28,9,17,True,True,True,679,2218,2315,20,唐新能源(3430),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M014,BYD,Dynasty,Tang EV,唐EV,Tang; Tan; Sealion 8,BEV,3,Tang EV (3rd gen) | Tang EV (2022) | Tang EV [generation unspecified],current;unknown,2022;2026,8,2018-2027,19,19,12,7,True,True,True,277,1235,1280,61,唐新能源(3430),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M015,BYD,Dynasty,Tang L DM,唐L DM,Sealion 8 DM-i; Atto 8,PHEV,1,Tang L DM,current,2025,1,2025-2025,3,4,4,0,True,True,True,111,244,324,8,唐L(8005),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M016,BYD,Dynasty,Yuan Plus,元PLUS,Atto 3; Yuan Plus,BEV,2,Yuan Plus (1st gen) | Yuan Plus (2nd gen),current,2022;2026,5,2022-2026,27,42,21,21,True,True,True,763,2045,1957,98,元PLUS(6298),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M017,BYD,Dynasty,Yuan Up (PHEV),,Atto 2 DM-i; Yuan Up DM-i; Yuan Pro DM-i,PHEV,1,Yuan Up (PHEV),current,2025,2,2025-2026,1,0,0,0,True,True,True,0,0,0,12,元UP(7538),PARTIAL,exterior colours,batch4
+M018,BYD,Dynasty,Xia,夏,M9; eMax 9 DM-i,PHEV,1,Xia,current,2024,3,2024-2026,8,8,5,0,True,True,True,218,611,777,26,夏(7851),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M019,BYD,Ocean,Destroyer 05,驱逐舰05,Chazor; King; Seal 5 DM-i,PHEV,1,Destroyer 05,current,2022,4,2022-2025,21,14,6,8,True,True,True,325,1275,1058,20,驱逐舰05(6337),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M020,BYD,Ocean,Seal,海豹,Seal,BEV,1,Seal,current,2022,4,2022-2025,24,35,8,19,True,True,True,417,1683,1595,63,海豹(6394),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M021,BYD,Ocean,Seal 05 DM-i,海豹05 DM-i,Seal 5 DM-i; King,PHEV,1,Seal 05 DM-i,current,2025,2,2025-2026,6,8,4,4,True,True,True,173,484,516,6,海豹05 DM-i(7981),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M022,BYD,Ocean,Seal 06 DM-i,海豹06 DM-i,Seal 6 DM-i,PHEV,3,Seal 06 DM-i | Seal 06 DM-i (2nd gen) | Seal 06 DM-i [generation unspecified],current;unknown,2024;2026,4,2024-2027,19,17,8,0,True,True,True,642,1817,1778,23,海豹06(7588),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M023,BYD,Ocean,Seal 07 DM-i,海豹07 DM-i,Seal 7 DM-i,PHEV,3,Seal 07 DM-i | Seal 07 DM-i (2nd gen) | Seal 07 DM-i [generation unspecified],current;unknown,2023;2026,5,2023-2027,27,23,11,7,True,True,True,474,2024,1957,60,海豹(6394);海豹07(7822),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M024,BYD,Ocean,Seal 08 DM-i,海豹08 DM-i,,PHEV,1,Seal 08 DM-i,current,2026,1,2026-2026,3,6,6,0,True,True,True,86,112,156,11,海豹08(8485),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M025,BYD,Ocean,Seal 06 DM-i Touring,海豹06 DM-i旅行版,Seal 6 DM-i Touring,PHEV,1,Seal 06 DM-i Touring,current,2025,2,2025-2026,8,9,6,0,True,True,True,228,748,766,8,海豹06 DM-i旅行版(8201),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M026,BYD,Ocean,Dolphin,海豚,Dolphin; E2,BEV,1,Dolphin,current,2021,5,2021-2026,22,33,12,23,True,True,True,477,2123,1864,98,海豚(6139),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M027,BYD,Ocean,e2,e2,e2,BEV,1,e2,current,2019,5,2019-2024,20,26,8,4,True,True,True,272,948,800,21,比亚迪e2(5238),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M028,BYD,Ocean,Seagull,海鸥,Seagull; Dolphin Mini; Dolphin Surf; Atto 1,BEV,2,Seagull (1st gen) | Seagull (2nd gen),current,2023;2026,5,2023-2027,23,35,11,13,True,True,True,587,1720,1891,62,海鸥(6762),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M029,BYD,Ocean,Seal 06 GT,海豹06 GT,,BEV,1,Seal 06 GT,current,2024,3,2024-2026,13,11,9,0,True,True,True,454,913,1027,7,海豹06GT(7694),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M030,BYD,Ocean,Sealion 05 DM-i,海狮05 DM-i,,PHEV,3,Sealion 05 DM-i (2nd gen) | Sealion 05 DM-i (1st gen) | Sealion 05 DM-i [generation unspecified],current;discontinued;unknown,2024;2026,3,2024-2026,13,11,11,0,True,True,True,463,895,891,13,海狮05 DM-i(7807),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M031,BYD,Ocean,Sealion 06 DM-i,海狮06 DM-i,,PHEV,1,Sealion 06 DM-i,current,2025,2,2025-2026,7,11,6,0,True,True,True,272,651,737,4,海狮06(8087),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M032,BYD,Ocean,Sealion 07 EV,海狮07 EV,Sealion 7,BEV,1,Sealion 07 EV,current,2024,2,2024-2025,9,8,4,2,True,True,True,225,764,782,78,海狮07 EV(6851),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M033,BYD,Ocean,Sealion 08 DM-i,海狮08 DM-i,,PHEV,1,Sealion 08 DM-i,current,2026,1,2026-2026,4,5,5,0,True,True,True,124,315,361,8,海狮08(8484),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M034,BYD,Ocean,Song Plus DM-i,宋PLUS DM-i,Seal U DM-i; Sealion 6 DM-i,PHEV,1,Song Plus DM-i,current,2020,5,2020-2025,22,16,7,11,True,True,True,412,1251,1140,29,宋PLUS新能源(5761),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M035,BYD,Ocean,e6,e6,e6,BEV,3,e6 | e6 (2009) | e6 [generation unspecified],current;discontinued;unknown,2009;2021,8,2009-2023,15,6,4,0,True,True,True,197,443,465,22,比亚迪e6(831),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M036,BYD,,Han EV,汉EV,Han,BEV,1,Han EV,current,,7,2020-2026,33,31,13,10,True,True,True,567,2460,2369,64,汉(5499),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M037,BYD,,Han L EV,汉L EV,,BEV,1,Han L EV,current,,1,2025-2025,3,4,4,0,True,True,True,104,193,213,6,汉L(7859),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M038,BYD,,Qin Max EV,秦MAX EV,,BEV,1,Qin Max EV,current,,1,2026-2026,5,6,6,0,True,True,True,172,394,394,12,秦MAX(8463),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M039,BYD,,Qin Plus EV,秦PLUS EV,,BEV,1,Qin Plus EV,current,,4,2021-2025,27,16,8,8,True,True,True,397,1487,1475,41,秦PLUS(5964),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M040,BYD,,Seal 06 EV,海豹06 EV,,BEV,1,Seal 06 EV,current,2025,3,2025-2027,9,9,7,0,True,True,True,301,728,808,9,海豹06(7588),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M041,BYD,,Seal 07 EV,海豹07 EV,,BEV,3,Seal 07 EV | Seal 07 EV (2nd gen) | Seal 07 EV [generation unspecified],current;unknown,2026,2,2026-2027,4,11,10,4,True,True,True,149,457,453,20,海豹07(7822),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M042,BYD,,Seal 08 EV,海豹08 EV,,BEV,1,Seal 08 EV,current,,1,2026-2026,4,6,6,0,True,True,True,149,403,411,0,海豹08(8485),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M043,BYD,,Dolphin G DM-i,,Dolphin G DM-i,PHEV,1,Dolphin G DM-i,current,2026,1,2026-2026,0,0,0,0,True,True,True,0,0,0,0,,NO_SOURCE_DATA_FOUND,no Autohome series/trims,batch1 list only
+M044,BYD,,Racco,,,BEV,1,Racco,current,2026,1,2026-2026,1,0,0,0,True,True,True,0,0,0,11,BYD Racco(8397),PARTIAL,exterior colours,batch4
+M045,BYD,,Datang EV,大唐EV,,BEV,1,Datang EV,current,,1,2026-2026,7,5,5,0,True,True,True,209,375,565,17,大唐(8102),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M046,BYD,,Sealion 05 EV,海狮05 EV,,BEV,1,Sealion 05 EV,current,2025,2,2025-2026,7,10,6,0,True,True,True,235,546,588,16,海狮05 EV(7982),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M047,BYD,,Sealion 06 EV,海狮06 EV,Song Plus,BEV,1,Sealion 06 EV,current,,2,2025-2026,8,11,6,0,True,True,True,292,718,815,3,海狮06(8087),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M048,BYD,,Sealion 08 EV,海狮08 EV,,BEV,1,Sealion 08 EV,current,,1,2026-2026,4,5,5,0,True,True,True,126,269,354,3,海狮08(8484),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M049,BYD,,Song Plus EV,宋PLUS EV,Seal U EV,BEV,1,Song Plus EV,current,,4,2021-2025,17,18,6,10,True,True,True,384,967,921,11,宋PLUS新能源(5761),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M050,BYD,,Song Ultra EV,宋Ultra EV,,BEV,1,Song Ultra EV,current,,1,2026-2026,3,6,6,0,True,True,True,134,266,300,8,宋Ultra(8511),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M051,BYD,,Tang L EV,唐L EV,,BEV,1,Tang L EV,current,,1,2025-2025,3,5,5,0,True,True,True,96,345,397,9,唐L(8005),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M052,BYD,,Ti 7,,Ti 7; Titan 7,PHEV,1,Ti 7,current,2026,1,2026-2026,0,0,0,0,True,True,True,0,0,0,0,,NO_SOURCE_DATA_FOUND,no Autohome series/trims,batch1 list only
+M053,BYD,,Yuan Up (BEV),元UP,Atto 2; Yuan Up; Yuan Pro; S1 Pro,BEV,1,Yuan Up (BEV),current,2024,3,2024-2027,13,16,8,0,True,True,True,533,1081,926,95,元UP(7538),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M054,BYD,,M6 DM,,M6 DM,PHEV,1,M6 DM,current,2026,1,2026-2026,0,0,0,0,False,True,False,0,0,0,0,,NO_SOURCE_DATA_FOUND,no Autohome series/trims ; doors ; dimensions,batch1 list only
+M055,BYD,,M6 EV,,M6 EV; eMax 7,BEV,1,M6 EV,current,2024,1,2024-2024,0,0,0,0,False,True,False,0,0,0,0,,NO_SOURCE_DATA_FOUND,no Autohome series/trims ; doors ; dimensions,batch1 list only
+M056,BYD,,Mako,,Mako,PHEV,1,Mako,upcoming,,0,,0,0,0,0,True,True,True,0,0,0,0,,NO_SOURCE_DATA_FOUND,no Autohome series/trims ; sourced model-years,batch1 list only
+M057,BYD,,Shark 6,,Shark 6; Shark,PHEV,1,Shark 6,current,2024,2,2024-2025,2,0,0,0,True,True,True,15,26,18,17,BYD SHARK(7257),PARTIAL,exterior colours,batch4
+M058,Linghui,,e5,领汇e5,,BEV,1,e5,upcoming,,0,,0,0,0,0,False,True,False,0,0,0,0,,NO_SOURCE_DATA_FOUND,no Autohome series/trims ; sourced model-years ; doors ; dimensions,batch1 list only
+M059,Linghui,,e7,领汇e7,,BEV,1,e7,current,2026,2,2025-2026,5,4,4,0,True,True,True,79,243,232,3,比亚迪e7(8015),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M060,Linghui,,e9,领汇e9,,BEV,1,e9,current,2026,1,2026-2026,0,0,0,0,True,True,True,0,0,0,0,,NO_SOURCE_DATA_FOUND,no Autohome series/trims,batch1 list only
+M061,Linghui,,M9,领汇M9,,PHEV,1,M9,current,2026,2,2025-2026,2,2,2,0,True,True,True,24,100,112,5,比亚迪M9(8184),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M062,Denza,,Z9S,腾势Z9S,,BEV,1,Z9S,current,2026,1,2026-2026,3,7,7,0,True,True,True,94,233,272,7,腾势Z9S(8758),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M063,Denza,,Z9 GT PHEV,腾势Z9 GT插混,,PHEV,1,Z9 GT PHEV,current,2024,1,2024-2024,5,4,4,0,True,True,True,124,456,420,9,腾势Z9GT(7659),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M064,Denza,,Z9 GT EV,腾势Z9 GT纯电,,BEV,1,Z9 GT EV,current,,1,2024-2024,2,4,4,0,True,True,True,45,163,152,33,腾势Z9GT(7659),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M065,Denza,,Z Coupe,腾势Z硬頂,,BEV,1,Z Coupe,current,2026,1,2026-2026,1,1,1,0,True,True,True,8,66,40,0,腾势Z(8107),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M066,Denza,,Z Spider,腾势Z敞篷,,BEV,1,Z Spider,current,,1,2026-2026,1,2,2,0,True,True,True,24,112,71,0,腾势Z(8107),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M067,Denza,,B5,,,PHEV,1,B5,current,2025,1,2025-2025,0,0,0,0,True,True,True,0,0,0,0,,NO_SOURCE_DATA_FOUND,no Autohome series/trims,batch1 list only
+M068,Denza,,B8,,,PHEV,1,B8,current,2025,1,2025-2025,0,0,0,0,True,True,True,0,0,0,0,,NO_SOURCE_DATA_FOUND,no Autohome series/trims,batch1 list only
+M069,Denza,,B3,,,BEV,1,B3,current,2026,1,2026-2026,0,0,0,0,True,True,True,0,0,0,0,,NO_SOURCE_DATA_FOUND,no Autohome series/trims,batch1 list only
+M070,Denza,,N8 PHEV,腾势N8插混,,PHEV,1,N8 PHEV,current,2026,2,2023-2026,2,5,5,0,True,True,True,48,222,238,18,腾势N8(7179),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M071,Denza,,N8 EV,腾势N8纯电,,BEV,1,N8 EV,current,2026,2,2023-2026,4,3,3,0,True,True,True,47,230,334,24,腾势N8(7179),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M072,Denza,,N8L PHEV,腾势N8L插混,,PHEV,1,N8L PHEV,current,2025,2,2025-2026,5,7,4,0,True,True,True,174,672,732,9,腾势N8L(8159),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M073,Denza,,N8L EV,腾势N8L纯电,,BEV,1,N8L EV,current,2026,1,2026-2026,2,3,3,0,True,True,True,61,250,304,4,腾势N8L(8159),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M074,Denza,,N9,腾势N9,,PHEV,1,N9,current,2024,4,2024-2027,10,14,11,0,True,True,True,294,1258,1423,23,腾势N9(7839),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M075,Denza,,D9 DM-i,腾势D9插混,,PHEV,2,D9 DM-i | D9 DM-i [generation unspecified],current;unknown,2022,5,2022-2026,22,18,11,0,True,True,True,505,1827,2071,101,腾势D9(6669),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M076,Denza,,D9 EV,腾势D9纯电,,BEV,2,D9 EV | D9 EV [generation unspecified],current;unknown,,4,2022-2026,13,17,10,0,True,True,True,225,993,1348,15,腾势D9(6669),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M077,Denza,,Z9,腾势Z9,,BEV/PHEV,1,Z9,discontinued,2024,2,2024-2026,6,4,4,0,True,True,True,112,401,414,13,腾势Z9(7838),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M078,Denza,,400/500/EV,腾势400/500/EV,,BEV,1,400/500/EV,discontinued,2014,3,2014-2018,8,8,4,0,True,True,True,92,378,427,0,腾势(2805),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M079,Denza,,X,腾势X,,PHEV/BEV,1,X,discontinued,2019,2,2019-2020,6,6,6,0,True,True,True,75,450,406,12,腾势X(5323),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M080,Denza,,N7,腾势N7,,BEV,1,N7,discontinued,2023,3,2023-2025,12,17,9,0,True,True,True,287,1460,1414,52,腾势N7(6898),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M081,Yangwang,,Altior,仰望鼎耀,,,1,Altior,upcoming,,1,2027-2027,2,0,0,0,True,True,True,6,0,0,61,仰望鼎曜(8811),PARTIAL,exterior colours,batch4
+M082,Yangwang,,U7 PHEV,仰望U7 PHEV,,PHEV,1,U7 PHEV,current,2024,3,2024-2026,4,7,6,0,True,True,True,64,317,345,1,仰望U7(7391),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M083,Yangwang,,U7 EV,仰望U7 EV,,BEV,1,U7 EV,current,2024,3,2024-2026,5,11,6,0,True,True,True,125,405,504,30,仰望U7(7391),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M084,Yangwang,,U8,仰望U8,,Range-extended electric,1,U8,current,2023,3,2023-2026,4,11,7,1,True,True,True,109,579,575,78,仰望U8(7003),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M085,Yangwang,,U8L,仰望U8L,,Range-extended electric,1,U8L,current,2025,2,2025-2026,3,6,5,0,True,True,True,118,502,608,67,仰望U8 L(8266),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M086,Yangwang,,U9,仰望U9,,BEV,1,U9,current,2023,3,2023-2025,3,3,3,1,True,True,True,33,65,66,77,仰望U9(7116),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M087,Fangchengbao,,Formula S,方程S,,BEV,1,Formula S,current,2026,1,2026-2026,5,6,6,0,True,True,True,150,430,457,3,方程S(8596),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M088,Fangchengbao,,Formula SL,方程SL,,BEV,1,Formula SL,upcoming,,1,2026-2026,1,1,1,0,True,True,True,8,0,0,0,方程S(8596),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M089,Fangchengbao,,Formula S GT,方程S GT,,BEV,1,Formula S GT,current,2026,1,2026-2026,3,4,4,0,True,True,True,54,258,247,3,方程S(8596),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M090,Fangchengbao,,Bao 5,豹5,,PHEV,1,Bao 5,current,2023,4,2023-2026,17,21,9,0,True,True,True,437,2139,1919,42,豹5(7177),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M091,Fangchengbao,,Bao 8,豹8,,PHEV,1,Bao 8,current,2024,4,2023-2026,14,8,4,0,True,True,True,325,1110,1253,40,豹8(7353),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M092,Fangchengbao,,Tai 3,鈦3,,BEV,1,Tai 3,current,2025,3,2023-2026,13,12,7,0,True,True,True,381,1101,1106,45,钛3(7356),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M093,Fangchengbao,,Ti7 (PHEV),鈦7,,PHEV,1,Ti7 (PHEV),current,2025,1,2025-2025,4,7,7,0,True,True,True,191,729,764,29,钛7(8171),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M094,Fangchengbao,,Ti7 (BEV),鈦7,,BEV,1,Ti7 (BEV),current,2026,1,2026-2026,3,7,7,0,True,True,True,146,296,384,3,钛7(8171),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M095,Fangchengbao,,Ti9,鈦9,,PHEV,1,Ti9,current,2026,2,2026-2027,1,3,3,0,True,True,True,55,87,98,7,钛9(8708),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M096,Fangchengbao,,Shark,鲨鱼,,PHEV,1,Shark,current,2026,1,2026-2026,1,2,2,0,True,True,True,16,74,61,12,鲨鱼(8734),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M097,BYD,Legacy,e3,e3,,BEV,1,e3,discontinued,2019,4,2019-2024,10,7,4,0,True,True,True,99,418,395,3,比亚迪e3(5371),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M098,BYD,Legacy,e5,e5,,BEV,1,e5,discontinued,2015,4,2015-2018,7,3,1,0,True,True,True,51,261,191,0,比亚迪e5(4073),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M099,BYD,Legacy,F3,F3,,,1,F3,discontinued,2005,12,2005-2020,42,25,5,8,True,True,True,429,1060,1024,8,比亚迪F3(407),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M100,BYD,Legacy,F3DM,F3DM,,PHEV,1,F3DM,discontinued,2008,2,2008-2010,2,0,0,0,False,True,True,33,48,36,0,比亚迪F3新能源(4333),PARTIAL,doors ; exterior colours,batch4
+M101,BYD,Legacy,F6,F6,,,1,F6,discontinued,2008,3,2008-2011,8,2,1,0,False,True,True,63,253,264,0,比亚迪F6(540),COMPLETE_FOR_AVAILABLE_SOURCES,doors ; paint code,batch4
+M102,BYD,Legacy,G3,G3,,,1,G3,discontinued,2009,5,2009-2013,10,7,4,3,True,True,True,89,315,250,0,比亚迪G3(927),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M103,BYD,Legacy,G5,G5,,,1,G5,discontinued,2014,1,2014-2014,6,4,4,0,True,True,True,111,292,266,0,比亚迪G5(3283),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M104,BYD,Legacy,G6,G6,,,1,G6,discontinued,2011,3,2011-2013,13,11,5,0,True,True,True,219,845,779,0,比亚迪G6(2091),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M105,BYD,Legacy,L3 / New F3,L3,,,1,L3 / New F3,discontinued,2010,5,2010-2015,12,16,6,2,True,True,True,219,521,365,0,比亚迪L3(2085),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M106,BYD,Legacy,Qin,秦,,ICE/PHEV/BEV,1,Qin,discontinued,2012,9,2012-2024,32,18,7,0,True,True,True,336,1446,1266,14,秦(5365);秦新能源(2761),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M107,BYD,Legacy,Qin Pro,秦Pro,,ICE/PHEV/BEV,1,Qin Pro,discontinued,2018,3,2018-2020,40,10,4,0,True,True,True,298,1704,1419,25,秦Pro(4900);秦Pro新能源(4972),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M108,BYD,Legacy,Sirui,思锐,,,1,Sirui,discontinued,2013,1,2013-2013,5,4,4,0,True,True,True,113,235,180,0,思锐(2944),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M109,BYD,Legacy,Surui,速锐,,,1,Surui,discontinued,2012,6,2012-2018,25,15,5,0,True,True,True,441,1058,851,0,速锐(2806),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M110,BYD,Legacy,S8,S8,,,1,S8,discontinued,2009,1,2009-2009,3,0,0,0,True,True,True,40,14,17,0,比亚迪S8(489),PARTIAL,exterior colours,batch4
+M111,BYD,Legacy,e1,e1,,BEV,1,e1,discontinued,2019,2,2019-2020,5,4,3,0,True,True,True,54,129,142,0,比亚迪e1(5009),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M112,BYD,Legacy,F0,F0,,,1,F0,discontinued,2008,7,2008-2015,20,21,5,5,True,True,True,311,656,528,0,比亚迪F0(579),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M113,BYD,Legacy,Flyer,福莱尔,,,1,Flyer,discontinued,2005,2,2003-2005,3,0,0,0,True,True,True,41,9,5,0,福莱尔(417),PARTIAL,exterior colours,batch4
+M114,BYD,Legacy,F3R,F3R,,,1,F3R,discontinued,2005,5,2005-2011,7,6,4,0,True,True,True,92,372,333,0,比亚迪F3R(940),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M115,BYD,Legacy,G3R,G3R,,,1,G3R,discontinued,2009,2,2009-2011,2,2,2,0,True,True,True,38,161,130,0,比亚迪G3R(997),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M116,BYD,Legacy,Frigate 07,护卫舰07,,PHEV,1,Frigate 07,discontinued,2022,3,2022-2024,11,9,5,0,True,True,True,186,806,663,18,护卫舰07(6671),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M117,BYD,Legacy,S1,S1,,,1,S1,discontinued,2015,1,2015-2015,0,0,0,0,True,True,True,0,0,0,0,,NO_SOURCE_DATA_FOUND,no Autohome series/trims,batch1 list only
+M118,BYD,Legacy,S2,S2,,BEV,1,S2,discontinued,2019,1,2019-2019,2,3,3,0,True,True,True,35,148,118,0,比亚迪S2(5064),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M119,BYD,Legacy,S6,S6,,,1,S6,discontinued,2011,4,2011-2014,33,13,7,0,True,True,True,488,1202,1401,0,比亚迪S6(2088);比亚迪S6新能源(6531),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M120,BYD,Legacy,S7,S7,,,1,S7,discontinued,2014,4,2014-2017,16,9,5,2,True,True,True,225,601,676,0,比亚迪S7(3059),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M121,BYD,Legacy,Sealion 07 DM-i,海狮07 DM-i,,PHEV,1,Sealion 07 DM-i,discontinued,2025,1,2025-2025,3,5,5,0,True,True,True,85,150,157,22,海狮07 DM-i(7977),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M122,BYD,Legacy,Song,宋,,,1,Song,discontinued,2015,7,2015-2021,50,19,10,2,False,True,False,446,1725,1724,41,宋(3780);宋新能源(4394),COMPLETE_FOR_AVAILABLE_SOURCES,doors ; dimensions,batch4
+M123,BYD,Legacy,Tang,唐,,,1,Tang,discontinued,2015,2,2015-2017,7,3,2,0,True,True,True,67,217,204,0,唐新能源(3430),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M124,BYD,Legacy,Yuan,元,,ICE/BEV,1,Yuan,discontinued,2016,6,2016-2023,34,19,12,3,True,True,True,327,1447,1289,32,元(3781);元Pro(6073);元新能源(4353),COMPLETE_FOR_AVAILABLE_SOURCES,,batch4
+M125,BYD,Legacy,D1,D1,,BEV,1,D1,discontinued,2020,4,2020-2023,4,4,2,0,True,True,True,56,191,213,0,比亚迪D1(5825),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M126,BYD,Legacy,M6 (2010),M6,,,1,M6 (2010),discontinued,2010,4,2010-2015,11,7,3,0,False,True,True,159,513,585,0,比亚迪M6(798),COMPLETE_FOR_AVAILABLE_SOURCES,doors ; paint code,batch4
+M127,BYD,Legacy,Song Max,宋MAX,,ICE/PHEV/BEV,1,Song Max,discontinued,2017,5,2017-2022,58,15,6,0,True,True,True,503,2467,2508,26,宋MAX(4279);宋MAX新能源(4831),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M128,BYD,Dynasty,Han DM,,,PHEV,1,Han DM,discontinued,2020,2,2020-2021,3,3,3,2,True,True,True,40,153,141,1,汉(5499),COMPLETE_FOR_AVAILABLE_SOURCES,,batch2/3
+M129,BYD,Dynasty,Han DM-p,,,PHEV,1,Han DM-p,current,2022,3,2022-2024,3,3,2,0,True,True,True,21,192,175,5,汉(5499),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch2/3
+M130,BYD,Dynasty,Tang DM-p,,,PHEV,1,Tang DM-p,current,,2,2022-2024,8,9,7,5,False,False,False,100,633,623,22,唐新能源(3430),COMPLETE_FOR_AVAILABLE_SOURCES,doors ; dimensions,batch4
+M131,BYD,Dynasty,"e9 (BYD brand, 2021)",,,BEV,1,"e9 (BYD brand, 2021)",current,,3,2021-2025,3,3,2,0,False,False,False,22,140,163,6,比亚迪e9(5955),COMPLETE_FOR_AVAILABLE_SOURCES,doors ; dimensions ; paint code,batch4
+M132,BYD,Dynasty,Song Pro EV,,,BEV,1,Song Pro EV,current,,1,2019-2019,3,4,4,0,False,False,False,35,153,144,0,宋Pro新能源(5279),COMPLETE_FOR_AVAILABLE_SOURCES,doors ; dimensions ; paint code,batch4
+M133,BYD,Dynasty,Song Plus (ICE),,,ICE,1,Song Plus (ICE),discontinued,,1,2020-2020,4,4,4,0,False,False,False,61,374,315,8,宋PLUS(5760),COMPLETE_FOR_AVAILABLE_SOURCES,doors ; dimensions ; paint code,batch4
+M134,BYD,Dynasty,Song Pro (ICE),,,ICE,1,Song Pro (ICE),discontinued,,3,2019-2021,9,7,5,0,True,True,True,100,511,450,52,宋Pro(5178),COMPLETE_FOR_AVAILABLE_SOURCES,paint code,batch4
+M135,BYD,Dynasty,Tang (ICE),,,ICE,1,Tang (ICE),discontinued,,3,2018-2021,16,9,5,0,False,False,False,167,796,767,6,唐(4802),COMPLETE_FOR_AVAILABLE_SOURCES,doors ; dimensions ; paint code,batch4
+M136,Yangwang,,U9 Xtreme,,,BEV,1,U9 Xtreme,current,,1,2025-2025,1,0,0,0,False,False,False,19,19,18,47,仰望U9 Xtreme(8649),PARTIAL,doors ; dimensions ; exterior colours,batch4
+M137,Fangchengbao,,Ti6,,,,1,Ti6,current,,1,2027-2027,1,0,0,0,False,False,False,0,0,0,3,钛6(8857),PARTIAL,doors ; dimensions ; exterior colours,batch4

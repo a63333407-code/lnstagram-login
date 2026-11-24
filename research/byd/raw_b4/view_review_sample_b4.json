@@ -1,0 +1,457 @@
+{
+ "reviewer": "Claude (model) viewing thumbnails; NOT a human editor",
+ "date": "2026-11-24",
+ "method": "Contact sheets (200x150) of 32 colour-filtered exterior galleries, one per series from 32 different new series (all with 7 or 8 photos); then enlarged (400x300) viewing of position 4 and 8 of 8 eight-photo galleries to check left/right. Left = car's left (driver) side, read from nose direction (nose pointing left = left side visible).",
+ "standard_sequence": {
+  "1": "front_left_three_quarter",
+  "2": "front",
+  "3": "front_right_three_quarter",
+  "4": "left_side",
+  "5": "rear_left_three_quarter",
+  "6": "rear",
+  "7": "rear_right_three_quarter",
+  "8": "right_side (8-photo galleries only)"
+ },
+ "summary": {
+  "galleries_reviewed": 32,
+  "standard": 28,
+  "irregular": 4,
+  "individually_inspected_images": 16
+ },
+ "galleries": [
+  {
+   "review_no": 1,
+   "series": "BYD:宋Ultra",
+   "year": "2026款",
+   "spec_id": "77983",
+   "autohome_color_id": "14895",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 2,
+   "series": "BYD:秦新能源",
+   "year": "2021款",
+   "spec_id": "57685",
+   "autohome_color_id": "93",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 3,
+   "series": "BYD:比亚迪G6",
+   "year": "2013款",
+   "spec_id": "16159",
+   "autohome_color_id": "92",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 4,
+   "series": "BYD:宋L EV",
+   "year": "2025款",
+   "spec_id": "69742",
+   "autohome_color_id": "11810",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 5,
+   "series": "BYD:比亚迪e7",
+   "year": "2025款",
+   "spec_id": "74241",
+   "autohome_color_id": "7686",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 6,
+   "series": "BYD:秦Pro新能源",
+   "year": "2019款",
+   "spec_id": "38499",
+   "autohome_color_id": "6311",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 7,
+   "series": "BYD:海豹06 DM-i旅行版",
+   "year": "2026款",
+   "spec_id": "77078",
+   "autohome_color_id": "15050",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 8,
+   "series": "BYD:比亚迪S2",
+   "year": "2019款",
+   "spec_id": "39366",
+   "autohome_color_id": "1509",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 9,
+   "series": "BYD:宋L DM-i",
+   "year": "2026款",
+   "spec_id": "75404",
+   "autohome_color_id": "14416",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 10,
+   "series": "BYD:比亚迪G3",
+   "year": "2010款",
+   "spec_id": "6115",
+   "autohome_color_id": "92",
+   "photos_seen": 7,
+   "result": "irregular",
+   "note": "showroom shoot: rear 3/4 appears at position 3, rear at 4, side views at 6-7"
+  },
+  {
+   "review_no": 11,
+   "series": "BYD:海豹06GT",
+   "year": "2025款",
+   "spec_id": "70392",
+   "autohome_color_id": "12984",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 12,
+   "series": "BYD:比亚迪e5",
+   "year": "2017款",
+   "spec_id": "30016",
+   "autohome_color_id": "2856",
+   "photos_seen": 7,
+   "result": "irregular",
+   "note": "position 4 is an unclear angle (not a clean side profile); treated as irregular to be safe"
+  },
+  {
+   "review_no": 13,
+   "series": "BYD:唐新能源",
+   "year": "2024款",
+   "spec_id": "66835",
+   "autohome_color_id": "11602",
+   "photos_seen": 7,
+   "result": "irregular",
+   "note": "showroom close-ups: position 7 is a side view, not a rear 3/4"
+  },
+  {
+   "review_no": 14,
+   "series": "BYD:比亚迪e9",
+   "year": "2021款",
+   "spec_id": "48687",
+   "autohome_color_id": "1506",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 15,
+   "series": "BYD:海狮05 EV",
+   "year": "2026款",
+   "spec_id": "77372",
+   "autohome_color_id": "13290",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 16,
+   "series": "BYD:海豹05 DM-i",
+   "year": "2025款",
+   "spec_id": "71314",
+   "autohome_color_id": "7686",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 17,
+   "series": "BYD:比亚迪L3",
+   "year": "2015款",
+   "spec_id": "21723",
+   "autohome_color_id": "92",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 18,
+   "series": "BYD:元",
+   "year": "2017款",
+   "spec_id": "30413",
+   "autohome_color_id": "4386",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 19,
+   "series": "BYD:大唐",
+   "year": "2026款",
+   "spec_id": "76460",
+   "autohome_color_id": "12984",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 20,
+   "series": "BYD:海狮05 DM-i",
+   "year": "2026款",
+   "spec_id": "76212",
+   "autohome_color_id": "13290",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 21,
+   "series": "BYD:比亚迪G5",
+   "year": "2014款",
+   "spec_id": "20341",
+   "autohome_color_id": "2856",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 22,
+   "series": "BYD:秦L",
+   "year": "2025款",
+   "spec_id": "71472",
+   "autohome_color_id": "12359",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 23,
+   "series": "BYD:比亚迪e1",
+   "year": "2019款",
+   "spec_id": "38551",
+   "autohome_color_id": "1505",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 24,
+   "series": "BYD:元UP",
+   "year": "2024款",
+   "spec_id": "66138",
+   "autohome_color_id": "12111",
+   "photos_seen": 7,
+   "result": "irregular",
+   "note": "showroom shoot: position 7 is a front 3/4 (charging flap visible), not a rear 3/4"
+  },
+  {
+   "review_no": 25,
+   "series": "BYD:比亚迪e3",
+   "year": "2021款",
+   "spec_id": "52635",
+   "autohome_color_id": "6313",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 26,
+   "series": "BYD:比亚迪e6",
+   "year": "2017款",
+   "spec_id": "31036",
+   "autohome_color_id": "1505",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 27,
+   "series": "BYD:汉L",
+   "year": "2025款",
+   "spec_id": "72523",
+   "autohome_color_id": "13395",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 28,
+   "series": "BYD:比亚迪M9",
+   "year": "2025款",
+   "spec_id": "73549",
+   "autohome_color_id": "7685",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 29,
+   "series": "BYD:唐L",
+   "year": "2025款",
+   "spec_id": "72208",
+   "autohome_color_id": "13397",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 30,
+   "series": "BYD:夏",
+   "year": "2026款",
+   "spec_id": "75429",
+   "autohome_color_id": "13279",
+   "photos_seen": 8,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 31,
+   "series": "BYD:宋Pro新能源",
+   "year": "2024款",
+   "spec_id": "66963",
+   "autohome_color_id": "6311",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  },
+  {
+   "review_no": 32,
+   "series": "BYD:秦Pro",
+   "year": "2018款",
+   "spec_id": "35793",
+   "autohome_color_id": "6471",
+   "photos_seen": 7,
+   "result": "standard",
+   "note": null
+  }
+ ],
+ "individually_inspected": [
+  {
+   "spec_id": "77983",
+   "autohome_color_id": "14895",
+   "position": 4,
+   "label": "left_side",
+   "note": "enlarged 400x300 view: nose pointing left"
+  },
+  {
+   "spec_id": "77983",
+   "autohome_color_id": "14895",
+   "position": 8,
+   "label": "right_side",
+   "note": "enlarged 400x300 view: nose pointing right"
+  },
+  {
+   "spec_id": "69742",
+   "autohome_color_id": "11810",
+   "position": 4,
+   "label": "left_side",
+   "note": "enlarged 400x300 view: nose pointing left"
+  },
+  {
+   "spec_id": "69742",
+   "autohome_color_id": "11810",
+   "position": 8,
+   "label": "right_side",
+   "note": "enlarged 400x300 view: nose pointing right"
+  },
+  {
+   "spec_id": "74241",
+   "autohome_color_id": "7686",
+   "position": 4,
+   "label": "left_side",
+   "note": "enlarged 400x300 view: nose pointing left"
+  },
+  {
+   "spec_id": "74241",
+   "autohome_color_id": "7686",
+   "position": 8,
+   "label": "right_side",
+   "note": "enlarged 400x300 view: nose pointing right"
+  },
+  {
+   "spec_id": "77078",
+   "autohome_color_id": "15050",
+   "position": 4,
+   "label": "left_side",
+   "note": "enlarged 400x300 view: nose pointing left"
+  },
+  {
+   "spec_id": "77078",
+   "autohome_color_id": "15050",
+   "position": 8,
+   "label": "right_side",
+   "note": "enlarged 400x300 view: nose pointing right"
+  },
+  {
+   "spec_id": "75404",
+   "autohome_color_id": "14416",
+   "position": 4,
+   "label": "left_side",
+   "note": "enlarged 400x300 view: nose pointing left"
+  },
+  {
+   "spec_id": "75404",
+   "autohome_color_id": "14416",
+   "position": 8,
+   "label": "right_side",
+   "note": "enlarged 400x300 view: nose pointing right"
+  },
+  {
+   "spec_id": "70392",
+   "autohome_color_id": "12984",
+   "position": 4,
+   "label": "left_side",
+   "note": "enlarged 400x300 view: nose pointing left"
+  },
+  {
+   "spec_id": "70392",
+   "autohome_color_id": "12984",
+   "position": 8,
+   "label": "right_side",
+   "note": "enlarged 400x300 view: nose pointing right"
+  },
+  {
+   "spec_id": "77372",
+   "autohome_color_id": "13290",
+   "position": 4,
+   "label": "left_side",
+   "note": "enlarged 400x300 view: nose pointing left"
+  },
+  {
+   "spec_id": "77372",
+   "autohome_color_id": "13290",
+   "position": 8,
+   "label": "right_side",
+   "note": "enlarged 400x300 view: nose pointing right"
+  },
+  {
+   "spec_id": "71314",
+   "autohome_color_id": "7686",
+   "position": 4,
+   "label": "left_side",
+   "note": "enlarged 400x300 view: nose pointing left"
+  },
+  {
+   "spec_id": "71314",
+   "autohome_color_id": "7686",
+   "position": 8,
+   "label": "right_side",
+   "note": "enlarged 400x300 view: nose pointing right"
+  }
+ ]
+}

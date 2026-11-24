@@ -219,7 +219,20 @@ for (gid, year, nm), a in sorted(agg.items(), key=lambda kv: (idnum(kv[1]["m"]["
 missing_gloss = sorted({c["color_name_zh"] for c in colors_b4 if not c["name_en_gloss_unofficial"]})
 trim_by_spec_b4 = {t["autohome_spec_id"]: t for t in trims_b4}
 
-# series inventory with mapping status
+UNM = {
+ 8107: ("Z Coupe; Z Spider", "Autohome 腾势Z (8107) lists 硬顶版 (hard-top), 敞篷版 (convertible) and 赛道版 (track edition). Wikipedia 'Denza Z' states coupe and convertible only; the track edition's body style is not stated.", "a source stating the track edition's body style"),
+ 7659: ("Z9 GT PHEV; Z9 GT EV", "The 2024 trims were mapped by the cited range rule (630 = EV, 1100 = PHEV). These 2026 labels carry no range figure or powertrain token (闪充 = flash charging only) and both rows can exist in 2026 (list: Z9 GT PHEV 2024; Z9 GT EV intro not shown).", "an official Denza trim list, or an Autohome parameter value that is readable (its config table is obfuscated)"),
+ 6669: ("D9 DM-i; D9 EV", "Both D9 powertrains were sold 2022-2026 (Autohome lists DM-i and EV trims for most years). This label has no powertrain token.", "a source stating the powertrain of this edition"),
+ 8171: ("Ti7 (PHEV); Ti7 (BEV)", "Ti7 PHEV is documented from 2025 and Ti7 BEV from 2026; both exist in 2026. The '315KM'/'300KM' figures are not tied to a powertrain by any source read, so no inference is made.", "an official Ti7 trim list stating the powertrain of the 315 KM / 300 KM trims"),
+ 7859: ("Han L EV; Han L DM", "Autohome 汉L lists EV, DM-i and DM-p trims; the special edition label states no powertrain.", "a source stating the special edition's powertrain"),
+ 8005: ("Tang L EV; Tang L DM", "Autohome 唐L lists EV and DM trims; the special edition label states no powertrain.", "a source stating the special edition's powertrain"),
+ 3376: ("none (no catalogue row)", "Autohome 比亚迪C6 (3376): one 2014 trim '基本型' with 3 photos and no matching row in the Wikipedia list; probably a show car but no source says so.", "a source identifying the vehicle"),
+}
+for u in unmapped:
+    c_, e_, r_ = UNM.get(u["series_id"], (None, "no mapping policy", None))
+    if u["kind"] == "auto_show_edition": e_ = "Auto-show edition (" + str(u["year"]) + "): the label states no powertrain. " + (e_ or "")
+    u["candidate_models"] = c_; u["evidence"] = e_; u["what_would_resolve_it"] = r_
+
 inv_rows = []
 for r in INV:
     sid = int(r["series_id"]); mids = sorted(series_models.get(sid, [])); mks = sorted(model_by_id[i]["model_key"] for i in mids)
@@ -316,7 +329,7 @@ for t in sorted(tok_cands):
     if t in pc_by_tok: continue
     d = tok_cands[t]; pid = new_id("PC", 3)
     p = dict(paint_code_id=pid, oem_code=t, code_status="POSSIBLE", supplier_sources=";".join(sorted(d["s"])), n_independent_suppliers=len(d["s"]), candidate_ids=";".join(sorted(d["c"])), names_published=" | ".join(sorted(x for x in d["n"] if x))[:600],
-             format_note="long part-number style (BYHA-/BYHB-)" if t.startswith("BYH") and "-" in t else None, note="Supplier-catalog code; not confirmed on any exact vehicle label."); pcs_b4.append(p); pc_by_tok[t] = p
+             evidence_tier="RETAILER_CATALOG_UNVERIFIED", format_note="long part-number style (BYHA-/BYHB-)" if t.startswith("BYH") and "-" in t else None, note="Supplier-catalog code; not confirmed on any exact vehicle label."); pcs_b4.append(p); pc_by_tok[t] = p
 # the token table of batch 2 keeps its own n_independent_suppliers; new suppliers for old tokens are recorded in links only.
 colors_all = colors0 + colors_b4; col_by_model = collections.defaultdict(list)
 for c in colors_all: col_by_model[model_by_id[c["model_id"]]["model_key"] if c["model_id"] in model_by_id else None].append(c)
@@ -340,10 +353,12 @@ for cid, mks in cand_models.items():
             for t in tokens(c["code_raw"]):
                 if (col["color_id"], t) in links0_set or any(l["color_id"] == col["color_id"] and l["oem_code"] == t for l in links_b4): continue
                 srcs = tok_cands[t]["s"]
-                conf = "medium" if (len(srcs) >= 2 and len(names) <= 2) else "low"   # multi-name alias groups are never better than low
+                conf = "medium" if (c["listing_level"] == "model+year" and yf and len(names) <= 2) else "low"
+                basis = ("retailer lists this model with a year range that includes the model year and a name list of <=2 names; still unverified (no OEM evidence)" if conf == "medium"
+                         else "retailer listing is model-level, name-only or a multi-name alias group; repetition across retailers is NOT counted as corroboration (retailers may share upstream data and none cites an OEM source)")
                 lid = new_id("L", 4); pid = pc_by_tok[t]["paint_code_id"]
                 links_b4.append(dict(link_id=lid, color_id=col["color_id"], paint_code_id=pid, oem_code=t, link_basis=f"exact normalized name match between a literal translation of '{col['color_name_zh']}' ('{GLOSS.get(col['color_name_zh'])}') and the retailer name list", confidence=conf, candidate_ids=cid,
-                                     year_specificity="retailer gives a year range that includes the model year" if yf else "retailer listing is model-level; year not matched",
+                                     year_specificity="retailer gives a year range that includes the model year" if yf else "retailer listing is model-level; year not matched", confidence_basis=basis,
                                      conflict_note="Retailer name list is a multi-name alias group (%d names); treat as unreliable until a label is seen." % len(names) if len(names) > 2 else None, status="POSSIBLE"))
                 linked_colors.add(col["color_id"])
                 vr("color_paint_code_link", col["color_id"], "POSSIBLE", f"Code {t} listed by {len(srcs)} retailer catalog(s) for a name matching this colour. Not confirmed on an exact-vehicle label; no editor approval.", srcs, [c["evidence_url"]])
@@ -427,7 +442,29 @@ for r in INV:
 # ---------------------------------------------------------------- model coverage: models with no Autohome mapping
 mapped_models = {i for ids in series_models.values() for i in ids}
 remaining_ids = {x["model_id"] for x in rd("image_coverage_by_model.csv") if x["status"] == "NOT_YET_RESEARCHED"} | {m["model_id"] for m in models_b4}
-nomap = [dict(model_id=m["model_id"], model_key=m["model_key"], brand_id=m["brand_id"], reason="no Autohome series/trims mapped to this model row") for m in allm if m["model_id"] in remaining_ids and m["model_id"] not in mapped_models]
+WK = "https://en.wikipedia.org/wiki/"
+BRAND_PAGE = {r["brand"]: (r["brand_page_url"], r["fetched_utc"], sum(1 for x in INV if x["brand"] == r["brand"])) for r in INV}
+NOMAP_EV = {
+ ("B2", "Datang DM"): ("PHEV variant not listed on Autohome", "Autohome series 大唐 (8102) lists 8 trims and every label is 纯电 (EV); Wikipedia list: Datang DM = PHEV 2026 (article BYD Datang).", "a 大唐 DM trim on Autohome or an official BYD trim list", WK + "BYD_Datang"),
+ ("B2", "Dolphin G DM-i"): ("upcoming / not on Autohome", "Wikipedia list: Dolphin G DM-i 2026 (article BYD Dolphin G, Europe unveiling May 2026); no 海豚G series on the Autohome BYD brand page.", "an Autohome series or official trim list", WK + "BYD_Dolphin_G"),
+ ("B2", "Ti 7"): ("export rebadge of a mapped model", "Wikipedia redirect 'BYD Ti 7' -> 'Fangchengbao Ti7'; list note 'Export rebadge of Fangchengbao Ti7'. The Chinese-market vehicle is Autohome series 钛7 (8171), mapped to Ti7 (PHEV)/(BEV).", "n/a - alias, not a separate vehicle (see alias_collisions_b4.csv)", WK + "Fangchengbao_Ti7"),
+ ("B2", "M6 DM"): ("export-market model not on Autohome", "Wikipedia list: M6 DM 2026, three-row MPV based on Song Max. Autohome series 比亚迪M6 (798) is the 2010 M6 (mapped to 'M6 (2010)'); no later M6 series on the BYD brand page.", "an Autohome series or official trim list", WK + "List_of_BYD_Auto_vehicles"),
+ ("B2", "M6 EV"): ("export-market model not on Autohome", "Wikipedia list: M6 EV 2024 (eMax 7), based on e6 and Song Max. Autohome 比亚迪M6 (798) is the 2010 M6; Autohome 比亚迪e6 (831) is mapped to e6.", "an Autohome series or official trim list", WK + "List_of_BYD_Auto_vehicles"),
+ ("B2", "Mako"): ("upcoming / not on Autohome", "Wikipedia list status 'Upcoming'. Autohome has an unnamed 混动皮卡 (hybrid pickup, series 7075, 3 photos): it is not assumed to be the Mako.", "an official Mako announcement tied to an Autohome series", WK + "BYD_Mako"),
+ ("B6", "e9"): ("different Autohome vehicle under the same name", "Autohome 比亚迪e9 (5955) lists 2021-2025 BYD-brand e9 trims, catalogued separately as 'e9 (BYD brand, 2021)'. Wikipedia: Linghui e9 (2026) is a later model (redirect 'Linghui e9' -> 'BYD Han#BYD e9 (2021) / Linghui e9 (2026)'); no 2026 trims listed.", "Autohome trims dated 2026 or an official Linghui e9 trim list", WK + "BYD_Han"),
+ ("B6", "e5"): ("upcoming / name collision with the old BYD e5", "Wikipedia list: Linghui e5 upcoming, based on Qin Plus EV (redirect 'Linghui e5' -> 'BYD Qin#Linghui e5'). Autohome 比亚迪e5 (4073) is the 2015-2020 BYD e5, mapped to the BYD-brand row (same model_key, different brand).", "an Autohome 领汇e5 series", WK + "BYD_Qin"),
+ ("B3", "B5"): ("export name of a mapped model", "List note: rebadged Fangchengbao Bao 5 for export; Wikipedia redirect 'Fangchengbao Bao 5' -> 'Denza B5'. Autohome lists the Chinese-market 豹5 (7177), mapped to 'Bao 5'.", "n/a - alias (see alias_collisions_b4.csv)", WK + "Denza_B5"),
+ ("B3", "B8"): ("export name of a mapped model", "List note: rebadged Fangchengbao Bao 8 for export; Wikipedia redirect 'Fangchengbao Bao 8' -> 'Denza B8'. Autohome 豹8 (7353) is mapped to 'Bao 8'.", "n/a - alias (see alias_collisions_b4.csv)", WK + "Denza_B8"),
+ ("B3", "B3"): ("export name of a mapped model", "List note: rebadged Fangchengbao Tai 3 for export. Autohome 钛3 (7356) is mapped to 'Tai 3'.", "n/a - alias (see alias_collisions_b4.csv)", WK + "Fangchengbao_Tai_3"),
+ ("B2", "S1"): ("no separate Autohome series", "Wikipedia redirect 'BYD S1' -> 'BYD Yuan#BYD S1'; list row S1 (2015-2016). The Autohome BYD brand page has S2, S6, S7 and S8 but no S1 series.", "an Autohome S1 series", WK + "BYD_Yuan"),
+}
+nomap = []
+for m in allm:
+    if m["model_id"] in remaining_ids and m["model_id"] not in mapped_models:
+        rsn, ev, res, url = NOMAP_EV.get((m["brand_id"], m["model_key"]), ("no Autohome series/trims mapped", "not individually reviewed", None, None))
+        bn = [k for k, v in BR.items() if v == m["brand_id"]][0]; bp = BRAND_PAGE.get("BYD" if bn == "Linghui" else bn)
+        nomap.append(dict(model_id=m["model_id"], model_key=m["model_key"], brand_id=m["brand_id"], reason=rsn, evidence=ev, evidence_url=url,
+                          autohome_absence_check=(f"not among the {bp[2]} series listed on {bp[0]} (fetched {bp[1]})" if bp else None), what_would_resolve_it=res))
 
 # ---------------------------------------------------------------- model years / unions
 my_rows_new = list(my_new.values())
@@ -439,8 +476,8 @@ model_cols = ["model_id","brand_id","series","model_key","name_zh","alt_names","
 trim_cols = ["trim_id","model_year_id","model_id","generation_id","market","year","trim_name_zh","trim_name_en","autohome_spec_id","spec_kind","gallery_photos","on_sale_status","evidence_url","source_id","model_assignment_basis","generation_assignment_basis","year_range_flag"]
 col_cols = ["color_id","model_id","generation_id","model_year_id","year_text","market","color_name_zh","color_name_en","name_en_is_official","supplier_published_en_names","color_role","swatch_hex","evidence_class","gallery_photo_count","gallery_spec_ids","spec_kinds","source_id","retrieval","evidence_url","note","name_en_gloss_unofficial","gloss_basis"]
 cand_cols = ["candidate_id","source_id","market","model_as_listed","year_as_listed","code_raw","names_raw","listing_level","evidence_url","note","swatch_hex","fetched_utc"]
-pc_cols = ["paint_code_id","oem_code","code_status","supplier_sources","n_independent_suppliers","candidate_ids","names_published","format_note","note"]
-link_cols = ["link_id","color_id","paint_code_id","oem_code","link_basis","confidence","candidate_ids","year_specificity","conflict_note","status"]
+pc_cols = ["paint_code_id","oem_code","code_status","evidence_tier","supplier_sources","n_independent_suppliers","candidate_ids","names_published","format_note","note"]
+link_cols = ["link_id","color_id","paint_code_id","oem_code","link_basis","confidence","confidence_basis","candidate_ids","year_specificity","conflict_note","status","confidence_audited","audit_note"]
 ver_cols = ["verification_id","subject_type","subject_id","status","evidence","source_ids","evidence_urls","editor_approved","reviewed_on"]
 my_cols = ["model_year_id","model_id","generation_id","year","label_zh","generation_assignment","evidence_class","evidence","source_ids"]
 src_cols = ["source_id","title","url","source_type","retrieval","reliability","notes"]
@@ -453,12 +490,28 @@ w("batch4", "generation_facts_b4.csv", facts_b4, ["generation_id","model_id","do
 w("batch4", "vehicle_dimensions_b4.csv", dims_b4, ["dimension_id","model_id","generation_id","model_key","infobox_name","production_text","length_text","width_text","height_text","wheelbase_text","weight_text","source_id","evidence_url","fetched_utc","note"])
 w("batch4", "trims_b4.csv", trims_b4, trim_cols); w("batch4", "factory_colors_b4.csv", colors_b4, col_cols)
 w("batch4", "color_by_trim_b4.csv", color_by_trim, ["trim_id","autohome_spec_id","year","trim_name_zh","color_name_zh","swatch_hex","photos","spec_kind","evidence_url","source_id"])
-w("batch4", "color_name_glossary_b4.csv", [dict(name_zh=k, gloss_en_unofficial=v, gloss_basis="literal translation by researcher; NOT an official name", used_in_batch4=any(c["color_name_zh"] == k for c in colors_b4)) for k, v in sorted(GLOSS.items())], ["name_zh","gloss_en_unofficial","gloss_basis","used_in_batch4"])
+PINYIN = ("Xuan","Weiyang","Shangya","Falan","Chidi","Tianshan","Xizi","Xinghan","Muchuan","Para ","Ruiya","Rong","Fei Leng","Erhai","Kiln","Danxia","Yueji","Beibei","Pupu","Qinhai","Delan","Zhi")
+PROPER = ("Atlantis","Marseilles","Athens","Mecca","Argyle","Bellini","Poseidon","Hera","Lafite","California","Iceland","Brazil","Danube","Le Mans","Mars","Florence","Tarim","Vatnajokull","Dolomites","Aegean","Portia","Rhea","Denza")
+occ = collections.Counter(c["color_name_zh"] for c in colors0 + colors_b4 if c["color_name_zh"])
+def gkind(zh, g):
+    if "two-tone" in g: return "two-tone (literal)"
+    if any(x in g for x in PINYIN): return "partly transliterated (pinyin) - weakest"
+    if any(x in g for x in PROPER): return "proper name / place name"
+    return "literal"
+AMBIG = {"蓝辰银": "辰 can mean star, dawn or time; 'Blue Dawn Silver' is one reading", "际云青": "际 = boundary/edge; reading uncertain", "石影澜": "澜 = large waves; whole name poetic, translation approximate", "翡冷翠": "classical Chinese rendering of 'Florence'; the colour itself is not described",
+         "紫瑢金": "瑢 is a rare character (no clear meaning); transliterated", "玄璟墨": "璟 = lustre of jade; name poetic, translation approximate", "悦己白": "悦己 = pleasing oneself; approximate", "暖萌黄白": "two colours implied (yellow-white) but not marked as two-tone by the source",
+         "赤霞丹朱": "poetic; 'red glow vermilion' approximate", "法兰红": "法兰 may be a phonetic rendering of 'France' or 'Flange'; retailers use 'FLANGE RED' for a different code family", "晌雅蓝": "晌 = midday; approximate", "未央灰": "未央 = 'not yet ended' (classical); approximate"}
+_idx = collections.defaultdict(set)
+for c_ in cands0 + cands_b4:
+    for n_ in (c_["names_raw"] or "").split(","):
+        if n_.strip(): _idx[nname(n_)].add(n_.strip())
+w("batch4", "color_name_glossary_b4.csv", [dict(name_zh=k, gloss_en_unofficial=v, gloss_kind=gkind(k, v), translation_note=AMBIG.get(k), retailer_english_names_equal_to_gloss=" | ".join(sorted(_idx.get(nname(v), []))) or None, review_status="REVIEWED_UNOFFICIAL_RESEARCHER_TRANSLATION", gloss_basis="researcher's translation of the Chinese name; NOT an official name and NOT taken from BYD; do not use as a marketing or paint-code name",
+    occurrences_in_catalog=occ.get(k, 0), used_in_batch4=any(c["color_name_zh"] == k for c in colors_b4)) for k, v in sorted(GLOSS.items())], ["name_zh","gloss_en_unofficial","gloss_kind","translation_note","retailer_english_names_equal_to_gloss","review_status","gloss_basis","occurrences_in_catalog","used_in_batch4"])
 w("batch4", "paint_code_candidates_b4.csv", cands_b4, cand_cols); w("batch4", "paint_codes_b4.csv", pcs_b4, pc_cols); w("batch4", "color_paint_code_links_b4.csv", links_b4, link_cols); w("batch4", "verification_records_b4.csv", ver_b4, ver_cols)
 w("batch4", "sources_b4.csv", sources_b4, src_cols); w("batch4", "alias_collisions_b4.csv", alias_rows, ["alias_type","key","model_keys","evidence","handling"])
 w("batch4", "source_conflicts_b4.csv", conflicts, ["subject","field","source_a","source_b","handling"])
-w("batch4", "unmapped_specs_b4.csv", unmapped, ["series","series_id","year","spec_id","label","photos","kind","url","reason"]); w("batch4", "excluded_specs_b4.csv", excluded, ["series","series_id","year","spec_id","label","photos","kind","url","reason"])
-w("batch4", "models_without_autohome_mapping_b4.csv", nomap, ["model_id","model_key","brand_id","reason"])
+w("batch4", "unmapped_specs_b4.csv", unmapped, ["series","series_id","year","spec_id","label","photos","kind","url","reason","candidate_models","evidence","what_would_resolve_it"]); w("batch4", "excluded_specs_b4.csv", excluded, ["series","series_id","year","spec_id","label","photos","kind","url","reason"])
+w("batch4", "models_without_autohome_mapping_b4.csv", nomap, ["model_id","model_key","brand_id","reason","evidence","evidence_url","autohome_absence_check","what_would_resolve_it"])
 w("batch4", "wikipedia_redirects_b4.csv", [dict(page=r["page"], redirect_to=r["redirect_to"], redirect_section=r["redirect_section"], wikitext=r["wikitext"]) for r in WIKI.get("redirects", [])], ["page","redirect_to","redirect_section","wikitext"])
 
 # union tables ------------------------------------------------------------------
@@ -474,6 +527,7 @@ for g in gens + gens_b4:
         if not g.get("exterior_design") and f["exterior_design_text"]: g["exterior_design"] = f["exterior_design_text"]
         if not g.get("production_start_text") and f["production_text"]: g["production_start_text"] = f["production_text"]
         if not g.get("facts_source_id"): g["facts_source_id"] = f["source_id"]
+    if g.get("doors") and not g.get("doors_source_id"): g["doors_source_id"] = g["source_id"]   # batch-1 rows: the door count is stated in the list page's own body description (source S01)
     gens_union.append(g)
 my_union = [dict(m) for m in mys]
 evid = {e["model_year_id"]: e for e in my_evid_rows}
@@ -492,7 +546,24 @@ def allcols(a, b):
 w("catalog_union", "models_all.csv", models + models_b4, model_cols)
 w("catalog_union", "generations_all.csv", gens_union, gen_cols); w("catalog_union", "model_years_all.csv", my_union, my_cols)
 w("catalog_union", "trims_all.csv", trims0 + trims_b4, allcols(trims0, trims_b4)); w("catalog_union", "factory_colors_all.csv", colors0 + colors_b4, allcols(colors0, colors_b4))
-w("catalog_union", "paint_codes_all.csv", pcs0 + pcs_b4, pc_cols); w("catalog_union", "color_paint_code_links_all.csv", links0 + links_b4, link_cols)
+cid_col = {c["color_id"]: c for c in colors_all}
+def audit_conf(l):
+    col = cid_col.get(l["color_id"]); yr = my_year.get(col["model_year_id"]) if col else None
+    for cid_ in (l["candidate_ids"] or "").split(";"):
+        cd = cand_by_id.get(cid_)
+        if cd and cd["listing_level"] == "model+year" and cd["year_as_listed"] and re.fullmatch(r"\d{4}(-\d{4})?", cd["year_as_listed"]):
+            yf_, yt_ = int(cd["year_as_listed"][:4]), int(cd["year_as_listed"][-4:]); nn_ = len([n for n in (cd["names_raw"] or "").split(",") if n.strip()])
+            if yr and yf_ <= yr <= yt_ and nn_ <= 2: return "medium"
+    return "low"
+links_union = []
+for l in links0 + links_b4:
+    l = dict(l); a_ = "medium" if (l["confidence"] == "medium" and audit_conf(l) == "medium") else "low"   # the audit can only downgrade, never upgrade
+    l["confidence_audited"] = a_
+    l["audit_note"] = ("unchanged" if a_ == l["confidence"] else f"audit: '{l['confidence']}' -> '{a_}' (repetition across retailers, model-level or alias-group listings do not justify more than low; medium needs a retailer model+year listing with <=2 names)")
+    links_union.append(l)
+pcs_union = [dict(p, evidence_tier="RETAILER_CATALOG_UNVERIFIED") for p in pcs0] + pcs_b4
+w("catalog_union", "paint_codes_all.csv", pcs_union, pc_cols); w("catalog_union", "color_paint_code_links_all.csv", links_union, link_cols)
+w("catalog_union", "confirmed_oem_paint_codes.csv", [], ["paint_code_id","oem_code","verification_id","evidence_type","evidence_url","editor_id","approved_on"])
 w("catalog_union", "paint_code_candidates_all.csv", cands0 + cands_b4, allcols(cands0, cands_b4)); w("catalog_union", "verification_records_all.csv", ver0 + ver_b4, ver_cols)
 w("catalog_union", "sources_all.csv", srcs0 + sources_b4, src_cols); w("catalog_union", "brands_all.csv", brands, list(brands[0].keys()))
 

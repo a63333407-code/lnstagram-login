@@ -1,0 +1,37 @@
+{
+ "trim_status": {
+  "COMPLETED": 1080,
+  "PARTIAL": 8
+ },
+ "specs": 1088,
+ "images": 156401,
+ "by_category": {
+  "exterior": 20794,
+  "interior_cockpit": 66255,
+  "interior_seats": 67412,
+  "official_press": 1940
+ },
+ "linked_exact_trim": 153569,
+ "unlinked": 2832,
+ "colour_associated_images": 18537,
+ "exterior_swatches": 2324,
+ "interior_swatches": 632,
+ "view_status": {
+  "UNKNOWN_NO_SEQUENCE_CONTEXT": 1890,
+  "UNKNOWN_NON_STANDARD_GALLERY_SIZE": 4147,
+  "REVIEWED_GALLERY_IRREGULAR_NO_LABEL": 28,
+  "CANDIDATE": 14713,
+  "MODEL_REVIEWED_NOT_EDITOR_VERIFIED": 16
+ },
+ "main_run_errors": 1077,
+ "main_run_errors_unexplained": 0,
+ "retry_requests": 1034,
+ "retry_failed_requests": 29,
+ "missing_rows": 1089,
+ "models_with_images": 111,
+ "photos_also_in_batch3": 0,
+ "collection_window_utc": {
+  "start": "2026-11-24T02:02:39Z",
+  "end": "2026-11-24T03:44:23Z"
+ }
+}

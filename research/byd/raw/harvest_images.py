@@ -33,7 +33,8 @@ def get(url):
         time.sleep(1.5)
     return ""
 
-LI = re.compile(r'<li><a href="(https://www\.autohome\.com\.cn/cars/imgs-[^"]*?/(\d+)\.html)[^"]*"[^>]*>\s*<img([^>]*)>', re.S)
+# NOTE (batch 4): older galleries use <a class="carpic-img" href=...>; the optional attribute group below handles both markups.
+LI = re.compile(r'<li><a (?:[^>]*?\s)?href="(https://www\.autohome\.com\.cn/cars/imgs-[^"]*?/(\d+)\.html)[^"]*"[^>]*>\s*<img([^>]*)>', re.S)
 def parse_photos(page):
     out = []
     for m in LI.finditer(page):

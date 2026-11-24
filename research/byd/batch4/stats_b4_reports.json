@@ -1,0 +1,114 @@
+{
+ "models": 137,
+ "status": {
+  "COMPLETE_FOR_AVAILABLE_SOURCES": 116,
+  "NO_SOURCE_DATA_FOUND": 12,
+  "PARTIAL": 9
+ },
+ "images_total_b3": 47662,
+ "images_total_b4": 156401,
+ "integrity_ok": true,
+ "missing_rows": 545,
+ "checks": [
+  [
+   "primary keys unique in every merged table",
+   true
+  ],
+  [
+   "generation -> model FK",
+   true
+  ],
+  [
+   "model-year -> generation/model FK and (generation, year) unique",
+   true
+  ],
+  [
+   "trim -> model-year/generation/model consistent",
+   true
+  ],
+  [
+   "one trim per Autohome spec id",
+   true
+  ],
+  [
+   "colour -> model/generation/model-year consistent",
+   true
+  ],
+  [
+   "every colour has a source id that exists",
+   true
+  ],
+  [
+   "link -> colour/code FKs",
+   true
+  ],
+  [
+   "no VERIFIED anywhere (codes, links, verification records)",
+   true
+  ],
+  [
+   "all model-year rows are SOURCED (no estimates in the merged table)",
+   true
+  ],
+  [
+   "every model has a catalog row",
+   true
+  ],
+  [
+   "every model with an Autohome mapping has images or documented gap",
+   true
+  ],
+  [
+   "every model without trims is explained in missing_data_b4.csv",
+   true
+  ],
+  [
+   "every harvested trim has a final status",
+   true
+  ],
+  [
+   "no duplicate (brand, model_key); cross-brand key collisions are only the documented one",
+   true
+  ],
+  [
+   "every dimension row equals a parsed Wikipedia infobox and cites its page",
+   true
+  ],
+  [
+   "every documented door count has a source id",
+   true
+  ],
+  [
+   "batch-4 door counts come from a Wikipedia infobox body_style",
+   true
+  ],
+  [
+   "confirmed OEM paint-code table is empty and no paint code has an OEM tier",
+   true
+  ],
+  [
+   "link confidence audit: no 'high'; audited confidence never above original",
+   true
+  ],
+  [
+   "all 309 Chinese colour names have a reviewed glossary entry labelled unofficial",
+   true
+  ],
+  [
+   "no gloss is stored as an official English name",
+   true
+  ],
+  [
+   "every unmapped trim has a reason, candidates, evidence and a resolution path",
+   true
+  ],
+  [
+   "every model without an Autohome series has a reason, evidence and absence check",
+   true
+  ],
+  [
+   "batch 1-3 datasets unchanged (git status)",
+   true
+  ]
+ ]
+}
