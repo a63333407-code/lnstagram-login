@@ -1,0 +1,45 @@
+{
+ "statuses_defined": [
+  "VERIFIED_OEM",
+  "VERIFIED_LABEL",
+  "CORROBORATED",
+  "PAINT_SYSTEM_REFERENCE",
+  "POSSIBLE",
+  "CONFLICTED",
+  "UNVERIFIED"
+ ],
+ "state_rows": 1150,
+ "reference_rows": 60,
+ "reference_rows_by_scope": {
+  "COLOUR_RECORD": 44,
+  "MODEL_LEVEL_LISTING": 16
+ },
+ "reference_codes": [
+  "BYHA-00002",
+  "BYHB-00001"
+ ],
+ "reference_driven_colour_records": 0,
+ "real_conflict_colour_records": 107,
+ "reference_driven_conflict_groups": 0,
+ "conflicts_carried": 39,
+ "conflict_rows": 39,
+ "targets": 20,
+ "target_groups": {
+  "Seal": 3,
+  "Han": 2,
+  "Qin PLUS": 3,
+  "Song PLUS": 4,
+  "Atto 3 / Yuan PLUS": 4,
+  "Dolphin": 1,
+  "e2": 1,
+  "Destroyer 05": 1,
+  "Yangwang U9": 1
+ },
+ "targets_conflicted": 16,
+ "verified_total": 0,
+ "sources": 48,
+ "colour_status_state_by_row": {
+  "POSSIBLE": 398,
+  "CONFLICTED": 311
+ }
+}
