@@ -1,0 +1,589 @@
+[
+ {
+  "doc_id": "D01",
+  "url": "https://www.byd.com/material/byd-site/mo/product/seal/BYDSEAL-brochure.pdf",
+  "title_in_url": "BYDSEAL-brochure.pdf",
+  "host_class": "BYD official website (Macau path 'mo')",
+  "market": "Macau",
+  "model_as_printed": "SEAL",
+  "sha256": "8360c593210078f817ee3a4ba5180f4952e82809f91270a73740439ded4ad99f",
+  "bytes": 6023497,
+  "pdf_metadata": {
+   "Title": "BYD SEAL brochure new-澳門",
+   "CreationDate": "Tue Mar 26 08:33:17 2024 UTC",
+   "ModDate": "Tue Mar 26 09:33:17 2024 UTC",
+   "Pages": "8"
+  },
+  "colours": [
+   {
+    "printed": "ARCTIC BLUE",
+    "chinese": "北冰藍"
+   },
+   {
+    "printed": "AURORA WHITE",
+    "chinese": "極光白"
+   },
+   {
+    "printed": "ATLANTIS GRAY",
+    "chinese": "亞特蘭蒂斯灰"
+   },
+   {
+    "printed": "SHARK GRAY",
+    "chinese": "迷迭灰"
+   },
+   {
+    "printed": "COSMOS BLACK",
+    "chinese": "玄空黑"
+   },
+   {
+    "printed": "MYSTIC GREEN",
+    "chinese": "風卷草綠"
+   }
+  ],
+  "finish_note": "",
+  "equipment_lines": [],
+  "excerpt_lines": [
+   "北冰藍 | 極光白",
+   "ARCTIC BLUE | AURORA WHITE",
+   "亞特蘭蒂斯灰 | 迷迭灰",
+   "ATLANTIS GRAY | SHARK GRAY",
+   "玄空黑 | 風卷草綠",
+   "COSMOS BLACK | MYSTIC GREEN"
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "doc_id": "D02",
+  "url": "https://www.bydautomotive.com.au/brochures/BYD-SEAL-2025.pdf",
+  "title_in_url": "BYD-SEAL-2025.pdf",
+  "host_class": "BYD Australia (importer) website",
+  "market": "Australia",
+  "model_as_printed": "SEAL",
+  "sha256": "8146f94a4d1bc812eb2872da6dac0e97d455826912fc2d5c65d33c629de09ce0",
+  "bytes": 4570977,
+  "pdf_metadata": {
+   "Title": "2025 BYD Seal Spec Sheet_Version 02.02F",
+   "CreationDate": "Tue Mar  4 02:07:00 2025 UTC",
+   "ModDate": "Wed May 13 05:25:02 2026 UTC",
+   "Pages": "2"
+  },
+  "colours": [
+   {
+    "printed": "Atlantis Grey",
+    "chinese": null
+   },
+   {
+    "printed": "Cosmos Black",
+    "chinese": null
+   },
+   {
+    "printed": "Aurora White",
+    "chinese": null
+   },
+   {
+    "printed": "Shark Grey",
+    "chinese": null
+   }
+  ],
+  "finish_note": "",
+  "equipment_lines": [],
+  "excerpt_lines": [
+   "Side curtain airbags - front & rear | Genuine leather-wrapped steering wheel | Atlantis Grey",
+   "Far-side airbags - driver | Heated steering wheel | Aurora White",
+   "Side airbags - rear | 10.25-inch LCD instrumentation | Cosmos Black",
+   "Dual stage pretensioner on front seat belts | Glasses Storage | Shark Grey",
+   "Atlantis Grey | Cosmos Black | Aurora White | Shark Grey | wireless Android Auto™ is compatible with an active data plan, 5 GHz Wi-Fi support, and the"
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "doc_id": "D03",
+  "url": "https://prod.byd.com/material/byd-site/byd-uk/specifications/SEAL MY26 UK Leaflet.pdf",
+  "title_in_url": "SEAL MY26 UK Leaflet.pdf",
+  "host_class": "BYD UK website (prod.byd.com)",
+  "market": "United Kingdom",
+  "model_as_printed": "SEAL",
+  "sha256": "1146d892334fd34278c2efa2b81f19484d47dd3767f408c21a9554e696aff98f",
+  "bytes": 1623853,
+  "pdf_metadata": {
+   "Title": "SEAL 2026-0326-BPS-UK-V2-web",
+   "CreationDate": "Thu Mar 12 08:06:19 2026 UTC",
+   "ModDate": "Thu Mar 19 12:24:57 2026 UTC",
+   "Pages": "8"
+  },
+  "colours": [
+   {
+    "printed": "Atlantis Blue",
+    "chinese": null
+   },
+   {
+    "printed": "Obsidian Black",
+    "chinese": null
+   },
+   {
+    "printed": "Polar White",
+    "chinese": null
+   },
+   {
+    "printed": "Indigo Grey",
+    "chinese": null
+   },
+   {
+    "printed": "Lavender Grey",
+    "chinese": null
+   },
+   {
+    "printed": "Ruby Red",
+    "chinese": null
+   }
+  ],
+  "finish_note": "document lists 'Metallic paint' as an equipment line (not per colour)",
+  "equipment_lines": [
+   "Metallic paint"
+  ],
+  "excerpt_lines": [
+   "Metallic paint",
+   "Atlantis Blue",
+   "Obsidian Black",
+   "Polar White",
+   "Indigo Grey",
+   "Lavender Grey",
+   "Ruby Red",
+   "Atlantis Blue | Obsidian Black | Polar White | Indigo Grey | Lavender Grey | Ruby Red"
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "doc_id": "D04",
+  "url": "https://www.byd.com/material/byd-site/za/product/seal/BYD SEAL Vehicle Specifications South Africa.pdf",
+  "title_in_url": "BYD SEAL Vehicle Specifications South Africa.pdf",
+  "host_class": "BYD official website (South Africa path 'za')",
+  "market": "South Africa",
+  "model_as_printed": "SEAL",
+  "sha256": "736444ffd3d011f96af18dd87b968872cac15f93ade5373fbda7afd5b858ac7b",
+  "bytes": 4687341,
+  "pdf_metadata": {
+   "Title": "Seal 7 Flyer Ming",
+   "CreationDate": "Fri Sep 27 02:23:37 2024 UTC",
+   "ModDate": "Fri Oct  4 11:59:34 2024 UTC",
+   "Pages": "2"
+  },
+  "colours": [
+   {
+    "printed": "Sky Black",
+    "chinese": null
+   },
+   {
+    "printed": "Atlantis Gray",
+    "chinese": null
+   },
+   {
+    "printed": "Aurora White",
+    "chinese": null
+   },
+   {
+    "printed": "North lce Blue",
+    "chinese": null
+   },
+   {
+    "printed": "Rosemary Gray",
+    "chinese": null
+   },
+   {
+    "printed": "Wind Grass Green",
+    "chinese": null
+   }
+  ],
+  "finish_note": "",
+  "equipment_lines": [],
+  "excerpt_lines": [
+   "Sky Black | Atlantis Gray | Aurora White | North lce Blue | Rosemary Gray | Wind Grass Green"
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "doc_id": "D05",
+  "url": "https://www.byd.com/material/__CN/kh-sealion5/seal5/BYD Seal 5 DM-I 海豹-ENG Final 2026.pdf",
+  "title_in_url": "BYD Seal 5 DM-I 海豹-ENG Final 2026.pdf",
+  "host_class": "BYD official website (Cambodia path 'kh')",
+  "market": "Cambodia",
+  "model_as_printed": "Seal 5 DM-i (title carries 海豹)",
+  "sha256": "7809e690cd4c6ec2eca2614a86ae1549327cc1a48d9a138ef3431b4543a730da",
+  "bytes": 29559386,
+  "pdf_metadata": {
+   "Title": "BYD SEAL 5 -  Final Revise",
+   "CreationDate": "Thu Jul 17 06:46:56 2025 UTC",
+   "ModDate": "Thu Jul 17 07:46:57 2025 UTC",
+   "Pages": "2"
+  },
+  "colours": [
+   {
+    "printed": "Snowy White",
+    "chinese": null
+   },
+   {
+    "printed": "Atlantic Grey",
+    "chinese": null
+   }
+  ],
+  "finish_note": "",
+  "equipment_lines": [],
+  "excerpt_lines": [
+   "Snowy White | Atlantic Grey"
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "doc_id": "D06",
+  "url": "https://www.byd.com/material/__CN/kh-sealion5/kh-sealion6dmi/BYD Sealion 6 DM-i 海狮-ENG Final 2026.pdf",
+  "title_in_url": "BYD Sealion 6 DM-i 海狮-ENG Final 2026.pdf",
+  "host_class": "BYD official website (Cambodia path 'kh')",
+  "market": "Cambodia",
+  "model_as_printed": "Sealion 6 DM-i (title carries 海狮)",
+  "sha256": "e4896a9461ed73ac6901c0f983062f173263c6ddfdea5314d420d0e1c2fe4fe6",
+  "bytes": 44105442,
+  "pdf_metadata": {
+   "Title": "seal u单页（老挝）初稿",
+   "CreationDate": "Fri Jan 26 08:44:43 2024 UTC",
+   "ModDate": "Wed Jun  3 10:39:44 2026 UTC",
+   "Pages": "2"
+  },
+  "colours": [
+   {
+    "printed": "Azure Blue",
+    "chinese": null
+   },
+   {
+    "printed": "Harbour Grey",
+    "chinese": null
+   },
+   {
+    "printed": "Arctic White",
+    "chinese": null
+   },
+   {
+    "printed": "Delan Black",
+    "chinese": null
+   },
+   {
+    "printed": "Stone Grey",
+    "chinese": null
+   },
+   {
+    "printed": "Emperor Red",
+    "chinese": null
+   }
+  ],
+  "finish_note": "",
+  "equipment_lines": [],
+  "excerpt_lines": [
+   "Azure Blue | Harbour Grey | Arctic White | Delan Black | Stone Grey | Emperor Red | Apple CarPlay® is a registered trade mark of Apple Inc. Requires"
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "doc_id": "D07",
+  "url": "https://autohrvatska.hr/EasyEdit/UserFiles/Catalogs/SEAL U DM-i_Product Information Guide_download_en.pdf",
+  "title_in_url": "SEAL U DM-i_Product Information Guide_download_en.pdf",
+  "host_class": "BYD authorised importer website (Autohrvatska, Croatia)",
+  "market": "Croatia / EU",
+  "model_as_printed": "SEAL U DM-i",
+  "sha256": "c581fbdb91efe0d3341350fecf277e403a17ae334e8d900c84825ab1f8724ca0",
+  "bytes": 9017176,
+  "pdf_metadata": {
+   "CreationDate": "Wed May  8 14:59:47 2024 UTC",
+   "ModDate": "Wed May  8 15:04:12 2024 UTC",
+   "Pages": "21"
+  },
+  "colours": [
+   {
+    "printed": "Delan black",
+    "chinese": null
+   },
+   {
+    "printed": "Time grey",
+    "chinese": null
+   },
+   {
+    "printed": "Snow white",
+    "chinese": null
+   },
+   {
+    "printed": "Tian qing",
+    "chinese": null
+   },
+   {
+    "printed": "Boundless cloud",
+    "chinese": null
+   }
+  ],
+  "finish_note": "document lists 'Metallic paint' as an equipment line for both trims (not per colour)",
+  "equipment_lines": [
+   "Metallic paint"
+  ],
+  "excerpt_lines": [
+   "Metallic paint | ● | ●",
+   "Delan black | ● | ●",
+   "Time grey | ● | ●",
+   "Snow white | ● | ●",
+   "Tian qing | ● | ●",
+   "Boundless cloud | ● | ●"
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "doc_id": "D08",
+  "url": "https://www.byd.com/material/byd-site/sc/BYD DOLPHIN.pdf",
+  "title_in_url": "BYD DOLPHIN.pdf",
+  "host_class": "BYD official website (path 'sc'; country not named in the document)",
+  "market": "not stated (site path 'sc')",
+  "model_as_printed": "DOLPHIN",
+  "sha256": "8077a356e77530cd6ce5348a560baf558a3ae18ceb0b29b3a726d2234f4e668b",
+  "bytes": 2697712,
+  "pdf_metadata": {
+   "Title": "海豚-毛里求斯-塞舌尔",
+   "CreationDate": "Thu Apr  3 04:42:37 2025 UTC",
+   "ModDate": "Thu Apr  3 05:42:37 2025 UTC",
+   "Pages": "2"
+  },
+  "colours": [
+   {
+    "printed": "Atlantis Grey",
+    "chinese": null
+   },
+   {
+    "printed": "Delan Black",
+    "chinese": null
+   },
+   {
+    "printed": "Ski White",
+    "chinese": null
+   },
+   {
+    "printed": "Urban Grey",
+    "chinese": null
+   },
+   {
+    "printed": "Sand White",
+    "chinese": null
+   }
+  ],
+  "finish_note": "",
+  "equipment_lines": [],
+  "excerpt_lines": [
+   "Atlantis Grey | Grey",
+   "Automatic Emergency Braking System (AEB) | ● | ● | Delan Black | Black",
+   "Rear Collision Warning (RCW） | ● | ● | Ski White | Grey",
+   "Urban Grey | Black",
+   "Urban Grey | + | Sand White | +"
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "doc_id": "D09",
+  "url": "https://evdealergroup-byd.com.au/brochures/BYD-DOLPHIN-2025.pdf",
+  "title_in_url": "BYD-DOLPHIN-2025.pdf",
+  "host_class": "BYD authorised dealer-group website (evdealergroup-byd.com.au)",
+  "market": "Australia",
+  "model_as_printed": "DOLPHIN",
+  "sha256": "9143e0f01775ebc3bc3d8694c64506be11e544c377708d0c9a9ea2b0f03b6eb1",
+  "bytes": 2978874,
+  "pdf_metadata": {
+   "Title": "2025 BYD Dolphin Spec Sheet_02.1C",
+   "CreationDate": "Mon May 26 01:19:26 2025 UTC",
+   "ModDate": "Mon May 26 01:19:26 2025 UTC",
+   "Pages": "2"
+  },
+  "colours": [
+   {
+    "printed": "Ski White",
+    "chinese": null
+   },
+   {
+    "printed": "Harbour Grey",
+    "chinese": null
+   },
+   {
+    "printed": "Atlantis Grey",
+    "chinese": null
+   }
+  ],
+  "finish_note": "",
+  "equipment_lines": [],
+  "excerpt_lines": [
+   "Maximum torque (N·m) | 180 | 310 | Rear Cross Traffic Brake (RCTB) | Ski White",
+   "Performance | Front Cross Traffic Alert FCTA) | Harbour Grey",
+   "Acceleration 0-100km/h (s) | 12.3 | 7 | Front Cross Traffic Brake (FCTB) | Atlantis Grey",
+   "*Electric range NEDC Combined Cycle (km) | 410 | 490 | Emergency Lane Keeping Assist (ELKA) | Ski White + Harbour Grey | –",
+   "Ski White + Harbour Grey only available on PREMIUM Model.",
+   "Ski White | Harbour Grey | Atlantis Grey | Ski White + Harbour Grey1"
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "doc_id": "D10",
+  "url": "https://bydautomotive.com.au/brochures/BYD-ATTO-3-2026.pdf",
+  "title_in_url": "BYD-ATTO-3-2026.pdf",
+  "host_class": "BYD Australia (importer) website",
+  "market": "Australia",
+  "model_as_printed": "ATTO 3",
+  "sha256": "877815f810511cc5faa412a41c22480190231e51da9b137ac7a9a5a293285968",
+  "bytes": 3252484,
+  "pdf_metadata": {
+   "Title": "MY25 BYD ATTO 3 spec sheet_260306",
+   "CreationDate": "Fri Mar  6 01:31:58 2026 UTC",
+   "ModDate": "Fri Mar  6 01:31:58 2026 UTC",
+   "Pages": "2"
+  },
+  "colours": [
+   {
+    "printed": "Ski White",
+    "chinese": null
+   },
+   {
+    "printed": "Harbour Grey",
+    "chinese": null
+   },
+   {
+    "printed": "Cosmos Black",
+    "chinese": null
+   },
+   {
+    "printed": "Atlantis Grey",
+    "chinese": null
+   }
+  ],
+  "finish_note": "",
+  "equipment_lines": [
+   "Atlantis Grey only available on PREMIUM Model"
+  ],
+  "excerpt_lines": [
+   "Wheelbase (mm) | 2,720 | Blind Spot Detection (BSD) | Ski White",
+   "Ground clearance unladen (mm) | 175 | Door Open Warning (DOW) | Atlantis Grey",
+   "Ground clearance laden (mm) | 150 | Lane Departure Warning (LDW) | Harbour Grey",
+   "Luggage capacity – Min (L) | 440 | Lane Keeping Assist (LKA) | Cosmos Black",
+   "• | Atlantis Grey only available on PREMIUM Model",
+   "• | Blue and Grey interior only available with Ski White exterior paint. Black interior only",
+   "Portable charging cable (mode 2) | Dirac HD sound® with 8 speakers | available with Atlantis Grey, Harbour Grey, and Cosmos Black exterior paint.",
+   "Ski White | Harbour Grey | Cosmos Black | Atlantis"
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "doc_id": "D11",
+  "url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL 6 DM-i-1225-BPS-UK-V2-web.pdf",
+  "title_in_url": "SEAL 6 DM-i-1225-BPS-UK-V2-web.pdf",
+  "host_class": "BYD UK website",
+  "market": "United Kingdom",
+  "model_as_printed": "SEAL 6 DM-i",
+  "sha256": "a4bdeeb458eeab4d39ad0cea467a29d54e41358e523d02529617ccb1de429b67",
+  "bytes": 2681558,
+  "pdf_metadata": {
+   "Title": "SEAL 6 DM-i-1225-BPS-UK-V2-web",
+   "CreationDate": "Mon Dec 15 09:35:10 2025 UTC",
+   "ModDate": "Mon Dec 15 11:04:28 2025 UTC",
+   "Pages": "8"
+  },
+  "colours": [
+   {
+    "printed": "Polar White",
+    "chinese": null
+   },
+   {
+    "printed": "Obsidian Black",
+    "chinese": null
+   },
+   {
+    "printed": "Atlantis Blue",
+    "chinese": null
+   },
+   {
+    "printed": "Sandstone",
+    "chinese": null
+   }
+  ],
+  "finish_note": "document states 'Metallic paint: Polar White; Optional Metallic paint: Obsidian Black; Atlantis Blue; Sandstone' (finish stated per colour: metallic)",
+  "equipment_lines": [
+   "Metallic paint: Polar White",
+   "Optional Metallic paint: Obsidian Black; Atlantis Blue; Sandstone"
+  ],
+  "excerpt_lines": [
+   "Metallic paint: Polar White",
+   "Optional Metallic paint: Obsidian Black; Atlantis Blue; Sandstone; | £�,��� | £�,���",
+   "Obsidian Black",
+   "Atlantis Blue",
+   "Polar White",
+   "Sandstone",
+   "Obsidian Black | Atlantis Blue | Polar White | Sandstone"
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "doc_id": "D12",
+  "url": "https://www.byd.com/material/byd-site/byd-uk/specifications/BYD SEALION 5 DM-i UK Leaflet-v3.pdf",
+  "title_in_url": "BYD SEALION 5 DM-i UK Leaflet-v3.pdf",
+  "host_class": "BYD UK website",
+  "market": "United Kingdom",
+  "model_as_printed": "SEALION 5 DM-i",
+  "sha256": "43e51753edd4cc47a855b709baaa3ef6347282268b697a06111c92f246c398f8",
+  "bytes": 1976784,
+  "pdf_metadata": {
+   "Title": "SEALION 5-0126-BPS-UK-V2-web",
+   "CreationDate": "Thu Jun  4 10:51:24 2026 UTC",
+   "ModDate": "Thu Jun  4 10:51:24 2026 UTC",
+   "Pages": "8"
+  },
+  "colours": [
+   {
+    "printed": "Atlantis Blue",
+    "chinese": null
+   },
+   {
+    "printed": "Obsidian Black",
+    "chinese": null
+   },
+   {
+    "printed": "Time Grey",
+    "chinese": null
+   },
+   {
+    "printed": "Polar White",
+    "chinese": null
+   }
+  ],
+  "finish_note": "document lists 'Metallic paint' as an equipment line (not per colour)",
+  "equipment_lines": [
+   "Metallic paint"
+  ],
+  "excerpt_lines": [
+   "Metallic paint",
+   "Atlantis Blue",
+   "Obsidian Black",
+   "Time Grey",
+   "Polar White",
+   "Atlantis Blue | Obsidian Black | Time Grey | Polar White"
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "doc_id": "D13",
+  "url": "https://www.byd.com/material/byd-site/fr/product/han/BYD%20HAN.pdf",
+  "title_in_url": "BYD HAN.pdf",
+  "host_class": "BYD official website (France path 'fr')",
+  "market": "France",
+  "model_as_printed": "HAN",
+  "sha256": "7bc8766fd25caf455d9bbc5ffb328fb8143539f8d93f09baf3b7066539955b84",
+  "bytes": 1391270,
+  "pdf_metadata": {
+   "CreationDate": "Tue Nov 15 03:18:58 2022 UTC",
+   "ModDate": "Tue Nov 15 03:18:58 2022 UTC",
+   "Pages": "6"
+  },
+  "colours": [],
+  "finish_note": "",
+  "equipment_lines": [],
+  "excerpt_lines": [],
+  "no_colour_text": false,
+  "retrieved": "2026-11-24"
+ }
+]

@@ -1,0 +1,147 @@
+[
+ {
+  "brand": "denza",
+  "url": "https://www.tengshiauto.com/product-detail/N8-2026.html",
+  "http": "404",
+  "bytes": "35798",
+  "title": "404",
+  "colour_like_names": [],
+  "n_colour_words": 12
+ },
+ {
+  "brand": "denza",
+  "url": "https://www.tengshiauto.com/product-detail/N9-2026.html",
+  "http": "000",
+  "bytes": "0",
+  "title": "",
+  "colour_like_names": [],
+  "n_colour_words": 0
+ },
+ {
+  "brand": "denza",
+  "url": "https://www.tengshiauto.com/product-detail/26-z9gt.html",
+  "http": "200",
+  "bytes": "87686",
+  "title": "2026款腾势Z9GT-腾势官网",
+  "colour_like_names": [
+   "冬日青",
+   "午夜蓝",
+   "峡湾绿",
+   "星曜黑",
+   "晶澜灰",
+   "月华银",
+   "极光紫"
+  ],
+  "n_colour_words": 93
+ },
+ {
+  "brand": "denza",
+  "url": "https://www.tengshiauto.com/product-detail/D9-2.html",
+  "http": "200",
+  "bytes": "112906",
+  "title": "第二代腾势D9-腾势官网",
+  "colour_like_names": [
+   "华晶紫",
+   "墨玉黑",
+   "暗夜鎏金",
+   "珠贝灰",
+   "羊脂白",
+   "青金蓝"
+  ],
+  "n_colour_words": 70
+ },
+ {
+  "brand": "denza",
+  "url": "https://www.tengshiauto.com/product-detail/Z.html",
+  "http": "000",
+  "bytes": "0",
+  "title": "",
+  "colour_like_names": [],
+  "n_colour_words": 0
+ },
+ {
+  "brand": "yangwang",
+  "url": "https://www.yangwangauto.com/u8.html",
+  "http": "200",
+  "bytes": "107609",
+  "title": "仰望U8丨百万级新能源硬派越野",
+  "colour_like_names": [],
+  "n_colour_words": 15
+ },
+ {
+  "brand": "yangwang",
+  "url": "https://www.yangwangauto.com/u9-detail-page.html",
+  "http": "200",
+  "bytes": "78236",
+  "title": "仰望U9-仰望官网",
+  "colour_like_names": [],
+  "n_colour_words": 8
+ },
+ {
+  "brand": "yangwang",
+  "url": "https://www.yangwangauto.com/u7-detail-page.html",
+  "http": "200",
+  "bytes": "104672",
+  "title": "仰望U7丨运动豪华旗舰轿车",
+  "colour_like_names": [],
+  "n_colour_words": 34
+ },
+ {
+  "brand": "yangwang",
+  "url": "https://www.yangwangauto.com/c-u8-l.html",
+  "http": "200",
+  "bytes": "114454",
+  "title": "仰望U8L丨全尺寸行政豪华SUV",
+  "colour_like_names": [
+   "旭光橙",
+   "昆仑棕",
+   "烟岚紫"
+  ],
+  "n_colour_words": 54
+ },
+ {
+  "brand": "fangchengbao",
+  "url": "https://www.fangchengbao.com/bao5",
+  "http": "200",
+  "bytes": "139104",
+  "title": "产品详情页-豹5",
+  "colour_like_names": [],
+  "n_colour_words": 48
+ },
+ {
+  "brand": "fangchengbao",
+  "url": "https://www.fangchengbao.com/bao8",
+  "http": "200",
+  "bytes": "127131",
+  "title": "产品详情页-豹8",
+  "colour_like_names": [],
+  "n_colour_words": 46
+ },
+ {
+  "brand": "fangchengbao",
+  "url": "https://www.fangchengbao.com/tai7",
+  "http": "200",
+  "bytes": "144514",
+  "title": "产品详情页-钛7",
+  "colour_like_names": [],
+  "n_colour_words": 37
+ },
+ {
+  "brand": "fangchengbao",
+  "url": "https://www.fangchengbao.com/tai3",
+  "http": "200",
+  "bytes": "104789",
+  "title": "钛3",
+  "colour_like_names": [],
+  "n_colour_words": 21
+ },
+ {
+  "brand": "fangchengbao",
+  "url": "https://www.fangchengbao.com/fangchengS",
+  "http": "200",
+  "bytes": "94960",
+  "title": "产品详情页-方程S",
+  "colour_like_names": [],
+  "n_colour_words": 48
+ }
+]

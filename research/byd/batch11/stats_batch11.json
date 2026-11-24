@@ -1,0 +1,63 @@
+{
+ "official_documents_fetched": 13,
+ "brand_pages_with_colour_names": 11,
+ "brand_colour_name_rows": 84,
+ "official_documents_with_exterior_colour_names": 12,
+ "docs_with_chinese_names": 1,
+ "docs_with_per_colour_finish": 1,
+ "docs_with_equipment_finish_line": 3,
+ "docs_with_paint_code": 0,
+ "colour_rows": 142,
+ "cn_model_pages": 16,
+ "failed_urls": 11,
+ "catalog_models_covered": [
+  "M016",
+  "M020",
+  "M021",
+  "M022",
+  "M026",
+  "M030",
+  "M031",
+  "M034"
+ ],
+ "priority_models_with_official_table": [
+  1,
+  4,
+  5,
+  6
+ ],
+ "model_year_combinations_with_official_name_support": 34,
+ "colour_records_with_official_support": {
+  "OFFICIAL_CHINESE_NAME_PRINTED": 98,
+  "OFFICIAL_ENGLISH_NAME_INFERRED_CHINESE": 12
+ },
+ "colour_records": 1223,
+ "status": {
+  "POSSIBLE": 329,
+  "UNVERIFIED": 787,
+  "CONFLICTED": 107
+ },
+ "links": 709,
+ "name_only_links": 212,
+ "model_listed_links": 497,
+ "model_year_mismatch_links": 24,
+ "model_year_mismatch_colour_records": 15,
+ "flag_counts": {
+  "MARKET_NOT_CHINA_CONFIRMED": 709,
+  "PRODUCTION_PERIOD_UNKNOWN": 568,
+  "NAME_ONLY_PROPAGATED": 212,
+  "MODEL_YEAR_MISMATCH": 24,
+  "FINISH_UNRESOLVED": 7
+ },
+ "primary_classes": {
+  "MODEL_LISTED_YEAR_UNKNOWN": 371,
+  "NAME_ONLY_PROPAGATED": 212,
+  "MODEL_LISTED_YEAR_MATCH": 102,
+  "MODEL_YEAR_MISMATCH": 24
+ },
+ "field_evidence_received": 0,
+ "verified_oem": 0,
+ "verified_label": 0,
+ "corroborated": 0,
+ "target_slots": 20
+}

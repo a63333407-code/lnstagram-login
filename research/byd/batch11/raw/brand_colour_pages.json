@@ -1,0 +1,618 @@
+[
+ {
+  "brand": "denza",
+  "url": "https://www.tengshiauto.com/product-detail/26-z9gt.html",
+  "http": "200",
+  "bytes": "87686",
+  "title": "2026款腾势Z9GT-腾势官网",
+  "sha256": "8ffa5213185a04bd0994fbd2aade3992829515c8ab770565837a7d2768479aec",
+  "colour_entries": [
+   {
+    "name": "峡湾绿",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "i_cn2/product/26z9gt/sequenceframe/new/ev/纯电峡湾绿--20寸星辐轮毂.jpg"
+   },
+   {
+    "name": "午夜蓝",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "gshi_cn2/product/26z9gt/sequenceframe/0713/纯电镜瓷蓝-20寸星辐轮毂.jpg"
+   },
+   {
+    "name": "皓月米",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "gshi_cn2/product/26z9gt/sequenceframe/0713/纯电皓月米-20寸星辐轮毂.jpg"
+   },
+   {
+    "name": "冬日青",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "i_cn2/product/26z9gt/sequenceframe/new/ev/纯电冬日青--20寸星辐轮毂.jpg"
+   },
+   {
+    "name": "月华银",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "i_cn2/product/26z9gt/sequenceframe/new/ev/纯电月华银--20寸星辐轮毂.jpg"
+   },
+   {
+    "name": "星曜黑",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "i_cn2/product/26z9gt/sequenceframe/new/ev/纯电星耀黑--20寸星辐轮毂.jpg"
+   },
+   {
+    "name": "晶澜灰",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "i_cn2/product/26z9gt/sequenceframe/new/ev/纯电晶澜灰--20寸星辐轮毂.jpg"
+   },
+   {
+    "name": "极光紫",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "i_cn2/product/26z9gt/sequenceframe/new/ev/纯电极光紫--20寸星辐轮毂.jpg"
+   }
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "brand": "denza",
+  "url": "https://www.tengshiauto.com/product-detail/D9-2.html",
+  "http": "200",
+  "bytes": "112906",
+  "title": "第二代腾势D9-腾势官网",
+  "sha256": "6731d073b6da25305dc3299512bf1d9e500fc9efd1ba4a3e35fdcb59d2778fd2",
+  "colour_entries": [
+   {
+    "name": "紫金双辉",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "/material/tengshi_cn2/product/dierdaid9/foto/new/高配-紫.jpg"
+   },
+   {
+    "name": "青银双曜",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "/material/tengshi_cn2/product/dierdaid9/foto/new/高配-蓝金.jpg"
+   },
+   {
+    "name": "珠贝灰",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "/material/tengshi_cn2/product/dierdaid9/foto/new/高配-灰.jpg"
+   },
+   {
+    "name": "青金蓝",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "/material/tengshi_cn2/product/dierdaid9/foto/new/高配-蓝.jpg"
+   },
+   {
+    "name": "墨玉黑",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "/material/tengshi_cn2/product/dierdaid9/foto/new/高配-黑.jpg"
+   },
+   {
+    "name": "羊脂白",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "/material/tengshi_cn2/product/dierdaid9/foto/new/高配-白.jpg"
+   },
+   {
+    "name": "华晶紫",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "/material/tengshi_cn2/product/dierdaid9/foto/new/高配-xx.jpg"
+   },
+   {
+    "name": "暗夜鎏金",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "/material/tengshi_cn2/product/dierdaid9/foto/new/高配-黑金.jpg"
+   },
+   {
+    "name": "青银双耀",
+    "kind": "exterior (rendered sequence frames)",
+    "path_hint": "/material/tengshi_cn2/product/dierdaid9/foto/new/高配-蓝金.jpg"
+   }
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "brand": "yangwang",
+  "url": "https://www.yangwangauto.com/u8.html",
+  "http": "200",
+  "bytes": "107609",
+  "title": "仰望U8丨百万级新能源硬派越野",
+  "sha256": "eaa8009f71d6ad5b95eab3dadbe99e48f765600c13bdc9a476997dfc812141aa",
+  "colour_entries": [
+   {
+    "name": "曜石黑",
+    "kind": "exterior",
+    "path_hint": "l/yangwang_cn/images/202602/u8/car-view/waiguan/black-pc.png"
+   },
+   {
+    "name": "萤石白",
+    "kind": "exterior",
+    "path_hint": "l/yangwang_cn/images/202602/u8/car-view/waiguan/white-pc.png"
+   },
+   {
+    "name": "月光银",
+    "kind": "exterior",
+    "path_hint": "ial/yangwang_cn/images/202602/u8/car-view/waiguan/yin-pc.png"
+   },
+   {
+    "name": "昆仑棕",
+    "kind": "unclassified",
+    "path_hint": "al/yangwang_cn/images/202602/u8/car-view/neishi/brown-pc.jpg"
+   },
+   {
+    "name": "远山灰",
+    "kind": "unclassified",
+    "path_hint": "ial/yangwang_cn/images/202602/u8/car-view/neishi/grey-pc.jpg"
+   },
+   {
+    "name": "烟岚紫",
+    "kind": "unclassified",
+    "path_hint": "l/yangwang_cn/images/202602/u8/car-view/neishi/purple-pc.jpg"
+   },
+   {
+    "name": "丹霞橙",
+    "kind": "unclassified",
+    "path_hint": "l/yangwang_cn/images/202602/u8/car-view/neishi/orange-pc.jpg"
+   },
+   {
+    "name": "22英寸运动锻造轮毂",
+    "kind": "unclassified",
+    "path_hint": "ial/yangwang_cn/images/202602/u8/car-view/lungu/22-yd-pc.png"
+   },
+   {
+    "name": "22英寸简约锻造轮毂",
+    "kind": "unclassified",
+    "path_hint": "ial/yangwang_cn/images/202602/u8/car-view/lungu/22-jy-pc.png"
+   },
+   {
+    "name": "20英寸运动锻造轮毂",
+    "kind": "unclassified",
+    "path_hint": "ial/yangwang_cn/images/202602/u8/car-view/lungu/20-yd-pc.png"
+   },
+   {
+    "name": "12.8英寸后排悬浮式多媒体屏*2",
+    "kind": "unclassified",
+    "path_hint": "angwang_cn/images/202602/u8/car-view/xuanzhuang/media-pc.jpg"
+   },
+   {
+    "name": "拖挂套件*",
+    "kind": "unclassified",
+    "path_hint": "ngwang_cn/images/202602/u8/car-view/xuanzhuang/tg-pc-new.jpg"
+   }
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "brand": "yangwang",
+  "url": "https://www.yangwangauto.com/u9-detail-page.html",
+  "http": "200",
+  "bytes": "78236",
+  "title": "仰望U9-仰望官网",
+  "sha256": "2001ad26a157b6b82758cabd9320a994704287b7cfda35eb5efb2c6ae1eaa47c",
+  "colour_entries": [
+   {
+    "name": "阿盖尔紫",
+    "kind": "unclassified",
+    "path_hint": "_cn/images/new-cn/car-model-page/u9-view-pc-v2/purple-pc.png"
+   },
+   {
+    "name": "赤霞丹朱",
+    "kind": "unclassified",
+    "path_hint": "ang_cn/images/new-cn/car-model-page/u9-view-pc-v2/red-pc.png"
+   },
+   {
+    "name": "月曜银",
+    "kind": "unclassified",
+    "path_hint": "cn/images/new-cn/car-model-page/u9-view-pc-v2/silvery-pc.png"
+   },
+   {
+    "name": "极境森林",
+    "kind": "unclassified",
+    "path_hint": "l/yangwang_cn/images/u9/2025-12-23/U9-green-pc-2880x1440.png"
+   },
+   {
+    "name": "星云紫",
+    "kind": "interior",
+    "path_hint": "_cn/images/u9/2025-12-23/U9-purple-interior-pc-2880x1440.jpg"
+   },
+   {
+    "name": "赤曜红",
+    "kind": "interior",
+    "path_hint": "ang_cn/images/u9/2025-12-23/U9-red-interior-pc-2880x1440.jpg"
+   },
+   {
+    "name": "极境森林",
+    "kind": "interior",
+    "path_hint": "g_cn/images/u9/2025-12-23/U9-green-interior-pc-2880x1440.jpg"
+   }
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "brand": "yangwang",
+  "url": "https://www.yangwangauto.com/u7-detail-page.html",
+  "http": "200",
+  "bytes": "104672",
+  "title": "仰望U7丨运动豪华旗舰轿车",
+  "sha256": "57e939585f380a74af671d1bba3acd6ea8238eddd466ac4df3d1d910755b2300",
+  "colour_entries": [
+   {
+    "name": "琥珀橙",
+    "kind": "unclassified",
+    "path_hint": "/material/yangwang_cn/images/202602/u7/carview/orange-pc.png"
+   },
+   {
+    "name": "星河蓝",
+    "kind": "exterior",
+    "path_hint": "mages/u7-202511/waiguan/星河蓝_性能_锻造_红色卡钳_传统外后视镜_碳纤维包围_1new.png"
+   },
+   {
+    "name": "阿盖尔紫",
+    "kind": "exterior",
+    "path_hint": "es/u7-202511/waiguan/阿盖尔紫_性能胎_锻造轮毂_红色卡钳_传统后视镜_碳纤维包围_1new.png"
+   },
+   {
+    "name": "月曜银",
+    "kind": "unclassified",
+    "path_hint": "cn/images/new-cn/car-model-page/u7-view-pc-v2/silvery-pc.png"
+   },
+   {
+    "name": "曜石黑",
+    "kind": "unclassified",
+    "path_hint": "g_cn/images/new-cn/car-model-page/u7-view-pc-v2/black-pc.png"
+   },
+   {
+    "name": "萤石白",
+    "kind": "unclassified",
+    "path_hint": "g_cn/images/new-cn/car-model-page/u7-view-pc-v2/white-pc.png"
+   },
+   {
+    "name": "云杉棕",
+    "kind": "unclassified",
+    "path_hint": "ial/yangwang_cn/images/202602/u7/carview/neishi/brown-pc.jpg"
+   },
+   {
+    "name": "旭光橙",
+    "kind": "unclassified",
+    "path_hint": "al/yangwang_cn/images/202602/u7/carview/neishi/orange-pc.jpg"
+   },
+   {
+    "name": "云锦红",
+    "kind": "unclassified",
+    "path_hint": "erial/yangwang_cn/images/202602/u7/carview/neishi/red-pc.jpg"
+   },
+   {
+    "name": "珠缎白",
+    "kind": "unclassified",
+    "path_hint": "ial/yangwang_cn/images/202602/u7/carview/neishi/white-pc.jpg"
+   },
+   {
+    "name": "20英寸饼状锻造铝合金轮毂",
+    "kind": "unclassified",
+    "path_hint": "n/images/u7-202511/lungu/月曜银_饼状_静音_银色卡钳_传统外后视镜_普通包围_3new.png"
+   },
+   {
+    "name": "21英寸锻造铝合金轮毂",
+    "kind": "unclassified",
+    "path_hint": "_cn/images/new-cn/car-model-page/u7-view-pc-v2/hub-dz-pc.png"
+   },
+   {
+    "name": "像素大灯",
+    "kind": "unclassified",
+    "path_hint": "aterial/yangwang_cn/images/u7-202511/xuanzhuang/像素大灯_月曜银.jpg"
+   },
+   {
+    "name": "碳纤维套件",
+    "kind": "unclassified",
+    "path_hint": "/yangwang_cn/images/u7-202511/xuanzhuang/月曜银_云锦红_4座_红色卡钳.jpg"
+   }
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "brand": "yangwang",
+  "url": "https://www.yangwangauto.com/c-u8-l.html",
+  "http": "200",
+  "bytes": "114454",
+  "title": "仰望U8L丨全尺寸行政豪华SUV",
+  "sha256": "fb2844ca124b25c51d4eb2730754868a9e83be5e3c6bab3c1baf65e6d2eaa2f8",
+  "colour_entries": [
+   {
+    "name": "月光银",
+    "kind": "exterior",
+    "path_hint": "ial/yangwang_cn/images/202602/u8l/carview/waiguan/yin-pc.png"
+   },
+   {
+    "name": "白玉金",
+    "kind": "exterior",
+    "path_hint": "ial/yangwang_cn/images/202602/u8l/carview/waiguan/bai-pc.png"
+   },
+   {
+    "name": "曜石黑配日曜金",
+    "kind": "exterior",
+    "path_hint": "gwang_cn/images/202602/u8l/carview/waiguan/yaojin-pc-new.png"
+   },
+   {
+    "name": "曜石黑配日珥金",
+    "kind": "exterior",
+    "path_hint": "l/yangwang_cn/images/202602/u8l/carview/waiguan/erjin-pc.png"
+   },
+   {
+    "name": "曜石黑",
+    "kind": "exterior",
+    "path_hint": "l/yangwang_cn/images/202602/u8l/carview/waiguan/black-pc.png"
+   },
+   {
+    "name": "旭光橙",
+    "kind": "unclassified",
+    "path_hint": "gwang_cn/images/202602/u8l/carview/neishi/orange-pc-0228.jpg"
+   },
+   {
+    "name": "昆仑棕",
+    "kind": "unclassified",
+    "path_hint": "al/yangwang_cn/images/202602/u8l/carview/neishi/brown-pc.jpg"
+   },
+   {
+    "name": "烟岚紫",
+    "kind": "unclassified",
+    "path_hint": "l/yangwang_cn/images/202602/u8l/carview/neishi/purple-pc.jpg"
+   },
+   {
+    "name": "22英寸八孔锻造铝合金轮毂",
+    "kind": "unclassified",
+    "path_hint": "gwang_cn/images/202602/u8l/carview/lungu/new/22-dz-lv-pc.png"
+   },
+   {
+    "name": "23英寸八孔锻造轮毂",
+    "kind": "unclassified",
+    "path_hint": "yangwang_cn/images/202602/u8l/carview/lungu/new/23-dz-pc.png"
+   },
+   {
+    "name": "22英寸多辐锻造轮毂（黑色）",
+    "kind": "unclassified",
+    "path_hint": "ngwang_cn/images/202602/u8l/carview/lungu/new/22-df-h-pc.png"
+   },
+   {
+    "name": "22英寸多辐锻造轮毂（银色）",
+    "kind": "unclassified",
+    "path_hint": "ngwang_cn/images/202602/u8l/carview/lungu/new/22-df-y-pc.png"
+   },
+   {
+    "name": "方向盘黄金车标搭配前、后黄金车标",
+    "kind": "unclassified",
+    "path_hint": "/material/yangwang_cn/images/u8l-yushou/xuanpei/黄金车标.jpg"
+   },
+   {
+    "name": "方向盘铂金车标搭配前、后黄金车标",
+    "kind": "unclassified",
+    "path_hint": "/material/yangwang_cn/images/u8l-yushou/xuanpei/铂金车标.jpg"
+   },
+   {
+    "name": "电动门",
+    "kind": "unclassified",
+    "path_hint": "yangwang_cn/images/202602/u8l/carview/xuanzhuang/door-pc.jpg"
+   }
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "brand": "fangchengbao",
+  "url": "https://www.fangchengbao.com/bao5",
+  "http": "200",
+  "bytes": "139104",
+  "title": "产品详情页-豹5",
+  "sha256": "03b6227e7afc49222890a698113b176d5e8a11ec137aff1ef4d85dfffdbfac08",
+  "colour_entries": [
+   {
+    "name": "赤沙红",
+    "kind": "body colour section (车色)",
+    "path_hint": "duct-detail/bao5shanchong/chexiangye/waiguan/chese/72x72.png"
+   },
+   {
+    "name": "暖风白",
+    "kind": "body colour section (车色)",
+    "path_hint": "ngchengbao/product-detail/bao5new/1019/waiguan/72x72-bai.png"
+   },
+   {
+    "name": "多诺米蒂山脉绿",
+    "kind": "body colour section (车色)",
+    "path_hint": "angchengbao/product-detail/bao5new/1019/waiguan/72x72-lv.png"
+   },
+   {
+    "name": "巅峰灰",
+    "kind": "body colour section (车色)",
+    "path_hint": "ngchengbao/product-detail/bao5new/1019/waiguan/72x72-hui.png"
+   },
+   {
+    "name": "夜影黑",
+    "kind": "body colour section (车色)",
+    "path_hint": "ngchengbao/product-detail/bao5new/1019/waiguan/72x72-hei.png"
+   },
+   {
+    "name": "沙丘棕",
+    "kind": "body colour section (车色)",
+    "path_hint": "/fangchengbao/product-detail/bao5new/1019/neishi/zong-yb.png"
+   },
+   {
+    "name": "日蚀蓝",
+    "kind": "body colour section (车色)",
+    "path_hint": "chengbao/product-detail/bao5new/1019/neishi/72x72-lan-yb.png"
+   },
+   {
+    "name": "浅滩绿",
+    "kind": "body colour section (车色)",
+    "path_hint": "gchengbao/product-detail/bao5new/1019/neishi/72x72-lv-yb.png"
+   }
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "brand": "fangchengbao",
+  "url": "https://www.fangchengbao.com/bao8",
+  "http": "200",
+  "bytes": "127131",
+  "title": "产品详情页-豹8",
+  "sha256": "bf64d1bf8af3821c03210775b56db0da1c81a5420a1c63697efff4f597220c95",
+  "colour_entries": [
+   {
+    "name": "破晓金/悬浮车顶",
+    "kind": "body colour section (车色)",
+    "path_hint": "l/bao8/bao8/2.waiguan/waiguan/chese/chese-pc-3840/2.2-pc.png"
+   },
+   {
+    "name": "湖光绿/悬浮车顶",
+    "kind": "body colour section (车色)",
+    "path_hint": "l/fangchengbao/product-detail/bao8/1019/waiguan/72x72-lv.png"
+   },
+   {
+    "name": "星月银/悬浮车顶",
+    "kind": "body colour section (车色)",
+    "path_hint": "l/bao8/bao8/2.waiguan/waiguan/chese/chese-pc-3840/1.1-pc.png"
+   },
+   {
+    "name": "夜影黑",
+    "kind": "body colour section (车色)",
+    "path_hint": "l/bao8/bao8/2.waiguan/waiguan/chese/chese-pc-3840/3.3-pc.png"
+   },
+   {
+    "name": "雪隐灰",
+    "kind": "body colour section (车色)",
+    "path_hint": "l/fangchengbao/product-detail/bao8/1019/neishi/72x72-hui.png"
+   },
+   {
+    "name": "野麦黄",
+    "kind": "body colour section (车色)",
+    "path_hint": "fangchengbao/product-detail/bao8/1019/neishi/72x72-huang.png"
+   },
+   {
+    "name": "暗夜黑",
+    "kind": "body colour section (车色)",
+    "path_hint": "l/fangchengbao/product-detail/bao8/1019/neishi/72x72-hei.png"
+   }
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "brand": "fangchengbao",
+  "url": "https://www.fangchengbao.com/tai7",
+  "http": "200",
+  "bytes": "144514",
+  "title": "产品详情页-钛7",
+  "sha256": "fed2016bd0b54adf41a6b3f2958f15fcfefd3fe1d8e0ed7ec0bb7c1bb215f05b",
+  "colour_entries": [
+   {
+    "name": "云夜紫",
+    "kind": "body colour section (车色)",
+    "path_hint": "al/__CN/fangchengbao/product-detail/tai70818/chese/72x72.png"
+   },
+   {
+    "name": "山水绿",
+    "kind": "body colour section (车色)",
+    "path_hint": "ao/product-detail/tai7chexiangye/3waiguan/chese/lv-yb-pc.png"
+   },
+   {
+    "name": "星月银",
+    "kind": "body colour section (车色)",
+    "path_hint": "o/product-detail/tai7chexiangye/3waiguan/chese/yin-yb-pc.png"
+   },
+   {
+    "name": "晨光蓝",
+    "kind": "body colour section (车色)",
+    "path_hint": "o/product-detail/tai7chexiangye/3waiguan/chese/lan-yb-pc.png"
+   },
+   {
+    "name": "曜石黑",
+    "kind": "body colour section (车色)",
+    "path_hint": "o/product-detail/tai7chexiangye/3waiguan/chese/hei-yb-pc.png"
+   },
+   {
+    "name": "青峦翠",
+    "kind": "body colour section (车色)",
+    "path_hint": "o/product-detail/tai7chexiangye/3waiguan/chese/cui-yb-pc.png"
+   },
+   {
+    "name": "霜雾灰",
+    "kind": "body colour section (车色)",
+    "path_hint": "o/product-detail/tai7chexiangye/3waiguan/chese/hui-yb-pc.png"
+   }
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "brand": "fangchengbao",
+  "url": "https://www.fangchengbao.com/tai3",
+  "http": "200",
+  "bytes": "104789",
+  "title": "钛3",
+  "sha256": "44cd80718bd314572379368a68a038683033f31b09084b9af48017315e2f0be3",
+  "colour_entries": [
+   {
+    "name": "星尘紫",
+    "kind": "body colour section (车色)",
+    "path_hint": "terial/fangchengbao/product-detail/tai3-0313/chese/zi-yb.png"
+   },
+   {
+    "name": "微光粉",
+    "kind": "body colour section (车色)",
+    "path_hint": "ct-detail/tai3-0804/2.waiguan/2.cheshen/chese0927/fen-yb.png"
+   },
+   {
+    "name": "矿石绿",
+    "kind": "body colour section (车色)",
+    "path_hint": "engbao/product-detail/tai3-0804/2.waiguan/chese/pc/lv-pc.png"
+   },
+   {
+    "name": "曜石黑",
+    "kind": "body colour section (车色)",
+    "path_hint": "ngbao/product-detail/tai3-0804/2.waiguan/chese/pc/hei-pc.png"
+   },
+   {
+    "name": "星月银",
+    "kind": "body colour section (车色)",
+    "path_hint": "ngbao/product-detail/tai3-0804/2.waiguan/chese/pc/lan-pc.png"
+   },
+   {
+    "name": "元素白",
+    "kind": "body colour section (车色)",
+    "path_hint": "ngbao/product-detail/tai3-0804/2.waiguan/chese/pc/bai-pc.png"
+   }
+  ],
+  "retrieved": "2026-11-24"
+ },
+ {
+  "brand": "fangchengbao",
+  "url": "https://www.fangchengbao.com/fangchengS",
+  "http": "200",
+  "bytes": "94960",
+  "title": "产品详情页-方程S",
+  "sha256": "baf2d2e85b1fa1af4d4d3f2fe34c7c5cadb754e1faa83f0147d02e0b5e8190be",
+  "colour_entries": [
+   {
+    "name": "时尚绿",
+    "kind": "body colour section (车色)",
+    "path_hint": "fangchengbao/product-detail/fangchengs/chese/72X72-1-时尚绿.png"
+   },
+   {
+    "name": "科技银",
+    "kind": "body colour section (车色)",
+    "path_hint": "fangchengbao/product-detail/fangchengs/chese/72X72-2-科技银.png"
+   },
+   {
+    "name": "摩登红",
+    "kind": "body colour section (车色)",
+    "path_hint": "fangchengbao/product-detail/fangchengs/chese/72X72-3-摩登红.png"
+   },
+   {
+    "name": "动感黄",
+    "kind": "body colour section (车色)",
+    "path_hint": "fangchengbao/product-detail/fangchengs/chese/72X72-4-动感黄.png"
+   },
+   {
+    "name": "硬核黑",
+    "kind": "body colour section (车色)",
+    "path_hint": "fangchengbao/product-detail/fangchengs/chese/72X72-5-硬核黑.png"
+   },
+   {
+    "name": "潮流粉",
+    "kind": "body colour section (车色)",
+    "path_hint": "fangchengbao/product-detail/fangchengs/chese/72X72-6-潮流粉.png"
+   }
+  ],
+  "retrieved": "2026-11-24"
+ }
+]

@@ -1,0 +1,114 @@
+[
+ {
+  "path": "/cn/dynasty-home/models/han/han-ev-zhijia",
+  "http": "200",
+  "bytes": "195623",
+  "title": "汉EV 智驾版",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/dynasty-home/models/han/han-ev-shan",
+  "http": "200",
+  "bytes": "195557",
+  "title": "汉EV闪充版",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/dynasty-home/models/han/han-dm-i-zhijia",
+  "http": "200",
+  "bytes": "195709",
+  "title": "汉DM-i智驾版",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/dynasty-home/models/qin/2-qinplus-ev-zhijia",
+  "http": "200",
+  "bytes": "195681",
+  "title": "第二代秦PLUS EV 智驾版",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/dynasty-home/models/qin/26-qin-plus-dm-i",
+  "http": "200",
+  "bytes": "195402",
+  "title": "2026款秦PLUS DM-i",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/dynasty-home/models/qin/3-qin-plus-DM-i",
+  "http": "200",
+  "bytes": "195268",
+  "title": "第三代秦PLUS DM-i",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/dynasty-home/models/song/26-song-pro-dm-i-feichi",
+  "http": "200",
+  "bytes": "194017",
+  "title": "宋Pro DM-i飞驰版",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/dynasty-home/models/song/song-Ultra-DM-i",
+  "http": "200",
+  "bytes": "193742",
+  "title": "宋Ultra DM-i",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/dynasty-home/models/song/song-Ultra-EV",
+  "http": "200",
+  "bytes": "305389",
+  "title": "宋Ultra EV",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/dynasty-home/models/yuan/2-yuan-plus",
+  "http": "200",
+  "bytes": "247261",
+  "title": "第二代元PLUS智驾版",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/dynasty-home/models/yuan/3-yuan-plus",
+  "http": "200",
+  "bytes": "294339",
+  "title": "第三代元PLUS",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/ocean-home/models/haitun/2025haitun",
+  "http": "200",
+  "bytes": "236570",
+  "title": "2025款海豚",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/ocean-home/models/haitun/haitun-zhijia",
+  "http": "200",
+  "bytes": "257794",
+  "title": "海豚 智驾版",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/ocean-home/models/haibao/haibao-07-EV",
+  "http": "200",
+  "bytes": "279450",
+  "title": "海豹07EV",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/ocean-home/models/haibao/27-haibao-06-ev",
+  "http": "200",
+  "bytes": "195695",
+  "title": "2027款海豹06EV",
+  "colour_words": 0
+ },
+ {
+  "path": "/cn/ocean-home/models/haishi/new-haishi-05-dm-i",
+  "http": "200",
+  "bytes": "276461",
+  "title": "全新海狮05DM-i",
+  "colour_words": 0
+ }
+]
