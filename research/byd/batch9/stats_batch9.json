@@ -1,0 +1,114 @@
+{
+ "contact_rows": 25,
+ "channels": 5,
+ "calls_made": 0,
+ "cases": 2,
+ "case_rows": 22,
+ "evidence_rows": 13,
+ "conflict_groups_scored": 29,
+ "tier_counts": {
+  "A": 9,
+  "B": 14,
+  "C": 6
+ },
+ "cross_cutting": 10,
+ "colour_records_mapped": 107,
+ "colour_records_by_tier": {
+  "A": 79,
+  "B": 15,
+  "C": 13
+ },
+ "top": [
+  [
+   "P01",
+   "B7C0002",
+   "雪域白",
+   "Han DM-i; Qin Plus DM-i; Song Pro; Tang ",
+   16,
+   "A"
+  ],
+  [
+   "P02",
+   "B7C0024",
+   "雪域白",
+   "Seal 06 DM-i; Seal 06 DM-i Touring; Seal",
+   15,
+   "A"
+  ],
+  [
+   "P03",
+   "B7C0017",
+   "(no Chinese name)",
+   "Yuan Plus",
+   15,
+   "A"
+  ],
+  [
+   "P04",
+   "B7C0003",
+   "攀岩灰",
+   "Yuan Plus",
+   14,
+   "A"
+  ],
+  [
+   "P05",
+   "B7C0007",
+   "亚特兰蒂斯灰",
+   "Seal",
+   14,
+   "A"
+  ],
+  [
+   "P06",
+   "B7C0011",
+   "苍穹蓝",
+   "e2",
+   14,
+   "A"
+  ],
+  [
+   "P07",
+   "B7C0010",
+   "贝贝灰",
+   "Dolphin",
+   14,
+   "A"
+  ],
+  [
+   "P08",
+   "B7C0014",
+   "(no Chinese name)",
+   "Seal",
+   14,
+   "A"
+  ],
+  [
+   "P09",
+   "B7C0019",
+   "(no Chinese name)",
+   "Yuan Plus",
+   14,
+   "A"
+  ],
+  [
+   "P10",
+   "B7C0001",
+   "玄空黑",
+   "Han DM-i; Qin Plus DM-i; Xia; Seal 07 DM",
+   13,
+   "B"
+  ]
+ ],
+ "matte_codes": [
+  "HA4",
+  "HB5",
+  "HB6",
+  "HC2",
+  "LAT",
+  "LAV",
+  "UAM",
+  "UAN"
+ ],
+ "verified_total": 0
+}
