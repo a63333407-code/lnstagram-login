@@ -1,0 +1,95 @@
+{
+ "discovered_rows": 1003,
+ "by_scope": {
+  "CODE_ONLY": 54,
+  "COLOUR_RECORD": 618,
+  "MODEL_LEVEL_LISTING": 331
+ },
+ "by_status": {
+  "POSSIBLE": 713,
+  "CONFLICTED": 290
+ },
+ "by_brand": {
+  "BYD Group (supplier lists under BYD; sub-brand not stated)": 54,
+  "BYD": 840,
+  "Yangwang": 5,
+  "BYD Group (listed under BYD)": 95,
+  "Fangchengbao": 9
+ },
+ "lookup_rows": 496,
+ "lookup_by_brand": {
+  "BYD": 486,
+  "Fangchengbao": 6,
+  "Yangwang": 4
+ },
+ "code_types": {
+  "SUPPLIER_LISTED_LEGACY_HYPHEN_CODE": 40,
+  "SUPPLIER_LISTED_OEM_STYLE_CODE": 887,
+  "SUPPLIER_OR_PAINT_SYSTEM_STYLE_IDENTIFIER": 60,
+  "SUPPLIER_LISTED_NUMERIC_STYLE_CODE": 16
+ },
+ "distinct_codes": 154,
+ "new_supplier_products": 81,
+ "new_products_matched": 27,
+ "new_products_unmatched": 54,
+ "codes_new_to_catalog": [
+  "B-02",
+  "B14C",
+  "C10C",
+  "CA5",
+  "GBJ",
+  "HC2",
+  "J-01",
+  "JD",
+  "JE",
+  "JG",
+  "L-21",
+  "L-27",
+  "L-30",
+  "L19C",
+  "L22C",
+  "LAU",
+  "LAV",
+  "LAY",
+  "LBK",
+  "LBL",
+  "LBS",
+  "LY60",
+  "O-22",
+  "R-22",
+  "R-23",
+  "R12C",
+  "R26",
+  "RAF",
+  "RAS",
+  "RAW",
+  "S10C",
+  "UA4",
+  "UAN",
+  "UAZ",
+  "UBC",
+  "W-21",
+  "Y-26",
+  "Y13C",
+  "Y18C",
+  "Z10C"
+ ],
+ "new_links_added": 172,
+ "colour_records_with_candidate": 375,
+ "conflicts": {
+  "SOURCES_DISAGREE_NOT_NESTED": 6,
+  "SOURCES_DISAGREE_NESTED": 10,
+  "MULTI_CODE_ALIAS_GROUP": 12,
+  "CODE_VS_CODE_SAME_NAME": 2,
+  "FINISH_TYPE": 1,
+  "GLOSS_VS_MATTE_CODE_PAIR": 1,
+  "NAME_MATCH_REVIEW": 1,
+  "LABEL_LOCATION": 1
+ },
+ "near_name_reviews": 1,
+ "cross_brand_name_matches_not_linked": 9,
+ "colour_status": {
+  "CONFLICTED": 100,
+  "POSSIBLE": 275
+ }
+}
